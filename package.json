@@ -1,0 +1,17 @@
+{
+  "name": "redragon-egypt-v2",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.14",
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
