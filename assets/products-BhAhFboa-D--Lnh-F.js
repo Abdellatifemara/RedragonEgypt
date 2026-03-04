@@ -1,4 +1,4 @@
-const p="/images/products/",c="/images/logo_redragon.png";async function g(){const e=await fetch("/data/products.json");if(!e.ok)throw new Error("Failed to load products.json");return e.json()}function f(e){const t=e.images&&e.images.length?p+e.images[0]:c,o=document.createElement("article");return o.className="prod-card glass-card",o.dataset.category=e.category,o.innerHTML=`
+const p="/RedragonEgypt/images/products/",c="/RedragonEgypt/images/logo_redragon.png";async function g(){const e=await fetch("/RedragonEgypt/data/products.json");if(!e.ok)throw new Error("Failed to load products.json");return e.json()}function f(e){const t=e.images&&e.images.length?p+e.images[0]:c,o=document.createElement("article");return o.className="prod-card glass-card",o.dataset.category=e.category,o.innerHTML=`
     <div class="prod-img-wrap">
       <div class="prod-spotlight"></div>
       <img
