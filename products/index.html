@@ -15,6 +15,43 @@
   <script type="module" crossorigin src="/assets/main-CXIMjarh-C7SGILRP.js"></script>
   <script type="module" crossorigin src="/assets/products-BhAhFboa-D--Lnh-F.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/main-CXIMjarh-CHVC6sxY.css">
+
+  <!-- Mobile hamburger & drawer fixes -->
+  <style>
+    .main-nav .hamburger span{background:#fafaf9}
+    .main-nav .hamburger.open span{background:#fafaf9}
+    .main-nav .hamburger{padding:12px;margin:-4px -8px}
+    .drawer-link{padding:18px 0;font-size:1rem}
+    @media(max-width:768px){
+      html{scroll-behavior:smooth;-webkit-overflow-scrolling:touch}
+    }
+    .drawer{transition:transform .4s cubic-bezier(.4,0,.2,1)}
+    .drawer-overlay{transition:opacity .35s cubic-bezier(.4,0,.2,1)}
+    body.drawer-open{overflow:hidden;position:fixed;width:100%;top:0}
+  </style>
+
+  <script>
+    (function(){
+      var scrollY=0;
+      var mo=new MutationObserver(function(){
+        var drawer=document.querySelector('.drawer');
+        if(!drawer)return;
+        if(drawer.classList.contains('open')){
+          scrollY=window.scrollY;
+          document.body.classList.add('drawer-open');
+          document.body.style.top=-scrollY+'px';
+        }else{
+          document.body.classList.remove('drawer-open');
+          document.body.style.top='';
+          window.scrollTo(0,scrollY);
+        }
+      });
+      document.addEventListener('DOMContentLoaded',function(){
+        var drawer=document.querySelector('.drawer');
+        if(drawer)mo.observe(drawer,{attributes:true,attributeFilter:['class']});
+      });
+    })();
+  </script>
 </head>
 <body class="page-products">
 
