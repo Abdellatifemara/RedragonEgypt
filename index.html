@@ -38,8 +38,12 @@
     /* Larger tap target for hamburger */
     .main-nav .hamburger{padding:12px;margin:-4px -8px}
 
-    /* Drawer links: bigger touch targets */
-    .drawer-link{padding:18px 0;font-size:1rem}
+    /* Drawer list: proper column layout so items don't group */
+    .drawer ul{display:flex;flex-direction:column;gap:0;width:100%;margin:0;padding:0}
+    .drawer li{list-style:none;width:100%}
+
+    /* Drawer links: block display + bigger touch targets */
+    .drawer-link{display:block;padding:18px 0;font-size:1rem}
 
     /* Smooth mobile scrolling */
     @media(max-width:768px){
@@ -52,6 +56,28 @@
 
     /* Body scroll lock when drawer is open */
     body.drawer-open{overflow:hidden;position:fixed;width:100%;top:0}
+
+    /* Mobile portrait: fix text overflow */
+    @media(max-width:480px){
+      .stats-strip{flex-direction:column;gap:24px;padding:48px 24px}
+      .stat-item{padding:0}
+      .stat-num{font-size:2.5rem}
+      .stat-divider{width:60px;height:1px}
+      .intro-eyebrow{font-size:.6rem;letter-spacing:.15em;padding:6px 12px}
+      .intro-sub{font-size:.85rem}
+      .cat-panel-title{font-size:1.8rem}
+      .cat-panel-sub{font-size:.78rem}
+      .cat-panel-info{padding:20px;max-width:100%}
+      .cat-panel{padding:24px 16px}
+      .footer-inner{padding:0}
+      .nav-inner{padding:0 16px}
+    }
+    @media(max-width:768px){
+      .stats-strip{flex-wrap:wrap;gap:20px;padding:48px 24px}
+      .stat-item{padding:0 24px}
+      .nav-inner{padding:0 16px}
+      .intro-section{padding-left:16px;padding-right:16px}
+    }
   </style>
 
   <script>
