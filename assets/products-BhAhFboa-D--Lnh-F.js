@@ -1,0 +1,19 @@
+const p="/images/products/",c="/images/logo_redragon.png";async function g(){const e=await fetch("/data/products.json");if(!e.ok)throw new Error("Failed to load products.json");return e.json()}function f(e){const t=e.images&&e.images.length?p+e.images[0]:c,o=document.createElement("article");return o.className="prod-card glass-card",o.dataset.category=e.category,o.innerHTML=`
+    <div class="prod-img-wrap">
+      <div class="prod-spotlight"></div>
+      <img
+        class="prod-img"
+        src="${t}"
+        alt="${e.name||e.model}"
+        loading="lazy"
+        onerror="this.src='${c}'"
+      />
+      <div class="prod-img-glow"></div>
+    </div>
+    <div class="prod-info">
+      <p class="prod-cat">${e.category}</p>
+      <h3 class="prod-name">${e.name||e.model}</h3>
+      <p class="prod-model">${e.model}</p>
+      <button class="prod-details-btn btn-ghost btn-sm">View Details</button>
+    </div>
+  `,o.querySelector(".prod-details-btn").addEventListener("click",()=>u(e)),o.addEventListener("click",l=>{l.target.closest(".prod-details-btn")||u(e)}),o}let i=null;function u(e){i=e;const t=document.getElementById("modal-overlay");if(!t)return;const o=e.images&&e.images.length?p+e.images[0]:c;t.querySelector("#modal-img").src=o,t.querySelector("#modal-img").alt=e.name||e.model,t.querySelector("#modal-img").onerror=function(){this.src=c},t.querySelector("#modal-category").textContent=e.category,t.querySelector("#modal-title").textContent=e.name||e.model,t.querySelector("#modal-model").textContent=`Model: ${e.model}`;const l=t.querySelector("#modal-price");l&&(l.textContent="");const n=t.querySelector("#modal-features-list");n.innerHTML="",e.features&&e.features.length?(e.features.forEach(a=>{const r=document.createElement("li");r.textContent=a,n.appendChild(r)}),t.querySelector("#modal-features").style.display=""):t.querySelector("#modal-features").style.display="none";const s=t.querySelector("#modal-specs-table");s.innerHTML="",e.specifications&&Object.keys(e.specifications).length?(Object.entries(e.specifications).forEach(([a,r])=>{if(r){const m=document.createElement("tr");m.innerHTML=`<td class="spec-key">${a}</td><td class="spec-val">${r}</td>`,s.appendChild(m)}}),t.querySelector("#modal-specs").style.display=""):t.querySelector("#modal-specs").style.display="none",t.setAttribute("aria-hidden","false"),t.classList.add("open"),document.body.style.overflow="hidden"}function d(){const e=document.getElementById("modal-overlay");e&&(e.classList.remove("open"),e.setAttribute("aria-hidden","true"),document.body.style.overflow="",i=null)}function h(){const e=document.getElementById("modal-overlay"),t=document.getElementById("modal-close");e&&(t==null||t.addEventListener("click",d),e.addEventListener("click",o=>{o.target===e&&d()}),document.addEventListener("keydown",o=>{o.key==="Escape"&&i&&d()}))}async function y(){const e=document.getElementById("products-grid");if(!e)return;h();let t;try{t=await g()}catch{e.innerHTML='<p class="grid-error">Could not load products. Please refresh.</p>';return}e.innerHTML="";const o=document.createDocumentFragment();t.forEach(n=>o.appendChild(f(n))),e.appendChild(o);const l=new URLSearchParams(window.location.search).get("cat");if(l){const n=document.querySelector(`.filter-btn[data-filter="${l}"]`);n&&n.click()}document.querySelectorAll(".filter-btn").forEach(n=>{n.addEventListener("click",()=>{document.querySelectorAll(".filter-btn").forEach(a=>a.classList.remove("active")),n.classList.add("active");const s=n.dataset.filter;e.querySelectorAll(".prod-card").forEach(a=>{const r=s==="all"||a.dataset.category===s;a.style.display=r?"":"none",r&&(a.style.animation="none",a.offsetHeight,a.style.animation="")})})})}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",y):y();export{f as h,h as p,g as u};

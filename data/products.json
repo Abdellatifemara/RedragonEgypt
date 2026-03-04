@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "M601-RGB",
+    "model": "M601-RGB",
+    "category": "Mouse",
+    "specs": "Redragon M601-RGB Gaming Mouse",
+    "price": 745.0,
+    "images": [
+      "M601-RGB.jpg",
+      "M601-RGB_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "7200 DPI adjustable optical sensor with 5 DPI levels (800/1200/1600/2400/7200)",
+      "7 programmable buttons with macro recording support",
+      "11 RGB lighting effects with 16.8 million color customization",
+      "Weight tuning set with 8 removable weights for personalized feel",
+      "1.8m gold-plated braided USB cable for reliable connection",
+      "Ergonomic right-handed design with anti-fatigue grip",
+      "On-the-fly DPI switching for instant in-game adjustments",
+      "Smooth TEFLON feet pads for effortless gliding"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "800 / 1200 / 1600 / 2400 / 7200",
+      "Buttons": "7 Programmable",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "4000 FPS",
+      "Acceleration": "10G",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "11 Modes, 16.8M Colors",
+      "Weight Tuning": "8 x 2.4g Weights",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
+    }
+  },
+  {
+    "id": "M602-KS",
+    "model": "M602-KS",
+    "category": "Mouse",
+    "specs": "Redragon M602 Griffin RGB  W.L Gaming Mouse, RGB Spectrum Backlit Ergonomic Mouse with 7 Programmable Backlight Modes up to 7200 DPI for Windows PC Gamers",
+    "price": 1375.0,
+    "images": [
+      "M602-KS.png"
+    ],
+    "has_image": true,
+    "features": [
+      "Wireless 2.4GHz and wired dual-mode connectivity via USB-C",
+      "Up to 7200 DPI adjustable optical sensor for precise tracking",
+      "9 programmable buttons with macro support",
+      "Up to 70 hours battery life (RGB off) / 35 hours with RGB on",
+      "9 RGB lighting effects with 16.8 million color options",
+      "Ergonomic right-handed design for extended gaming comfort",
+      "4 adjustable polling rates: 125 / 250 / 500 / 1000Hz",
+      "Rechargeable built-in battery with USB-C charging"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "200 / 800 / 1600 / 4000 / 7200",
+      "Buttons": "9 Programmable",
+      "Polling Rate": "125 / 250 / 500 / 1000Hz",
+      "Battery Life": "Up to 70 hours (RGB off)",
+      "Charging": "USB-C",
+      "RGB Lighting": "9 Modes, 16.8M Colors",
+      "Connectivity": "2.4GHz Wireless / USB-C Wired",
+      "Wireless Range": "Up to 10m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "M607",
+    "model": "M607",
+    "category": "Mouse",
+    "specs": "Redragon M607 Griffin 7200 DPI RGB Gaming Mouse",
+    "price": 750.0,
+    "images": [
+      "M607.jpg",
+      "M607_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "7200 DPI adjustable optical sensor with 5 preset DPI levels",
+      "8 programmable buttons for full macro customization",
+      "7 RGB backlight modes with adjustable colors",
+      "1000Hz polling rate for ultra-responsive tracking",
+      "1.8m braided fiber cable with gold-plated USB connector",
+      "Smooth TEFLON feet pads for frictionless mouse movement",
+      "Ergonomic right-handed design with comfortable grip",
+      "Button durability rated at 5 million clicks"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "800 / 1200 / 1600 / 2400 / 7200",
+      "Buttons": "8 (7 Programmable)",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "4000 FPS",
+      "Acceleration": "10G",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "7 Backlight Modes",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
+    }
+  },
+  {
+    "id": "M607-white",
+    "model": "M607-white",
+    "category": "Mouse",
+    "specs": "Redragon M607 Griffin 7200 DPI RGB Gaming Mouse",
+    "price": 775.0,
+    "images": [
+      "M607-white.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "7200 DPI adjustable optical sensor with 5 preset DPI levels",
+      "8 programmable buttons for full macro customization",
+      "7 RGB backlight modes with adjustable colors",
+      "White color edition for stylish, clean desk setups",
+      "1.8m braided fiber cable with gold-plated USB connector",
+      "Smooth TEFLON feet pads for frictionless mouse movement",
+      "Ergonomic right-handed design for all-day comfort",
+      "1000Hz polling rate for ultra-responsive gaming"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "800 / 1200 / 1600 / 2400 / 7200",
+      "Buttons": "8 (7 Programmable)",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "4000 FPS",
+      "Acceleration": "10G",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "7 Backlight Modes",
+      "Color": "White",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
+    }
+  },
+  {
+    "id": "M609",
+    "model": "M609",
+    "category": "Mouse",
+    "specs": "3200 DPI(4GEAR:1000/1600/2400/3200) /  6600FPS 10G ACC  /   1000Hz polling rate / OMRON gaming switch",
+    "price": 549.0,
+    "images": [
+      "M609.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "3200 DPI optical sensor with 4 adjustable DPI levels",
+      "OMRON gaming switches rated for millions of clicks",
+      "6600 FPS tracking with 10G acceleration",
+      "1000Hz polling rate for responsive gameplay",
+      "7 programmable buttons with 5 memory modes",
+      "LED backlight with 4 color indicators",
+      "Ergonomic design with TEFLON feet pads",
+      "1.8m USB cable for reliable connection"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "1000 / 1600 / 2400 / 3200",
+      "Buttons": "7 Programmable",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "6600 FPS",
+      "Acceleration": "10G",
+      "Switch": "OMRON",
+      "Cable Length": "1.8m",
+      "Weight": "141g",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "m617-lit",
+    "model": "m617-lit",
+    "category": "Mouse",
+    "specs": "Redragon M617 Ultralight Honeycomb Shell Wired Gaming Mouse, 41g, 10,000 DPI, 6 Programmable Buttons, Drag-Free Paracord, Type-C Gamer Mouse with 2 Side Buttons",
+    "price": null,
+    "images": [
+      "m617-lit.jpg",
+      "m617-lit_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Ultra-lightweight 41g honeycomb shell design for fatigue-free gaming",
+      "10,000 DPI optical sensor with 5 customizable DPI levels",
+      "Drag-free paracord cable for unrestricted mouse movement",
+      "USB-C connectivity for modern, secure connection",
+      "6 programmable buttons including 2 side buttons",
+      "Adjustable polling rate: 125 / 250 / 500 / 1000Hz",
+      "Sigma 8925 optical sensor for precise tracking",
+      "Symmetrical design suitable for all grip styles"
+    ],
+    "specifications": {
+      "Sensor": "Sigma 8925 Optical",
+      "DPI Range": "800 / 1200 / 1600 / 3200 / 10000",
+      "Buttons": "6 Programmable",
+      "Polling Rate": "125 / 250 / 500 / 1000Hz",
+      "Weight": "41g",
+      "Cable Type": "Drag-Free Paracord",
+      "Connectivity": "USB-C Wired",
+      "Shell": "Honeycomb",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "m655-ks",
+    "model": "m655-ks",
+    "category": "Mouse",
+    "specs": "Redragon M655 Wireless Gaming Mouse - Ergonomic Design, 7 Button Macro Programmable, 4000 DPI, Red LED Backlit for Windows PC Gamer",
+    "price": null,
+    "images": [
+      "m655-ks.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "Wireless 2.4GHz for lag-free gaming up to 10m range",
+      "4000 DPI adjustable optical sensor with 5 DPI levels",
+      "7 macro programmable buttons for custom in-game commands",
+      "Red LED backlit for gaming aesthetics",
+      "Ergonomic right-handed design reduces wrist fatigue",
+      "Long battery life for extended wireless gaming sessions",
+      "Plug-and-play USB nano receiver",
+      "Compatible with Windows PC"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "1000 / 1600 / 2000 / 3000 / 4000",
+      "Buttons": "7 Programmable",
+      "Connectivity": "2.4GHz Wireless",
+      "Wireless Range": "Up to 10m",
+      "LED": "Red Backlit",
+      "Receiver": "USB Nano Receiver",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
+    }
+  },
+  {
+    "id": "M690_PRO",
+    "model": "M690 PRO",
+    "category": "Mouse",
+    "specs": "Redragon M690 PRO Wireless Gaming Mouse, 8000 DPI Wired/Wireless Gamer Mouse w/Rapid Fire Key, 8 Macro Buttons, Ergonomic Design for PC/Mac/Laptop",
+    "price": 1575.0,
+    "images": [
+      "M690_PRO.jpg",
+      "M690_PRO_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "8000 DPI Pixart PAW3104 optical sensor with 5 adjustable levels",
+      "Dual-mode: 2.4GHz wireless and USB-C wired connectivity",
+      "Up to 87 hours battery life in eco mode",
+      "8 programmable buttons including rapid fire key",
+      "15G acceleration for high-speed tracking",
+      "1000Hz polling rate in wired mode",
+      "Ergonomic right-handed design with anti-slip grip",
+      "Compatible with Windows, Mac, and major platforms"
+    ],
+    "specifications": {
+      "Sensor": "Pixart PAW3104 Optical",
+      "DPI Range": "500 / 1000 / 2000 / 3000 / 8000",
+      "Buttons": "8 Programmable",
+      "Polling Rate": "1000Hz (Wired)",
+      "Battery Life": "Up to 87 hours (eco mode)",
+      "Charging": "USB-C",
+      "Acceleration": "15G",
+      "Connectivity": "2.4GHz Wireless / USB-C Wired",
+      "Wireless Range": "Up to 10m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "M694",
+    "model": "M694",
+    "category": "Mouse",
+    "specs": "Redragon M694 HANA 3 Modes Wireless Gaming Mouse, Optical sensor 7,200 DPI Lightweight 82G Polling rate 1000Hz",
+    "price": 1350.0,
+    "images": [
+      "M694.png"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth 5.1",
+      "7200 DPI PAW3104 optical sensor with 5 adjustable DPI levels",
+      "Ultra-lightweight 82g honeycomb shell design",
+      "Up to 80 hours battery life on a single charge",
+      "7 programmable buttons with macro support",
+      "Vivid RGB lighting with 16.8 million colors",
+      "1000Hz polling rate for ultra-responsive gaming",
+      "Smooth wireless switching between multiple devices"
+    ],
+    "specifications": {
+      "Sensor": "PAW3104 Optical",
+      "DPI Range": "800 / 1200 / 1600 / 3200 / 7200",
+      "Buttons": "7 Programmable",
+      "Polling Rate": "1000Hz",
+      "Weight": "82g",
+      "Battery Life": "Up to 80 hours",
+      "Shell": "Honeycomb",
+      "RGB Lighting": "16.8M Colors",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 5.1",
+      "Wireless Range": "Up to 10m",
+      "Compatibility": "Windows / Mac / Android"
+    }
+  },
+  {
+    "id": "m701-RGB",
+    "model": "m701-RGB",
+    "category": "Mouse",
+    "specs": "Redragon M701 Lavawolf 3500 DPI Optical Gaming Mouse for PC",
+    "price": null,
+    "images": [
+      "m701-RGB.png",
+      "m701-RGB_2.png"
+    ],
+    "has_image": true,
+    "features": [
+      "3500 DPI Avago optical sensor for precise tracking",
+      "7 programmable buttons with 5 memory profiles",
+      "Omron micro switches for crisp, reliable clicks",
+      "1000Hz polling rate for instant response",
+      "1.8m braided USB cable with gold-plated connector",
+      "Smooth TEFLON feet pads for effortless gliding",
+      "Ergonomic contour design for all hand sizes",
+      "Compatible with Windows and Mac systems"
+    ],
+    "specifications": {
+      "Sensor": "Avago Optical",
+      "DPI Range": "Up to 3500",
+      "Buttons": "7 Programmable",
+      "Memory Profiles": "5",
+      "Switch": "Omron Micro",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "6600 FPS",
+      "Acceleration": "20G",
+      "Cable Length": "1.8m Braided",
+      "Weight": "Approx. 130g",
+      "Dimensions": "117 x 63 x 37mm",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "M703",
+    "model": "M703",
+    "category": "Mouse",
+    "specs": "Redragon Gerberus M703 Gaming Mouse",
+    "price": 650.0,
+    "images": [
+      "M703.jpg",
+      "M703_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "7200 DPI adjustable optical sensor with 5 DPI levels",
+      "6 programmable buttons with 3 memory modes",
+      "RGB lighting with 5 color options",
+      "1000Hz polling rate for ultra-responsive gameplay",
+      "4000 FPS tracking speed for precise movement",
+      "1.8m high-quality braided cable",
+      "Ergonomic right-handed design for gaming comfort",
+      "On-the-fly DPI switching during gameplay"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "800 / 1200 / 1600 / 2400 / 7200",
+      "Buttons": "6 Programmable",
+      "Memory Modes": "3",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "4000 FPS",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "5 Colors",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "m711",
+    "model": "m711",
+    "category": "Mouse",
+    "specs": "REDRAGON COBRA M711 WIRED GAMING MOUSE - WHITE RED 12400 DPI programmable gaming mouse with 8 customizable buttons\n7 colors breathing light\nRGB Backlight",
+    "price": 795.0,
+    "images": [
+      "m711.jpg",
+      "m711_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "12400 DPI Avago optical sensor with 5 adjustable DPI levels",
+      "7 programmable buttons for full gaming customization",
+      "16.8 million RGB color backlight with breathing effects",
+      "5000 FPS tracking speed with 20G acceleration",
+      "1000Hz polling rate for minimal input latency",
+      "5 onboard memory profiles for quick configuration switching",
+      "Ergonomic right-handed design for comfortable extended play",
+      "Gold-plated 1.8m braided USB cable"
+    ],
+    "specifications": {
+      "Sensor": "Avago Optical (Gaming Chip)",
+      "DPI Range": "500 / 1000 / 2000 / 3000 / 5000 (up to 12400)",
+      "Buttons": "7 Programmable",
+      "Memory Profiles": "5",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "5000 FPS",
+      "Acceleration": "20G",
+      "Max Speed": "100 IPS",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "16.8M Colors, Breathing Effects",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "M711C",
+    "model": "M711C",
+    "category": "Mouse",
+    "specs": "REDRAGON COBRA M711C WIRED GAMING MOUSE - WHITE RED 12400 DPI programmable gaming mouse with 8 customizable buttons\n7 colors breathing light\nRGB Backlight",
+    "price": 895.0,
+    "images": [
+      "M711C.jpg",
+      "M711C_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "12400 DPI Avago optical sensor with 5 adjustable DPI levels",
+      "8 programmable buttons for extended macro customization",
+      "16.8 million RGB color backlight with breathing effects",
+      "5000 FPS tracking speed with 20G acceleration",
+      "1000Hz polling rate for minimal input latency",
+      "5 onboard memory profiles for quick configuration switching",
+      "Ergonomic right-handed design with White/Red color scheme",
+      "Gold-plated 1.8m braided USB cable"
+    ],
+    "specifications": {
+      "Sensor": "Avago Optical (Gaming Chip)",
+      "DPI Range": "500 / 1000 / 2000 / 3000 / 5000 (up to 12400)",
+      "Buttons": "8 Programmable",
+      "Memory Profiles": "5",
+      "Polling Rate": "1000Hz",
+      "Frame Rate": "5000 FPS",
+      "Acceleration": "20G",
+      "Max Speed": "100 IPS",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "16.8M Colors",
+      "Color": "White / Red",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "m723",
+    "model": "m723",
+    "category": "Mouse",
+    "specs": "REDRAGON ROADMASTER M723 GAMING MOUSE - Connection - Wired\n7 buttons programmable buttons\n5 Backlit Modes\nMax 12400DPI",
+    "price": 875.0,
+    "images": [
+      "m723.jpg",
+      "m723_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "12400 DPI optical sensor with 5 adjustable DPI levels",
+      "7 programmable buttons with 2 dedicated side macro buttons",
+      "5 backlight modes with customizable RGB effects",
+      "Omron switches rated for 20 million clicks",
+      "Switchable polling rate: 125 / 250 / 500 / 1000Hz",
+      "1.8m braided high-speed USB cable",
+      "4000 FPS tracking with 30G acceleration",
+      "Ergonomic contoured body for all hand sizes"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "500 / 1000 / 2000 / 3000 / 4000 (up to 12400)",
+      "Buttons": "7 Programmable",
+      "Switch": "Omron (20M clicks)",
+      "Polling Rate": "125 / 250 / 500 / 1000Hz",
+      "Frame Rate": "4000 FPS",
+      "Acceleration": "30G",
+      "Cable Length": "1.8m Braided",
+      "Backlight Modes": "5",
+      "Dimensions": "127 x 70 x 40mm",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "m724",
+    "model": "m724",
+    "category": "Mouse",
+    "specs": "Redragon M724 Wired Gaming Mouse, 49G Ultra-Light 12,400 Max DPI Optical Gaming Mouse with 5 Programmable Buttons, Ergonomic Natural Grip Build, Software Supports DIY Keybinds & DPI, Black",
+    "price": null,
+    "images": [
+      "m724.jpg",
+      "m724_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Ultra-lightweight 42g design for fast, precise movements",
+      "12400 DPI optical sensor with 5 adjustable DPI levels (200-12400)",
+      "5 programmable buttons with customizable keybinds via software",
+      "1000Hz polling rate for ultra-low latency response",
+      "Ergonomic natural grip build for comfortable extended gaming",
+      "Pro driver software for DPI and button customization",
+      "Smooth glide feet for effortless surface movement",
+      "Wired USB connectivity for zero wireless interference"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "200 - 12400 (5 Levels)",
+      "Buttons": "5 Programmable",
+      "Polling Rate": "1000Hz",
+      "Weight": "42g",
+      "Software": "Redragon Pro Software",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "m724-white",
+    "model": "m724-white",
+    "category": "Mouse",
+    "specs": "Redragon M724 white Wired Gaming Mouse, 49G Ultra-Light 12,400 Max DPI Optical Gaming Mouse with 5 Programmable Buttons, Ergonomic Natural Grip Build, Software Supports DIY Keybinds & DPI, Black",
+    "price": null,
+    "images": [
+      "m724-white.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "Ultra-lightweight 42g design in clean white colorway",
+      "12400 DPI optical sensor with 5 adjustable DPI levels",
+      "5 programmable buttons with customizable keybinds via software",
+      "1000Hz polling rate for ultra-low latency response",
+      "Ergonomic natural grip for comfortable all-day gaming",
+      "Pro driver software for full DPI and button customization",
+      "Smooth glide feet for effortless surface movement",
+      "White color edition for clean, aesthetic desk setups"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "200 - 12400 (5 Levels)",
+      "Buttons": "5 Programmable",
+      "Polling Rate": "1000Hz",
+      "Weight": "42g",
+      "Color": "White",
+      "Software": "Redragon Pro Software",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "m725_lit",
+    "model": "m725 lit",
+    "category": "Mouse",
+    "specs": "Redragon M725 Honeycomb Shell Gaming Mouse Tri-Mode BT5.1/2.4GHz/Type-C Wired, Ultra Lightweight 49g, 8000 DPI",
+    "price": null,
+    "images": [
+      "m725_lit.jpg",
+      "m725_lit_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth 5.1",
+      "Ultra-lightweight 49g honeycomb shell for reduced fatigue",
+      "8000 DPI sensor with 5 adjustable DPI levels",
+      "5 programmable buttons with macro support",
+      "Seamless switching between 3 connection modes",
+      "Symmetrical ambidextrous design for all grip styles",
+      "Pro software for full button and DPI customization",
+      "Wireless range up to 10m for cable-free freedom"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "400 / 800 / 1600 / 2400 / 4000 (up to 8000)",
+      "Buttons": "5 Programmable",
+      "Weight": "49g",
+      "Shell": "Honeycomb",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 5.1",
+      "Wireless Range": "Up to 10m",
+      "Software": "Redragon Pro Software",
+      "Compatibility": "Windows / Mac / Android / iOS"
+    }
+  },
+  {
+    "id": "m808-ks",
+    "model": "m808-ks",
+    "category": "Mouse",
+    "specs": "The Redragon M808 honeycomb gaming mouse \n7 Programmable Buttons \n100 to 12400 DPI and 16.8 Million colors",
+    "price": null,
+    "images": [
+      "m808-ks.jpg",
+      "m808-ks_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "85g ultralight honeycomb shell for competitive gaming performance",
+      "12400 DPI Pixart 3327 optical sensor for precision tracking",
+      "7 programmable buttons for custom macro assignments",
+      "16.8 million RGB color lighting with software customization",
+      "Switchable polling rate: 125 / 250 / 500 / 1000Hz",
+      "Super-lite drag-free cable for unrestricted movement",
+      "Dual-mode: wired and 2.4GHz wireless options",
+      "Rechargeable built-in battery for wireless use"
+    ],
+    "specifications": {
+      "Sensor": "Pixart 3327 Optical",
+      "DPI Range": "100 - 12400",
+      "Buttons": "7 Programmable",
+      "Weight": "85g",
+      "Shell": "Honeycomb",
+      "Polling Rate": "125 / 250 / 500 / 1000Hz",
+      "RGB Lighting": "16.8M Colors",
+      "Cable": "Super-Lite Drag-Free",
+      "Connectivity": "USB Wired / 2.4GHz Wireless",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "M814RGB-PRO",
+    "model": "M814RGB-PRO",
+    "category": "Mouse",
+    "specs": "Redragon AXE PRO M814RGB 3 modes connections gaming mouse WIRED/2.4G/BT WIRELESS GAMING MOUSE\nErgonomic design with RGB backlight\nGaming grade sensor up to 8000 DPI\n8 programmable buttons and on-board memory",
+    "price": 1395.0,
+    "images": [
+      "M814RGB-PRO.jpg",
+      "M814RGB-PRO_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "8000 DPI gaming-grade optical sensor for precise tracking",
+      "8 fully programmable buttons with rapid fire key",
+      "Up to 250 hours battery life (RGB off, 2.4G mode)",
+      "Onboard memory for storing 5 custom profiles",
+      "RGB backlight with multiple lighting effects",
+      "Ergonomic right-handed design for comfortable grip",
+      "Rechargeable battery with USB-C charging"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "Up to 8000",
+      "Buttons": "8 Programmable",
+      "Battery Life": "Up to 250 hours (RGB off)",
+      "Memory Profiles": "5 Onboard",
+      "RGB Lighting": "Multiple Effects",
+      "Charging": "USB-C",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Wireless Range": "Up to 10m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "m815-pro",
+    "model": "m815-pro",
+    "category": "Mouse",
+    "specs": "Redragon 3-Mode Wireless Gaming Mouse, Ultra-Light 26K DPI Gaming Mouse, Full Programmable Buttons, Software Supports DIY Keybinds & Adjustable DPI, M815PRO",
+    "price": null,
+    "images": [
+      "m815-pro_2.jpg",
+      "m815-pro_3.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Professional-grade Pixart PAW3395 26000 DPI optical sensor",
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "Ultra-lightweight 54g design for competitive gaming",
+      "8000Hz ultra-high polling rate for minimal input latency",
+      "6 fully programmable buttons with custom keybind support",
+      "9 backlight LED modes with RGB customization",
+      "5 adjustable DPI levels (1000 / 2000 / 4000 / 8000 / 26000)",
+      "Pro software for complete button and DPI customization"
+    ],
+    "specifications": {
+      "Sensor": "Pixart PAW3395 Optical",
+      "DPI Range": "100 - 26000 (5 Levels)",
+      "Buttons": "6 Programmable",
+      "Polling Rate": "8000Hz",
+      "Weight": "54g",
+      "RGB Lighting": "9 LED Modes",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Software": "Redragon Pro Software",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "m816-lit",
+    "model": "m816-lit",
+    "category": "Mouse",
+    "specs": "The Redragon Deicide Lite M816-LIT packs 10,000 DPI, customizable RGB, tri-mode connectivity, and up to 200 hours of battery, perfect for competitive gaming! Available in Black and White!",
+    "price": null,
+    "images": [
+      "m816-lit.jpg",
+      "m816-lit_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "10,000 DPI PAW3313 optical sensor for precise tracking",
+      "Impressive 200-hour battery life for extended wireless gaming",
+      "Ultra-lightweight design at approximately 62g",
+      "5 programmable buttons with customizable macros",
+      "Huano Blue Dot main switches for crisp, reliable clicks",
+      "Customizable RGB lighting effects",
+      "Ambidextrous design suitable for both hands"
+    ],
+    "specifications": {
+      "Sensor": "PAW3313 Optical",
+      "DPI Range": "Up to 10000",
+      "Buttons": "5 Programmable",
+      "Weight": "62g",
+      "Battery": "700mAh",
+      "Battery Life": "Up to 200 hours",
+      "Switch": "Huano Blue Dot",
+      "Polling Rate": "Up to 1000Hz",
+      "RGB Lighting": "Customizable",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "k502",
+    "model": "k502",
+    "category": "Keyboard",
+    "specs": "Redragon K502 RGB Silent Gaming Keyboard RGB LED Backlit,104 Key with Wrist Rest",
+    "price": 1325.0,
+    "images": [
+      "k502.jpg",
+      "k502_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "104 Island-style Chiclet silent membrane keys for quiet typing",
+      "RGB LED backlit with 7 colors and 4 brightness levels",
+      "Integrated ergonomic wrist rest for marathon gaming comfort",
+      "19 conflict-free keys (N-Key Rollover) for accurate inputs",
+      "12 dedicated multimedia keys for instant media control",
+      "Interchangeable WASD and Arrow keys for gaming",
+      "Splash-proof design for everyday durability",
+      "Adjustable tilt legs for personalized typing angle"
+    ],
+    "specifications": {
+      "Key Type": "Silent Membrane (Chiclet)",
+      "Layout": "Full Size",
+      "Key Count": "104 Keys",
+      "Backlight": "RGB, 7 Colors, 4 Brightness Levels",
+      "Anti-Ghosting": "19 Keys Conflict-Free",
+      "Multimedia Keys": "12 Dedicated",
+      "Wrist Rest": "Integrated",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.5m",
+      "Dimensions": "17.75 x 8 x 0.75 inches",
+      "Weight": "1.3 lbs",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
+    }
+  },
+  {
+    "id": "K503",
+    "model": "K503",
+    "category": "Keyboard",
+    "specs": "Redragon K503 PC Gaming Keyboard, Wired, Multimedia Keys, Silent USB Keyboard with Wrist Rest for Windows PC Games (RGB LED Backlit with Macro Recording)",
+    "price": 1000.0,
+    "images": [
+      "K503.jpg",
+      "K503_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "114 keys with silent membrane switches for quiet typing",
+      "RGB LED backlit with 6 backlight effects and 4 brightness levels",
+      "Integrated wrist rest for ergonomic gaming comfort",
+      "25 conflict-free keys with anti-ghosting technology",
+      "10 dedicated multimedia keys plus 12 FN multimedia keys",
+      "Macro recording support for custom in-game shortcuts",
+      "WIN key can be disabled for uninterrupted gaming",
+      "Splash-proof construction with adjustable rear feet"
+    ],
+    "specifications": {
+      "Key Type": "Silent Membrane",
+      "Layout": "Full Size",
+      "Key Count": "114 Keys",
+      "Backlight": "RGB, 6 Effects, 4 Brightness Levels",
+      "Anti-Ghosting": "25 Keys Conflict-Free",
+      "Multimedia Keys": "10 Dedicated + 12 FN",
+      "Macro Recording": "Yes",
+      "Wrist Rest": "Integrated",
+      "Connectivity": "USB Wired",
+      "Dimensions": "17.6 x 7.9 x 1.2 inches",
+      "Weight": "24.80 oz",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
+    }
+  },
+  {
+    "id": "K503_aw",
+    "model": "K503 aw",
+    "category": "Keyboard",
+    "specs": "Redragon K503 PC Gaming Keyboard, Wired, white , Multimedia Keys, Silent USB Keyboard with Wrist Rest for Windows PC Games (RGB LED Backlit with Macro Recording)",
+    "price": null,
+    "images": [
+      "K503_aw.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "114 keys with silent membrane switches in clean white design",
+      "RGB LED backlit with 6 backlight effects and 4 brightness levels",
+      "Integrated wrist rest for ergonomic gaming comfort",
+      "25 conflict-free keys with anti-ghosting technology",
+      "10 dedicated multimedia keys plus 12 FN multimedia keys",
+      "Macro recording support for custom in-game shortcuts",
+      "White color edition for minimalist and clean aesthetics",
+      "WIN key can be disabled for uninterrupted gaming"
+    ],
+    "specifications": {
+      "Key Type": "Silent Membrane",
+      "Layout": "Full Size",
+      "Key Count": "114 Keys",
+      "Backlight": "RGB, 6 Effects, 4 Brightness Levels",
+      "Anti-Ghosting": "25 Keys Conflict-Free",
+      "Multimedia Keys": "10 Dedicated + 12 FN",
+      "Macro Recording": "Yes",
+      "Wrist Rest": "Integrated",
+      "Color": "White",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
+    }
+  },
+  {
+    "id": "K505",
+    "model": "K505",
+    "category": "Keyboard",
+    "specs": "Redragon Yaksa K505 USB Gaming Keyboard (Black)",
+    "price": 1100.0,
+    "images": [
+      "K505.jpg",
+      "K505_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "110 standard keys with 26 conflict-free anti-ghosting keys",
+      "7-color LED backlit with adjustable pulse and brightness control",
+      "12 multimedia keys for instant media access",
+      "5 programmable macro keys for custom shortcuts",
+      "Splash-proof ABS high-strength plastic construction",
+      "Interchangeable arrow and WASD keys for gaming preference",
+      "1.8m high-speed USB cable with gold-plated connector",
+      "Button durability rated at 10 million clicks"
+    ],
+    "specifications": {
+      "Key Type": "Membrane",
+      "Layout": "Full Size",
+      "Key Count": "110 Keys",
+      "Backlight": "7 Colors, Pulse & Brightness Control",
+      "Anti-Ghosting": "26 Keys Conflict-Free",
+      "Multimedia Keys": "12",
+      "Macro Keys": "5 Programmable",
+      "Cable Length": "1.8m",
+      "Connectivity": "USB Wired",
+      "Material": "ABS High-Strength Plastic",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K509P-KS",
+    "model": "K509P-KS",
+    "category": "Keyboard",
+    "specs": "Wireless/wired RGB Gaming keyboard\nBT/RF/wired multi connection\nQuiet and low profile keys\nSwitchable RGB backlit pattern\n12 multi-media keys\nEasy charging with type-C cable\nlow battery indication",
+    "price": null,
+    "images": [
+      "K509P-wS.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "104 low-profile quiet membrane keys for silent typing",
+      "Switchable RGB backlit patterns with 6 preset effects",
+      "12 multimedia keys via FN combinations",
+      "Type-C charging with low battery indicator",
+      "Long battery life for extended wireless use",
+      "Compact and portable low-profile design",
+      "Compatible with Windows and major operating systems"
+    ],
+    "specifications": {
+      "Key Type": "Low-Profile Silent Membrane",
+      "Layout": "Full Size",
+      "Key Count": "104 Keys",
+      "Backlight": "RGB, 6 Preset Effects",
+      "Multimedia Keys": "12 (via FN)",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Charging": "Type-C",
+      "Battery Indicator": "Yes (Low Battery LED)",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K509P-wS",
+    "model": "K509P-wS",
+    "category": "Keyboard",
+    "specs": "Wireless/wired RGB Gaming keyboard\nBT/RF/wired multi connection\nQuiet and low profile keys\nSwitchable RGB backlit pattern\n12 multi-media keys\nEasy charging with type-C cable\nlow battery indication",
+    "price": null,
+    "images": [
+      "K509P-wS.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "104 low-profile quiet membrane keys in white colorway",
+      "Switchable RGB backlit patterns with 6 preset effects",
+      "12 multimedia keys via FN combinations",
+      "Type-C charging with low battery indicator",
+      "Long battery life for extended wireless use",
+      "White compact low-profile design for clean setups",
+      "Compatible with Windows and major operating systems"
+    ],
+    "specifications": {
+      "Key Type": "Low-Profile Silent Membrane",
+      "Layout": "Full Size",
+      "Key Count": "104 Keys",
+      "Backlight": "RGB, 6 Preset Effects",
+      "Multimedia Keys": "12 (via FN)",
+      "Color": "White",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Charging": "Type-C",
+      "Battery Indicator": "Yes (Low Battery LED)",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "k551",
+    "model": "k551",
+    "category": "Keyboard",
+    "specs": "Redragon K551 Mechanical Gaming Keyboard Wired with Red Switches Cherry MX Equivalent for Windows Gaming PC UK Layout (Rainbow RGB Backlit Black)",
+    "price": 1850.0,
+    "images": [
+      "k551.jpg",
+      "k551_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "104 mechanical keys with Cherry MX Red equivalent linear switches",
+      "Rainbow RGB backlit with 19 lighting effects and 6 brightness levels",
+      "Full N-Key Rollover - all 104 keys are conflict-free",
+      "12 multimedia keys for quick media control",
+      "Metal-ABS premium construction for long-lasting durability",
+      "Precision-engineered keycaps with crystal-clear backlighting",
+      "Non-slip ergonomic splash-proof design",
+      "Adjustable rear feet for perfect typing angle"
+    ],
+    "specifications": {
+      "Switch Type": "Red (Cherry MX Equivalent) - Linear",
+      "Layout": "Full Size",
+      "Key Count": "104 Keys",
+      "Backlight": "Rainbow RGB, 19 Effects, 6 Brightness Levels",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Multimedia Keys": "12",
+      "Construction": "Metal-ABS",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.8m",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
+    }
+  },
+  {
+    "id": "K552_RGB_red_sw",
+    "model": "K552 RGB red sw",
+    "category": "Keyboard",
+    "specs": "Redragon K552 KUMARA 87 Key LED RGB Backlit Mechanical Computer illuminated Keyboard with red Switches for PC Gaming Compact ABS-Metal Design",
+    "price": 1800.0,
+    "images": [
+      "K552_RGB_red_sw.jpg",
+      "K552_RGB_red_sw_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL compact design saves desk space without losing functionality",
+      "Red mechanical switches - linear, smooth, and quiet keypresses",
+      "RGB backlit with 19 lighting effects and 2 user-defined modes",
+      "All 87 keys fully conflict-free with N-Key Rollover",
+      "12 multimedia keys accessible via FN combinations",
+      "Double-shot injection molded keycaps for lasting legends",
+      "Metal-ABS premium construction for durability",
+      "Adjustable typing angle with rear feet"
+    ],
+    "specifications": {
+      "Switch Type": "Red (Cherry MX Equivalent) - Linear",
+      "Layout": "TKL (Tenkeyless)",
+      "Key Count": "87 Keys",
+      "Backlight": "RGB, 19 Effects, 2 User Modes",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Multimedia Keys": "12 (via FN)",
+      "Keycaps": "Double-Shot Injection Molded",
+      "Construction": "ABS-Metal",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.8m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K552_RGB_browb_sw",
+    "model": "K552 RGB browb sw",
+    "category": "Keyboard",
+    "specs": "Redragon K552 KUMARA 87 Key LED RGB Backlit Mechanical Computer illuminated Keyboard with brown Switches for PC Gaming Compact ABS-Metal Design",
+    "price": 1801.0,
+    "images": [
+      "K552_RGB_browb_sw.jpg",
+      "K552_RGB_browb_sw_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL compact design saves desk space without losing functionality",
+      "Brown mechanical switches - tactile bump with quiet keystroke",
+      "RGB backlit with 19 lighting effects and 2 user-defined modes",
+      "All 87 keys fully conflict-free with N-Key Rollover",
+      "12 multimedia keys accessible via FN combinations",
+      "Double-shot injection molded keycaps for lasting legends",
+      "Metal-ABS premium construction for durability",
+      "Great for both gaming and typing with tactile feedback"
+    ],
+    "specifications": {
+      "Switch Type": "Brown (Cherry MX Equivalent) - Tactile",
+      "Layout": "TKL (Tenkeyless)",
+      "Key Count": "87 Keys",
+      "Backlight": "RGB, 19 Effects, 2 User Modes",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Multimedia Keys": "12 (via FN)",
+      "Keycaps": "Double-Shot Injection Molded",
+      "Construction": "ABS-Metal",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.8m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "k552-KB_Blue_Switch",
+    "model": "k552-KB Blue Switch",
+    "category": "Keyboard",
+    "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX Blue Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
+    "price": 1400.0,
+    "images": [
+      "k552-KB_Blue_Switch.jpg",
+      "k552-KB_Blue_Switch_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL compact design perfect for gaming setups",
+      "Blue mechanical switches - clicky, tactile feedback for satisfying keystrokes",
+      "Rainbow LED backlit with multiple lighting effects",
+      "All 87 keys fully conflict-free with N-Key Rollover",
+      "12 multimedia keys accessible via FN combinations",
+      "Double-shot injection molded keycaps that don't fade",
+      "Metal-ABS construction for professional durability",
+      "Splash-proof design with adjustable rear feet"
+    ],
+    "specifications": {
+      "Switch Type": "Blue (Cherry MX Equivalent) - Clicky Tactile",
+      "Layout": "TKL (Tenkeyless)",
+      "Key Count": "87 Keys",
+      "Backlight": "Rainbow LED, Multiple Effects",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Multimedia Keys": "12 (via FN)",
+      "Keycaps": "Double-Shot Injection Molded",
+      "Construction": "ABS-Metal",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.8m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "k552-KR_Red_Switch",
+    "model": "k552-KR Red Switch",
+    "category": "Keyboard",
+    "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX RED Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
+    "price": 1450.0,
+    "images": [
+      "k552-KR_Red_Switch.jpg",
+      "k552-KR_Red_Switch_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL compact design ideal for competitive gaming",
+      "Red mechanical switches - fast linear actuation for speed gaming",
+      "Rainbow LED backlit for vibrant gaming aesthetics",
+      "All 87 keys fully conflict-free with N-Key Rollover",
+      "12 multimedia keys accessible via FN combinations",
+      "Precision-engineered keycaps with crystal-clear backlighting",
+      "Metal-ABS construction with durability built-in",
+      "Compact footprint with full keyboard functionality"
+    ],
+    "specifications": {
+      "Switch Type": "Red (Cherry MX Equivalent) - Linear",
+      "Layout": "TKL (Tenkeyless)",
+      "Key Count": "87 Keys",
+      "Backlight": "Rainbow LED",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Multimedia Keys": "12 (via FN)",
+      "Construction": "ABS-Metal",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.8m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "k552L-KR_NO_LIGHT_Red_Switch",
+    "model": "k552L-KR NO LIGHT Red Switch",
+    "category": "Keyboard",
+    "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX RED Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
+    "price": null,
+    "images": [
+      "k552L-KR_NO_LIGHT_Red_Switch.jpg",
+      "k552L-KR_NO_LIGHT_Red_Switch_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL compact design without backlighting for budget-friendly option",
+      "Red mechanical switches - smooth linear actuation without a click",
+      "No backlight design for distraction-free gaming environments",
+      "All 87 keys conflict-free with N-Key Rollover",
+      "12 multimedia keys accessible via FN combinations",
+      "Metal-ABS construction for professional-grade durability",
+      "Compact footprint saves desk space",
+      "Ideal for offices or dark room gaming without RGB distractions"
+    ],
+    "specifications": {
+      "Switch Type": "Red (Cherry MX Equivalent) - Linear",
+      "Layout": "TKL (Tenkeyless)",
+      "Key Count": "87 Keys",
+      "Backlight": "No Backlight",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Multimedia Keys": "12 (via FN)",
+      "Construction": "ABS-Metal",
+      "Connectivity": "USB Wired",
+      "Cable Length": "Approx. 1.8m",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K607-RGB",
+    "model": "K607-RGB",
+    "category": "Keyboard",
+    "specs": "Redragon K607 Low Profile Mechanical Gaming Keyboard 87 Key Tenkeyless RGB LED Backlit Wired Computer Keyboard with Blue Switches for Windows PC",
+    "price": 1900.0,
+    "images": [
+      "K607-RGB.jpg",
+      "K607-RGB_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL low-profile mechanical keyboard for compact gaming setups",
+      "Low-profile blue switches with clicky tactile feedback",
+      "18 RGB lighting preset modes plus 1 user-programmable mode",
+      "All 87 keys fully conflict-free with N-Key Rollover",
+      "Detachable USB-C to USB-A cable for cable management",
+      "9 colors and 6 brightness levels for full customization",
+      "Gold-plated USB connector for reliable connection",
+      "WIN key disable function for uninterrupted gaming"
+    ],
+    "specifications": {
+      "Switch Type": "Low-Profile Blue (Clicky Tactile)",
+      "Layout": "TKL (Tenkeyless)",
+      "Key Count": "87 Keys",
+      "Backlight": "RGB, 18 Presets + 1 User Mode, 9 Colors, 6 Brightness",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Cable": "Detachable USB-C to USB-A",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
+    }
+  },
+  {
+    "id": "K615P-KBS",
+    "model": "K615P-KBS",
+    "category": "Keyboard",
+    "specs": "Redragon K615P-KBS Elise Pro RGB Mechanical Keyboard Wireless Bluetooth Tri-Mode Ultra-Thin Low Profile Blue Switch",
+    "price": 2500.0,
+    "images": [
+      "K615P-KBS.jpg",
+      "K615P-KBS_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth 3.0/5.0",
+      "61-key 60% compact layout saves maximum desk space",
+      "Low-profile blue mechanical switches with hot-swap support",
+      "20 RGB lighting effects with adjustable brightness",
+      "1600mAh battery for long wireless gaming sessions",
+      "Premium aluminum alloy construction at only 322g",
+      "Full N-Key Rollover for all 61 keys",
+      "Compact and portable for on-the-go gaming"
+    ],
+    "specifications": {
+      "Switch Type": "Low-Profile Blue (Hot-Swappable)",
+      "Layout": "60% Compact",
+      "Key Count": "61 Keys",
+      "Backlight": "RGB, 20 Effects",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Battery": "1600mAh",
+      "Construction": "Aluminum Alloy",
+      "Weight": "322g",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 3.0/5.0",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K617-RGB_WhiteGrey",
+    "model": "K617-RGB White/Grey",
+    "category": "Keyboard",
+    "specs": "REDRAGON K617 Fizz RGB White-Grey Mechanical Tournament Keyboard 60% TKL | RED-K617RGB",
+    "price": 1600.0,
+    "images": [
+      "K617-RGB_WhiteGrey.jpg",
+      "K617-RGB_WhiteGrey_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Ultra-compact 61-key 60% layout for minimalist gaming setups",
+      "Hot-swappable red linear switches rated for 50 million keypresses",
+      "Up to 20 preset RGB backlight modes with adjustable speed",
+      "White and Grey color scheme with premium novel keycaps",
+      "Pro software support for custom modes, effects and macros",
+      "USB-C detachable cable for clean cable management",
+      "3 and 8 degree two-level adjustable typing angle",
+      "Includes switch/keycap puller and backup switch box"
+    ],
+    "specifications": {
+      "Switch Type": "Red Linear (Hot-Swappable, 50M clicks)",
+      "Layout": "60% Compact",
+      "Key Count": "61 Keys",
+      "Backlight": "RGB, Up to 20 Preset Modes",
+      "Cable": "USB-C Detachable",
+      "Color": "White / Grey",
+      "Typing Angle": "3° / 8° Adjustable",
+      "Construction": "ABS Plastic",
+      "Connectivity": "USB Wired",
+      "Software": "Pro Software Supported",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "k629-rgb",
+    "model": "k629-rgb",
+    "category": "Keyboard",
+    "specs": "Redragon Phantom RGB Black 75% Switch Brown K629-RGB Mechanical Gaming Keyboard (PT-BROWN)",
+    "price": null,
+    "images": [
+      "k629-rgb.jpg",
+      "k629-rgb_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "84-key 75% layout with essential arrow and function keys retained",
+      "Hot-swappable brown switches for easy switch changes without soldering",
+      "20 preset RGB lighting effects with 5 customizable lighting groups",
+      "Full 16.8 million color RGB spectrum with adjustable brightness",
+      "All 84 keys rated for 50 million click lifespan",
+      "Double-shot keycaps that maintain texture under heavy use",
+      "Premium metal and ABS construction for durability",
+      "N-Key Rollover with full anti-ghosting support"
+    ],
+    "specifications": {
+      "Switch Type": "Brown (Tactile, Hot-Swappable)",
+      "Layout": "75%",
+      "Key Count": "84 Keys",
+      "Backlight": "RGB, 20 Presets, 5 Custom Groups, 16.8M Colors",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Keycaps": "Double-Shot",
+      "Switch Lifespan": "50 Million Clicks",
+      "Connectivity": "USB Wired",
+      "Construction": "Metal + ABS",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "k685_PYG",
+    "model": "k685 PYG",
+    "category": "Keyboard",
+    "specs": "Redragon K685 PRO 104 Keys Wireless Gasket RGB Gaming Keyboard, 3-Modes 100% Layout Mechanical Keyboard w/Hot-Swap Socket, Sound Absorbing Pads & Linear Red Switch, Klein Blue & Oia White",
+    "price": null,
+    "images": [
+      "k685_PYG.jpg",
+      "k685_PYG_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Gasket-mount design with precision-locked covers for flexible typing feel",
+      "Tri-mode connectivity: USB-C wired, Bluetooth 3.0/5.0, and 2.4GHz",
+      "Hot-swappable socket compatible with 3 and 5-pin switches",
+      "3.5mm PO sound-absorbing pad with dual dampening foams for quiet typing",
+      "Pre-lubed linear red switches for smooth, satisfying keystrokes",
+      "Full 104-key 100% layout with all keys including numpad",
+      "RGB lighting with pro software customization support",
+      "Klein Blue and Oia White exclusive colorway with 8 bonus keycaps"
+    ],
+    "specifications": {
+      "Switch Type": "Pre-Lubed Linear Red (Hot-Swappable, 3/5-pin)",
+      "Layout": "Full Size 100%",
+      "Key Count": "104 Keys",
+      "Mount Type": "Gasket Mount",
+      "Backlight": "RGB, Software Customizable",
+      "Noise Dampening": "3.5mm PO Pad + 2 Dampening Foams + Silicone Gasket",
+      "Connectivity": "USB-C Wired / Bluetooth 3.0/5.0 / 2.4GHz",
+      "Color": "Klein Blue / Oia White",
+      "Software": "Pro Software Supported",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K599-WBS",
+    "model": "K599-WBS",
+    "category": "Keyboard",
+    "specs": "Redragon K599 DEIMOS Wireless 2.4G / Wired Compact 60% Mechanical Gaming Keyboard - blue Switches - 70 Key TKL - RGB Backlit - white",
+    "price": null,
+    "images": [
+      "K599-WBS.jpg",
+      "K599-WBS_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "70-key 2.4GHz wireless and wired dual-mode connectivity",
+      "Outemu Blue mechanical switches for clicky, tactile feedback",
+      "18 preset RGB lighting modes plus 1 user-programmable mode",
+      "Up to 60 hours battery life (LED off) / 30 hours (LED on)",
+      "USB nano-receiver stows away magnetically under keyboard",
+      "Double-shot ABS keycaps for lasting clarity",
+      "Navigation arrow keys included in compact layout",
+      "Type-C wired charging and wired play support"
+    ],
+    "specifications": {
+      "Switch Type": "Outemu Blue - Clicky Tactile",
+      "Layout": "70% Compact TKL",
+      "Key Count": "70 Keys",
+      "Backlight": "RGB, 18 Presets + 1 User Mode, 8 Colors, 6 Brightness",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Battery Life": "Up to 60 hours (LED off)",
+      "Color": "White",
+      "Weight": "671g",
+      "Dimensions": "33 x 10cm",
+      "Connectivity": "2.4GHz Wireless / USB-C Wired",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K599-WRS",
+    "model": "K599-WRS",
+    "category": "Keyboard",
+    "specs": "Redragon K599 DEIMOS Wireless 2.4G / Wired Compact 60% Mechanical Gaming Keyboard - red Switches - 70 Key TKL - RGB Backlit - white",
+    "price": null,
+    "images": [
+      "K599-WRS.jpg",
+      "K599-WRS_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "70-key 2.4GHz wireless and wired dual-mode connectivity",
+      "Outemu Red mechanical switches for fast, smooth linear actuation",
+      "18 preset RGB lighting modes plus 1 user-programmable mode",
+      "Up to 60 hours battery life (LED off) / 30 hours (LED on)",
+      "USB nano-receiver stows away magnetically under keyboard",
+      "Double-shot ABS keycaps for lasting clarity",
+      "Navigation arrow keys included in compact layout",
+      "Type-C wired charging and wired play support"
+    ],
+    "specifications": {
+      "Switch Type": "Outemu Red - Linear",
+      "Layout": "70% Compact TKL",
+      "Key Count": "70 Keys",
+      "Backlight": "RGB, 18 Presets + 1 User Mode, 8 Colors, 6 Brightness",
+      "Anti-Ghosting": "Full N-Key Rollover",
+      "Battery Life": "Up to 60 hours (LED off)",
+      "Color": "White",
+      "Weight": "671g",
+      "Dimensions": "33 x 10cm",
+      "Connectivity": "2.4GHz Wireless / USB-C Wired",
+      "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K661_WGY",
+    "model": "K661 WGY",
+    "category": "Keyboard",
+    "specs": "Redragon low-profile wireless mechanical keyboard, 75% optimized layout compatible with Windows and Mac OS\nUltra-slim housing\nErgonomic keycaps brings comfortable feeling Utral low-profile and replaceable switch\n2.4G/BT/ Type C wired multiple connection options Compatible with Window/Mac OS\n84 keys optimized layout, RGB backlighting",
+    "price": null,
+    "images": [
+      "K661_WGY.png"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "84-key 75% optimized layout in ultra-slim, low-profile housing",
+      "Replaceable low-profile mechanical switches for customization",
+      "RGB backlit with multiple lighting effects",
+      "Ergonomic keycaps designed for comfortable long-term typing",
+      "Aluminum top plate for premium build quality",
+      "Dual system compatibility with Windows and Mac OS",
+      "Compact and portable design for on-the-go productivity"
+    ],
+    "specifications": {
+      "Switch Type": "Low-Profile Mechanical (Replaceable)",
+      "Layout": "75%",
+      "Key Count": "84 Keys",
+      "Backlight": "RGB",
+      "Housing": "Ultra-Slim Aluminum",
+      "Color": "White / Grey",
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Compatibility": "Windows / Mac OS"
+    }
+  },
+  {
+    "id": "S01-5",
+    "model": "S01-5",
+    "category": "Combo",
+    "specs": "Redragon S101-5 Wired Gaming Keyboard & Mouse",
+    "price": 1650.0,
+    "images": [
+      "S01-5.jpg",
+      "S01-5_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Complete gaming combo: K503 RGB keyboard + M601 RGB mouse",
+      "RGB backlit keyboard with 6 lighting effects and macro recording",
+      "7200 DPI gaming mouse with 7 programmable buttons",
+      "Keyboard integrated wrist rest for ergonomic gaming comfort",
+      "25 anti-ghosting conflict-free keys on the keyboard",
+      "Mouse includes weight tuning set for personalized feel",
+      "Both peripherals with plug-and-play USB connectivity",
+      "Compatible with Windows PC gaming setups"
+    ],
+    "specifications": {
+      "Included": "K503 RGB Keyboard + M601 RGB Mouse",
+      "Keyboard Type": "Silent Membrane, RGB Backlit",
+      "Keyboard Keys": "114 Keys, 25 Conflict-Free",
+      "Keyboard Wrist Rest": "Integrated",
+      "Mouse DPI": "Up to 7200 DPI (5 Levels)",
+      "Mouse Buttons": "7 Programmable",
+      "Mouse Cable": "1.8m Braided",
+      "Connectivity": "USB Wired (Both)",
+      "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
+    }
+  },
+  {
+    "id": "S101W",
+    "model": "S101W",
+    "category": "Combo",
+    "specs": "Redragon S101W Wired Gaming Keyboard & Mouse",
+    "price": null,
+    "images": [
+      "S101W.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "White color combo: RGB keyboard + mouse in matching white design",
+      "RGB backlit keyboard with 7 lighting modes and 4 brightness levels",
+      "3200 DPI gaming mouse with 6 programmable buttons",
+      "Keyboard wrist rest for comfortable extended gaming sessions",
+      "25 anti-ghosting conflict-free keyboard keys",
+      "10 dedicated multimedia keys plus 12 FN multimedia keys",
+      "Mouse with weight tuning set for personalized balance",
+      "Matching white aesthetics for clean desk setups"
+    ],
+    "specifications": {
+      "Included": "S101W RGB Keyboard + RGB Mouse",
+      "Color": "White",
+      "Keyboard Type": "Silent Membrane, RGB Backlit",
+      "Keyboard Keys": "114 Keys, 25 Conflict-Free",
+      "Keyboard Wrist Rest": "Integrated",
+      "Mouse DPI": "Up to 3200 DPI (4 Levels: 800/1600/2400/3200)",
+      "Mouse Buttons": "6 (5 Programmable)",
+      "Connectivity": "USB Wired (Both)",
+      "Compatibility": "Windows / Mac"
+    }
+  },
+  {
+    "id": "S101-BA",
+    "model": "S101-BA",
+    "category": "Combo",
+    "specs": "REDRAGON S101-BA-2 4x1 WIRED RGB BACKLIT GAMING KEYBOARD AND MOUSE, GAMING MOUSE PAD, GAMING HEADSET COMBO ALL IN 1 PC GAMER BUNDLE",
+    "price": null,
+    "images": [
+      "S101-BA.png"
+    ],
+    "has_image": true,
+    "features": [
+      "Complete 4-in-1 gaming bundle: keyboard, mouse, headset, and mousepad",
+      "RGB backlit keyboard with 7 lighting modes and wrist rest",
+      "3200 DPI ergonomic gaming mouse with 6 programmable buttons",
+      "Stereo gaming headset with 40mm drivers and noise reduction",
+      "Large gaming mousepad with smooth cloth surface",
+      "All peripherals with matching black design",
+      "Plug-and-play setup with no additional software required",
+      "Great value all-in-one package for PC gamers"
+    ],
+    "specifications": {
+      "Included": "Keyboard + Mouse + Headset + Mousepad",
+      "Keyboard Type": "Silent Membrane, RGB Backlit",
+      "Keyboard Wrist Rest": "Integrated",
+      "Mouse DPI": "Up to 3200 DPI",
+      "Mouse Buttons": "6 (5 Programmable)",
+      "Headset Drivers": "40mm",
+      "Headset Sensitivity": "103dB",
+      "Mousepad": "Large Gaming Mousepad",
+      "Connectivity": "USB Wired (All)",
+      "Compatibility": "Windows PC"
+    }
+  },
+  {
+    "id": "S107",
+    "model": "S107",
+    "category": "Combo",
+    "specs": "Redragon S107 Gaming Keyboard, Mouse, Mouse pad, Mechanical Feel 104 Key RGB LED Keyboard, Wired 3200 DPI Mouse, Large Mouse Pad for PC Computer Games - [Keyboard Mouse Mouse Pad Set]",
+    "price": null,
+    "images": [
+      "S107.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "3-in-1 gaming combo: mechanical-feel keyboard, mouse, and large mousepad",
+      "104-key mechanical-feel RGB keyboard with edge ambient backlight",
+      "3200 DPI M608 mouse with 6 buttons and breathing LED",
+      "Large waterproof and washable gaming mousepad",
+      "Keyboard with 25 anti-ghosting keys and 11 multimedia keys",
+      "Mouse with 4-level DPI adjustment (1000/1600/2400/3200)",
+      "Unique ambient edge backlight synchronizes with key lighting",
+      "Silk-processed cloth mousepad for smooth mouse movement"
+    ],
+    "specifications": {
+      "Included": "Keyboard + Mouse + Large Mousepad",
+      "Keyboard Type": "Mechanical Feel Membrane, RGB Backlit",
+      "Keyboard Keys": "104 Keys, 25 Conflict-Free",
+      "Mouse Model": "M608",
+      "Mouse DPI": "1000 / 1600 / 2400 / 3200",
+      "Mouse Buttons": "6 (5 Programmable)",
+      "Mouse Acceleration": "10G, 4000 FPS",
+      "Mousepad": "Large, Waterproof, Silk Cloth",
+      "Connectivity": "USB Wired (All)",
+      "Compatibility": "Windows PC"
+    }
+  },
+  {
+    "id": "H231-RGB",
+    "model": "H231-RGB",
+    "category": "Headset",
+    "specs": "Redragon H231 Scream Wired Gaming Headset, Stereo Surround Sound, 40mm Drivers, Leather Foam Ear Pads, Noise-canceling Microphone",
+    "price": 960.0,
+    "images": [
+      "H231-RGB.jpg",
+      "H231-RGB_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "40mm neodymium drivers for wide-frequency immersive audio",
+      "Noise-canceling adjustable microphone for clear team communication",
+      "Leather foam ear pads for comfortable extended wear",
+      "Lightweight 250g design for fatigue-free gaming sessions",
+      "Dynamic RGB backlight on earcups",
+      "Retractable headband adjustable for all head sizes",
+      "Multi-platform compatible via 3.5mm connector",
+      "Stereo surround sound for spatial audio awareness"
+    ],
+    "specifications": {
+      "Driver Size": "40mm",
+      "Frequency Response": "20Hz - 20kHz",
+      "Impedance": "32Ω ±15%",
+      "Sensitivity": "117 ±3dB",
+      "Microphone": "Noise-Canceling, Adjustable",
+      "Mic Rated Power": "3V",
+      "Speaker Rated Power": "5mW",
+      "Cable Length": "2.1m",
+      "Weight": "250g",
+      "Connector": "3.5mm",
+      "RGB": "Dynamic RGB Earcups",
+      "Compatibility": "PC / PS4 / PS5 / Xbox One / Switch / Mobile"
+    }
+  },
+  {
+    "id": "H260",
+    "model": "H260",
+    "category": "Headset",
+    "specs": "Redragon H260  RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
+    "price": 975.0,
+    "images": [
+      "H260.jpg",
+      "H260_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "50mm neodymium directional drivers for immersive audio experience",
+      "110dB sensitivity for crisp, accurate sound reproduction",
+      "Omnidirectional microphone with noise and echo cancellation",
+      "Dynamic RGB lighting on earcups with USB-A control box",
+      "Soft memory foam ear pads for extended comfort",
+      "Highly adjustable headband for all head shapes and sizes",
+      "Corrosion-resistant gold-plated 3.5mm jack",
+      "Compatible with PC, PS4, Xbox One, Switch, and more"
+    ],
+    "specifications": {
+      "Driver Size": "50mm Neodymium Directional",
+      "Frequency Response": "20Hz - 20kHz",
+      "Sensitivity": "110dB",
+      "Microphone": "Omnidirectional, Noise-Canceling",
+      "Connector": "3.5mm + USB-A (for RGB control)",
+      "Cable Length": "6ft (1.8m)",
+      "RGB": "Dynamic RGB Earcups",
+      "Ear Cups": "Soft Memory Foam",
+      "Compatibility": "PC / PS4 / Xbox One / Switch / Mobile"
+    }
+  },
+  {
+    "id": "H270",
+    "model": "H270",
+    "category": "Headset",
+    "specs": "Redragon H270 Mento RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
+    "price": 990.0,
+    "images": [
+      "H270.jpg",
+      "H270_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "50mm audio drivers for rich, full-bodied stereo sound",
+      "118dB sensitivity for detailed, precise audio reproduction",
+      "Built-in volume control and omnidirectional microphone",
+      "Dynamic RGB backlit on both earcups",
+      "Noise-reducing closed soft memory foam ear cups",
+      "Two 3.5mm gold-plated pin connectors for multi-device use",
+      "Microphone on/off indicator for easy control",
+      "Compatible with PC, PS4, Xbox One, and mobile devices"
+    ],
+    "specifications": {
+      "Driver Size": "50mm",
+      "Frequency Response": "20Hz - 20kHz",
+      "Impedance": "16Ω",
+      "Sensitivity": "118 ±3dB",
+      "Microphone Sensitivity": "-38 ±3dB",
+      "Mic Impedance": "2.2KΩ",
+      "Connector": "3.5mm x 2 (Audio + Mic)",
+      "RGB": "Dynamic RGB Earcups",
+      "Ear Cups": "Soft Memory Foam",
+      "Compatibility": "PC / PS4 / Xbox One / Switch / Mobile"
+    }
+  },
+  {
+    "id": "h315",
+    "model": "h315",
+    "category": "Headset",
+    "specs": "Redragon H315 RGB Gaming Headset - Wired Computer Headset with 40mm Drivers, Noise-Canceling Microphone, USB Connection, Lightweight Design, and Soft PU Leather Ear Cushions for Ultimate Comfort",
+    "price": null,
+    "images": [
+      "h315.jpg",
+      "h315_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "40mm advanced drivers for rich, immersive audio performance",
+      "Unidirectional noise-canceling microphone for clear voice capture",
+      "USB connection for plug-and-play convenience",
+      "RGB lighting effects for gaming aesthetics",
+      "Lightweight design for fatigue-free extended gaming",
+      "Soft PU leather ear cushions for maximum comfort",
+      "Adjustable headband for personalized fit",
+      "Crystal-clear audio clarity for competitive gaming"
+    ],
+    "specifications": {
+      "Driver Size": "40mm",
+      "Microphone": "Unidirectional, Noise-Canceling",
+      "Connector": "USB",
+      "RGB": "RGB Lighting",
+      "Ear Cushions": "Soft PU Leather",
+      "Compatibility": "PC (USB)"
+    }
+  },
+  {
+    "id": "H350_RGB",
+    "model": "H350 RGB",
+    "category": "Headset",
+    "specs": "High quality sound Compatible with multiple device likePS4,XBOXone,Laptop,MacIpad,Table,Mobilephone RGB Back lighting Detachable noise-cancelling MIC High quality reproduction of soundbydynamicstereodriver unit SupplyO.S.Win10,Win8,Win7,WinXP",
+    "price": 1840.0,
+    "images": [
+      "H350_RGB.jpg",
+      "H350_RGB_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "50mm audio drivers with intelligent extreme bass enhancement",
+      "Detachable noise-canceling microphone for flexible use",
+      "Dynamic RGB backlight with inline control for easy switching",
+      "2cm thick memory foam ear pads for all-day comfort",
+      "Inline volume control with mic mute function",
+      "3.5mm + USB powered braided cable with splitter",
+      "Stereo surround sound for immersive gaming experience",
+      "Compatible with PC, PS4, Xbox One, Switch, and more"
+    ],
+    "specifications": {
+      "Driver Size": "50mm",
+      "Sound": "Stereo Surround",
+      "Microphone": "Detachable, Noise-Canceling",
+      "Connector": "3.5mm + USB (for RGB power)",
+      "Includes": "3.5mm 2-in-1 Splitter Cable",
+      "RGB": "Dynamic RGB, Inline Control",
+      "Ear Pads": "2cm Memory Foam",
+      "Inline Control": "Volume, Mic Mute, RGB Switch",
+      "Compatibility": "PC / PS4 / Xbox One / Switch / Mac / Mobile"
+    }
+  },
+  {
+    "id": "H386",
+    "model": "H386",
+    "category": "Headset",
+    "specs": "Redragon H386 Diomedes Wired Gaming Headset - 7.1 Surround Sound - 53MM Drivers - Detachable Microphone - Multi Platforms Headphone - USB/AUX 3.5mm Compatible with PC, PS4/3 & Xbox One/Series X, NS",
+    "price": 1950.0,
+    "images": [
+      "H386.jpg",
+      "H386_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "53mm drivers for wider frequency range and extreme fidelity sound",
+      "7.1 Virtual Surround Sound for spatial audio immersion",
+      "Detachable noise-canceling microphone for clear communication",
+      "Honeycomb shell design at only 188g for lightweight comfort",
+      "USB and 3.5mm dual connectivity for multi-platform use",
+      "2-meter braided cable for extended reach",
+      "Compatible with PC, PS4/3, Xbox One/Series X, and Switch",
+      "On-ear controls for volume and microphone management"
+    ],
+    "specifications": {
+      "Driver Size": "53mm",
+      "Frequency Response": "20Hz - 20kHz",
+      "Sound": "7.1 Virtual Surround",
+      "Microphone": "Detachable, Noise-Canceling",
+      "Connector": "USB / 3.5mm",
+      "Cable Length": "2m Braided",
+      "Weight": "188g",
+      "Compatibility": "PC / PS4/3 / Xbox One/Series X / Switch / Mobile"
+    }
+  },
+  {
+    "id": "H510-fb",
+    "model": "H510-fb",
+    "category": "Headset",
+    "specs": "Redragon h510 zeus wired gaming headset - 7.1 surround sound - memory foam ear pads - 53mm drivers - detachable microphone - multi platforms headphone - works with pc, ps4/3 & xbox one/series x, ns",
+    "price": null,
+    "images": [
+      "H510-fb.jpg",
+      "H510-fb_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "53mm drivers for superior audio clarity and wide frequency response",
+      "7.1 Virtual Surround Sound for competitive advantage",
+      "Memory foam ear pads with durable fabric cover for lasting comfort",
+      "Detachable noise-canceling microphone for clear communication",
+      "Independent inline control: volume, mic mute, and RGB",
+      "Adjustable lightweight steel frame headband",
+      "Compatible with PC, PS4/3, Xbox One/Series X, and Switch",
+      "Detachable 3.5mm cable with built-in USB control box"
+    ],
+    "specifications": {
+      "Driver Size": "53mm",
+      "Sound": "7.1 Virtual Surround",
+      "Microphone": "Detachable, Noise-Canceling",
+      "Ear Pads": "Memory Foam with Fabric Cover",
+      "Connector": "3.5mm + USB (Control Box)",
+      "Inline Controls": "Volume, Mic Mute",
+      "Compatibility": "PC / PS4/3 / Xbox One/Series X / Switch / Mobile"
+    }
+  },
+  {
+    "id": "H510RGB",
+    "model": "H510RGB",
+    "category": "Headset",
+    "specs": "Redragon H510 Zeus-X RGB Wired Gaming Headset - 7.1 Surround Sound - 53MM Audio Drivers in Memory Foam Ear Pads w/Reliable Fabric Cover- Multi Platforms Headphone - USB Powered for PC/PS4/NS",
+    "price": 2495.0,
+    "images": [
+      "H510RGB.jpg",
+      "H510RGB_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "53mm audio drivers with 7.1 Surround Sound for ultimate immersion",
+      "Memory foam ear pads with reliable fabric cover for all-day comfort",
+      "Upgraded RGB backlight built into both earcups",
+      "Detachable noise-canceling microphone for clear team communication",
+      "Independent inline control: volume, mic mute, and RGB mode switch",
+      "Adjustable lightweight steel frame headband for perfect fit",
+      "Detachable 3.5mm braided cable with USB-powered control box",
+      "Compatible with PC, PS4, Xbox One, Switch, and mobile"
+    ],
+    "specifications": {
+      "Driver Size": "53mm",
+      "Sound": "7.1 Virtual Surround",
+      "Microphone": "Detachable, Noise-Canceling",
+      "Ear Pads": "Memory Foam with Fabric Cover",
+      "RGB": "Upgraded RGB Earcups",
+      "Connector": "3.5mm Detachable + USB Control Box",
+      "Inline Controls": "Volume, Mic Mute, RGB Switch",
+      "Compatibility": "PC / PS4 / Xbox One / Switch / Mobile"
+    }
+  },
+  {
+    "id": "G711",
+    "model": "G711",
+    "category": "Gamepad",
+    "specs": "Redragon Forge Controller offers versatility and performance for demanding gamers. With up to 8 hours of battery life, it is ideal for long gaming sessions. Its Bluetooth, 2.4GHz and USB-C connectivity ensures compatibility with a variety of devices, including PCs, Switch, PS3/4, iOS and Android. It has programmable buttons and removable joysticks, allowing customization for different gaming styles. RGB lighting",
+    "price": 1750.0,
+    "images": [
+      "G711.jpg",
+      "G711_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode connectivity: USB-C wired, 2.4GHz, and Bluetooth",
+      "Up to 8 hours of battery life on a single charge",
+      "6-axis gyroscope for precise motion control",
+      "4 rear programmable buttons (M1, M2, M3, M4) for custom commands",
+      "Removable joysticks for versatile gaming configurations",
+      "RGB lighting for gaming aesthetics",
+      "Wireless range up to 8 meters",
+      "Compatible with PC, Switch, PS3/4, iOS, and Android"
+    ],
+    "specifications": {
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
+      "Battery": "1000mAh",
+      "Battery Life": "Up to 8 hours",
+      "Charge Time": "Approx. 3 hours",
+      "Gyroscope": "6-Axis",
+      "Programmable Buttons": "4 Rear (M1-M4)",
+      "Wireless Range": "Up to 8m",
+      "RGB": "Yes",
+      "Compatibility": "PC / Nintendo Switch / PS3 / PS4 / iOS / Android"
+    }
+  },
+  {
+    "id": "G712",
+    "model": "G712",
+    "category": "Gamepad",
+    "specs": "REDRAGON G712 SEMPITEN WIRELESS CONTROLLER - MULTI-PLATFORM BLACK Full connectivity: Wired USB-C , 2.4GHz Wireless and Bluetooth 5.0 .",
+    "price": null,
+    "images": [
+      "G712.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-mode: USB-C wired, 2.4GHz wireless, and Bluetooth 5.0",
+      "Hall Effect analog sticks for improved durability and precision",
+      "17 buttons with turbo function for configurable repeats",
+      "Dual vibration motors for immersive force feedback",
+      "Phone mount included for mobile gaming",
+      "Supports X-Input and D-Input modes",
+      "Ergonomic textured grip for firm, comfortable hold",
+      "Compatible with PC, Switch, Android, and Smart TV"
+    ],
+    "specifications": {
+      "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 5.0",
+      "Battery": "400mAh",
+      "Battery Life": "Up to 8 hours",
+      "Buttons": "17",
+      "Analog Sticks": "Hall Effect",
+      "Vibration": "Dual Motors",
+      "Turbo": "Yes",
+      "Input Modes": "X-Input / D-Input",
+      "Compatibility": "PC / Nintendo Switch / Android / Smart TV"
+    }
+  },
+  {
+    "id": "G713",
+    "model": "G713",
+    "category": "Gamepad",
+    "specs": "Redragon Ephemera Controller, Black and Red, G713",
+    "price": null,
+    "images": [
+      "G713.jpeg"
+    ],
+    "has_image": true,
+    "features": [
+      "Hall Effect analog sticks for precision and long-lasting durability",
+      "19 buttons including dual analog sticks and d-pad",
+      "Turbo function for configurable rapid-fire repeats",
+      "Dual vibration motors for immersive haptic feedback",
+      "Textured grip surfaces for firm control during intense gameplay",
+      "Supports X-Input and D-Input for broad game compatibility",
+      "USB wired connection for reliable zero-lag input",
+      "Black and Red color scheme for aggressive gaming aesthetics"
+    ],
+    "specifications": {
+      "Connectivity": "USB Wired",
+      "Buttons": "19",
+      "Analog Sticks": "Hall Effect",
+      "Vibration": "Dual Motors",
+      "Turbo": "Yes",
+      "Input Modes": "X-Input / D-Input",
+      "Color": "Black / Red",
+      "Weight": "245g",
+      "Dimensions": "156 x 104 x 63mm",
+      "Compatibility": "PC / Android"
+    }
+  },
+  {
+    "id": "g808_pro",
+    "model": "g808 pro",
+    "category": "Gamepad",
+    "specs": "Redragon G808 HARROW PRO\nWireless,Wired Gamepad Controller",
+    "price": 1890.0,
+    "images": [
+      "g808_pro.jpg",
+      "g808_pro_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "2.4GHz wireless with up to 10-12 hours of gameplay on a single charge",
+      "Dual-mode X-Input and Direct-Input for broad game compatibility",
+      "13 buttons with dual vibration motors for immersive feedback",
+      "Anti-slip rubber analog sticks and grip for enhanced handling",
+      "600mAh Li-ion rechargeable battery",
+      "Wireless range up to 8 meters for cable-free freedom",
+      "ABS plastic construction for durable, long-lasting use",
+      "Compatible with PS3, PC, Android, and Windows"
+    ],
+    "specifications": {
+      "Connectivity": "2.4GHz Wireless / USB Wired",
+      "Battery": "600mAh Li-ion",
+      "Battery Life": "10-12 hours",
+      "Charge Time": "2-3 hours",
+      "Buttons": "13",
+      "Vibration": "Dual Motors",
+      "Input Modes": "X-Input / Direct-Input",
+      "Wireless Range": "Up to 8m",
+      "Compatibility": "PC / PS3 / Android / Windows"
+    }
+  },
+  {
+    "id": "GS520",
+    "model": "GS520",
+    "category": "Accessories",
+    "specs": "Redragon GS520 Anvil RGB Desktop Speakers, 2.0 Channel PC Computer Stereo Speaker with 6 Colorful LED Modes, Enhanced Sound and Easy-Access Volume Control, USB Powered w/ 3.5mm Cable",
+    "price": 1200.0,
+    "images": [
+      "GS520.jpg",
+      "GS520_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "2.0 channel stereo speakers with enhanced bass core technology",
+      "6 touch-controlled RGB LED lighting modes with easy switching",
+      "5W x 2 maximum power output for clear, room-filling sound",
+      "USB powered with 3.5mm audio input for universal compatibility",
+      "Easy-access volume up/down buttons on speaker body",
+      "Minimalist urban brushed design for modern desk aesthetics",
+      "No drivers needed - works with any 3.5mm audio device",
+      "Compatible with PC, TV, Laptop, and Smartphone"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Power Output": "5W x 2 (10W Total)",
+      "RGB Lighting": "6 Touch-Controlled LED Modes",
+      "Power": "USB Powered",
+      "Input": "3.5mm Audio",
+      "Volume Control": "Dedicated Volume Buttons",
+      "Driver Required": "No",
+      "Compatibility": "PC / TV / Laptop / Smartphone (3.5mm)"
+    }
+  },
+  {
+    "id": "GMK914",
+    "model": "GMK914",
+    "category": "Accessories",
+    "specs": "Redragon GMK914 Single Monitor Mount Stand - Gas Spring Adjustable Arms with VESA 75/100mm, 13-32 Inch Screen Compatibility, C Clamp & Grommet Base, Cable Management, 17.6lbs Load Capacity",
+    "price": 1900.0,
+    "images": [
+      "GMK914.jpg",
+      "GMK914_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Gas spring arm for smooth, effortless height and angle adjustment",
+      "VESA 75x75 and 100x100mm compatibility for most monitors",
+      "Supports 13-32 inch screens up to 17.6 lbs (8kg)",
+      "Tilt 90° up/-45° down, swivel 180°, rotate 360°",
+      "Height adjustable up to 16.3 inches with 19.3 inch reach",
+      "Dual mounting: C-clamp or grommet base options",
+      "Integrated cable management for a tidy workspace",
+      "Saves desk space with free-floating monitor positioning"
+    ],
+    "specifications": {
+      "Type": "Single Monitor Gas Spring Arm",
+      "Screen Compatibility": "13-32 Inch",
+      "VESA": "75x75mm / 100x100mm",
+      "Load Capacity": "4.4 - 17.6 lbs (2 - 8kg)",
+      "Height Adjustment": "Up to 16.3 inches",
+      "Reach": "19.3 inches",
+      "Tilt": "90° Up / 45° Down",
+      "Swivel": "180°",
+      "Rotation": "360°",
+      "Mounting": "C-Clamp / Grommet Base",
+      "Cable Management": "Integrated"
+    }
+  },
+  {
+    "id": "GMK-913",
+    "model": "GMK-913",
+    "category": "Accessories",
+    "specs": "Redragon GMK 913 Universal Multi-Monitor Extender, Optical Micro-Structures Easy Assembly, Clear, (Set of 2)",
+    "price": null,
+    "images": [
+      "GMK-913.jpg",
+      "GMK-913_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Eliminates visible bezel gaps for seamless triple monitor setups",
+      "Optical micro-structures create illusion of continuous display",
+      "Quick release clip for fast and tool-free assembly",
+      "Spring-loaded brackets grip monitor edges securely",
+      "Clear acrylic/polycarbonate panel for transparent effect",
+      "Compatible with flat monitors under 27 inches",
+      "Designed for 120-130 degree triple monitor angle",
+      "Set of 2 extenders included for complete coverage"
+    ],
+    "specifications": {
+      "Type": "Multi-Monitor Bezel Extender",
+      "Quantity": "Set of 2",
+      "Compatible Monitors": "Flat, Frameless/Slim-Bezel, Under 27 inches",
+      "Optimal Angle": "120-130 degrees (Triple Monitor)",
+      "Material": "Clear Acrylic / Polycarbonate",
+      "Assembly": "Quick Release Clip, Tool-Free",
+      "Mounting": "Spring-Loaded Brackets"
+    }
+  },
+  {
+    "id": "P037",
+    "model": "P037",
+    "category": "Accessories",
+    "specs": "REDRAGON P037 Meteor L\nKeyboard Memory Foam Wrist Rest Pad (Full Size)",
+    "price": 385.0,
+    "images": [
+      "P037.jpg",
+      "P037_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "High-density memory foam conforms to wrist shape for ultimate support",
+      "Full-size design perfectly fits 104-key standard keyboards",
+      "8 degree perfect tilt angle for ergonomic wrist positioning",
+      "6 anti-slip rubber bottoms for stable placement on any surface",
+      "PU leather cover for easy cleaning and durability",
+      "20mm height provides optimal wrist elevation",
+      "Reduces wrist strain during extended typing and gaming sessions",
+      "Available in 3 sizes: 60%, 87 TKL, and full 104 key"
+    ],
+    "specifications": {
+      "Type": "Keyboard Wrist Rest",
+      "Material": "Memory Foam + PU Leather",
+      "Size": "Full Size (104 Keys)",
+      "Dimensions": "17.12 x 2.87 inches",
+      "Height": "0.78 inch (20mm)",
+      "Tilt Angle": "8 Degrees",
+      "Base": "6 Anti-Slip Rubber Feet",
+      "Color": "Black"
+    }
+  },
+  {
+    "id": "GM100",
+    "model": "GM100",
+    "category": "Accessories",
+    "specs": "Redragon GM100 Gaming Stream Microphone Black",
+    "price": 1250.0,
+    "images": [
+      "GM100.jpg",
+      "GM100_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Omni-directional condenser mic for 360 degree sound capture",
+      "50Hz-16kHz frequency response for natural voice reproduction",
+      "3.5mm plug for universal compatibility with PCs and laptops",
+      "Rotatable and foldable tripod stand for flexible positioning",
+      "Pop filter included to reduce plosive sounds",
+      "Shock mount for vibration isolation",
+      "Ideal for gaming, streaming, podcasting, and video calls",
+      "Plug-and-play with no additional software required"
+    ],
+    "specifications": {
+      "Type": "Omnidirectional Condenser",
+      "Frequency Response": "50Hz - 16kHz",
+      "Sensitivity": "-30dB ±3dB",
+      "Impedance": "≤2.2KΩ",
+      "Operation Voltage": "DC 1.5V",
+      "Connector": "3.5mm",
+      "Cable Length": "Approx. 1.8m",
+      "Stand": "Rotatable Foldable Tripod",
+      "Includes": "Pop Filter + Shock Mount",
+      "Compatibility": "PC / Laptop / Tablet / Smartphone"
+    }
+  },
+  {
+    "id": "GM200",
+    "model": "GM200",
+    "category": "Accessories",
+    "specs": "Mic Unit: Omni-9765 condenser Frequency Response: 50Hz-16kHz Sensitivity: -38Ã‚Â±3dB Impedance:\nÃ¢â€°Â¤2.2kÃŽÂ© Operation Voltage: USB DC 5V Plug: USB Cable Length: 1.5m Colors Available: Black/Custom",
+    "price": 1370.0,
+    "images": [
+      "GM200.jpg",
+      "GM200_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Omni-9765 condenser mic unit for professional recording quality",
+      "USB-powered omnidirectional pickup for natural sound from all directions",
+      "50Hz-16kHz frequency response for clear voice capture",
+      "180-degree adjustable tripod stand for optimal positioning",
+      "Pop filter included for cleaner recordings",
+      "Plug-and-play USB with no drivers required",
+      "Ideal for streaming, gaming, podcasting, and remote meetings",
+      "Compact and portable design for home or studio use"
+    ],
+    "specifications": {
+      "Mic Unit": "Omni-9765 Condenser",
+      "Pickup Pattern": "Omnidirectional",
+      "Frequency Response": "50Hz - 16kHz",
+      "Sensitivity": "-38 ±3dB",
+      "Impedance": "≤2.2KΩ",
+      "Operation Voltage": "USB DC 5V",
+      "Connector": "USB",
+      "Cable Length": "1.5m",
+      "Stand": "180° Adjustable Tripod",
+      "Includes": "Pop Filter",
+      "Compatibility": "PC / Laptop / Mac (USB)"
+    }
+  },
+  {
+    "id": "GCP500",
+    "model": "GCP500",
+    "category": "Accessories",
+    "specs": "Redragon IVY GCP500 Laptop Cooler 12-15 inch UP To 17.3 - 2 USB Port - Fan Speed Control - RGB Light Mode - Two Phone Holder",
+    "price": 1370.0,
+    "images": [
+      "GCP500.jpg",
+      "GCP500_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "5 quiet turbo fans at 2400 RPM for powerful laptop cooling",
+      "Supports 12-15.6 inch laptops (compatible up to 17.3 inch)",
+      "Aluminum panel for enhanced heat dissipation",
+      "RGB light mode with control button for gaming aesthetics",
+      "2 USB pass-through ports for peripheral connectivity",
+      "Fan speed control button for adjustable cooling performance",
+      "Dual phone holder for convenient mobile device placement",
+      "USB-powered with 19dBA quiet operation"
+    ],
+    "specifications": {
+      "Fans": "5 Turbo Fans (2400 RPM)",
+      "Fan Sizes": "60x60x12mm x4 + 140x140x12mm x1",
+      "Laptop Compatibility": "12 - 17.3 inches",
+      "USB Ports": "2 Pass-Through USB",
+      "Panel": "Aluminum",
+      "RGB": "RGB Light Mode with Control Button",
+      "Noise Level": "19dBA",
+      "Voltage": "5VDC",
+      "Current": "0.15A",
+      "Weight": "1050g",
+      "Lifespan": "45000 hours",
+      "Phone Holder": "2x Phone Holders"
+    }
+  },
+  {
+    "id": "GCP511",
+    "model": "GCP511",
+    "category": "Accessories",
+    "specs": "GCP511 Ingrid Laptop Cooler cools up to 17 -inch Laptops, equipped with 3 Illuminated Fans, adjustable RGB light and an adjustable angle, this device fits all your laptop cooling needs",
+    "price": 1370.0,
+    "images": [
+      "GCP511.jpg",
+      "GCP511_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "3 large 120mm illuminated fans for efficient laptop cooling",
+      "Supports laptops up to 17.3 inches in size",
+      "7 adjustable height positions for personalized ergonomics",
+      "Adjustable RGB lighting for customizable gaming aesthetics",
+      "2 USB pass-through ports for peripheral connectivity",
+      "Fan speed control button for noise and performance balance",
+      "1100 RPM quiet fan operation at 56dB",
+      "USB-powered with easy setup"
+    ],
+    "specifications": {
+      "Fans": "3 x 120mm Illuminated Fans (1100 RPM)",
+      "Laptop Compatibility": "Up to 17.3 inches",
+      "Height Positions": "7 Adjustable Levels",
+      "USB Ports": "2 Pass-Through USB",
+      "RGB": "Adjustable RGB Lighting",
+      "Fan Speed Control": "Yes",
+      "Airflow": "70 CFM",
+      "Noise Level": "56dB",
+      "Voltage": "5VDC",
+      "Current": "0.15A",
+      "Weight": "900g",
+      "Lifespan": "45000 hours"
+    }
+  },
+  {
+    "id": "GW900_APEX",
+    "model": "GW900 APEX",
+    "category": "Accessories",
+    "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fpsÃ¯Â¼Å'Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
+    "price": 2850.0,
+    "images": [
+      "GW900_APEX.JPG",
+      "GW900_APEX_2.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Full HD 1080p at 30FPS with H.264 compression for crisp video",
+      "Autofocus with 6 high-quality optical lenses (5+1 IR) for sharp images",
+      "75 degree wide-angle field of view for versatile streaming angles",
+      "Built-in dual stereo microphones with noise cancellation",
+      "1.8m magnetic ring anti-interference USB cable for stable signal",
+      "Plug-and-play USB connection with no drivers needed",
+      "Compatible with Windows, macOS, Zoom, Skype, and Teams",
+      "Tripod included for flexible desktop or monitor mounting"
+    ],
+    "specifications": {
+      "Resolution": "1920 x 1080 (Full HD)",
+      "Frame Rate": "30 FPS (H.264)",
+      "Focus": "Autofocus",
+      "Field of View": "75 Degrees",
+      "Lenses": "6 (5+1 IR) Anti-Reflective Optical",
+      "Microphone": "Built-in Dual Stereo, Noise-Canceling",
+      "Cable": "1.8m Magnetic Ring Anti-Interference USB",
+      "Connection": "USB Plug-and-Play",
+      "Includes": "Tripod Stand",
+      "Compatibility": "Windows / macOS / Zoom / Skype / Teams"
+    }
+  }
+]
