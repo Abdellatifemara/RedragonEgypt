@@ -2088,7 +2088,7 @@
     "id": "GM200",
     "model": "GM200",
     "category": "Accessories",
-    "specs": "Mic Unit: Omni-9765 condenser Frequency Response: 50Hz-16kHz Sensitivity: -38Ã‚Â±3dB Impedance:\nÃ¢â€°Â¤2.2kÃŽÂ© Operation Voltage: USB DC 5V Plug: USB Cable Length: 1.5m Colors Available: Black/Custom",
+    "specs": "Mic Unit: Omni-9765 condenser Frequency Response: 50Hz-16kHz Sensitivity: -38±3dB Impedance: ≤2.2kΩ Operation Voltage: USB DC 5V Plug: USB Cable Length: 1.5m Colors Available: Black/Custom",
     "price": 1370.0,
     "images": [
       "GM200.jpg",
@@ -2195,7 +2195,7 @@
     "id": "GW900_APEX",
     "model": "GW900 APEX",
     "category": "Accessories",
-    "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fpsÃ¯Â¼Å'Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
+    "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fps, Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
     "price": 2850.0,
     "images": [
       "GW900_APEX.JPG",
