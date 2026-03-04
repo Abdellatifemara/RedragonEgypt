@@ -15,6 +15,19 @@
   <script type="module" crossorigin src="/assets/main-CXIMjarh-C7SGILRP.js"></script>
   <script type="module" crossorigin src="/assets/products-BhAhFboa-D--Lnh-F.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/main-CXIMjarh-CHVC6sxY.css">
+  <style>
+    .main-nav .hamburger span { background: #fafaf9; }
+    .drawer { transition: transform .4s cubic-bezier(.4,0,.2,1); }
+    .drawer-overlay { transition: opacity .35s cubic-bezier(.4,0,.2,1); }
+    @media (max-width: 900px) {
+      html { scroll-behavior: smooth; -webkit-overflow-scrolling: touch; }
+      body.drawer-open { overflow: hidden; position: fixed; width: 100%; }
+      .hamburger { padding: 12px; margin: -4px -8px; }
+      .drawer-link { padding: 16px 0; }
+      .prod-card { transition: transform .3s cubic-bezier(.4,0,.2,1), box-shadow .3s cubic-bezier(.4,0,.2,1); }
+    }
+    [data-reveal] { transition: opacity .6s cubic-bezier(.4,0,.2,1), transform .6s cubic-bezier(.4,0,.2,1); }
+  </style>
 </head>
 <body class="page-products">
 
@@ -150,5 +163,28 @@
     </div>
   </footer>
 
+  <script>
+    (function() {
+      var savedScrollY = 0;
+      var observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(m) {
+          if (m.target.classList.contains('drawer')) {
+            var isOpen = m.target.classList.contains('open');
+            if (isOpen) {
+              savedScrollY = window.scrollY;
+              document.body.classList.add('drawer-open');
+              document.body.style.top = -savedScrollY + 'px';
+            } else {
+              document.body.classList.remove('drawer-open');
+              document.body.style.top = '';
+              window.scrollTo(0, savedScrollY);
+            }
+          }
+        });
+      });
+      var drawer = document.querySelector('.drawer');
+      if (drawer) observer.observe(drawer, { attributes: true, attributeFilter: ['class'] });
+    })();
+  </script>
 </body>
 </html>
