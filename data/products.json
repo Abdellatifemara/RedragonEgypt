@@ -4,7 +4,7 @@
     "model": "M601-RGB",
     "category": "Mouse",
     "specs": "Redragon M601-RGB Gaming Mouse",
-    "price": 745,
+    "price": 745.0,
     "images": [
       "M601-RGB.jpg",
       "M601-RGB_2.jpg"
@@ -32,15 +32,14 @@
       "Weight Tuning": "8 x 2.4g Weights",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M602-KS",
     "model": "M602-KS",
     "category": "Mouse",
     "specs": "Redragon M602 Griffin RGB  W.L Gaming Mouse, RGB Spectrum Backlit Ergonomic Mouse with 7 Programmable Backlight Modes up to 7200 DPI for Windows PC Gamers",
-    "price": 1375,
+    "price": 1375.0,
     "images": [
       "M602-KS.png"
     ],
@@ -66,15 +65,14 @@
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M607",
     "model": "M607",
     "category": "Mouse",
     "specs": "Redragon M607 Griffin 7200 DPI RGB Gaming Mouse",
-    "price": 750,
+    "price": 750.0,
     "images": [
       "M607.jpg",
       "M607_2.jpg"
@@ -101,15 +99,14 @@
       "RGB Lighting": "7 Backlight Modes",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M607-white",
     "model": "M607-white",
     "category": "Mouse",
     "specs": "Redragon M607 Griffin 7200 DPI RGB Gaming Mouse",
-    "price": 775,
+    "price": 775.0,
     "images": [
       "M607-white.jpeg"
     ],
@@ -136,15 +133,14 @@
       "Color": "White",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M609",
     "model": "M609",
     "category": "Mouse",
     "specs": "3200 DPI(4GEAR:1000/1600/2400/3200) /  6600FPS 10G ACC  /   1000Hz polling rate / OMRON gaming switch",
-    "price": 549,
+    "price": 549.0,
     "images": [
       "M609.jpeg"
     ],
@@ -171,8 +167,7 @@
       "Weight": "141g",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m617-lit",
@@ -205,8 +200,7 @@
       "Connectivity": "USB-C Wired",
       "Shell": "Honeycomb",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m655-ks",
@@ -237,15 +231,14 @@
       "LED": "Red Backlit",
       "Receiver": "USB Nano Receiver",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M690_PRO",
     "model": "M690 PRO",
     "category": "Mouse",
     "specs": "Redragon M690 PRO Wireless Gaming Mouse, 8000 DPI Wired/Wireless Gamer Mouse w/Rapid Fire Key, 8 Macro Buttons, Ergonomic Design for PC/Mac/Laptop",
-    "price": 1575,
+    "price": 1575.0,
     "images": [
       "M690_PRO.jpg",
       "M690_PRO_2.jpg"
@@ -272,15 +265,14 @@
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M694",
     "model": "M694",
     "category": "Mouse",
     "specs": "Redragon M694 HANA 3 Modes Wireless Gaming Mouse, Optical sensor 7,200 DPI Lightweight 82G Polling rate 1000Hz",
-    "price": 1350,
+    "price": 1350.0,
     "images": [
       "M694.png"
     ],
@@ -307,8 +299,7 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 5.1",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Android"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m701-RGB",
@@ -345,15 +336,14 @@
       "Dimensions": "117 x 63 x 37mm",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M703",
     "model": "M703",
     "category": "Mouse",
     "specs": "Redragon Gerberus M703 Gaming Mouse",
-    "price": 650,
+    "price": 650.0,
     "images": [
       "M703.jpg",
       "M703_2.jpg"
@@ -380,15 +370,14 @@
       "RGB Lighting": "5 Colors",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m711",
     "model": "m711",
     "category": "Mouse",
     "specs": "REDRAGON COBRA M711 WIRED GAMING MOUSE - WHITE RED 12400 DPI programmable gaming mouse with 8 customizable buttons\n7 colors breathing light\nRGB Backlight",
-    "price": 795,
+    "price": 795.0,
     "images": [
       "m711.jpg",
       "m711_2.jpg"
@@ -417,15 +406,14 @@
       "RGB Lighting": "16.8M Colors, Breathing Effects",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M711C",
     "model": "M711C",
     "category": "Mouse",
     "specs": "REDRAGON COBRA M711C WIRED GAMING MOUSE - WHITE RED 12400 DPI programmable gaming mouse with 8 customizable buttons\n7 colors breathing light\nRGB Backlight",
-    "price": 895,
+    "price": 895.0,
     "images": [
       "M711C.jpg",
       "M711C_2.jpg"
@@ -455,15 +443,14 @@
       "Color": "White / Red",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m723",
     "model": "m723",
     "category": "Mouse",
     "specs": "REDRAGON ROADMASTER M723 GAMING MOUSE - Connection - Wired\n7 buttons programmable buttons\n5 Backlit Modes\nMax 12400DPI",
-    "price": 875,
+    "price": 875.0,
     "images": [
       "m723.jpg",
       "m723_2.jpg"
@@ -492,8 +479,7 @@
       "Dimensions": "127 x 70 x 40mm",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m724",
@@ -525,8 +511,7 @@
       "Software": "Redragon Pro Software",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m724-white",
@@ -558,8 +543,7 @@
       "Software": "Redragon Pro Software",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m725_lit",
@@ -592,8 +576,7 @@
       "Wireless Range": "Up to 10m",
       "Software": "Redragon Pro Software",
       "Compatibility": "Windows / Mac / Android / iOS"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m808-ks",
@@ -627,15 +610,14 @@
       "Cable": "Super-Lite Drag-Free",
       "Connectivity": "USB Wired / 2.4GHz Wireless",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "M814RGB-PRO",
     "model": "M814RGB-PRO",
     "category": "Mouse",
     "specs": "Redragon AXE PRO M814RGB 3 modes connections gaming mouse WIRED/2.4G/BT WIRELESS GAMING MOUSE\nErgonomic design with RGB backlight\nGaming grade sensor up to 8000 DPI\n8 programmable buttons and on-board memory",
-    "price": 1395,
+    "price": 1395.0,
     "images": [
       "M814RGB-PRO.jpg",
       "M814RGB-PRO_2.jpg"
@@ -662,8 +644,7 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m815-pro",
@@ -696,8 +677,7 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Software": "Redragon Pro Software",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "m816-lit",
@@ -732,15 +712,14 @@
       "RGB Lighting": "Customizable",
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe"
+    }
   },
   {
     "id": "k502",
     "model": "k502",
     "category": "Keyboard",
     "specs": "Redragon K502 RGB Silent Gaming Keyboard RGB LED Backlit,104 Key with Wrist Rest",
-    "price": 1325,
+    "price": 1325.0,
     "images": [
       "k502.jpg",
       "k502_2.jpg"
@@ -769,15 +748,14 @@
       "Dimensions": "17.75 x 8 x 0.75 inches",
       "Weight": "1.3 lbs",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K503",
     "model": "K503",
     "category": "Keyboard",
     "specs": "Redragon K503 PC Gaming Keyboard, Wired, Multimedia Keys, Silent USB Keyboard with Wrist Rest for Windows PC Games (RGB LED Backlit with Macro Recording)",
-    "price": 1000,
+    "price": 1000.0,
     "images": [
       "K503.jpg",
       "K503_2.jpg"
@@ -806,8 +784,7 @@
       "Dimensions": "17.6 x 7.9 x 1.2 inches",
       "Weight": "24.80 oz",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K503_aw",
@@ -841,15 +818,14 @@
       "Color": "White",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K505",
     "model": "K505",
     "category": "Keyboard",
     "specs": "Redragon Yaksa K505 USB Gaming Keyboard (Black)",
-    "price": 1100,
+    "price": 1100.0,
     "images": [
       "K505.jpg",
       "K505_2.jpg"
@@ -877,8 +853,7 @@
       "Connectivity": "USB Wired",
       "Material": "ABS High-Strength Plastic",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K509P-KS",
@@ -910,8 +885,7 @@
       "Charging": "Type-C",
       "Battery Indicator": "Yes (Low Battery LED)",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K509P-wS",
@@ -944,15 +918,14 @@
       "Charging": "Type-C",
       "Battery Indicator": "Yes (Low Battery LED)",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "k551",
     "model": "k551",
     "category": "Keyboard",
     "specs": "Redragon K551 Mechanical Gaming Keyboard Wired with Red Switches Cherry MX Equivalent for Windows Gaming PC UK Layout (Rainbow RGB Backlit Black)",
-    "price": 1850,
+    "price": 1850.0,
     "images": [
       "k551.jpg",
       "k551_2.jpg"
@@ -979,15 +952,14 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K552_RGB_red_sw",
     "model": "K552 RGB red sw",
     "category": "Keyboard",
     "specs": "Redragon K552 KUMARA 87 Key LED RGB Backlit Mechanical Computer illuminated Keyboard with red Switches for PC Gaming Compact ABS-Metal Design",
-    "price": 1800,
+    "price": 1800.0,
     "images": [
       "K552_RGB_red_sw.jpg",
       "K552_RGB_red_sw_2.jpg"
@@ -1015,15 +987,14 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K552_RGB_browb_sw",
     "model": "K552 RGB browb sw",
     "category": "Keyboard",
     "specs": "Redragon K552 KUMARA 87 Key LED RGB Backlit Mechanical Computer illuminated Keyboard with brown Switches for PC Gaming Compact ABS-Metal Design",
-    "price": 1801,
+    "price": 1801.0,
     "images": [
       "K552_RGB_browb_sw.jpg",
       "K552_RGB_browb_sw_2.jpg"
@@ -1051,15 +1022,14 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "k552-KB_Blue_Switch",
     "model": "k552-KB Blue Switch",
     "category": "Keyboard",
     "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX Blue Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
-    "price": 1400,
+    "price": 1400.0,
     "images": [
       "k552-KB_Blue_Switch.jpg",
       "k552-KB_Blue_Switch_2.jpg"
@@ -1087,15 +1057,14 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "k552-KR_Red_Switch",
     "model": "k552-KR Red Switch",
     "category": "Keyboard",
     "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX RED Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
-    "price": 1450,
+    "price": 1450.0,
     "images": [
       "k552-KR_Red_Switch.jpg",
       "k552-KR_Red_Switch_2.jpg"
@@ -1122,8 +1091,7 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "k552L-KR_NO_LIGHT_Red_Switch",
@@ -1157,15 +1125,14 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K607-RGB",
     "model": "K607-RGB",
     "category": "Keyboard",
     "specs": "Redragon K607 Low Profile Mechanical Gaming Keyboard 87 Key Tenkeyless RGB LED Backlit Wired Computer Keyboard with Blue Switches for Windows PC",
-    "price": 1900,
+    "price": 1900.0,
     "images": [
       "K607-RGB.jpg",
       "K607-RGB_2.jpg"
@@ -1190,15 +1157,14 @@
       "Cable": "Detachable USB-C to USB-A",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K615P-KBS",
     "model": "K615P-KBS",
     "category": "Keyboard",
     "specs": "Redragon K615P-KBS Elise Pro RGB Mechanical Keyboard Wireless Bluetooth Tri-Mode Ultra-Thin Low Profile Blue Switch",
-    "price": 2500,
+    "price": 2500.0,
     "images": [
       "K615P-KBS.jpg",
       "K615P-KBS_2.jpg"
@@ -1225,15 +1191,14 @@
       "Weight": "322g",
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 3.0/5.0",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K617-RGB_WhiteGrey",
     "model": "K617-RGB White/Grey",
     "category": "Keyboard",
     "specs": "REDRAGON K617 Fizz RGB White-Grey Mechanical Tournament Keyboard 60% TKL | RED-K617RGB",
-    "price": 1600,
+    "price": 1600.0,
     "images": [
       "K617-RGB_WhiteGrey.jpg",
       "K617-RGB_WhiteGrey_2.jpg"
@@ -1261,8 +1226,7 @@
       "Connectivity": "USB Wired",
       "Software": "Pro Software Supported",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "k629-rgb",
@@ -1296,8 +1260,7 @@
       "Connectivity": "USB Wired",
       "Construction": "Metal + ABS",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "k685_PYG",
@@ -1331,8 +1294,7 @@
       "Color": "Klein Blue / Oia White",
       "Software": "Pro Software Supported",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K599-WBS",
@@ -1367,8 +1329,7 @@
       "Dimensions": "33 x 10cm",
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K599-WRS",
@@ -1403,8 +1364,7 @@
       "Dimensions": "33 x 10cm",
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "K661_WGY",
@@ -1435,15 +1395,14 @@
       "Color": "White / Grey",
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Compatibility": "Windows / Mac OS"
-    },
-    "softwareUrl": "https://redragonshop.com/pages/software"
+    }
   },
   {
     "id": "S01-5",
     "model": "S01-5",
     "category": "Combo",
     "specs": "Redragon S101-5 Wired Gaming Keyboard & Mouse",
-    "price": 1650,
+    "price": 1650.0,
     "images": [
       "S01-5.jpg",
       "S01-5_2.jpg"
@@ -1574,7 +1533,7 @@
     "model": "H231-RGB",
     "category": "Headset",
     "specs": "Redragon H231 Scream Wired Gaming Headset, Stereo Surround Sound, 40mm Drivers, Leather Foam Ear Pads, Noise-canceling Microphone",
-    "price": 960,
+    "price": 960.0,
     "images": [
       "H231-RGB.jpg",
       "H231-RGB_2.jpg"
@@ -1610,7 +1569,7 @@
     "model": "H260",
     "category": "Headset",
     "specs": "Redragon H260  RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
-    "price": 975,
+    "price": 975.0,
     "images": [
       "H260.jpg",
       "H260_2.jpg"
@@ -1643,7 +1602,7 @@
     "model": "H270",
     "category": "Headset",
     "specs": "Redragon H270 Mento RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
-    "price": 990,
+    "price": 990.0,
     "images": [
       "H270.jpg",
       "H270_2.jpg"
@@ -1707,7 +1666,7 @@
     "model": "H350 RGB",
     "category": "Headset",
     "specs": "High quality sound Compatible with multiple device likePS4,XBOXone,Laptop,MacIpad,Table,Mobilephone RGB Back lighting Detachable noise-cancelling MIC High quality reproduction of soundbydynamicstereodriver unit SupplyO.S.Win10,Win8,Win7,WinXP",
-    "price": 1840,
+    "price": 1840.0,
     "images": [
       "H350_RGB.jpg",
       "H350_RGB_2.jpg"
@@ -1740,7 +1699,7 @@
     "model": "H386",
     "category": "Headset",
     "specs": "Redragon H386 Diomedes Wired Gaming Headset - 7.1 Surround Sound - 53MM Drivers - Detachable Microphone - Multi Platforms Headphone - USB/AUX 3.5mm Compatible with PC, PS4/3 & Xbox One/Series X, NS",
-    "price": 1950,
+    "price": 1950.0,
     "images": [
       "H386.jpg",
       "H386_2.jpg"
@@ -1803,7 +1762,7 @@
     "model": "H510RGB",
     "category": "Headset",
     "specs": "Redragon H510 Zeus-X RGB Wired Gaming Headset - 7.1 Surround Sound - 53MM Audio Drivers in Memory Foam Ear Pads w/Reliable Fabric Cover- Multi Platforms Headphone - USB Powered for PC/PS4/NS",
-    "price": 2495,
+    "price": 2495.0,
     "images": [
       "H510RGB.jpg",
       "H510RGB_2.jpg"
@@ -1835,7 +1794,7 @@
     "model": "G711",
     "category": "Gamepad",
     "specs": "Redragon Forge Controller offers versatility and performance for demanding gamers. With up to 8 hours of battery life, it is ideal for long gaming sessions. Its Bluetooth, 2.4GHz and USB-C connectivity ensures compatibility with a variety of devices, including PCs, Switch, PS3/4, iOS and Android. It has programmable buttons and removable joysticks, allowing customization for different gaming styles. RGB lighting",
-    "price": 1750,
+    "price": 1750.0,
     "images": [
       "G711.jpg",
       "G711_2.jpg"
@@ -1933,7 +1892,7 @@
     "model": "g808 pro",
     "category": "Gamepad",
     "specs": "Redragon G808 HARROW PRO\nWireless,Wired Gamepad Controller",
-    "price": 1890,
+    "price": 1890.0,
     "images": [
       "g808_pro.jpg",
       "g808_pro_2.jpg"
@@ -1966,7 +1925,7 @@
     "model": "GS520",
     "category": "Accessories",
     "specs": "Redragon GS520 Anvil RGB Desktop Speakers, 2.0 Channel PC Computer Stereo Speaker with 6 Colorful LED Modes, Enhanced Sound and Easy-Access Volume Control, USB Powered w/ 3.5mm Cable",
-    "price": 1200,
+    "price": 1200.0,
     "images": [
       "GS520.jpg",
       "GS520_2.jpg"
@@ -1998,7 +1957,7 @@
     "model": "GMK914",
     "category": "Accessories",
     "specs": "Redragon GMK914 Single Monitor Mount Stand - Gas Spring Adjustable Arms with VESA 75/100mm, 13-32 Inch Screen Compatibility, C Clamp & Grommet Base, Cable Management, 17.6lbs Load Capacity",
-    "price": 1900,
+    "price": 1900.0,
     "images": [
       "GMK914.jpg",
       "GMK914_2.jpg"
@@ -2064,7 +2023,7 @@
     "model": "P037",
     "category": "Accessories",
     "specs": "REDRAGON P037 Meteor L\nKeyboard Memory Foam Wrist Rest Pad (Full Size)",
-    "price": 385,
+    "price": 385.0,
     "images": [
       "P037.jpg",
       "P037_2.jpg"
@@ -2096,7 +2055,7 @@
     "model": "GM100",
     "category": "Accessories",
     "specs": "Redragon GM100 Gaming Stream Microphone Black",
-    "price": 1250,
+    "price": 1250.0,
     "images": [
       "GM100.jpg",
       "GM100_2.jpg"
@@ -2130,7 +2089,7 @@
     "model": "GM200",
     "category": "Accessories",
     "specs": "Mic Unit: Omni-9765 condenser Frequency Response: 50Hz-16kHz Sensitivity: -38±3dB Impedance: ≤2.2kΩ Operation Voltage: USB DC 5V Plug: USB Cable Length: 1.5m Colors Available: Black/Custom",
-    "price": 1370,
+    "price": 1370.0,
     "images": [
       "GM200.jpg",
       "GM200_2.jpg"
@@ -2165,7 +2124,7 @@
     "model": "GCP500",
     "category": "Accessories",
     "specs": "Redragon IVY GCP500 Laptop Cooler 12-15 inch UP To 17.3 - 2 USB Port - Fan Speed Control - RGB Light Mode - Two Phone Holder",
-    "price": 1370,
+    "price": 1370.0,
     "images": [
       "GCP500.jpg",
       "GCP500_2.jpg"
@@ -2201,7 +2160,7 @@
     "model": "GCP511",
     "category": "Accessories",
     "specs": "GCP511 Ingrid Laptop Cooler cools up to 17 -inch Laptops, equipped with 3 Illuminated Fans, adjustable RGB light and an adjustable angle, this device fits all your laptop cooling needs",
-    "price": 1370,
+    "price": 1370.0,
     "images": [
       "GCP511.jpg",
       "GCP511_2.jpg"
@@ -2237,7 +2196,7 @@
     "model": "GW900 APEX",
     "category": "Accessories",
     "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fps, Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
-    "price": 2850,
+    "price": 2850.0,
     "images": [
       "GW900_APEX.JPG",
       "GW900_APEX_2.jpg"
@@ -2264,2606 +2223,6 @@
       "Connection": "USB Plug-and-Play",
       "Includes": "Tripod Stand",
       "Compatibility": "Windows / macOS / Zoom / Skype / Teams"
-    }
-  },
-  {
-    "id": "M691",
-    "model": "M691",
-    "name": "Redragon M691 MIST Wireless Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-gaming-mouse",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "4800 DPI adjustable optical sensor",
-      "2.4GHz wireless connectivity, up to 10m range",
-      "Ergonomic right-hand design with thumb rest",
-      "6 programmable buttons + Rapid Fire side button",
-      "Up to 30 hours battery life",
-      "RGB backlight with multiple modes"
-    ],
-    "specifications": {
-      "Sensor": "Optical",
-      "DPI Range": "Up to 4800",
-      "Buttons": "6 + 1 Rapid Fire",
-      "Connectivity": "2.4GHz Wireless",
-      "Battery Life": "Up to 30 hours",
-      "Wireless Range": "Up to 10m"
-    }
-  },
-  {
-    "id": "M693",
-    "model": "M693",
-    "name": "Redragon M693 TRIDENT Tri-Mode Wireless Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/trident-m693-wireless-bluetooth-mouse",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "8000 DPI optical sensor for precision tracking",
-      "3-mode connection: Bluetooth, 2.4GHz Wireless & USB-C Wired",
-      "7 macro programmable buttons",
-      "Up to 70 hours battery life (RGB off)",
-      "RGB backlight with multiple modes",
-      "Ergonomic design for extended gaming comfort"
-    ],
-    "specifications": {
-      "Sensor": "Optical",
-      "DPI Range": "Up to 8000",
-      "Buttons": "7 Programmable",
-      "Connectivity": "BT / 2.4GHz / USB-C Wired",
-      "Battery Life": "Up to 70 hours (RGB off)",
-      "Charging": "USB-C"
-    }
-  },
-  {
-    "id": "M801",
-    "model": "M801",
-    "name": "Redragon M801 MAMMOTH 16400 DPI Laser Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-gaming-mouse",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "16400 DPI high-precision laser sensor",
-      "9 programmable buttons with macro support",
-      "Weight tuning system with removable weights",
-      "RGB backlight with multiple modes",
-      "Ergonomic right-hand design",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Sensor": "Laser",
-      "DPI Range": "Up to 16400",
-      "Buttons": "9 Programmable",
-      "Connectivity": "USB Wired",
-      "RGB Lighting": "Yes, 16.8M Colors"
-    }
-  },
-  {
-    "id": "M801P",
-    "model": "M801P",
-    "name": "Redragon M801P SNIPER PRO Wireless MMO Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/blogs/product-download/redragon-sniper-pro-m801p-rgb-gaming-mice",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "Wired/Wireless dual-mode connectivity",
-      "16400 DPI laser sensor",
-      "9 MMO programmable buttons",
-      "Up to 70 hours battery life (RGB off) / 30 hours (RGB on)",
-      "RGB backlight with multiple lighting effects",
-      "Rechargeable battery with USB charging"
-    ],
-    "specifications": {
-      "Sensor": "Laser",
-      "DPI Range": "Up to 16400",
-      "Buttons": "9 Programmable",
-      "Connectivity": "Wireless / USB Wired",
-      "Battery Life": "Up to 70 hours (RGB off)",
-      "RGB Lighting": "Yes, 16.8M Colors"
-    }
-  },
-  {
-    "id": "M806",
-    "model": "M806",
-    "name": "Redragon M806 BULLSEYE Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/bullseye-m806",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "7 programmable buttons with macro recording",
-      "Ergonomic natural grip build for extended comfort",
-      "Software supports DIY keybinds & DPI",
-      "RGB backlit with multiple color effects",
-      "Up to 12400 DPI optical sensor",
-      "USB wired, plug & play"
-    ],
-    "specifications": {
-      "Sensor": "Optical",
-      "DPI Range": "Up to 12400",
-      "Buttons": "7 Programmable",
-      "Connectivity": "USB Wired",
-      "RGB Lighting": "Yes"
-    }
-  },
-  {
-    "id": "M901",
-    "model": "M901",
-    "name": "Redragon M901 PERDITION 24000 DPI MMO Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-gaming-mouse",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "24000 DPI high-precision laser sensor",
-      "15 programmable buttons including 12 side buttons",
-      "LED RGB backlit with multiple lighting modes",
-      "5 programmable user profiles",
-      "Weight tuning cartridge for personalized feel",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Sensor": "Laser",
-      "DPI Range": "Up to 24000",
-      "Buttons": "15 Programmable (12 side)",
-      "Connectivity": "USB Wired",
-      "RGB Lighting": "Yes, 16.8M Colors",
-      "Profiles": "5 On-board"
-    }
-  },
-  {
-    "id": "M903P",
-    "model": "M903P",
-    "name": "Redragon M903P Gaming Mouse (Pink)",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-gaming-mouse",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "4000 DPI optical sensor (4 gear levels: 1000/1600/2400/4000)",
-      "8 programmable buttons",
-      "5 onboard memory modes",
-      "6600 FPS frame rate, 20G acceleration",
-      "Pink color scheme with RGB backlight",
-      "Ergonomic design"
-    ],
-    "specifications": {
-      "Sensor": "Optical",
-      "DPI Range": "1000 / 1600 / 2400 / 4000",
-      "Frame Rate": "6600 FPS",
-      "Acceleration": "20G",
-      "Buttons": "8 Programmable",
-      "Memory Modes": "5",
-      "Color": "Pink"
-    }
-  },
-  {
-    "id": "M908",
-    "model": "M908",
-    "name": "Redragon M908 IMPACT MMO Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/impact-m908",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M908_User_Manual_452f29b0-2748-4c79-ae43-c562f1493cc6.pdf?v=1617242626",
-    "features": [
-      "Up to 12,400 DPI high-precision laser sensor",
-      "18 programmable buttons including 12 side buttons",
-      "Weight tuning cartridge for personalized balance",
-      "5 programmable user profiles",
-      "16.8 million customizable RGB color options",
-      "Ergonomic right-hand design for MMO gaming"
-    ],
-    "specifications": {
-      "Sensor": "Laser",
-      "DPI Range": "Up to 12400",
-      "Buttons": "18 Programmable (12 side)",
-      "Polling Rate": "1000Hz",
-      "Connectivity": "USB Wired",
-      "RGB Lighting": "16.8M Colors",
-      "Weight Tuning": "Yes",
-      "Profiles": "5 On-board",
-      "Compatibility": "Windows / Mac"
-    }
-  },
-  {
-    "id": "M915WL-RGB",
-    "model": "M915WL-RGB",
-    "name": "Redragon M915WL-RGB SWAIN Wireless Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/blogs/product-download/redragon-m915-gaming-mice",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "Wireless 2.4GHz connectivity for lag-free gaming",
-      "High-precision optical sensor",
-      "RGB backlight with multiple lighting modes",
-      "Programmable buttons with macro support",
-      "Rechargeable built-in battery",
-      "Ergonomic design for extended gaming sessions"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "RGB Lighting": "Yes, 16.8M Colors"
-    }
-  },
-  {
-    "id": "M990",
-    "model": "M990",
-    "name": "Redragon M990 LEGEND 24000 DPI MMO Gaming Mouse",
-    "category": "Mouse",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/legend-chroma-m990",
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "features": [
-      "24000 DPI high-precision programmable laser sensor",
-      "16 side buttons for MMO gaming dominance",
-      "5 programmable user profiles with onboard memory",
-      "5 LED lighting modes with 16.8M color options",
-      "Ergonomic right-hand design",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Sensor": "Laser",
-      "DPI Range": "Up to 24000",
-      "Side Buttons": "16",
-      "Connectivity": "USB Wired",
-      "RGB Lighting": "5 Modes, 16.8M Colors",
-      "Profiles": "5 On-board",
-      "Compatibility": "Windows / Mac"
-    }
-  },
-  {
-    "id": "H210",
-    "model": "H210",
-    "name": "Redragon H210 MINOS Gaming Headset",
-    "category": "Headset",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-headset",
-    "features": [
-      "Virtual 7.1 surround sound for immersive gaming",
-      "50mm high-fidelity drivers for clear audio",
-      "Comfortable fit for extended gaming sessions",
-      "Omnidirectional microphone picks up voice from all angles",
-      "32Ω impedance for wide device compatibility",
-      "USB connection, plug & play"
-    ],
-    "specifications": {
-      "Driver": "50mm",
-      "Surround Sound": "Virtual 7.1",
-      "Impedance": "32Ω",
-      "Microphone": "Omnidirectional",
-      "Connection": "USB"
-    }
-  },
-  {
-    "id": "H312",
-    "model": "H312",
-    "name": "Redragon H312 CYBILL 7.1 Surround RGB USB Gaming Headset",
-    "category": "Headset",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-headset",
-    "features": [
-      "7.1 virtual surround sound for positional audio",
-      "RGB LED lighting effects",
-      "USB connection for plug & play convenience",
-      "Noise-cancelling microphone",
-      "Padded ear cushions for long gaming sessions",
-      "Adjustable headband for comfortable fit"
-    ],
-    "specifications": {
-      "Surround Sound": "7.1 Virtual",
-      "RGB Lighting": "Yes",
-      "Connection": "USB",
-      "Microphone": "Noise-cancelling"
-    }
-  },
-  {
-    "id": "H720",
-    "model": "H720",
-    "name": "Redragon H720 7.1 USB Gaming Headset",
-    "category": "Headset",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-headset",
-    "features": [
-      "7.1 virtual surround sound for immersive experience",
-      "USB powered connection",
-      "High-quality audio drivers",
-      "Noise-cancelling retractable microphone",
-      "Adjustable headband and comfortable ear cushions",
-      "In-line volume and mute control"
-    ],
-    "specifications": {
-      "Surround Sound": "7.1 Virtual",
-      "Connection": "USB",
-      "Microphone": "Noise-cancelling"
-    }
-  },
-  {
-    "id": "H991",
-    "model": "H991",
-    "name": "Redragon H991 TRITON Active Noise Canceling Gaming Headset",
-    "category": "Headset",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/triton-h991",
-    "features": [
-      "Active Noise Cancellation (ANC) eliminates 99% of unwanted noise",
-      "7.1 virtual surround sound",
-      "High-quality 50mm audio drivers",
-      "ANC microphone with noise suppression",
-      "Wired USB connection",
-      "Premium padded ear cups for extended comfort"
-    ],
-    "specifications": {
-      "ANC": "Yes, Active Noise Cancellation",
-      "Surround Sound": "7.1 Virtual",
-      "Driver": "50mm",
-      "Microphone": "ANC Noise-suppressing",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "G808",
-    "model": "G808",
-    "name": "Redragon G808 HARROW Multi-Platform Gamepad",
-    "category": "Gamepad",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Multi-platform compatible: PS3, PS4, Android, Windows",
-      "Dual vibration motors for haptic feedback",
-      "Ergonomic design for extended gaming comfort",
-      "2 analog sticks with 360° directional control",
-      "USB wired connection",
-      "12 programmable action buttons"
-    ],
-    "specifications": {
-      "Connectivity": "USB Wired",
-      "Compatibility": "Windows / PS3 / PS4 / Android",
-      "Vibration": "Dual Motors",
-      "Buttons": "12 Action Buttons"
-    }
-  },
-  {
-    "id": "G812",
-    "model": "G812",
-    "name": "Redragon G812 CERES Wireless Bluetooth Gaming Controller",
-    "category": "Gamepad",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/ceres-g812-controller",
-    "features": [
-      "Bluetooth wireless connectivity (Apple MFi licensed)",
-      "Compatible with iOS, Android, PC, and Switch",
-      "Up to 8 hours of wireless battery life",
-      "Upgradeable Bluetooth chip for stable connection",
-      "Ergonomic grip with textured handles",
-      "USB-C charging"
-    ],
-    "specifications": {
-      "Connectivity": "Bluetooth Wireless",
-      "Compatibility": "iOS / Android / PC / Switch",
-      "Battery Life": "Up to 8 hours",
-      "Charging": "USB-C"
-    }
-  },
-  {
-    "id": "G815",
-    "model": "G815",
-    "name": "Redragon G815 PLUTO Wireless Bluetooth Gamepad",
-    "category": "Gamepad",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Bluetooth wireless multi-platform gamepad",
-      "Compatible with PS3, PS4, PS5, Xbox One X, Switch Lite, PC, Android",
-      "3D analog joysticks for precise control",
-      "RGB lighting effects",
-      "Turbo function for rapid fire",
-      "Ergonomic design for long gaming sessions"
-    ],
-    "specifications": {
-      "Connectivity": "Bluetooth Wireless",
-      "Compatibility": "PS3/4/5 / Xbox / Switch / PC / Android",
-      "Joystick": "3D Analog",
-      "RGB Lighting": "Yes",
-      "Turbo": "Yes"
-    }
-  },
-  {
-    "id": "GA-200",
-    "model": "GA-200",
-    "name": "Redragon GA-200 Keyboard & Mouse Converter for Console",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Keyboard & mouse to console adapter",
-      "Compatible with Xbox One, PS4, Switch, PS3",
-      "Play FPS games like PUBG and Fortnite on console",
-      "USB plug & play, no drivers needed",
-      "Compact and portable design"
-    ],
-    "specifications": {
-      "Compatibility": "Xbox One / PS4 / Switch / PS3",
-      "Connection": "USB",
-      "Use": "KB+Mouse on Console"
-    }
-  },
-  {
-    "id": "K506",
-    "model": "K506",
-    "name": "Redragon K506 CENTAUR 7-Color Backlit Gaming Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/centaur-k506",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "7-color rainbow backlit with multiple breathing modes",
-      "Full-size 104 keys with dedicated numpad",
-      "Membrane keys with quiet actuation",
-      "USB wired connection, plug & play",
-      "Wide compatibility: Windows / Mac",
-      "Durable key caps with fade-resistant printing"
-    ],
-    "specifications": {
-      "Type": "Membrane",
-      "Keys": "104 Full-Size",
-      "Backlight": "7-Color Rainbow",
-      "Connection": "USB Wired",
-      "Compatibility": "Windows / Mac"
-    }
-  },
-  {
-    "id": "K515-RGB",
-    "model": "K515-RGB",
-    "name": "Redragon K515 SHIVA RGB Membrane Gaming Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/pages/software",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "98 keys compact layout — full-size with no gaps",
-      "Mechanical-feel smooth linear switch",
-      "Full RGB backlight with onboard macro recording",
-      "Dedicated multimedia keys for media control",
-      "Detachable wrist rest for ergonomic comfort",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Membrane (Mechanical Feel)",
-      "Keys": "98",
-      "Switch": "Smooth Linear",
-      "Backlight": "RGB Full",
-      "Wrist Rest": "Detachable",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K515-RGB-PRO",
-    "model": "K515-RGB-PRO",
-    "name": "Redragon K515 PRO SHIVA RGB 3-Mode Wireless Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "3-mode connectivity: Bluetooth / 2.4GHz / USB-C wired",
-      "98 keys compact layout",
-      "Mechanical-feel smooth linear switch",
-      "Full RGB backlight with switchable patterns",
-      "Detachable wrist rest",
-      "Easy charging via Type-C cable, low battery indicator"
-    ],
-    "specifications": {
-      "Type": "Membrane (Mechanical Feel)",
-      "Keys": "98",
-      "Connectivity": "BT / 2.4GHz / USB-C",
-      "Switch": "Smooth Linear",
-      "Backlight": "RGB, Switchable",
-      "Wrist Rest": "Detachable"
-    }
-  },
-  {
-    "id": "K516-RGB-PRO",
-    "model": "K516-RGB-PRO",
-    "name": "Redragon K516 PRO SHIVA 87-Key TKL 3-Mode Mechanical Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/shiva-k516-pro",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "Tri-mode: USB-C wired, Bluetooth 3.0/5.0, 2.4GHz wireless",
-      "80% TKL layout — 87 keys compact design",
-      "Mechanical switches for tactile, responsive typing",
-      "RGB backlight with multiple effects",
-      "Type-C port for wired/charging",
-      "Low-latency wireless for competitive gaming"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "87 TKL",
-      "Connectivity": "USB-C / BT 3.0+5.0 / 2.4GHz",
-      "Backlight": "RGB",
-      "Layout": "80% TKL"
-    }
-  },
-  {
-    "id": "K539",
-    "model": "K539",
-    "name": "Redragon K539 ANUBIS 80% Wireless Low-Profile Mechanical Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/anubis-k539-tkl-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "Tri-mode: Bluetooth 5.0 / 2.4GHz / USB-C wired",
-      "84-key 80% TKL optimized layout",
-      "Low-profile keys for faster actuation",
-      "Durable & tactile Brown switches",
-      "RGB backlight with multiple effects",
-      "Ultra-slim housing, ergonomic keycaps"
-    ],
-    "specifications": {
-      "Type": "Mechanical Low-Profile",
-      "Keys": "84 (80%)",
-      "Switch": "Brown (Tactile)",
-      "Connectivity": "BT 5.0 / 2.4GHz / USB-C",
-      "Backlight": "RGB",
-      "Color": "White"
-    }
-  },
-  {
-    "id": "K555",
-    "model": "K555",
-    "name": "Redragon K555 INDRAH Mechanical Gaming Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "Full-size 104 keys with Blue mechanical switches",
-      "Rainbow RGB backlit with multiple lighting modes",
-      "Macro recording for custom key assignments",
-      "Detachable wrist rest for ergonomic support",
-      "Volume control knob",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Blue (Clicky)",
-      "Backlight": "Rainbow RGB",
-      "Wrist Rest": "Detachable",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K565R-BRN",
-    "model": "K565R-BRN",
-    "name": "Redragon K565R RUDRA Rainbow Backlit Mechanical Keyboard (Brown Switch)",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "Full-size 104 keys with tactile Brown switches",
-      "Rainbow backlit for vibrant gaming aesthetics",
-      "Macro recording and custom key bindings",
-      "Anti-ghosting for accurate multi-key input",
-      "Durable double-shot keycaps",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Brown (Tactile)",
-      "Backlight": "Rainbow",
-      "Anti-Ghosting": "Yes",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K565R-BLU",
-    "model": "K565R-BLU",
-    "name": "Redragon K565R RUDRA Rainbow Backlit Mechanical Keyboard (Blue Switch)",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "Full-size 104 keys with clicky Blue switches",
-      "Rainbow backlit for vibrant gaming aesthetics",
-      "Macro recording and custom key bindings",
-      "Anti-ghosting for accurate multi-key input",
-      "Durable double-shot keycaps",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Blue (Clicky)",
-      "Backlight": "Rainbow",
-      "Anti-Ghosting": "Yes",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K577",
-    "model": "K577",
-    "name": "Redragon K577 KALI Rainbow Mechanical Gaming Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "Tactile Red mechanical switches for smooth keystrokes",
-      "Rainbow RGB backlit with multiple lighting modes",
-      "Full-size layout with dedicated numpad",
-      "Anti-ghosting multi-key rollover",
-      "Durable metal construction",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Red (Tactile)",
-      "Backlight": "Rainbow RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K579-RGB",
-    "model": "K579-RGB",
-    "name": "Redragon K579 RGB Mechanical Gaming Keyboard with Macro Keys",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "104 keys plus dedicated macro key column",
-      "Blue switch equivalent — fast clicky actuation",
-      "RGB backlight with customizable lighting zones",
-      "Macro keys for complex command sequences",
-      "Anti-ghosting for competitive gaming accuracy",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 + Macro Keys",
-      "Switch": "Blue Equivalent (Clicky)",
-      "Backlight": "RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K585",
-    "model": "K585",
-    "name": "Redragon K585 DITI One-Handed Mechanical Gaming Keypad",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/k585",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "42-key one-handed layout optimized for FPS gaming",
-      "7 onboard macro keys for instant commands",
-      "Blue mechanical switches for tactile feedback",
-      "RGB backlight with multiple color modes",
-      "Detachable wrist rest for ergonomic gaming",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical One-Handed",
-      "Keys": "42 + 7 Macro",
-      "Switch": "Blue (Clicky)",
-      "Backlight": "RGB",
-      "Wrist Rest": "Detachable",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K589",
-    "model": "K589",
-    "name": "Redragon K589 SHRAPNEL Low-Profile Mechanical Gaming Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "104 keys full-size anti-ghosting layout",
-      "Low-profile Red switches — linear, quiet, fast actuation",
-      "Less travel distance for quicker response in competitive gaming",
-      "Smooth keys with consistent feedback",
-      "RGB backlight",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Low-Profile Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Low-Profile Red (Linear, Quiet)",
-      "Anti-Ghosting": "Yes",
-      "Backlight": "RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K592-PRO",
-    "model": "K592-PRO",
-    "name": "Redragon K592 PRO V-Optical Blue Switch Mechanical Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "V-Optical Blue switches for ultra-fast actuation",
-      "Mechanical gaming keyboard with optical switch technology",
-      "No debounce delay for lightning-fast response",
-      "RGB backlight",
-      "Anti-ghosting full N-key rollover",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Optical-Mechanical",
-      "Switch": "V-Optical Blue",
-      "Anti-Ghosting": "Full NKRO",
-      "Backlight": "RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K608-BLK",
-    "model": "K608-BLK",
-    "name": "Redragon K608 VALHEIM 104-Key NKRO Keyboard (Black Switch)",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "104 keys 100% NKRO anti-ghosting",
-      "Soft tactile Black switches — low noise actuation",
-      "Rainbow backlit with multiple light effects",
-      "Doubleshot keycaps for long-lasting legends",
-      "Solid build with ergonomic angle",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Black (Soft Tactile, Low Noise)",
-      "Anti-Ghosting": "Full NKRO",
-      "Backlight": "Rainbow",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K608-BLU",
-    "model": "K608-BLU",
-    "name": "Redragon K608 VALHEIM 104-Key NKRO Keyboard (Blue Switch)",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "104 keys 100% NKRO anti-ghosting",
-      "Blue mechanical switches — clicky, tactile",
-      "Rainbow backlit with multiple light effects",
-      "Doubleshot keycaps for lasting clarity",
-      "Solid build quality",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Blue (Clicky, Tactile)",
-      "Anti-Ghosting": "Full NKRO",
-      "Backlight": "Rainbow",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K616-PRO",
-    "model": "K616-PRO",
-    "name": "Redragon K616 PRO FIZZ 60% 3-Mode Wireless Mechanical Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "60% compact layout — 61 keys for minimal desk footprint",
-      "3-mode: 2.4GHz wireless / Bluetooth / USB-C wired",
-      "RGB backlit with switchable patterns",
-      "Easy Type-C charging",
-      "Low battery indicator",
-      "Compatible with Windows & Mac"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "61 (60%)",
-      "Connectivity": "2.4GHz / BT / USB-C",
-      "Backlight": "RGB",
-      "Layout": "60%"
-    }
-  },
-  {
-    "id": "K626P",
-    "model": "K626P",
-    "name": "Redragon K626P ASHE 78-Key Low-Profile Mechanical Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "78-key compact layout with all essentials",
-      "Low-profile dust-proof Blue switches",
-      "Tactile, fast actuation with less travel",
-      "RGB backlight",
-      "Slim modern design",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Low-Profile Mechanical",
-      "Keys": "78",
-      "Switch": "Dust-Proof Blue (Low-Profile)",
-      "Backlight": "RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K628",
-    "model": "K628",
-    "name": "Redragon K628 POLLUX 75% Hot-Swappable Gaming Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/pollux-k628-75-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "75% layout with 78 keys — compact with dedicated arrow keys",
-      "100% hot-swap socket — change switches without soldering",
-      "Free-mod plate-mounted PCB for flexible customization",
-      "Dedicated arrow keys and numpad cluster",
-      "Red linear switches",
-      "RGB backlight"
-    ],
-    "specifications": {
-      "Type": "Mechanical Hot-Swap",
-      "Keys": "78 (75%)",
-      "Switch": "Red (Linear) — Hot-Swappable",
-      "PCB": "Free-Mod Plate Mounted",
-      "Backlight": "RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K649-PRO",
-    "model": "K649-PRO",
-    "name": "Redragon K649 PRO ELF 78% Wireless Hot-Swap Gasket Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/elf-pro-k649-wireless-gasket-transparent-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "78% compact layout — 82 keys with arrow keys",
-      "Tri-mode: 2.4GHz / BT / USB-C",
-      "Gasket mount for premium typing sound & feel",
-      "Hot-swappable socket — change switches freely",
-      "Translucent case design for unique RGB effect",
-      "Custom linear switch — silky, creamy typing feedback"
-    ],
-    "specifications": {
-      "Type": "Mechanical Gasket Hot-Swap",
-      "Keys": "82 (78%)",
-      "Switch": "Custom Linear — Hot-Swappable",
-      "Connectivity": "2.4GHz / BT / USB-C",
-      "Mount": "Gasket",
-      "Design": "Translucent",
-      "Backlight": "RGB"
-    }
-  },
-  {
-    "id": "K679-RGB",
-    "model": "K679-RGB",
-    "name": "Redragon K679 RGB 104-Key Sound-Absorbing Mechanical Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "104 keys full-size layout",
-      "Blue mechanical switches for clicky tactile response",
-      "Sound-absorbing foam layers for quieter typing",
-      "RGB backlight with multiple effects",
-      "Anti-ghosting",
-      "USB wired connection"
-    ],
-    "specifications": {
-      "Type": "Mechanical",
-      "Keys": "104 Full-Size",
-      "Switch": "Blue (Clicky)",
-      "Sound Dampening": "Yes, Foam Layers",
-      "Backlight": "RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "K681",
-    "model": "K681",
-    "name": "Redragon K681 ACG 75% 3-Mode Hot-Swap Gasket Keyboard with Knob",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "75% compact layout with dedicated volume knob",
-      "Tri-mode: 2.4GHz wireless / Bluetooth / USB-C wired",
-      "Gasket mount for premium acoustics and typing feel",
-      "Hot-swappable socket for easy switch customization",
-      "RGB backlight",
-      "Sound-absorbing foam for quiet operation"
-    ],
-    "specifications": {
-      "Type": "Mechanical Gasket Hot-Swap",
-      "Keys": "75% Layout",
-      "Connectivity": "2.4GHz / BT / USB-C",
-      "Mount": "Gasket",
-      "Knob": "Yes, Volume Control",
-      "Backlight": "RGB"
-    }
-  },
-  {
-    "id": "K685-PRO",
-    "model": "K685-PRO",
-    "name": "Redragon K685 PRO FAYE 100% 3-Mode Wireless Gasket Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/faye-k685-pro",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "100% full layout — 104 keys wireless gasket keyboard",
-      "Tri-mode: 2.4GHz / BT / USB-C wired",
-      "Hot-swap socket for switch customization",
-      "Sound-absorbing pads for quieter keystrokes",
-      "Linear Red switches — smooth, fast actuation",
-      "Gasket mount — premium feel and acoustics"
-    ],
-    "specifications": {
-      "Type": "Mechanical Gasket Hot-Swap",
-      "Keys": "104 (100%)",
-      "Switch": "Red (Linear) — Hot-Swappable",
-      "Connectivity": "2.4GHz / BT / USB-C",
-      "Mount": "Gasket",
-      "Sound Dampening": "Yes",
-      "Backlight": "RGB"
-    }
-  },
-  {
-    "id": "K709",
-    "model": "K709",
-    "name": "Redragon K709 65% 3-Mode Wireless Gasket Keyboard",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "65% compact layout — 68 keys",
-      "3-mode: 2.4GHz wireless / BT / USB-C",
-      "Gasket mount for premium typing acoustics",
-      "Hot-swap socket for switch customization",
-      "Round PBT keycaps for durability",
-      "5-layer noise dampening for quiet operation",
-      "Software supported for advanced customization"
-    ],
-    "specifications": {
-      "Type": "Mechanical Gasket Hot-Swap",
-      "Keys": "68 (65%)",
-      "Switch": "Quiet Custom Linear — Hot-Swappable",
-      "Connectivity": "2.4GHz / BT / USB-C",
-      "Keycaps": "Round PBT",
-      "Sound Dampening": "5-Layer"
-    }
-  },
-  {
-    "id": "K718",
-    "model": "K718",
-    "name": "Redragon K718 104-Key Hot-Swap Wired Keyboard with Knob",
-    "category": "Keyboard",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-mechanical-keyboard",
-    "softwareUrl": "https://redragonshop.com/pages/software",
-    "features": [
-      "104 keys full-size layout with dedicated volume knob",
-      "Hot-swappable socket for easy switch changes",
-      "Sound-absorbing foams for quieter typing",
-      "Mixed color keycaps for aesthetic variety",
-      "Red linear switches",
-      "Rainbow RGB backlight"
-    ],
-    "specifications": {
-      "Type": "Mechanical Hot-Swap",
-      "Keys": "104 Full-Size",
-      "Switch": "Red (Linear) — Hot-Swappable",
-      "Knob": "Yes, Dedicated Volume",
-      "Sound Dampening": "Yes, Foam",
-      "Backlight": "Rainbow RGB",
-      "Connection": "USB Wired"
-    }
-  },
-  {
-    "id": "GS513",
-    "model": "GS513",
-    "name": "Redragon GS513 RANCH 2.0 PC Gaming Speaker",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/ranch-gs513-speakers",
-    "features": [
-      "2.0 channel stereo sound",
-      "Red LED backlit for gaming aesthetics",
-      "Compact design for tight desk setups",
-      "3.5mm AUX + USB powered",
-      "Easy access volume control knob"
-    ],
-    "specifications": {
-      "Channels": "2.0 Stereo",
-      "Backlight": "Red LED",
-      "Connection": "3.5mm AUX + USB"
-    }
-  },
-  {
-    "id": "GS520-PRO",
-    "model": "GS520-PRO",
-    "name": "Redragon GS520 PRO ANVIL 2.1 Channel Gaming Speaker",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/anvil-gs520-pro",
-    "features": [
-      "2.1 channel with dedicated subwoofer for deep bass",
-      "RGB lighting with multiple color modes",
-      "Enhanced stereo sound for gaming and music",
-      "Easy volume and bass control",
-      "USB + 3.5mm connection"
-    ],
-    "specifications": {
-      "Channels": "2.1 (with Subwoofer)",
-      "RGB Lighting": "Yes",
-      "Connection": "USB + 3.5mm"
-    }
-  },
-  {
-    "id": "GS522",
-    "model": "GS522",
-    "name": "Redragon GS522 2.0 Hi-Fi RGB Desktop Speakers",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "2.0 Hi-Fi stereo enhanced sound quality",
-      "6 colorful RGB modes with touch control",
-      "USB + 3.5mm AUX input",
-      "Compatible with PC, laptop, tablet, phone, Xbox, PS4/5",
-      "Compact desktop speaker design"
-    ],
-    "specifications": {
-      "Channels": "2.0 Stereo",
-      "RGB Lighting": "6 Modes",
-      "Control": "Touch RGB",
-      "Connection": "USB + 3.5mm",
-      "Compatibility": "PC / Console / Mobile"
-    }
-  },
-  {
-    "id": "GS570",
-    "model": "GS570",
-    "name": "Redragon GS570 DARKNETS RGB Wireless Gaming Sound Bar",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "Wireless Bluetooth + 3.5mm wired connection",
-      "RGB backlit sound bar design",
-      "Clear stereo sound for gaming and entertainment",
-      "Compact horizontal bar form factor",
-      "Easy volume control"
-    ],
-    "specifications": {
-      "Form Factor": "Sound Bar",
-      "Connectivity": "Bluetooth + 3.5mm",
-      "RGB Lighting": "Yes"
-    }
-  },
-  {
-    "id": "GS580",
-    "model": "GS580",
-    "name": "Redragon GS580 CALLIOPE 2.0 RGB Desktop Speakers",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "5W x 2.0 channel stereo speakers",
-      "3.5mm AUX stereo input",
-      "Classic volume control knob",
-      "RGB backlight",
-      "Compact black desktop design"
-    ],
-    "specifications": {
-      "Channels": "2.0 Stereo",
-      "Power": "5W x 2",
-      "Connection": "3.5mm AUX",
-      "RGB Lighting": "Yes"
-    }
-  },
-  {
-    "id": "GS590",
-    "model": "GS590",
-    "name": "Redragon GS590 KAIDAS Wireless RGB Desktop Speakers",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/kaidas-gs590-wireless-computer-speakers",
-    "features": [
-      "2.0 channel stereo with Bluetooth 5.0 / AUX / USB",
-      "Compact size fits any desk setup",
-      "Back ambient RGB backlight",
-      "Advanced sound drive for full-range stereo",
-      "Easy wireless pairing"
-    ],
-    "specifications": {
-      "Channels": "2.0 Stereo",
-      "Connectivity": "BT 5.0 / AUX / USB",
-      "RGB Lighting": "Ambient Back Light"
-    }
-  },
-  {
-    "id": "GS590-PRO",
-    "model": "GS590-PRO",
-    "name": "Redragon GS590 PRO 2.1 RGB Gaming Speaker",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "2.1 channel with dual 2-inch drivers and 4-inch subwoofer",
-      "Max 22W output with EQ mode",
-      "Dynamic RGB backlight with multiple patterns",
-      "Stable thick wooden subwoofer enclosure",
-      "AUX and Bluetooth input"
-    ],
-    "specifications": {
-      "Channels": "2.1 (with Subwoofer)",
-      "Max Power": "22W",
-      "Subwoofer": "4-inch",
-      "Connectivity": "AUX + Bluetooth",
-      "RGB Lighting": "Dynamic RGB"
-    }
-  },
-  {
-    "id": "GS700",
-    "model": "GS700",
-    "name": "Redragon GS700 TOCCATA 2.1 RGB Gaming Speaker",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "2.1 channel with subwoofer for deep bass",
-      "RGB backlit speakers",
-      "USB powered + 3.5mm connection",
-      "Volume and bass control knobs",
-      "Designed for gaming and multimedia use"
-    ],
-    "specifications": {
-      "Channels": "2.1 (with Subwoofer)",
-      "Connection": "USB + 3.5mm",
-      "RGB Lighting": "Yes"
-    }
-  },
-  {
-    "id": "GS811",
-    "model": "GS811",
-    "name": "Redragon GS811 ORCHESTRA 2.0 Bluetooth RGB Speaker",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "2.0 Bluetooth stereo speaker",
-      "RGB lighting with multiple effects",
-      "Wireless Bluetooth pairing + wired AUX",
-      "Full-range audio driver unit",
-      "Compact desktop form factor"
-    ],
-    "specifications": {
-      "Channels": "2.0 Stereo",
-      "Connectivity": "Bluetooth + AUX",
-      "RGB Lighting": "Yes"
-    }
-  },
-  {
-    "id": "GS812",
-    "model": "GS812",
-    "name": "Redragon GS812 ANDANTE Wireless RGB Wooden Desktop Speakers",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/andante-gs812-wireless-pc-speakers",
-    "features": [
-      "2.0 channel bookshelf speaker with Bluetooth 5.0 + 3.5mm AUX",
-      "Premium wooden enclosure for natural acoustic resonance",
-      "Dynamic RGB lighting bar on back panel",
-      "Enhanced bass and volume knob control",
-      "Extra mic/audio jacks for versatility"
-    ],
-    "specifications": {
-      "Channels": "2.0 Bookshelf",
-      "Connectivity": "BT 5.0 + 3.5mm AUX",
-      "Enclosure": "Wooden",
-      "RGB Lighting": "Dynamic RGB Bar",
-      "Extra Jacks": "Mic + Audio"
-    }
-  },
-  {
-    "id": "GS813",
-    "model": "GS813",
-    "name": "Redragon GS813 2.0 Wireless Desktop Speakers 20W",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "2.0 channel bookshelf speaker with powerful 20W output",
-      "Bluetooth 5.0 + 3.5mm AUX connection",
-      "Enhanced bass and treble knob control",
-      "TF card and USB flash drive support",
-      "Premium sound quality for music and gaming"
-    ],
-    "specifications": {
-      "Channels": "2.0 Bookshelf",
-      "Max Power": "20W",
-      "Connectivity": "BT 5.0 + 3.5mm AUX",
-      "Storage Input": "TF Card + USB Flash"
-    }
-  },
-  {
-    "id": "GS814",
-    "model": "GS814",
-    "name": "Redragon GS814 2.0 Bluetooth Premium Desktop Speakers",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "Bluetooth 5.0 wireless for stable lossless audio",
-      "2.5-inch audio bass driver unit",
-      "Premium sound quality with no-delay transmission",
-      "Stereo desktop speaker design",
-      "Compatible with phone, tablet, laptop, and PC"
-    ],
-    "specifications": {
-      "Channels": "2.0 Stereo",
-      "Connectivity": "BT 5.0",
-      "Driver": "2.5-inch Bass Unit",
-      "Audio": "Lossless BT Transmission"
-    }
-  },
-  {
-    "id": "GS815",
-    "model": "GS815",
-    "name": "Redragon GS815 JANNA Multi Gaming Soundbar",
-    "category": "Speaker",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/gaming-speakers",
-    "features": [
-      "Multi-purpose soundbar for gaming and TV",
-      "Wide sound stage for immersive audio",
-      "Multiple input options",
-      "Sleek horizontal bar design",
-      "Compatible with gaming consoles and PCs"
-    ],
-    "specifications": {
-      "Form Factor": "Soundbar",
-      "Use": "Gaming / TV"
-    }
-  },
-  {
-    "id": "GW600",
-    "model": "GW600",
-    "name": "Redragon GW600 SKYWALK HD Webcam",
-    "category": "Webcam",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/webcam",
-    "features": [
-      "720p (1296x732) HD resolution",
-      "Fixed focus lens, FOV 68.6°",
-      "30fps smooth video capture",
-      "USB plug & play — no drivers required",
-      "Auto controls for saturation, contrast, white balance",
-      "Focus range: 50cm to infinity"
-    ],
-    "specifications": {
-      "Resolution": "720p (1296x732)",
-      "Frame Rate": "30fps",
-      "Focus": "Fixed Focus",
-      "FOV": "68.6°",
-      "Connection": "USB",
-      "Pixel Size": "3.0μm x 3.0μm"
-    }
-  },
-  {
-    "id": "GW800",
-    "model": "GW800",
-    "name": "Redragon GW800 1080P Webcam with Built-in Dual Microphone",
-    "category": "Webcam",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/gw800-1080p-webcam",
-    "features": [
-      "1080p Full HD resolution for clear video",
-      "Built-in dual microphone for clear voice pickup",
-      "360° rotation for flexible positioning",
-      "USB 2.0 plug & play",
-      "Auto light correction for various lighting conditions",
-      "Compatible with Skype, Zoom, Teams, and more"
-    ],
-    "specifications": {
-      "Resolution": "1080p Full HD",
-      "Microphone": "Built-in Dual Mic",
-      "Rotation": "360°",
-      "Connection": "USB 2.0",
-      "Compatibility": "Windows / Mac / Linux"
-    }
-  },
-  {
-    "id": "GW801",
-    "model": "GW801",
-    "name": "Redragon GW801 HITMAN+ 1080P 60FPS Webcam",
-    "category": "Webcam",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/webcam",
-    "features": [
-      "1080p Full HD at 60 frames per second",
-      "360° rotation for versatile placement",
-      "Clip-on stand design for monitor or laptop",
-      "Auto controls for saturation, contrast, white balance, exposure",
-      "UVC driver support — plug & play on Windows XP/7/8/10, Linux",
-      "Fixed focus for consistent sharp image"
-    ],
-    "specifications": {
-      "Resolution": "1080p Full HD",
-      "Frame Rate": "60fps",
-      "Rotation": "360°",
-      "Focus": "Fixed Focus",
-      "Driver": "UVC (Plug & Play)",
-      "Compatibility": "Windows XP/7/8/10 / Linux / Mac"
-    }
-  },
-  {
-    "id": "GW910",
-    "model": "GW910",
-    "name": "Redragon GW910 ONESHOT 1080P Autofocus Webcam",
-    "category": "Webcam",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/gw910-1080p-pc-webcam",
-    "features": [
-      "1080p Full HD with autofocus for crisp, sharp image",
-      "6 double-sided anti-reflective optical lenses",
-      "1.8m magnetic ring anti-interference cable",
-      "2-channel stereo noise-reducing built-in microphone",
-      "30fps smooth video for streaming and calls",
-      "USB plug & play"
-    ],
-    "specifications": {
-      "Resolution": "1080p Full HD",
-      "Frame Rate": "30fps",
-      "Focus": "Autofocus",
-      "Lenses": "6 Optical (Anti-Reflective)",
-      "Microphone": "2-Channel Stereo Noise-Reducing",
-      "Connection": "USB"
-    }
-  },
-  {
-    "id": "GM89",
-    "model": "GM89",
-    "name": "Redragon GM89 USB Desktop RGB Microphone",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "USB desktop condenser microphone",
-      "RGB lighting for gaming aesthetics",
-      "Designed for studio, office, and speech recording",
-      "Professional audio quality for PC streaming",
-      "Plug & play USB connection",
-      "Cardioid pickup pattern for focused capture"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "Pickup": "Cardioid",
-      "RGB Lighting": "Yes",
-      "Connection": "USB",
-      "Use": "Streaming / Studio / Office"
-    }
-  },
-  {
-    "id": "GM211",
-    "model": "GM211",
-    "name": "Redragon GM211 Streaming Microphone",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Professional streaming microphone",
-      "Crystal-clear audio capture for streamers and content creators",
-      "USB connection, plug & play",
-      "Cardioid pickup pattern reduces background noise",
-      "Compact desktop design with tripod stand"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "Pickup": "Cardioid",
-      "Connection": "USB",
-      "Use": "Streaming / Podcast / Recording"
-    }
-  },
-  {
-    "id": "GM212",
-    "model": "GM212",
-    "name": "Redragon GM212 ADNE RGB Streaming Microphone with Pop Filter",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "RGB backlit for gaming desk aesthetics",
-      "Includes pop filter for clean vocal recordings",
-      "Type-C USB connection for modern devices",
-      "Cardioid pickup minimizes background interference",
-      "Ideal for streaming, podcast, and voice recording"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "Pickup": "Cardioid",
-      "RGB Lighting": "Yes",
-      "Connection": "Type-C USB",
-      "Accessories": "Pop Filter Included"
-    }
-  },
-  {
-    "id": "GM300",
-    "model": "GM300",
-    "name": "Redragon GM300 BLAZAR USB Streaming Microphone",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Patented full metal construction for durability",
-      "Cardioid pickup — captures front/sides, rejects rear noise",
-      "Circle LED with custom color options",
-      "One-button volume control and mute",
-      "USB-B to USB-A connection",
-      "Tripod stand included"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "Pickup": "Cardioid",
-      "Frequency Response": "50Hz–16kHz",
-      "Sensitivity": "-38±3dB",
-      "Impedance": "2.2kΩ",
-      "Power": "USB DC 5V",
-      "Cable Length": "1.5m",
-      "Connection": "USB-B to USB-A"
-    }
-  },
-  {
-    "id": "GM301",
-    "model": "GM301",
-    "name": "Redragon GM301 FENRIS Streaming Microphone",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Professional streaming and podcast microphone",
-      "High-quality condenser capsule",
-      "USB connection plug & play",
-      "Cardioid polar pattern for focused audio",
-      "Adjustable arm-compatible design"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "Pickup": "Cardioid",
-      "Connection": "USB",
-      "Use": "Streaming / Podcast"
-    }
-  },
-  {
-    "id": "GM305",
-    "model": "GM305",
-    "name": "Redragon GM305 ECHOWAVE Dynamic RGB Gaming Microphone",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Dynamic RGB light effects for gaming desk setup",
-      "Gaming-focused microphone design",
-      "Clear voice capture for in-game communication",
-      "USB connection, plug & play",
-      "Dynamic lighting syncs with audio"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "RGB Lighting": "Dynamic Effects",
-      "Connection": "USB",
-      "Use": "Gaming / Streaming"
-    }
-  },
-  {
-    "id": "GM306",
-    "model": "GM306",
-    "name": "Redragon GM306 Streaming Microphone",
-    "category": "Microphone",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/redragon-product",
-    "features": [
-      "Professional-grade streaming microphone",
-      "High-fidelity condenser capsule for studio-quality audio",
-      "USB plug & play connection",
-      "Cardioid pickup for focused voice capture",
-      "Ideal for streamers, podcasters, and content creators"
-    ],
-    "specifications": {
-      "Type": "USB Condenser",
-      "Pickup": "Cardioid",
-      "Connection": "USB",
-      "Use": "Streaming / Podcast / Studio"
-    }
-  },
-  {
-    "id": "MA301",
-    "model": "MA301",
-    "name": "Redragon MA301 HODER Gaming Mouse Cable Management",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Keeps mouse cable elevated and tangle-free",
-      "Reduces cable drag for smoother mouse movement",
-      "Strong adhesive base sticks to any desk surface",
-      "Compact and unobtrusive design",
-      "Compatible with all wired gaming mice"
-    ],
-    "specifications": {
-      "Color": "Black",
-      "Compatibility": "All Wired Mice",
-      "Mount": "Adhesive Base"
-    }
-  },
-  {
-    "id": "A115B",
-    "model": "A115B",
-    "name": "Redragon A115B Type-C USB Coiled Spring Cable (Black)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Type-C to USB-A coiled spring cable",
-      "Stretches and retracts to reduce cable clutter",
-      "Reduces desk drag for smoother mouse movement",
-      "Compatible with Type-C gaming mice",
-      "Black colorway for clean desk aesthetics"
-    ],
-    "specifications": {
-      "Connector": "Type-C to USB-A",
-      "Style": "Coiled Spring",
-      "Color": "Black"
-    }
-  },
-  {
-    "id": "A115W",
-    "model": "A115W",
-    "name": "Redragon A115W Type-C USB Coiled Spring Cable (White)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Type-C to USB-A coiled spring cable",
-      "Stretches and retracts to reduce cable clutter",
-      "Reduces desk drag for smoother mouse movement",
-      "Compatible with Type-C gaming mice",
-      "White colorway for clean desk aesthetics"
-    ],
-    "specifications": {
-      "Connector": "Type-C to USB-A",
-      "Style": "Coiled Spring",
-      "Color": "White"
-    }
-  },
-  {
-    "id": "GA250",
-    "model": "GA250",
-    "name": "Redragon GA250 VULCAN KB+Mouse Adapter for PS4/Xbox/Switch",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/products/vulcan-ga250",
-    "features": [
-      "Keyboard & mouse adapter for PS4, Xbox One, Switch, PS3",
-      "Play FPS games like PUBG and Fortnite with KB+Mouse on console",
-      "2.4GHz wireless dongle support",
-      "USB plug & play, no additional software needed",
-      "Compact dongle-sized design"
-    ],
-    "specifications": {
-      "Compatibility": "PS4 / Xbox One / Switch / PS3",
-      "Connection": "USB",
-      "Wireless": "2.4GHz Dongle Support"
-    }
-  },
-  {
-    "id": "UCA-4",
-    "model": "UCA-4",
-    "name": "Redragon UCA-4 4-Port USB-C Hub",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "4K HDMI output at 60Hz refresh rate",
-      "Two USB-A 5Gbps ports for fast data transfer",
-      "USB-C PD port: 100W input / 90W pass-through charging",
-      "Compatible with USB-C, USB4, and Thunderbolt devices",
-      "Compact portable hub design"
-    ],
-    "specifications": {
-      "HDMI": "4K @ 60Hz",
-      "USB-A Ports": "2x 5Gbps",
-      "USB-C PD": "100W in / 90W pass-through",
-      "Compatibility": "USB-C / USB4 / Thunderbolt"
-    }
-  },
-  {
-    "id": "HA300",
-    "model": "HA300",
-    "name": "Redragon HA300 SCEPTER PRO RGB Headset Stand",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "RGB backlit headphone stand",
-      "Aluminum supporting bar for durability",
-      "Stable weighted base prevents tipping",
-      "Cable management hook",
-      "Compatible with all gaming headsets"
-    ],
-    "specifications": {
-      "Material": "Aluminum + Base",
-      "RGB Lighting": "Yes",
-      "Compatibility": "Universal — All Headsets"
-    }
-  },
-  {
-    "id": "A106",
-    "model": "A106",
-    "name": "Redragon A106 104 Steampunk Typewriter Keycaps (Black)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "104 keycap set in vintage steampunk typewriter style",
-      "Black color with retro character printing",
-      "US layout ANSI standard",
-      "Compatible with most MX-style mechanical keyboards",
-      "Durable ABS material"
-    ],
-    "specifications": {
-      "Keys": "104",
-      "Style": "Vintage Steampunk",
-      "Layout": "US ANSI",
-      "Color": "Black",
-      "Compatibility": "MX-Style Switches"
-    }
-  },
-  {
-    "id": "A107",
-    "model": "A107",
-    "name": "Redragon A107 104 Steampunk Typewriter Keycaps (Black)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "104 keycap set in vintage steampunk typewriter style",
-      "Black color with unique retro typography",
-      "US layout ANSI standard",
-      "Compatible with most MX-style mechanical keyboards",
-      "Durable construction for long-lasting use"
-    ],
-    "specifications": {
-      "Keys": "104",
-      "Style": "Vintage Steampunk",
-      "Layout": "US ANSI",
-      "Color": "Black",
-      "Compatibility": "MX-Style Switches"
-    }
-  },
-  {
-    "id": "A111",
-    "model": "A111",
-    "name": "Redragon A111 104-Key Black Pudding Keycaps",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "104 keys full set double-shot PBT pudding keycaps",
-      "Translucent lower half maximizes RGB shine-through",
-      "OEM profile for comfortable typing angle",
-      "US ANSI layout",
-      "Compatible with MX-style switches"
-    ],
-    "specifications": {
-      "Keys": "104",
-      "Material": "Double-Shot PBT",
-      "Profile": "OEM",
-      "Style": "Pudding (Translucent Layer)",
-      "Layout": "US ANSI",
-      "Color": "Black + Translucent"
-    }
-  },
-  {
-    "id": "A113R",
-    "model": "A113R",
-    "name": "Redragon A113 BULLET-R 24-Piece Linear Switch Kit",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "24 quiet linear mechanical switches for hot-swap keyboards",
-      "50 million click lifespan",
-      "Smooth linear actuation with no tactile bump",
-      "MX-style compatible with most hot-swap keyboards",
-      "Includes keycap and switch puller tools"
-    ],
-    "specifications": {
-      "Quantity": "24 Switches",
-      "Type": "Linear (Quiet)",
-      "Lifespan": "50 Million Clicks",
-      "Compatibility": "MX-Style Hot-Swap",
-      "Includes": "Switch + Keycap Puller"
-    }
-  },
-  {
-    "id": "A113B",
-    "model": "A113B",
-    "name": "Redragon A113B BULLET-B 24-Piece Blue Switch Kit",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "24 clicky Blue mechanical switches for hot-swap keyboards",
-      "50 million click lifespan",
-      "Tactile click feedback for confident keystrokes",
-      "MX-style compatible with most hot-swap keyboards",
-      "Great for keyboard customization enthusiasts"
-    ],
-    "specifications": {
-      "Quantity": "24 Switches",
-      "Type": "Blue (Clicky, Tactile)",
-      "Lifespan": "50 Million Clicks",
-      "Compatibility": "MX-Style Hot-Swap"
-    }
-  },
-  {
-    "id": "A118HPPC",
-    "model": "A118HPPC",
-    "name": "Redragon A118 HP Custom Pre-Lubed Tactile Switch Kit",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Custom pre-lubed HP tactile switches for DIY enthusiasts",
-      "50gf tactile actuation force",
-      "POM material for superior tenacity and durability",
-      "Unique spotlight design illuminates keyboard lighting",
-      "100 million keystroke lifespan",
-      "MX-style compatible with most keycap sets"
-    ],
-    "specifications": {
-      "Type": "Tactile (Pre-Lubed)",
-      "Actuation Force": "50gf",
-      "Material": "POM",
-      "Lifespan": "100 Million Keystrokes",
-      "Compatibility": "MX-Style"
-    }
-  },
-  {
-    "id": "P012",
-    "model": "P012",
-    "name": "Redragon P012 Premium Stitched Edge Mouse Pad",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Premium-textured micro-weave surface for precise tracking",
-      "Stitched edges for long-lasting durability",
-      "Non-slip rubber base stays in place",
-      "Smooth glide for both optical and laser mice",
-      "Size: 12.8 x 10 x 0.11 inches"
-    ],
-    "specifications": {
-      "Size": "12.8 x 10 x 0.11 inches",
-      "Surface": "Micro-Weave Texture",
-      "Edges": "Stitched",
-      "Base": "Non-Slip Rubber"
-    }
-  },
-  {
-    "id": "P016",
-    "model": "P016",
-    "name": "Redragon P016 PISCES Gaming Mouse Mat",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Smooth gaming surface for accurate tracking",
-      "Non-slip rubber base for stability",
-      "Compatible with all mouse types (optical and laser)",
-      "Stitched edges for durability",
-      "Medium size for most desk setups"
-    ],
-    "specifications": {
-      "Surface": "Smooth Gaming Texture",
-      "Base": "Non-Slip Rubber",
-      "Edges": "Stitched"
-    }
-  },
-  {
-    "id": "P022",
-    "model": "P022",
-    "name": "Redragon P022 Memory Foam Keyboard Wrist Rest",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Memory foam padding reduces wrist fatigue",
-      "Ergonomic cushion for office and gaming keyboards",
-      "Non-slip base stays in position",
-      "Compatible with full-size and TKL keyboards",
-      "Dimensions: 3.30 x 0.91 x 16.97 inches"
-    ],
-    "specifications": {
-      "Material": "Memory Foam",
-      "Size": "3.30 x 0.91 x 16.97 inches",
-      "Base": "Non-Slip",
-      "Use": "Full-Size / TKL Keyboards"
-    }
-  },
-  {
-    "id": "P032",
-    "model": "P032",
-    "name": "Redragon P032 FLICK XL Gaming Mouse Pad — 900x400mm",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "XL desk coverage: 900 x 400 x 4mm",
-      "Smooth surface optimized for gaming precision",
-      "Non-slip rubber base",
-      "Stitched edges for durability",
-      "Covers full keyboard and mouse area"
-    ],
-    "specifications": {
-      "Size": "900 x 400 x 4mm",
-      "Edges": "Stitched",
-      "Base": "Non-Slip Rubber",
-      "Thickness": "4mm"
-    }
-  },
-  {
-    "id": "P033",
-    "model": "P033",
-    "name": "Redragon P033 RGB LED XL Gaming Mouse Pad with Stitched Edges",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "XL size: 31.5 x 11.8 x 0.16 inches for full desk coverage",
-      "RGB LED backlit border lighting",
-      "Non-slip rubber base for stability",
-      "Stitched edges for long-lasting durability",
-      "Smooth surface for accurate mouse tracking"
-    ],
-    "specifications": {
-      "Size": "31.5 x 11.8 x 0.16 inches",
-      "RGB Lighting": "Yes, LED Border",
-      "Base": "Non-Slip Rubber",
-      "Edges": "Stitched"
-    }
-  },
-  {
-    "id": "P036",
-    "model": "P036",
-    "name": "Redragon P036 METEOR M Memory Foam Wrist Rest (TKL Size)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Memory foam wrist support for comfortable typing",
-      "Anti-slip rubber base keeps it in place",
-      "TKL / 80% keyboard size: 14.13 x 2.87 inches",
-      "20mm height for optimal wrist alignment",
-      "Soft surface reduces pressure on wrists"
-    ],
-    "specifications": {
-      "Material": "Memory Foam",
-      "Size": "14.13 x 2.87 inches",
-      "Height": "20mm",
-      "Base": "Anti-Slip Rubber",
-      "For Keyboard": "TKL / 80% Layout"
-    }
-  },
-  {
-    "id": "GM24X5IPS",
-    "model": "GM24X5IPS",
-    "name": "Redragon GM24X5IPS 24\" IPS Gaming Monitor 200Hz",
-    "category": "Monitor",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/all-products",
-    "features": [
-      "24-inch IPS panel for wide viewing angles and accurate colors",
-      "200Hz refresh rate for ultra-smooth gameplay",
-      "AMD FreeSync for tear-free gaming",
-      "1800R curvature for immersive depth",
-      "Full HD 1920x1080 resolution",
-      "Game Mode and Eye Saver for prolonged sessions"
-    ],
-    "specifications": {
-      "Panel": "IPS",
-      "Size": "24 Inch",
-      "Resolution": "1920x1080 Full HD",
-      "Refresh Rate": "200Hz",
-      "Curvature": "1800R",
-      "AMD FreeSync": "Yes",
-      "Game Mode": "Yes",
-      "Eye Saver": "Yes"
-    }
-  },
-  {
-    "id": "GMK915",
-    "model": "GMK915",
-    "name": "Redragon GMK915 Dual Monitor Mount Stand — Gas Spring",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Dual monitor gas spring adjustable arms",
-      "VESA 75/100mm compatible for most monitors",
-      "Fits 13–32 inch screens",
-      "C-clamp and grommet base mounting options",
-      "Built-in cable management for clean desk setup",
-      "17.6 lbs load capacity per arm"
-    ],
-    "specifications": {
-      "Type": "Dual Monitor Mount",
-      "Arm Type": "Gas Spring",
-      "VESA": "75/100mm",
-      "Screen Size": "13–32 Inch",
-      "Mount": "C-Clamp + Grommet",
-      "Load Capacity": "17.6 lbs per arm"
-    }
-  },
-  {
-    "id": "GC-F006",
-    "model": "GC-F006",
-    "name": "Redragon GC-F006 120mm RGB PC Fan — 3-Pack",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "120mm RGB fan with 15 LEDs and 7 color options",
-      "Package includes 3 RGB fans + 1 connector + 1 remote control",
-      "6-pin connector for hub control",
-      "Compatible with standard 120mm fan mounts",
-      "RGB synchronization with included remote"
-    ],
-    "specifications": {
-      "Size": "120mm",
-      "LEDs": "15 LEDs, 7 Colors",
-      "Connector": "6-Pin",
-      "Package": "3 Fans + Connector + Remote"
-    }
-  },
-  {
-    "id": "GC-F007",
-    "model": "GC-F007",
-    "name": "Redragon GC-F007 120mm RGB Full-Color Fan — 3-Pack + Controller",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "120mm full-color RGB fans",
-      "1200 RPM ±10% speed, 11 fan vanes",
-      "23.2 dB(A) noise level, 36 CFM ±10% airflow",
-      "8 silicon pads for vibration reduction",
-      "Package: 3 fans + 6-in-1 control box + 1 remote",
-      "1x6 PIN 12V connect cable"
-    ],
-    "specifications": {
-      "Size": "120mm",
-      "Speed": "1200 RPM ±10%",
-      "Noise": "23.2 dB(A)",
-      "Airflow": "36 CFM ±10%",
-      "Connector": "6-in-1 Control Box",
-      "Package": "3 Fans + Control Box + Remote"
-    }
-  },
-  {
-    "id": "GC-F008",
-    "model": "GC-F008",
-    "name": "Redragon GC-F008 120mm RGB Turbo Fan — 3-Pack",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "120mm RGB full-color turbo fans",
-      "57 switchable backlight modes",
-      "10-pin port connector for central control",
-      "Package: 3 fans + connector + remote controller",
-      "High airflow turbo blade design"
-    ],
-    "specifications": {
-      "Size": "120mm",
-      "Lighting Modes": "57",
-      "Connector": "10-Pin",
-      "Package": "3 Turbo Fans + Connector + Remote"
-    }
-  },
-  {
-    "id": "GC-F011",
-    "model": "GC-F011",
-    "name": "Redragon GC-F011 120mm RGB Turbo Fan — 3-Pack + 10-in-1 Box",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "120mm full-color RGB turbo fans",
-      "57 switchable backlight modes",
-      "10-in-1 control box for unified management",
-      "Package: 3 fans + 10-in-1 control box + remote",
-      "High performance airflow for gaming builds"
-    ],
-    "specifications": {
-      "Size": "120mm",
-      "Lighting Modes": "57",
-      "Control": "10-in-1 Box",
-      "Package": "3 Turbo Fans + 10-in-1 Box + Remote"
-    }
-  },
-  {
-    "id": "GC608PRO",
-    "model": "GC608PRO",
-    "name": "Redragon GC608PRO ATX Mid-Tower RGB Gaming Case",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "ATX / Micro-ATX motherboard support",
-      "Tempered glass front and left panels with RGB backlight",
-      "Dimensions: 410 x 215 x 450mm",
-      "IO: USB 3.0 x1, USB 2.0 x2, HD Audio",
-      "Fan slots: 120mm x2 front, 120mm x1 top, 120mm x1 rear",
-      "Includes 2 RGB double-ring fans + control box"
-    ],
-    "specifications": {
-      "Form Factor": "ATX / Micro-ATX",
-      "Dimensions": "410 x 215 x 450mm",
-      "Panel": "Tempered Glass Front + Left",
-      "IO": "USB 3.0 x1 + USB 2.0 x2 + HD Audio",
-      "Fan Slots": "120mm x2 Front, x1 Top, x1 Rear",
-      "Included Fans": "2 RGB Double-Ring"
-    }
-  },
-  {
-    "id": "GC702",
-    "model": "GC702",
-    "name": "Redragon GC702 ATX Mid-Tower Full-Window RGB Gaming Case",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "ATX / Micro-ATX support",
-      "Tempered glass front, left, and right panels",
-      "Dimensions: 437 x 218 x 495mm",
-      "IO: USB 3.0 x1, USB 2.0 x2, HD Audio",
-      "Fan slots: 120mm x2 front, 120mm x2 top, 120mm x1 rear",
-      "Includes 3 RGB double-ring fans + control box"
-    ],
-    "specifications": {
-      "Form Factor": "ATX / Micro-ATX",
-      "Dimensions": "437 x 218 x 495mm",
-      "Panel": "Tempered Glass Front + Left + Right",
-      "IO": "USB 3.0 x1 + USB 2.0 x2 + HD Audio",
-      "Fan Slots": "120mm x2 Front, x2 Top, x1 Rear",
-      "Included Fans": "3 RGB Double-Ring"
-    }
-  },
-  {
-    "id": "GC801",
-    "model": "GC801",
-    "name": "Redragon GC801 ATX Full-Tower 12-Fan RGB Gaming Case",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "ATX standard full-tower with all tempered glass panels",
-      "CNC aluminum screws for premium build quality",
-      "Supports 240/280/360mm radiator front, 240/280mm top",
-      "Total 12 fan capacity across front, top, rear, PSU",
-      "Dimensions: 450 x 210 x 530mm",
-      "IO: USB 3.0 x2, USB 1.1 x2, HD Audio"
-    ],
-    "specifications": {
-      "Form Factor": "ATX Full-Tower",
-      "Dimensions": "450 x 210 x 530mm",
-      "Panel": "Full Tempered Glass All Sides",
-      "IO": "USB 3.0 x2 + USB 1.1 x2 + HD Audio",
-      "Max Fans": "12 x 120mm",
-      "Radiator": "Up to 360mm Front, 280mm Top, 120mm Rear",
-      "Fasteners": "CNC Aluminum Screws"
-    }
-  },
-  {
-    "id": "GS-PS003",
-    "model": "GS-PS003",
-    "name": "Redragon GS-PS003 600W 80+ Bronze ATX Power Supply",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "600W ATX power supply with 80+ Bronze certification",
-      "Active PFC for efficient power factor correction",
-      "14cm fan for effective silent cooling",
-      "Connectors: 24P, 8P CPU, 2x 8P(6+2) PCIE, 6x SATA, 3x IDE",
-      "Dimensions: 160 x 150 x 86mm",
-      "1.5m EU AC power cable"
-    ],
-    "specifications": {
-      "Wattage": "600W",
-      "Efficiency": "80+ Bronze",
-      "PFC": "Active PFC",
-      "Fan": "14cm",
-      "Connectors": "24P, CPU 8P, PCIE 8Px2, SATA x6, IDE x3",
-      "Dimensions": "160 x 150 x 86mm"
-    }
-  },
-  {
-    "id": "GS-PS005",
-    "model": "GS-PS005",
-    "name": "Redragon GS-PS005 700W 80+ Bronze ATX Power Supply",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "700W ATX power supply with 80+ Bronze certification",
-      "Active PFC for efficient power conversion",
-      "14cm fan for quiet, effective cooling",
-      "Connectors: 24P, 2x 8P CPU, 2x 8P(6+2) PCIE, 6x SATA, 3x IDE",
-      "Dimensions: 160 x 150 x 86mm",
-      "1.5m AC power cable"
-    ],
-    "specifications": {
-      "Wattage": "700W",
-      "Efficiency": "80+ Bronze",
-      "PFC": "Active PFC",
-      "Fan": "14cm",
-      "Connectors": "24P, CPU 8Px2, PCIE 8Px2, SATA x6, IDE x3",
-      "Dimensions": "160 x 150 x 86mm"
-    }
-  },
-  {
-    "id": "C501-RED",
-    "model": "C501-RED",
-    "name": "Redragon C501 Gaming Chair (Red)",
-    "category": "Chair",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/all-products",
-    "features": [
-      "PU leather + fabric upholstery for comfort and durability",
-      "150kg weight bearing capacity",
-      "Plywood frame construction",
-      "210° tilt mechanism with original locking",
-      "100/30mm gas lift for height adjustment",
-      "350mm nylon base with PU casters",
-      "3-year parts warranty"
-    ],
-    "specifications": {
-      "Dimensions": "69 x 117+7.5 x 67cm",
-      "Weight Capacity": "150kg",
-      "Frame": "Plywood",
-      "Upholstery": "PU Leather + Fabric",
-      "Tilt": "210°",
-      "Gas Lift": "100/30mm",
-      "Base": "350mm Nylon",
-      "Casters": "PU",
-      "Warranty": "3 Years (Parts)",
-      "Color": "Red"
-    }
-  },
-  {
-    "id": "C501-BLUE",
-    "model": "C501-BLUE",
-    "name": "Redragon C501 Gaming Chair (Blue)",
-    "category": "Chair",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/all-products",
-    "features": [
-      "PU leather + fabric upholstery for comfort and durability",
-      "150kg weight bearing capacity",
-      "Plywood frame construction",
-      "210° tilt mechanism with original locking",
-      "100/30mm gas lift for height adjustment",
-      "350mm nylon base with PU casters",
-      "3-year parts warranty"
-    ],
-    "specifications": {
-      "Dimensions": "69 x 117+7.5 x 67cm",
-      "Weight Capacity": "150kg",
-      "Frame": "Plywood",
-      "Upholstery": "PU Leather + Fabric",
-      "Tilt": "210°",
-      "Gas Lift": "100/30mm",
-      "Base": "350mm Nylon",
-      "Casters": "PU",
-      "Warranty": "3 Years (Parts)",
-      "Color": "Blue"
-    }
-  },
-  {
-    "id": "C601-RED",
-    "model": "C601-RED",
-    "name": "Redragon C601 Gaming Chair (Red)",
-    "category": "Chair",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/all-products",
-    "features": [
-      "Larger frame for extra comfort: 66 x 125+7.5 x 72cm",
-      "150kg weight bearing capacity",
-      "Plywood frame with PU leather + fabric upholstery",
-      "210° tilt mechanism with locking",
-      "100/30mm gas lift",
-      "350mm nylon base with PU casters"
-    ],
-    "specifications": {
-      "Dimensions": "66 x 125+7.5 x 72cm",
-      "Weight Capacity": "150kg",
-      "Frame": "Plywood",
-      "Upholstery": "PU Leather + Fabric",
-      "Tilt": "210°",
-      "Gas Lift": "100/30mm",
-      "Base": "350mm Nylon",
-      "Color": "Red"
-    }
-  },
-  {
-    "id": "C602-RED",
-    "model": "C602-RED",
-    "name": "Redragon C602 Premium Gaming Chair (Red)",
-    "category": "Chair",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/all-products",
-    "features": [
-      "PVC leather with 1.5mm metal reinforced main frame",
-      "50-density moulded foam for seat and backrest",
-      "2D adjustable armrest with soft PU padded",
-      "Butterfly mechanism for smooth recline",
-      "Class 3 gas lift with 100mm adjustable height",
-      "350mm metal base with 60mm PU wheels"
-    ],
-    "specifications": {
-      "Dimensions": "80 x 52 x 50cm",
-      "Frame": "Metal 1.5mm",
-      "Upholstery": "PVC Leather",
-      "Foam": "50-Density Moulded",
-      "Armrest": "2D Adjustable",
-      "Mechanism": "Butterfly",
-      "Gas Lift": "Class 3, 100mm",
-      "Base": "350mm Metal",
-      "Wheels": "60mm PU",
-      "Color": "Red"
-    }
-  },
-  {
-    "id": "C211",
-    "model": "C211",
-    "name": "Redragon C211 Premium Gaming Chair",
-    "category": "Chair",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/all-products",
-    "features": [
-      "Durable PVC leather (1.5mm thickness) with metal frame",
-      "50-density moulded foam for long-term comfort",
-      "2D adjustable armrests with soft PU padding",
-      "Butterfly mechanism for smooth recline",
-      "Class 4 gas lift for higher height adjustment",
-      "BIFMA-certified 350mm nylon base with 60mm PU wheels"
-    ],
-    "specifications": {
-      "Frame": "Metal",
-      "Upholstery": "PVC Leather",
-      "Foam": "50-Density Moulded",
-      "Armrest": "2D Adjustable PU",
-      "Mechanism": "Butterfly",
-      "Gas Lift": "Class 4",
-      "Base": "350mm Nylon",
-      "Wheels": "BIFMA 60mm PU"
-    }
-  },
-  {
-    "id": "BS-7162MAX",
-    "model": "BS-7162MAX",
-    "name": "Redragon BS-7162MAX Wireless Ergonomic Keyboard & Mouse Bundle",
-    "category": "Combo",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/combo",
-    "features": [
-      "2.4GHz wireless keyboard and mouse bundle",
-      "Ergonomic keyboard design for comfortable long-hour typing",
-      "Up to 10m wireless range",
-      "Single USB dongle connects both devices",
-      "Compatible with Windows and macOS",
-      "Low-latency wireless for responsive use"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "Wireless Range": "Up to 10m",
-      "Dongle": "Single USB for both",
-      "Compatibility": "Windows / macOS"
-    }
-  },
-  {
-    "id": "BS-7094",
-    "model": "BS-7094",
-    "name": "Redragon BS-7094 Wireless Keyboard & Mouse Combo",
-    "category": "Combo",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/combo",
-    "features": [
-      "Full-size keyboard with compact ambidextrous mouse",
-      "Single USB dongle connects both devices",
-      "Advanced 2.4GHz wireless up to 10m range",
-      "Compatible with Windows XP/7/8/10 and macOS",
-      "Ergonomic mouse for comfortable left/right hand use"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "Wireless Range": "Up to 10m",
-      "Mouse": "Compact Ambidextrous",
-      "Compatibility": "Windows XP/7/8/10 / macOS"
-    }
-  },
-  {
-    "id": "BS-7092",
-    "model": "BS-7092",
-    "name": "Redragon BS-7092 Wired Keyboard & Mouse Office Combo",
-    "category": "Combo",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/combo",
-    "features": [
-      "Wired keyboard and mouse combo for reliable office use",
-      "Full-size keyboard layout",
-      "Plug & play USB connection",
-      "Wide compatibility with Windows and macOS",
-      "Budget-friendly office solution"
-    ],
-    "specifications": {
-      "Connectivity": "USB Wired",
-      "Keyboard": "Full-Size",
-      "Compatibility": "Windows / macOS"
-    }
-  },
-  {
-    "id": "BM-2638B",
-    "model": "BM-2638B",
-    "name": "Redragon BM-2638B 2.4G Wireless Office Mouse (Black)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "2.4GHz wireless with USB nano receiver",
-      "2 custom side function buttons",
-      "Ergonomic comfort grip design",
-      "Skin-friendly surface material",
-      "DPI: 800 / 1200 / 1600 adjustable",
-      "Power saving sleep mode"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "DPI": "800 / 1200 / 1600",
-      "Side Buttons": "2 Custom",
-      "Color": "Black",
-      "Power": "Battery + Power Saving Mode"
-    }
-  },
-  {
-    "id": "BM-2638L",
-    "model": "BM-2638L",
-    "name": "Redragon BM-2638L 2.4G Wireless Office Mouse (Left-Handed)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Left-handed ergonomic design for comfortable use",
-      "2.4GHz wireless with USB nano receiver",
-      "3 custom side function buttons",
-      "Skin-friendly surface material",
-      "DPI: 800 / 1200 / 1600 adjustable",
-      "Low battery indicator"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "DPI": "800 / 1200 / 1600",
-      "Side Buttons": "3 Custom",
-      "Design": "Left-Handed Ergonomic"
-    }
-  },
-  {
-    "id": "BM-2638R",
-    "model": "BM-2638R",
-    "name": "Redragon BM-2638R 2.4G Wireless Office Mouse (Right-Handed)",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Right-handed ergonomic design for natural grip",
-      "2.4GHz wireless with USB nano receiver",
-      "4 custom side function buttons",
-      "Skin-friendly surface material",
-      "DPI: 800 / 1200 / 1600 adjustable",
-      "Low battery indicator"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "DPI": "800 / 1200 / 1600",
-      "Side Buttons": "4 Custom",
-      "Design": "Right-Handed Ergonomic"
-    }
-  },
-  {
-    "id": "BM-4054",
-    "model": "BM-4054",
-    "name": "Redragon BM-4054 2.4G Wireless Office Mouse",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "2.4GHz wireless for comfortable cable-free use",
-      "Ergonomic design comfortable for any grip style",
-      "3 standard buttons, no side buttons for clean layout",
-      "DPI: 800 / 1200 / 1600 step indicator",
-      "Lower battery reminder LED",
-      "1x AA battery (not included)"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "DPI": "800 / 1200 / 1600",
-      "Buttons": "3 (No Side Buttons)",
-      "Battery": "1x AA"
-    }
-  },
-  {
-    "id": "BM-4049",
-    "model": "BM-4049",
-    "name": "Redragon BM-4049 Portable 2.4G Wireless Office Mouse",
-    "category": "Accessories",
-    "images": [],
-    "has_image": false,
-    "redragonUrl": "https://redragonshop.com/collections/accessories",
-    "features": [
-      "Compact portable design for travel and office use",
-      "2.4GHz wireless with nano USB receiver",
-      "Ergonomic and durable design reduces fatigue",
-      "1200 DPI tracking engine for precise movement",
-      "Wide compatibility with Windows and Mac",
-      "1x AA battery (not included)"
-    ],
-    "specifications": {
-      "Connectivity": "2.4GHz Wireless",
-      "DPI": "1200",
-      "Battery": "1x AA",
-      "Design": "Compact Portable",
-      "Compatibility": "Windows / Mac"
     }
   }
 ]
