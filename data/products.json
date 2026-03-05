@@ -32,8 +32,7 @@
       "Weight Tuning": "8 x 2.4g Weights",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M801-RGB_Software.exe?v=1767925752"
+    }
   },
   {
     "id": "M602-KS",
@@ -101,9 +100,7 @@
       "RGB Lighting": "7 Backlight Modes",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K525-RGB_setup_1.0.4.3.exe?v=1748484996",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S151_Wired_Combo_User_Manual.pdf?v=1752205165"
+    }
   },
   {
     "id": "M607-white",
@@ -137,8 +134,7 @@
       "Color": "White",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M617-LIT_Software.exe?v=1768205229"
+    }
   },
   {
     "id": "M609",
@@ -172,9 +168,7 @@
       "Weight": "141g",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K525-RGB_setup_1.0.4.3.exe?v=1748484996",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S151_Wired_Combo_User_Manual.pdf?v=1752205165"
+    }
   },
   {
     "id": "m617-lit",
@@ -207,8 +201,7 @@
       "Connectivity": "USB-C Wired",
       "Shell": "Honeycomb",
       "Compatibility": "Windows / Mac / Linux"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M617-LIT_Software.exe?v=1768205229"
+    }
   },
   {
     "id": "m655-ks",
@@ -310,7 +303,8 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 5.1",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Android"
-    }
+    },
+    "softwareUrl": "https://shopify-delivery-app-storage.s3.amazonaws.com/files/1a54a0-a5.myshopify.com/44947582124207/Redragon%C2%A0M694-RGB%2020240914.exe?response-content-disposition=attachment%3B%20filename%3D%22RedragonM694-RGB_20240914.exe%22%3B%20filename%2A%3DUTF-8%27%27Redragon%25C2%25A0M694-RGB%252020240914.exe&X-Amz-Expires=86400&X-Amz-Date=20260109T023537Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVVQOAOKLEK6Q572U%2F20260109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c2e1dc3fe915f156efcec197c1067f6a8d5c5d8d410724687c400eb983300881"
   },
   {
     "id": "m701-RGB",
@@ -347,7 +341,9 @@
       "Dimensions": "117 x 63 x 37mm",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M808_2.4G_Software.zip?v=1620381118",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M808_Wireless_Mouse.pdf?v=1620381232"
   },
   {
     "id": "M703",
@@ -1310,8 +1306,9 @@
     "specs": "Redragon K685 PRO 104 Keys Wireless Gasket RGB Gaming Keyboard, 3-Modes 100% Layout Mechanical Keyboard w/Hot-Swap Socket, Sound Absorbing Pads & Linear Red Switch, Klein Blue & Oia White",
     "price": null,
     "images": [
-      "k685_PYG.jpg",
-      "k685_PYG_2.jpg"
+      "https://redragonshop.com/cdn/shop/files/RedragonK685PROWirelessGasketRGBKeyboard_1.png?v=1762463457",
+      "https://redragonshop.com/cdn/shop/files/RedragonK685PROWirelessGasketRGBKeyboard_1.jpg?v=1710496717",
+      "https://redragonshop.com/cdn/shop/files/RedragonK685PROWirelessGasketRGBKeyboard_2.jpg?v=1710496717"
     ],
     "has_image": true,
     "features": [
