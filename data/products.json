@@ -65,7 +65,8 @@
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M602KS_Software.exe?v=1767780021"
   },
   {
     "id": "M607",
@@ -200,7 +201,8 @@
       "Connectivity": "USB-C Wired",
       "Shell": "Honeycomb",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M617-LIT_Software.exe?v=1768205229"
   },
   {
     "id": "m655-ks",
@@ -517,7 +519,9 @@
       "Software": "Redragon Pro Software",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M724_Gaming_Mouse.exe?v=1718700150",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M724_User_Manual.pdf"
   },
   {
     "id": "m724-white",
@@ -549,7 +553,9 @@
       "Software": "Redragon Pro Software",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M724_Gaming_Mouse.exe?v=1718700150",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M724_User_Manual.pdf"
   },
   {
     "id": "m725_lit",
@@ -616,7 +622,9 @@
       "Cable": "Super-Lite Drag-Free",
       "Connectivity": "USB Wired / 2.4GHz Wireless",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M808_User_Manual_da1b320c-9227-4fc4-9596-a308940295c6.pdf?v=1615268500"
   },
   {
     "id": "M814RGB-PRO",
@@ -650,7 +658,8 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M814RGB-PRO_Software.exe?v=1767925771"
   },
   {
     "id": "m815-pro",
@@ -683,7 +692,8 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Software": "Redragon Pro Software",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M815-PRO_Software.exe?v=1767925770"
   },
   {
     "id": "m816-lit",
@@ -790,7 +800,8 @@
       "Dimensions": "17.6 x 7.9 x 1.2 inches",
       "Weight": "24.80 oz",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K503_Software.exe?v=1768292975"
   },
   {
     "id": "K503_aw",
@@ -824,7 +835,8 @@
       "Color": "White",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K503_Software.exe?v=1768292975"
   },
   {
     "id": "K505",
@@ -993,7 +1005,8 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298"
   },
   {
     "id": "K552_RGB_browb_sw",
@@ -1028,7 +1041,8 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298"
   },
   {
     "id": "k552-KB_Blue_Switch",
@@ -1063,7 +1077,8 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298"
   },
   {
     "id": "k552-KR_Red_Switch",
@@ -1097,7 +1112,9 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552-KRS_Software.exe?v=1768270201",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298"
   },
   {
     "id": "k552L-KR_NO_LIGHT_Red_Switch",
@@ -1131,7 +1148,9 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552-KRS_Software.exe?v=1768270201",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298"
   },
   {
     "id": "K607-RGB",
@@ -1232,7 +1251,9 @@
       "Connectivity": "USB Wired",
       "Software": "Pro Software Supported",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K617-RGB_Setup.exe?v=1658806001",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K617_User_Manual_d492e032-2f4e-4606-94ca-cdb2af5a89a7.pdf?v=1649317562"
   },
   {
     "id": "k629-rgb",
@@ -1266,7 +1287,8 @@
       "Connectivity": "USB Wired",
       "Construction": "Metal + ABS",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K629-RGB_Software.zip?v=1768212020"
   },
   {
     "id": "k685_PYG",
@@ -1335,7 +1357,8 @@
       "Dimensions": "33 x 10cm",
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599-KRS_Software.exe?v=1768270193"
   },
   {
     "id": "K599-WRS",
@@ -1370,7 +1393,8 @@
       "Dimensions": "33 x 10cm",
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599-KRS_Software.exe?v=1768270193"
   },
   {
     "id": "K661_WGY",
@@ -1434,7 +1458,8 @@
       "Mouse Cable": "1.8m Braided",
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
   },
   {
     "id": "S101W",
@@ -1466,7 +1491,8 @@
       "Mouse Buttons": "6 (5 Programmable)",
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
   },
   {
     "id": "S101-BA",
@@ -1499,7 +1525,8 @@
       "Mousepad": "Large Gaming Mousepad",
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
   },
   {
     "id": "S107",
@@ -1568,7 +1595,8 @@
       "Connector": "3.5mm",
       "RGB": "Dynamic RGB Earcups",
       "Compatibility": "PC / PS4 / PS5 / Xbox One / Switch / Mobile"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/SCREAM_H231_User_Manual.pdf?v=1711443359"
   },
   {
     "id": "H260",
@@ -1601,7 +1629,8 @@
       "RGB": "Dynamic RGB Earcups",
       "Ear Cups": "Soft Memory Foam",
       "Compatibility": "PC / PS4 / Xbox One / Switch / Mobile"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_H260_Wired_Headset_User_Guide.pdf?v=1764224739"
   },
   {
     "id": "H270",
@@ -1665,7 +1694,8 @@
       "RGB": "RGB Lighting",
       "Ear Cushions": "Soft PU Leather",
       "Compatibility": "PC (USB)"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_H315_User_Guide.pdf?v=1748422100"
   },
   {
     "id": "H350_RGB",
@@ -1761,7 +1791,8 @@
       "Connector": "3.5mm + USB (Control Box)",
       "Inline Controls": "Volume, Mic Mute",
       "Compatibility": "PC / PS4/3 / Xbox One/Series X / Switch / Mobile"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/H510_User_Manual.pdf?v=1737531920"
   },
   {
     "id": "H510RGB",
@@ -1793,7 +1824,8 @@
       "Connector": "3.5mm Detachable + USB Control Box",
       "Inline Controls": "Volume, Mic Mute, RGB Switch",
       "Compatibility": "PC / PS4 / Xbox One / Switch / Mobile"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/H510_User_Manual.pdf?v=1737531920"
   },
   {
     "id": "G711",
