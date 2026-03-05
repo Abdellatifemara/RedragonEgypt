@@ -42,7 +42,11 @@
     "specs": "Redragon M602 Griffin RGB  W.L Gaming Mouse, RGB Spectrum Backlit Ergonomic Mouse with 7 Programmable Backlight Modes up to 7200 DPI for Windows PC Gamers",
     "price": 1375,
     "images": [
-      "M602-KS.png"
+      "https://redragon.com/cdn/shop/files/Redragon_M602-KS_Gaming_Mice.png",
+      "https://redragon.com/cdn/shop/files/Redragon_M602-KS_Gaming_Mice_2.png",
+      "https://redragon.com/cdn/shop/files/Redragon_M602-KS_Gaming_Mice_3.png",
+      "https://redragon.com/cdn/shop/files/Redragon_M602-KS_Gaming_Mice_4.png",
+      "https://redragon.com/cdn/shop/files/Redragon_M602-KS_Gaming_Mice_5.png"
     ],
     "has_image": true,
     "features": [
@@ -102,7 +106,7 @@
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_M607___M602A-RGB___M602AW-RGB_Griffin_7200_DPI_RGB_Gaming_Mouse_20220728_V1058_2097c2e3-fa88-4e3e-95b1-8f750246623c.rar?v=1720768601"
   },
   {
     "id": "M607-white",
@@ -137,7 +141,7 @@
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_M607___M602A-RGB___M602AW-RGB_Griffin_7200_DPI_RGB_Gaming_Mouse_20220728_V1058_2097c2e3-fa88-4e3e-95b1-8f750246623c.rar?v=1720768601"
   },
   {
     "id": "M609",
@@ -746,7 +750,7 @@
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Compatibility": "Windows / Mac"
     },
-    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20M817%20Gaming%20Mouse.exe",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M816-PRO_Software.exe?v=1768205237",
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M817_User_Guide.pdf?v=1755594216"
   },
   {
@@ -1031,7 +1035,7 @@
       "Compatibility": "Windows / Mac / Linux"
     },
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298",
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552P-K_Software.exe?v=1768270189"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552-KR_Software.exe"
   },
   {
     "id": "K552_RGB_browb_sw",
@@ -1069,7 +1073,7 @@
       "Compatibility": "Windows / Mac / Linux"
     },
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298",
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552P-K_Software.exe?v=1748476019"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552-KR_Software.exe"
   },
   {
     "id": "k552-KB_Blue_Switch",
@@ -1219,8 +1223,11 @@
     "specs": "Redragon K615P-KBS Elise Pro RGB Mechanical Keyboard Wireless Bluetooth Tri-Mode Ultra-Thin Low Profile Blue Switch",
     "price": 2500,
     "images": [
-      "K615P-KBS.jpg",
-      "K615P-KBS_2.jpg"
+      "https://redragon.com/cdn/shop/files/K615-R.png",
+      "https://redragon.com/cdn/shop/files/K615-R_2.png",
+      "https://redragon.com/cdn/shop/files/K615-R_3.png",
+      "https://redragon.com/cdn/shop/files/K615-R_4.png",
+      "https://redragon.com/cdn/shop/files/K615-R_5.png"
     ],
     "has_image": true,
     "features": [
@@ -1291,8 +1298,11 @@
     "specs": "Redragon Phantom RGB Black 75% Switch Brown K629-RGB Mechanical Gaming Keyboard (PT-BROWN)",
     "price": null,
     "images": [
-      "k629-rgb.jpg",
-      "k629-rgb_2.jpg"
+      "https://redragon.com/cdn/shop/files/Redragon_K629-RGB_75_Rainbow_Backlight_Mechanical_Gaming_keyboard_Details_1.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_K629-RGB_75_Rainbow_Backlight_Mechanical_Gaming_keyboard_Details_2.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_K629-RGB_75_Rainbow_Backlight_Mechanical_Gaming_keyboard_Details_3.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_K629-RGB_75_Rainbow_Backlight_Mechanical_Gaming_keyboard_Details_4.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_K629-RGB_75_Rainbow_Backlight_Mechanical_Gaming_keyboard_Details_5.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1353,7 +1363,8 @@
       "Software": "Pro Software Supported",
       "Compatibility": "Windows / Mac / Linux"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K684WB-RGB-PRO_Software.exe?v=1768270165"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K684WB-RGB-PRO_Software.exe?v=1768270165",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/FAYE_K685_Wired_User_Manual.pdf?v=1727173443"
   },
   {
     "id": "K599-WBS",
@@ -1391,7 +1402,8 @@
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Compatibility": "Windows / Mac / Linux"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599-KRS_Software.exe?v=1768270193"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599-KRS_Software.exe?v=1768270193",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599_Keyboard.pdf?v=1620378091"
   },
   {
     "id": "K599-WRS",
@@ -1429,7 +1441,8 @@
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Compatibility": "Windows / Mac / Linux"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599-KRS_Software.exe?v=1768270193"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599-KRS_Software.exe?v=1768270193",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K599_Keyboard.pdf?v=1620378091"
   },
   {
     "id": "K661_WGY",
@@ -1496,7 +1509,8 @@
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-3_Software.exe?v=1768359346"
   },
   {
     "id": "S101W",
@@ -1532,7 +1546,8 @@
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows / Mac"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-BA-3_K503A_Software.exe?v=1768359354"
   },
   {
     "id": "S101-BA",
@@ -1569,7 +1584,8 @@
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-BA-3_K503A_Software.exe?v=1768359354"
   },
   {
     "id": "S107",
@@ -1602,7 +1618,8 @@
       "Mousepad": "Large, Waterproof, Silk Cloth",
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S107-KS_Software.exe?v=1768359347"
   },
   {
     "id": "H231-RGB",
@@ -2328,7 +2345,8 @@
       "Connection": "USB Plug-and-Play",
       "Includes": "Tripod Stand",
       "Compatibility": "Windows / macOS / Zoom / Skype / Teams"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Webcam_User_Manual_for_GW900_GW600_GW800.pdf?v=1597740126"
   },
   {
     "id": "M908",
@@ -2480,7 +2498,13 @@
     "category": "Mouse",
     "specs": "Redragon M801 Mammoth MMO Gaming Mouse, 16000 DPI, 9 Programmable Buttons, RGB LED Backlit",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-01.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-02.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-03.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-04.jpg",
+      "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-05.jpg"
+    ],
     "has_image": false,
     "features": [
       "16000 DPI adjustable optical sensor with 5 DPI settings",
@@ -2500,7 +2524,8 @@
       "Cable Length": "1.8m Braided",
       "RGB Lighting": "16.8M Colors",
       "Connectivity": "USB Wired"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M801-RGB_Software.exe?v=1767925752"
   },
   {
     "id": "M901",
@@ -2527,7 +2552,8 @@
       "RGB Lighting": "16.8M Colors",
       "Cable Length": "1.8m Braided",
       "Connectivity": "USB Wired"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M901K_Software.exe?v=1767925787"
   },
   {
     "id": "M901P-KS",
@@ -2555,7 +2581,8 @@
       "RGB Lighting": "16.8M Colors",
       "Cable Length": "1.8m Braided",
       "Connectivity": "USB Wired"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M901P-KS_Software.exe?v=1767939928"
   },
   {
     "id": "M901P-WS",
@@ -2583,7 +2610,8 @@
       "RGB Lighting": "16.8M Colors",
       "Cable Length": "1.8m Braided",
       "Connectivity": "USB Wired"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M901P-KS_Software.exe?v=1767939928"
   },
   {
     "id": "M903P",
@@ -2616,7 +2644,13 @@
     "category": "Mouse",
     "specs": "Redragon M915WL-RGB Wireless Gaming Mouse, 32000 DPI, 6 Programmable Buttons, RGB Backlit",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://redragon.com/cdn/shop/files/1_595e3116-89d9-4b62-a135-87da72968a0a_1_-Photoroom.png",
+      "https://redragon.com/cdn/shop/files/2_c37dc51f-7c7a-4e6f-b4dc-5c22d7138b0b_1_-Photoroom.png",
+      "https://redragon.com/cdn/shop/files/3_7758f659-bc39-47b3-9c00-a3234e017a6b_1_-Photoroom.png",
+      "https://redragon.com/cdn/shop/files/4_d906dba0-14c0-449a-9227-5d1eae224651_1_-Photoroom.png",
+      "https://redragon.com/cdn/shop/files/5_b1189316-de65-4092-81e7-43f000f9f455_1_-Photoroom.png"
+    ],
     "has_image": false,
     "features": [
       "32000 DPI optical sensor with adjustable settings",
@@ -2635,7 +2669,8 @@
       "Battery Life": "40 hours",
       "Charging": "USB-C Fast Charge",
       "RGB Lighting": "16.8M Colors"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M915RGB_Software.exe"
   },
   {
     "id": "K506",
@@ -2697,7 +2732,8 @@
       "Interface": "USB Wired",
       "Cable Length": "1.8m"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K515-RGB_setup_v1.0.0.1_99f758a0-1d06-449f-a09a-ed293d15f3d8.exe?v=1726133568"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K515-RGB_setup_v1.0.0.1_99f758a0-1d06-449f-a09a-ed293d15f3d8.exe?v=1726133568",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K515_User_Manual.pdf"
   },
   {
     "id": "K516",
@@ -2795,7 +2831,9 @@
       "Backlit": "Per-Key RGB",
       "N-Key Rollover": "Yes",
       "Compatibility": "Windows / macOS / Android / iOS"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K539_User_Manual.pdf",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K539_Setup_V1.6.6_2.zip?v=1635818026"
   },
   {
     "id": "K550",
@@ -2827,7 +2865,9 @@
       "N-Key Rollover": "Yes",
       "Interface": "USB Wired",
       "Cable Length": "1.8m"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K550_User_Manual.pdf",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K550_Software.zip?v=1725416755"
   },
   {
     "id": "KG010-KN",
