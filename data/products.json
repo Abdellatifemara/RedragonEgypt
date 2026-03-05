@@ -4,7 +4,7 @@
     "model": "M601-RGB",
     "category": "Mouse",
     "specs": "Redragon M601-RGB Gaming Mouse",
-    "price": 745.0,
+    "price": 745,
     "images": [
       "M601-RGB.jpg",
       "M601-RGB_2.jpg"
@@ -32,14 +32,15 @@
       "Weight Tuning": "8 x 2.4g Weights",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M801-RGB_Software.exe?v=1767925752"
   },
   {
     "id": "M602-KS",
     "model": "M602-KS",
     "category": "Mouse",
     "specs": "Redragon M602 Griffin RGB  W.L Gaming Mouse, RGB Spectrum Backlit Ergonomic Mouse with 7 Programmable Backlight Modes up to 7200 DPI for Windows PC Gamers",
-    "price": 1375.0,
+    "price": 1375,
     "images": [
       "M602-KS.png"
     ],
@@ -73,7 +74,7 @@
     "model": "M607",
     "category": "Mouse",
     "specs": "Redragon M607 Griffin 7200 DPI RGB Gaming Mouse",
-    "price": 750.0,
+    "price": 750,
     "images": [
       "M607.jpg",
       "M607_2.jpg"
@@ -100,14 +101,16 @@
       "RGB Lighting": "7 Backlight Modes",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K525-RGB_setup_1.0.4.3.exe?v=1748484996",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S151_Wired_Combo_User_Manual.pdf?v=1752205165"
   },
   {
     "id": "M607-white",
     "model": "M607-white",
     "category": "Mouse",
     "specs": "Redragon M607 Griffin 7200 DPI RGB Gaming Mouse",
-    "price": 775.0,
+    "price": 775,
     "images": [
       "M607-white.jpeg"
     ],
@@ -134,14 +137,15 @@
       "Color": "White",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP, Limited Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M617-LIT_Software.exe?v=1768205229"
   },
   {
     "id": "M609",
     "model": "M609",
     "category": "Mouse",
     "specs": "3200 DPI(4GEAR:1000/1600/2400/3200) /  6600FPS 10G ACC  /   1000Hz polling rate / OMRON gaming switch",
-    "price": 549.0,
+    "price": 549,
     "images": [
       "M609.jpeg"
     ],
@@ -168,7 +172,9 @@
       "Weight": "141g",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K525-RGB_setup_1.0.4.3.exe?v=1748484996",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S151_Wired_Combo_User_Manual.pdf?v=1752205165"
   },
   {
     "id": "m617-lit",
@@ -240,7 +246,7 @@
     "model": "M690 PRO",
     "category": "Mouse",
     "specs": "Redragon M690 PRO Wireless Gaming Mouse, 8000 DPI Wired/Wireless Gamer Mouse w/Rapid Fire Key, 8 Macro Buttons, Ergonomic Design for PC/Mac/Laptop",
-    "price": 1575.0,
+    "price": 1575,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_MIRAGE_M690_PRO_Wireless_Gaming_Mouse_with_Rapid_Fire_Key1.jpg?v=1690369820",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_MIRAGE_M690_PRO_Wireless_Gaming_Mouse_with_Rapid_Fire_Key2.jpg?v=1690424845",
@@ -277,7 +283,7 @@
     "model": "M694",
     "category": "Mouse",
     "specs": "Redragon M694 HANA 3 Modes Wireless Gaming Mouse, Optical sensor 7,200 DPI Lightweight 82G Polling rate 1000Hz",
-    "price": 1350.0,
+    "price": 1350,
     "images": [
       "M694.png"
     ],
@@ -348,7 +354,7 @@
     "model": "M703",
     "category": "Mouse",
     "specs": "Redragon Gerberus M703 Gaming Mouse",
-    "price": 650.0,
+    "price": 650,
     "images": [
       "M703.jpg",
       "M703_2.jpg"
@@ -382,7 +388,7 @@
     "model": "m711",
     "category": "Mouse",
     "specs": "REDRAGON COBRA M711 WIRED GAMING MOUSE - WHITE RED 12400 DPI programmable gaming mouse with 8 customizable buttons\n7 colors breathing light\nRGB Backlight",
-    "price": 795.0,
+    "price": 795,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_m711_gaming_mouse_1.jpg?v=1587893668",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_m711_gaming_mouse_2.jpg?v=1587893670",
@@ -421,7 +427,7 @@
     "model": "M711C",
     "category": "Mouse",
     "specs": "REDRAGON COBRA M711C WIRED GAMING MOUSE - WHITE RED 12400 DPI programmable gaming mouse with 8 customizable buttons\n7 colors breathing light\nRGB Backlight",
-    "price": 895.0,
+    "price": 895,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M711_white_1.jpg",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M711_white_2.jpg",
@@ -461,7 +467,7 @@
     "model": "m723",
     "category": "Mouse",
     "specs": "REDRAGON ROADMASTER M723 GAMING MOUSE - Connection - Wired\n7 buttons programmable buttons\n5 Backlit Modes\nMax 12400DPI",
-    "price": 875.0,
+    "price": 875,
     "images": [
       "m723.jpg",
       "m723_2.jpg"
@@ -635,7 +641,7 @@
     "model": "M814RGB-PRO",
     "category": "Mouse",
     "specs": "Redragon AXE PRO M814RGB 3 modes connections gaming mouse WIRED/2.4G/BT WIRELESS GAMING MOUSE\nErgonomic design with RGB backlight\nGaming grade sensor up to 8000 DPI\n8 programmable buttons and on-board memory",
-    "price": 1395.0,
+    "price": 1395,
     "images": [
       "M814RGB-PRO.jpg",
       "M814RGB-PRO_2.jpg"
@@ -739,7 +745,7 @@
     "model": "k502",
     "category": "Keyboard",
     "specs": "Redragon K502 RGB Silent Gaming Keyboard RGB LED Backlit,104 Key with Wrist Rest",
-    "price": 1325.0,
+    "price": 1325,
     "images": [
       "k502.png",
       "k502_2.jpg"
@@ -775,7 +781,7 @@
     "model": "K503",
     "category": "Keyboard",
     "specs": "Redragon K503 PC Gaming Keyboard, Wired, Multimedia Keys, Silent USB Keyboard with Wrist Rest for Windows PC Games (RGB LED Backlit with Macro Recording)",
-    "price": 1000.0,
+    "price": 1000,
     "images": [
       "K503_2.jpg",
       "K503_2.jpg"
@@ -847,7 +853,7 @@
     "model": "K505",
     "category": "Keyboard",
     "specs": "Redragon Yaksa K505 USB Gaming Keyboard (Black)",
-    "price": 1100.0,
+    "price": 1100,
     "images": [
       "K505.png",
       "K505_2.jpg"
@@ -947,7 +953,7 @@
     "model": "k551",
     "category": "Keyboard",
     "specs": "Redragon K551 Mechanical Gaming Keyboard Wired with Red Switches Cherry MX Equivalent for Windows Gaming PC UK Layout (Rainbow RGB Backlit Black)",
-    "price": 1850.0,
+    "price": 1850,
     "images": [
       "k551.jpg",
       "k551_2.jpg"
@@ -981,7 +987,7 @@
     "model": "K552 RGB red sw",
     "category": "Keyboard",
     "specs": "Redragon K552 KUMARA 87 Key LED RGB Backlit Mechanical Computer illuminated Keyboard with red Switches for PC Gaming Compact ABS-Metal Design",
-    "price": 1800.0,
+    "price": 1800,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/KUMARA_K552.png",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_kumara_k552.jpg",
@@ -1018,7 +1024,7 @@
     "model": "K552 RGB browb sw",
     "category": "Keyboard",
     "specs": "Redragon K552 KUMARA 87 Key LED RGB Backlit Mechanical Computer illuminated Keyboard with brown Switches for PC Gaming Compact ABS-Metal Design",
-    "price": 1801.0,
+    "price": 1801,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/KUMARA_K552.png",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_k552.jpg",
@@ -1055,7 +1061,7 @@
     "model": "k552-KB Blue Switch",
     "category": "Keyboard",
     "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX Blue Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
-    "price": 1400.0,
+    "price": 1400,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_kumara_k552.jpg",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_k552.jpg"
@@ -1091,7 +1097,7 @@
     "model": "k552-KR Red Switch",
     "category": "Keyboard",
     "specs": "Mechanical Gaming Keyboard Compact 87 Key Mechanical Computer Keyboard KUMARA USB Wired Cherry MX RED Equivalent Switches ELITE for Windows PC Gamers (Black Rainbow LED Backlit)",
-    "price": 1450.0,
+    "price": 1450,
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_-_k552_wired_gaming_keyboard_red_switch.jpg",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_kumara_k552.jpg"
@@ -1163,7 +1169,7 @@
     "model": "K607-RGB",
     "category": "Keyboard",
     "specs": "Redragon K607 Low Profile Mechanical Gaming Keyboard 87 Key Tenkeyless RGB LED Backlit Wired Computer Keyboard with Blue Switches for Windows PC",
-    "price": 1900.0,
+    "price": 1900,
     "images": [
       "K607-RGB.jpg",
       "K607-RGB_2.jpg"
@@ -1195,7 +1201,7 @@
     "model": "K615P-KBS",
     "category": "Keyboard",
     "specs": "Redragon K615P-KBS Elise Pro RGB Mechanical Keyboard Wireless Bluetooth Tri-Mode Ultra-Thin Low Profile Blue Switch",
-    "price": 2500.0,
+    "price": 2500,
     "images": [
       "K615P-KBS.jpg",
       "K615P-KBS_2.jpg"
@@ -1229,10 +1235,11 @@
     "model": "K617-RGB White/Grey",
     "category": "Keyboard",
     "specs": "REDRAGON K617 Fizz RGB White-Grey Mechanical Tournament Keyboard 60% TKL | RED-K617RGB",
-    "price": 1600.0,
+    "price": 1600,
     "images": [
-      "K617-RGB_WhiteGrey.jpg",
-      "K617-RGB_WhiteGrey_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/61_Keys_Compact_Mechanical_Keyboard_wWhite_and_Grey.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K617_Fizz_60_Wired_RGB_Gaming_Keyboard.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K617M_1.png"
     ],
     "has_image": true,
     "features": [
@@ -1438,7 +1445,7 @@
     "model": "S01-5",
     "category": "Combo",
     "specs": "Redragon S101-5 Wired Gaming Keyboard & Mouse",
-    "price": 1650.0,
+    "price": 1650,
     "images": [
       "S01-5.jpg",
       "S01-5_2.jpg"
@@ -1572,7 +1579,7 @@
     "model": "H231-RGB",
     "category": "Headset",
     "specs": "Redragon H231 Scream Wired Gaming Headset, Stereo Surround Sound, 40mm Drivers, Leather Foam Ear Pads, Noise-canceling Microphone",
-    "price": 960.0,
+    "price": 960,
     "images": [
       "H231-RGB.jpg",
       "H231-RGB_2.jpg"
@@ -1609,7 +1616,7 @@
     "model": "H260",
     "category": "Headset",
     "specs": "Redragon H260  RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
-    "price": 975.0,
+    "price": 975,
     "images": [
       "H260.jpg",
       "H260_2.jpg"
@@ -1643,7 +1650,7 @@
     "model": "H270",
     "category": "Headset",
     "specs": "Redragon H270 Mento RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
-    "price": 990.0,
+    "price": 990,
     "images": [
       "H270.jpg",
       "H270_2.jpg"
@@ -1708,7 +1715,7 @@
     "model": "H350 RGB",
     "category": "Headset",
     "specs": "High quality sound Compatible with multiple device likePS4,XBOXone,Laptop,MacIpad,Table,Mobilephone RGB Back lighting Detachable noise-cancelling MIC High quality reproduction of soundbydynamicstereodriver unit SupplyO.S.Win10,Win8,Win7,WinXP",
-    "price": 1840.0,
+    "price": 1840,
     "images": [
       "H350_RGB.jpg",
       "H350_RGB_2.jpg"
@@ -1741,7 +1748,7 @@
     "model": "H386",
     "category": "Headset",
     "specs": "Redragon H386 Diomedes Wired Gaming Headset - 7.1 Surround Sound - 53MM Drivers - Detachable Microphone - Multi Platforms Headphone - USB/AUX 3.5mm Compatible with PC, PS4/3 & Xbox One/Series X, NS",
-    "price": 1950.0,
+    "price": 1950,
     "images": [
       "H386.jpg",
       "H386_2.jpg"
@@ -1805,7 +1812,7 @@
     "model": "H510RGB",
     "category": "Headset",
     "specs": "Redragon H510 Zeus-X RGB Wired Gaming Headset - 7.1 Surround Sound - 53MM Audio Drivers in Memory Foam Ear Pads w/Reliable Fabric Cover- Multi Platforms Headphone - USB Powered for PC/PS4/NS",
-    "price": 2495.0,
+    "price": 2495,
     "images": [
       "H510RGB.jpg",
       "H510RGB_2.jpg"
@@ -1838,7 +1845,7 @@
     "model": "G711",
     "category": "Gamepad",
     "specs": "Redragon Forge Controller offers versatility and performance for demanding gamers. With up to 8 hours of battery life, it is ideal for long gaming sessions. Its Bluetooth, 2.4GHz and USB-C connectivity ensures compatibility with a variety of devices, including PCs, Switch, PS3/4, iOS and Android. It has programmable buttons and removable joysticks, allowing customization for different gaming styles. RGB lighting",
-    "price": 1750.0,
+    "price": 1750,
     "images": [
       "G711.jpg",
       "G711_2.jpg"
@@ -1936,7 +1943,7 @@
     "model": "g808 pro",
     "category": "Gamepad",
     "specs": "Redragon G808 HARROW PRO\nWireless,Wired Gamepad Controller",
-    "price": 1890.0,
+    "price": 1890,
     "images": [
       "g808_pro.jpg",
       "g808_pro_2.jpg"
@@ -1969,7 +1976,7 @@
     "model": "GS520",
     "category": "Accessories",
     "specs": "Redragon GS520 Anvil RGB Desktop Speakers, 2.0 Channel PC Computer Stereo Speaker with 6 Colorful LED Modes, Enhanced Sound and Easy-Access Volume Control, USB Powered w/ 3.5mm Cable",
-    "price": 1200.0,
+    "price": 1200,
     "images": [
       "GS520.jpg",
       "GS520_2.jpg"
@@ -2001,7 +2008,7 @@
     "model": "GMK914",
     "category": "Accessories",
     "specs": "Redragon GMK914 Single Monitor Mount Stand - Gas Spring Adjustable Arms with VESA 75/100mm, 13-32 Inch Screen Compatibility, C Clamp & Grommet Base, Cable Management, 17.6lbs Load Capacity",
-    "price": 1900.0,
+    "price": 1900,
     "images": [
       "GMK914.jpg",
       "GMK914_2.jpg"
@@ -2067,7 +2074,7 @@
     "model": "P037",
     "category": "Accessories",
     "specs": "REDRAGON P037 Meteor L\nKeyboard Memory Foam Wrist Rest Pad (Full Size)",
-    "price": 385.0,
+    "price": 385,
     "images": [
       "P037.jpg",
       "P037_2.jpg"
@@ -2099,7 +2106,7 @@
     "model": "GM100",
     "category": "Accessories",
     "specs": "Redragon GM100 Gaming Stream Microphone Black",
-    "price": 1250.0,
+    "price": 1250,
     "images": [
       "GM100.jpg",
       "GM100_2.jpg"
@@ -2133,7 +2140,7 @@
     "model": "GM200",
     "category": "Accessories",
     "specs": "Mic Unit: Omni-9765 condenser Frequency Response: 50Hz-16kHz Sensitivity: -38±3dB Impedance: ≤2.2kΩ Operation Voltage: USB DC 5V Plug: USB Cable Length: 1.5m Colors Available: Black/Custom",
-    "price": 1370.0,
+    "price": 1370,
     "images": [
       "GM200.jpg",
       "GM200_2.jpg"
@@ -2168,7 +2175,7 @@
     "model": "GCP500",
     "category": "Accessories",
     "specs": "Redragon IVY GCP500 Laptop Cooler 12-15 inch UP To 17.3 - 2 USB Port - Fan Speed Control - RGB Light Mode - Two Phone Holder",
-    "price": 1370.0,
+    "price": 1370,
     "images": [
       "GCP500.jpg",
       "GCP500_2.jpg"
@@ -2204,7 +2211,7 @@
     "model": "GCP511",
     "category": "Accessories",
     "specs": "GCP511 Ingrid Laptop Cooler cools up to 17 -inch Laptops, equipped with 3 Illuminated Fans, adjustable RGB light and an adjustable angle, this device fits all your laptop cooling needs",
-    "price": 1370.0,
+    "price": 1370,
     "images": [
       "GCP511.jpg",
       "GCP511_2.jpg"
@@ -2240,7 +2247,7 @@
     "model": "GW900 APEX",
     "category": "Accessories",
     "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fps, Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
-    "price": 2850.0,
+    "price": 2850,
     "images": [
       "GW900_APEX.JPG",
       "GW900_APEX_2.jpg"
@@ -2274,7 +2281,10 @@
     "model": "M908",
     "name": "IMPACT M908 RGB MMO Gaming Mouse",
     "category": "Mouse",
-    "images": ["https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_Impact_M908_RGB_MMO_Laser_Wired_Gaming_Mouse_1.jpg?v=1752474199", "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_Impact_M908_RGB_MMO_Laser_Wired_Gaming_Mouse_2.jpg?v=1752474199"],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_Impact_M908_RGB_MMO_Laser_Wired_Gaming_Mouse_1.jpg?v=1752474199",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_Impact_M908_RGB_MMO_Laser_Wired_Gaming_Mouse_2.jpg?v=1752474199"
+    ],
     "features": [
       "19 fully programmable buttons including 12 MMO side buttons",
       "12,400 DPI adjustable (100–12,400, freely ±100 via software)",
@@ -2308,7 +2318,10 @@
     "model": "M693",
     "name": "TRIDENT M693 Tri-Mode Wireless RGB Gaming Mouse",
     "category": "Mouse",
-    "images": ["https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM693WirelessBluetoothGamingMouse_1.png", "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM693WirelessBluetoothGamingMouse_2.png"],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM693WirelessBluetoothGamingMouse_1.png",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM693WirelessBluetoothGamingMouse_2.png"
+    ],
     "features": [
       "Tri-mode connectivity: Bluetooth 5.0, 2.4GHz wireless, and wired USB-C",
       "8000 DPI adjustable optical sensor (PAW3104), 5 DPI levels: 500/1000/2000/3000/8000",
@@ -2340,7 +2353,10 @@
     "model": "M806",
     "name": "BULLSEYE M806 RGB Gaming Mouse",
     "category": "Mouse",
-    "images": ["https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M806_Bullseye_Gaming_Mouse_1_9837feac-31bf-4107-ae0c-29321c4e5e7d.jpg?v=1683613750", "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M806_Bullseye_Gaming_Mouse_2.jpg?v=1683613262"],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M806_Bullseye_Gaming_Mouse_1_9837feac-31bf-4107-ae0c-29321c4e5e7d.jpg?v=1683613750",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M806_Bullseye_Gaming_Mouse_2.jpg?v=1683613262"
+    ],
     "features": [
       "Pixart PAW3327 optical sensor — 200 to 12,400 DPI, 30G acceleration",
       "7 programmable buttons including 2 side macro buttons for customizable tactical keybinds",
