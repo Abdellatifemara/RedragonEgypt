@@ -1342,7 +1342,8 @@
       "Color": "Klein Blue / Oia White",
       "Software": "Pro Software Supported",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K684WB-RGB-PRO_Software.exe?v=1768270165"
   },
   {
     "id": "K599-WBS",
@@ -1445,7 +1446,8 @@
       "Color": "White / Grey",
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Compatibility": "Windows / Mac OS"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K671_Software.exe?v=1768270165"
   },
   {
     "id": "S01-5",
@@ -1626,8 +1628,9 @@
     "specs": "Redragon H260  RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
     "price": 975,
     "images": [
-      "H260.jpg",
-      "H260_2.jpg"
+      "https://redragonshop.com/cdn/shop/files/RedragonH260HylasWiredGamingHeadset_1.png?v=1764222742",
+      "https://redragonshop.com/cdn/shop/files/RedragonH260HylasWiredGamingHeadset_2.png?v=1764222742",
+      "https://redragonshop.com/cdn/shop/files/RedragonH260HylasWiredGamingHeadset_3.png?v=1764222742"
     ],
     "has_image": true,
     "features": [
