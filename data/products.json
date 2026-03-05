@@ -882,7 +882,8 @@
       "Connectivity": "USB Wired",
       "Material": "ABS High-Strength Plastic",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K503_Software.exe?v=1768292975"
   },
   {
     "id": "K509P-KS",
@@ -947,7 +948,9 @@
       "Charging": "Type-C",
       "Battery Indicator": "Yes (Low Battery LED)",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K728WBB-RGB-PRO_Setup_V1.6.7_20241202_1_V1.exe?v=1741248177",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K728_PRO_User_Manual.pdf?v=1741248178"
   },
   {
     "id": "k551",
