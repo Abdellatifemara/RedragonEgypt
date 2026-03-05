@@ -500,8 +500,10 @@
     "specs": "Redragon M724 Wired Gaming Mouse, 49G Ultra-Light 12,400 Max DPI Optical Gaming Mouse with 5 Programmable Buttons, Ergonomic Natural Grip Build, Software Supports DIY Keybinds & DPI, Black",
     "price": null,
     "images": [
-      "m724.jpg",
-      "m724_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK1INGM7241KHzWiredGamingMouse_1.png?v=1762464175",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK1INGM7241KHzWiredGamingMouse_2.png?v=1718847308",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK1INGM7241KHzWiredGamingMouse_3.png?v=1718847308",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM724WiredGamingMouse_26.jpg?v=1718847308"
     ],
     "has_image": true,
     "features": [
@@ -534,7 +536,10 @@
     "specs": "Redragon M724 white Wired Gaming Mouse, 49G Ultra-Light 12,400 Max DPI Optical Gaming Mouse with 5 Programmable Buttons, Ergonomic Natural Grip Build, Software Supports DIY Keybinds & DPI, Black",
     "price": null,
     "images": [
-      "m724-white.jpeg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK1INGM7241KHzWiredGamingMouse_1.png?v=1762464175",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK1INGM7241KHzWiredGamingMouse_2.png?v=1718847308",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK1INGM7241KHzWiredGamingMouse_3.png?v=1718847308",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM724WiredGamingMouse_26.jpg?v=1718847308"
     ],
     "has_image": true,
     "features": [
@@ -1352,8 +1357,10 @@
     "specs": "Redragon K599 DEIMOS Wireless 2.4G / Wired Compact 60% Mechanical Gaming Keyboard - blue Switches - 70 Key TKL - RGB Backlit - white",
     "price": null,
     "images": [
-      "K599-WBS.jpg",
-      "K599-WBS_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/wireless2.4ghzmechanicalkeyboard.png?v=1759439295",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/K599.png?v=1625827442",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/wireless2.4ghzmechanicalkeyboardredragonk599keybord.png?v=1626069518",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragondeimosk599mechanicalgamingkeyboardwithredswitch.png?v=1625557860"
     ],
     "has_image": true,
     "features": [
@@ -1388,8 +1395,10 @@
     "specs": "Redragon K599 DEIMOS Wireless 2.4G / Wired Compact 60% Mechanical Gaming Keyboard - red Switches - 70 Key TKL - RGB Backlit - white",
     "price": null,
     "images": [
-      "K599-WRS.jpg",
-      "K599-WRS_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/wireless2.4ghzmechanicalkeyboard.png?v=1759439295",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/K599.png?v=1625827442",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/wireless2.4ghzmechanicalkeyboardredragonk599keybord.png?v=1626069518",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragondeimosk599mechanicalgamingkeyboardwithredswitch.png?v=1625557860"
     ],
     "has_image": true,
     "features": [
@@ -1481,8 +1490,7 @@
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-3_Software.exe?v=1768359346"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
   },
   {
     "id": "S101W",
@@ -1491,7 +1499,10 @@
     "specs": "Redragon S101W Wired Gaming Keyboard & Mouse",
     "price": null,
     "images": [
-      "S101W.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_5.png?v=1762457816",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_6.png?v=1701747467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_4.png?v=1701747467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_7.png?v=1701747467"
     ],
     "has_image": true,
     "features": [
@@ -1515,8 +1526,7 @@
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows / Mac"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-3_Software.exe?v=1768359346"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
   },
   {
     "id": "S101-BA",
@@ -1525,7 +1535,10 @@
     "specs": "REDRAGON S101-BA-2 4x1 WIRED RGB BACKLIT GAMING KEYBOARD AND MOUSE, GAMING MOUSE PAD, GAMING HEADSET COMBO ALL IN 1 PC GAMER BUNDLE",
     "price": null,
     "images": [
-      "S101-BA.png"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_5.png?v=1762457816",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_6.png?v=1701747467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_4.png?v=1701747467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonS101PCGamingKeyboardandMouseCombo_7.png?v=1701747467"
     ],
     "has_image": true,
     "features": [
@@ -1550,8 +1563,7 @@
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-BA-3_M602P-Software.exe?v=1768359347"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
   },
   {
     "id": "S107",
@@ -1584,8 +1596,7 @@
       "Mousepad": "Large, Waterproof, Silk Cloth",
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S107-KS_Software.exe?v=1768359347"
+    }
   },
   {
     "id": "H231-RGB",
@@ -1632,9 +1643,10 @@
     "specs": "Redragon H260  RGB Gaming Headphone,3.5mm Surround Sound Computer Headset Earphones Microphone For PC MAC PS4 Xbox One",
     "price": 975,
     "images": [
-      "https://redragonshop.com/cdn/shop/files/RedragonH260HylasWiredGamingHeadset_1.png?v=1764222742",
-      "https://redragonshop.com/cdn/shop/files/RedragonH260HylasWiredGamingHeadset_2.png?v=1764222742",
-      "https://redragonshop.com/cdn/shop/files/RedragonH260HylasWiredGamingHeadset_3.png?v=1764222742"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH260HylasWiredGamingHeadset_8.png?v=1764222742",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH260HylasWiredGamingHeadset_4.png?v=1764222742",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH260HylasWiredGamingHeadset_1.png?v=1764222742",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH260HylasWiredGamingHeadset_2.png?v=1764222742"
     ],
     "has_image": true,
     "features": [
@@ -1702,9 +1714,10 @@
     "specs": "Redragon H315 RGB Gaming Headset - Wired Computer Headset with 40mm Drivers, Noise-Canceling Microphone, USB Connection, Lightweight Design, and Soft PU Leather Ear Cushions for Ultimate Comfort",
     "price": null,
     "images": [
-      "https://redragonshop.com/cdn/shop/files/RedragonH315RGBGamingHeadset_1.png?v=1762468074",
-      "https://redragonshop.com/cdn/shop/files/RedragonH315RGBGamingHeadset_2.png?v=1762468074",
-      "https://redragonshop.com/cdn/shop/files/RedragonH315RGBGamingHeadset_3.png?v=1762468074"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH315RGBGamingHeadset_1.png?v=1762468074",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH315RGBGamingHeadset_2.png?v=1748421717",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH315RGBGamingHeadset_3.png?v=1748421717",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonH315RGBGamingHeadset_4.png?v=1748421717"
     ],
     "has_image": true,
     "features": [
@@ -1734,9 +1747,10 @@
     "specs": "High quality sound Compatible with multiple device likePS4,XBOXone,Laptop,MacIpad,Table,Mobilephone RGB Back lighting Detachable noise-cancelling MIC High quality reproduction of soundbydynamicstereodriver unit SupplyO.S.Win10,Win8,Win7,WinXP",
     "price": 1840,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h350_gaming_headset.jpg",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h350_gaming_headset_1.JPG",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h350_rgb_gaming_headset.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/Redragonh350rgbgamingheadset_4.png?v=1762457669",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/Redragonh350rgbgamingheadset_3.png?v=1603362596",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/Redragonh350rgbgamingheadset_5.png?v=1603362596",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/Redragonh350rgbgamingheadset_8.png?v=1603362597"
     ],
     "has_image": true,
     "features": [
@@ -1769,9 +1783,10 @@
     "specs": "Redragon H386 Diomedes Wired Gaming Headset - 7.1 Surround Sound - 53MM Drivers - Detachable Microphone - Multi Platforms Headphone - USB/AUX 3.5mm Compatible with PC, PS4/3 & Xbox One/Series X, NS",
     "price": 1950,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/pc_microphone_headset_1.jpg",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/pc_microphone_headset_2.jpg",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/pc_microphone_headset_4.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/pcmicrophoneheadset_6.png?v=1762459791",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/pcmicrophoneheadset_1.png?v=1660803177",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/pcmicrophoneheadset_2.png?v=1660803174",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/pcmicrophoneheadset_3.png?v=1660803177"
     ],
     "has_image": true,
     "features": [
@@ -1802,9 +1817,10 @@
     "specs": "Redragon h510 zeus wired gaming headset - 7.1 surround sound - memory foam ear pads - 53mm drivers - detachable microphone - multi platforms headphone - works with pc, ps4/3 & xbox one/series x, ns",
     "price": null,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_1.jpg",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_3.jpg",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_4.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/h510.png?v=1762457096",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/H510-2.png?v=1609309238",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/H510-3.png?v=1609309238",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/H510-6.png?v=1609309238"
     ],
     "has_image": true,
     "features": [
@@ -1835,9 +1851,10 @@
     "specs": "Redragon H510 Zeus-X RGB Wired Gaming Headset - 7.1 Surround Sound - 53MM Audio Drivers in Memory Foam Ear Pads w/Reliable Fabric Cover- Multi Platforms Headphone - USB Powered for PC/PS4/NS",
     "price": 2495,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/H510_ZEUS_BLACK.png",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_5.jpg",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_6.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/h510.png?v=1762457096",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/H510-2.png?v=1609309238",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/H510-3.png?v=1609309238",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/H510-6.png?v=1609309238"
     ],
     "has_image": true,
     "features": [
@@ -1869,8 +1886,10 @@
     "specs": "Redragon Forge Controller offers versatility and performance for demanding gamers. With up to 8 hours of battery life, it is ideal for long gaming sessions. Its Bluetooth, 2.4GHz and USB-C connectivity ensures compatibility with a variety of devices, including PCs, Switch, PS3/4, iOS and Android. It has programmable buttons and removable joysticks, allowing customization for different gaming styles. RGB lighting",
     "price": 1750,
     "images": [
-      "G711.jpg",
-      "G711_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRIFTG710WiredGamingController_1.png?v=1762465597",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonG710WiredGamingController_9.jpg?v=1732086738",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonG710WiredGamingController_1.jpg?v=1732086738",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonG710WiredGamingController_4.jpg?v=1732086738"
     ],
     "has_image": true,
     "features": [
@@ -2002,8 +2021,10 @@
     "specs": "Redragon GS520 Anvil RGB Desktop Speakers, 2.0 Channel PC Computer Stereo Speaker with 6 Colorful LED Modes, Enhanced Sound and Easy-Access Volume Control, USB Powered w/ 3.5mm Cable",
     "price": 1200,
     "images": [
-      "GS520.jpg",
-      "GS520_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonrgbgamingspeakergs520_1.png?v=1762457664",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonrgbgamingspeakergs520_2.png?v=1713755083",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/rgbgamingspeaker_3.png?v=1713755083",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/rgbgamingspeaker_4.png?v=1713755083"
     ],
     "has_image": true,
     "features": [
@@ -2034,8 +2055,10 @@
     "specs": "Redragon GMK914 Single Monitor Mount Stand - Gas Spring Adjustable Arms with VESA 75/100mm, 13-32 Inch Screen Compatibility, C Clamp & Grommet Base, Cable Management, 17.6lbs Load Capacity",
     "price": 1900,
     "images": [
-      "GMK914.jpg",
-      "GMK914_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK914SingleMonitorMountStand_1.png?v=1762466599",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK915DualMonitorMountStand_1.png?v=1739267259",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK914SingleMonitorMountStand_6.jpg?v=1739267259",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK914SingleMonitorMountStand_7.jpg?v=1739267259"
     ],
     "has_image": true,
     "features": [
@@ -2060,8 +2083,7 @@
       "Rotation": "360°",
       "Mounting": "C-Clamp / Grommet Base",
       "Cable Management": "Integrated"
-    },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_GM49_User_Manual.pdf?v=1753779496"
+    }
   },
   {
     "id": "GMK-913",
@@ -2070,8 +2092,10 @@
     "specs": "Redragon GMK 913 Universal Multi-Monitor Extender, Optical Micro-Structures Easy Assembly, Clear, (Set of 2)",
     "price": null,
     "images": [
-      "GMK-913.jpg",
-      "GMK-913_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK913UniversalMulti-MonitorExtender_OpticalMicro-StructuresEasyAssembly_Clear_2.png?v=1762463277",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK913UniversalMulti-MonitorExtender_OpticalMicro-StructuresEasyAssembly_Clear_5.png?v=1706174991",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK913UniversalMulti-MonitorExtender_OpticalMicro-StructuresEasyAssembly_Clear_6.png?v=1706174991",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGMK913UniversalMulti-MonitorExtender_OpticalMicro-StructuresEasyAssembly_Clear_8.png?v=1706174991"
     ],
     "has_image": true,
     "features": [
@@ -2101,8 +2125,9 @@
     "specs": "REDRAGON P037 Meteor L\nKeyboard Memory Foam Wrist Rest Pad (Full Size)",
     "price": 385,
     "images": [
-      "P037.jpg",
-      "P037_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/keyboard_wrist_rest.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_keyboard_wrist_rest_f860274c-2d8f-4284-ab2a-c347e10f2383.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_mechanical_keyboard_palm_rest.jpg"
     ],
     "has_image": true,
     "features": [
@@ -2238,8 +2263,10 @@
     "specs": "GCP511 Ingrid Laptop Cooler cools up to 17 -inch Laptops, equipped with 3 Illuminated Fans, adjustable RGB light and an adjustable angle, this device fits all your laptop cooling needs",
     "price": 1370,
     "images": [
-      "GCP511.jpg",
-      "GCP511_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_2.png?v=1762466981",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_6.png?v=1742287094",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_3.png?v=1742287094",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_4.png?v=1742287094"
     ],
     "has_image": true,
     "features": [
@@ -2274,8 +2301,10 @@
     "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fps, Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
     "price": 2850,
     "images": [
-      "GW900_APEX.JPG",
-      "GW900_APEX_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamforlaptop.png?v=1762457660",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/1080pwebcam.png?v=1657522700",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonwebcam_8e8f652b-eff9-4b5a-a49c-fa96c4e59e19.png?v=1657522700",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamcamera.png?v=1657522700"
     ],
     "has_image": true,
     "features": [
