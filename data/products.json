@@ -265,7 +265,9 @@
       "Connectivity": "2.4GHz Wireless / USB-C Wired",
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M690-PRO_Setup_v1.0_20221125.zip?v=1674026383",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M690-PRO_User_Manual.pdf?v=1675231273"
   },
   {
     "id": "M694",
@@ -406,7 +408,9 @@
       "RGB Lighting": "16.8M Colors, Breathing Effects",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M711_User_Manual.pdf?v=1589017789"
   },
   {
     "id": "M711C",
@@ -443,7 +447,9 @@
       "Color": "White / Red",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M711_User_Manual.pdf?v=1589017789"
   },
   {
     "id": "m723",
@@ -2224,5 +2230,104 @@
       "Includes": "Tripod Stand",
       "Compatibility": "Windows / macOS / Zoom / Skype / Teams"
     }
+  },
+  {
+    "id": "M908",
+    "model": "M908",
+    "name": "IMPACT M908 RGB MMO Gaming Mouse",
+    "category": "Mouse",
+    "images": ["https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_Impact_M908_RGB_MMO_Laser_Wired_Gaming_Mouse_1.jpg?v=1752474199", "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_Impact_M908_RGB_MMO_Laser_Wired_Gaming_Mouse_2.jpg?v=1752474199"],
+    "features": [
+      "19 fully programmable buttons including 12 MMO side buttons",
+      "12,400 DPI adjustable (100–12,400, freely ±100 via software)",
+      "Pixart PAW3327 high-precision optical sensor, 30G acceleration",
+      "5 user-profile memory slots each with dedicated LED color",
+      "16.8 million RGB color options with per-profile lighting",
+      "Weight tuning set: 8 × 2.4g removable weights (130g–167g)",
+      "1000Hz polling rate (switchable: 125/250/500/1000Hz)",
+      "6ft gold-plated braided-fiber USB cable",
+      "Durable TEFLON feet pads for smooth gliding"
+    ],
+    "specifications": {
+      "Sensor": "Pixart PAW3327 Optical",
+      "DPI Range": "100 – 12,400 (5 levels: 500/1000/2000/3000/6200, free adjust ±100)",
+      "Buttons": "19 Programmable (7 standard + 12 MMO side)",
+      "Polling Rate": "125 / 250 / 500 / 1000Hz",
+      "Acceleration": "30G",
+      "Weight": "130g – 167g (with tuning weights)",
+      "Weight Tuning": "8 × 2.4g removable weights",
+      "Cable Length": "6ft (1.8m) Braided",
+      "RGB Lighting": "16.8M Colors, 5 Profile LED",
+      "Connectivity": "USB Wired",
+      "Compatibility": "Windows 2000 / XP / Vista / 7 / 8 / 10, Mac OS"
+    },
+    "redragonUrl": "https://redragonshop.com/products/impact-m908",
+    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M908_User_Manual_452f29b0-2748-4c79-ae43-c562f1493cc6.pdf?v=1617242626"
+  },
+  {
+    "id": "M693",
+    "model": "M693",
+    "name": "TRIDENT M693 Tri-Mode Wireless RGB Gaming Mouse",
+    "category": "Mouse",
+    "images": ["https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM693WirelessBluetoothGamingMouse_1.png", "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM693WirelessBluetoothGamingMouse_2.png"],
+    "features": [
+      "Tri-mode connectivity: Bluetooth 5.0, 2.4GHz wireless, and wired USB-C",
+      "8000 DPI adjustable optical sensor (PAW3104), 5 DPI levels: 500/1000/2000/3000/8000",
+      "7 programmable buttons including 2 side macro buttons",
+      "700 mAh rechargeable battery — up to 60 hours (eco mode)",
+      "1000Hz polling rate across all connection modes",
+      "E-sports grade switches rated to 20 million clicks",
+      "16.8 million RGB lighting with dynamic streaming, breathing and wave effects",
+      "Software-programmable macros via Redragon Pro driver"
+    ],
+    "specifications": {
+      "Sensor": "Pixart PAW3104 Optical",
+      "DPI Range": "500 / 1000 / 2000 / 3000 / 8000",
+      "Buttons": "7 Programmable (incl. 2 side)",
+      "Polling Rate": "1000Hz",
+      "Battery": "700 mAh, up to 60 hours",
+      "Charging": "USB-C",
+      "Connectivity": "Bluetooth 5.0 / 2.4GHz Wireless / USB-C Wired",
+      "Wireless Range": "Up to 10m",
+      "RGB Lighting": "16.8M Colors, Multiple Modes",
+      "Compatibility": "Windows / Mac / Android"
+    },
+    "redragonUrl": "https://redragonshop.com/products/trident-m693-wireless-bluetooth-mouse",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_M693-RGB_Setup_v1.0_20221013_2910-B_TX_V3_CX52850_P3104.zip?v=1668496445",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M693.pdf?v=1721874212"
+  },
+  {
+    "id": "M806",
+    "model": "M806",
+    "name": "BULLSEYE M806 RGB Gaming Mouse",
+    "category": "Mouse",
+    "images": ["https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M806_Bullseye_Gaming_Mouse_1_9837feac-31bf-4107-ae0c-29321c4e5e7d.jpg?v=1683613750", "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M806_Bullseye_Gaming_Mouse_2.jpg?v=1683613262"],
+    "features": [
+      "Pixart PAW3327 optical sensor — 200 to 12,400 DPI, 30G acceleration",
+      "7 programmable buttons including 2 side macro buttons for customizable tactical keybinds",
+      "HUANO switches rated to 20 million clicks per button",
+      "Ergonomic natural grip follows the structure of the human hand — reduces fatigue in long sessions",
+      "5 RGB backlit modes with 16.8 million color customization",
+      "1.8m braided cable with gold-plated USB connector",
+      "TEFLON feet pads for smooth, frictionless gliding",
+      "Full software support: configure buttons, DPI, macros, and lighting"
+    ],
+    "specifications": {
+      "Sensor": "Optical Pixart PAW3327",
+      "DPI Range": "200 – 12,400 (5 adjustable levels)",
+      "Buttons": "7 Programmable (incl. 2 side macro)",
+      "Switch Type": "HUANO, 20M click durability",
+      "Acceleration": "30G",
+      "Weight": "100g",
+      "Dimensions": "120.5 x 100 x 49.5 mm",
+      "Cable Length": "1.8m Braided",
+      "RGB Lighting": "5 Modes, 16.8M Colors",
+      "Connectivity": "USB Wired",
+      "Compatibility": "PC / Mac / Linux"
+    },
+    "redragonUrl": "https://redragonshop.com/products/bullseye-m806",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_M806_Gaming_Mouse_20220728_V1058.rar?v=1683614875",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M806_User_Manual.pdf?v=1722584455"
   }
 ]
