@@ -23,6 +23,8 @@
         if(c)c.parentNode.removeChild(c);
       });
     })();
+    // iOS only: make Lenis touch listeners passive to fix scroll lag
+    if(/iPhone|iPad|iPod/.test(navigator.userAgent)){var _ael=EventTarget.prototype.addEventListener;EventTarget.prototype.addEventListener=function(t,f,o){if(t==='touchstart'||t==='touchmove'||t==='touchend'){o=typeof o==='boolean'?{capture:o,passive:true}:Object.assign({},o||{},{passive:true})}return _ael.call(this,t,f,o)}}
   </script>
   <script type="module" crossorigin src="/assets/main-BrIgOa6l.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/main-CXIMjarh-C7SGILRP.js">
