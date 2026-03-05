@@ -597,7 +597,8 @@
       "Wireless Range": "Up to 10m",
       "Software": "Redragon Pro Software",
       "Compatibility": "Windows / Mac / Android / iOS"
-    }
+    },
+    "softwareUrl": "https://storage.googleapis.com/shopify-delivery-app-production-internal/1a54a0-a5.myshopify.com/45013526577327/Redragon%20M725-LIT%20GAMING%20MOUSE.exe?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=delivery-app-production%40shopify-tiers.iam.gserviceaccount.com%2F20260112%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260112T085514Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Redragon_M725-LIT_GAMING_MOUSE.exe%22%3B%20filename%2A%3DUTF-8%27%27Redragon%2520M725-LIT%2520GAMING%2520MOUSE.exe&X-Goog-Signature=412e4435a90cf040a8fa8fce452a268b08add36dfefa301d4340622b041108bdeefeac3f8fcc4a6796f19f6d8ffdb1bd626d5024618243510c21ec3f11e1c170e68a5f9e8185c1539e3260789fc6c9643541c0449552082cc90810c2d015aa482f6cb95a502e7e88d946169cf83042e9f336b4c6423c0ec5abf86f26bedf8e44b93b3d06f5e169c85d24471baceb264a4119ee5f33446f0dcaae41d84440174d4948f001bb36030037b8d13bccaf581dad9067cfe18da95a27cb22da3fc94f15c4b251ed080e044116b294211260e0ffd8ae6832833351d02713050ef9864e61e0cfc88c0a4ca086354cfba13b586c85cbc44afdfc384440998b67d363d3f63a"
   },
   {
     "id": "m808-ks",
@@ -669,7 +670,8 @@
       "Wireless Range": "Up to 10m",
       "Compatibility": "Windows / Mac / Linux"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M814RGB-PRO_Software.exe?v=1767925771"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M814RGB-PRO_Software.exe?v=1767925771",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M817_User_Guide.pdf?v=1755594216"
   },
   {
     "id": "m815-pro",
@@ -1582,8 +1584,9 @@
     "specs": "Redragon H231 Scream Wired Gaming Headset, Stereo Surround Sound, 40mm Drivers, Leather Foam Ear Pads, Noise-canceling Microphone",
     "price": 960,
     "images": [
-      "H231-RGB.jpg",
-      "H231-RGB_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_H231_gaming_headsets_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_H231_gaming_headsets_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_H231_gaming_headsets_3.jpg"
     ],
     "has_image": true,
     "features": [
