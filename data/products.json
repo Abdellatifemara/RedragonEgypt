@@ -201,7 +201,8 @@
       "Connectivity": "USB-C Wired",
       "Shell": "Honeycomb",
       "Compatibility": "Windows / Mac / Linux"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M617-LIT_Software.exe?v=1768205229"
   },
   {
     "id": "m655-ks",
@@ -341,9 +342,7 @@
       "Dimensions": "117 x 63 x 37mm",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M808_2.4G_Software.zip?v=1620381118",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M808_Wireless_Mouse.pdf?v=1620381232"
+    }
   },
   {
     "id": "M703",
@@ -377,9 +376,7 @@
       "RGB Lighting": "5 Colors",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K525-RGB_setup_1.0.4.3.exe?v=1748484996",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S151_Wired_Combo_User_Manual.pdf?v=1752205165"
+    }
   },
   {
     "id": "m711",
@@ -494,9 +491,7 @@
       "Dimensions": "127 x 70 x 40mm",
       "Connectivity": "USB Wired",
       "Compatibility": "Windows / Mac"
-    },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K525-RGB_setup_1.0.4.3.exe?v=1748484996",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S151_Wired_Combo_User_Manual.pdf?v=1752205165"
+    }
   },
   {
     "id": "m724",
@@ -740,7 +735,9 @@
       "RGB Lighting": "Customizable",
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth",
       "Compatibility": "Windows / Mac"
-    }
+    },
+    "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20M817%20Gaming%20Mouse.exe",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M817_User_Guide.pdf?v=1755594216"
   },
   {
     "id": "k502",
@@ -749,8 +746,9 @@
     "specs": "Redragon K502 RGB Silent Gaming Keyboard RGB LED Backlit,104 Key with Wrist Rest",
     "price": 1325,
     "images": [
-      "k502.png",
-      "k502_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_PEGASUS_K502_Clavier_De_Jeu_A_Membrane_Filiaire.jpg?v=1753428160",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_PEGASUS_K502_Clavier_De_Jeu_A_Membrane_Filiaire_1.jpg?v=1753426773",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_PEGASUS_K502_Clavier_De_Jeu_A_Membrane_Filiaire_2.jpg?v=1753426774"
     ],
     "has_image": true,
     "features": [
@@ -776,7 +774,8 @@
       "Dimensions": "17.75 x 8 x 0.75 inches",
       "Weight": "1.3 lbs",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K503_Software.exe?v=1768292975"
   },
   {
     "id": "K503",
