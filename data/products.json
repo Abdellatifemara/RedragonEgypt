@@ -1481,7 +1481,8 @@
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-3_Software.exe?v=1768359346"
   },
   {
     "id": "S101W",
@@ -1514,7 +1515,8 @@
       "Connectivity": "USB Wired (Both)",
       "Compatibility": "Windows / Mac"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-3_Software.exe?v=1768359346"
   },
   {
     "id": "S101-BA",
@@ -1548,7 +1550,8 @@
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
     },
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/S101_User_Manual.pdf?v=1619770096",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S101-BA-3_M602P-Software.exe?v=1768359347"
   },
   {
     "id": "S107",
@@ -1581,7 +1584,8 @@
       "Mousepad": "Large, Waterproof, Silk Cloth",
       "Connectivity": "USB Wired (All)",
       "Compatibility": "Windows PC"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S107-KS_Software.exe?v=1768359347"
   },
   {
     "id": "H231-RGB",
@@ -1987,7 +1991,9 @@
       "Input Modes": "X-Input / Direct-Input",
       "Wireless Range": "Up to 8m",
       "Compatibility": "PC / PS3 / Android / Windows"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M808_2.4G_Software.zip?v=1620381118",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M808_Wireless_Mouse.pdf?v=1620381232"
   },
   {
     "id": "GS520",
