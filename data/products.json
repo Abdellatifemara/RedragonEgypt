@@ -1688,7 +1688,8 @@
       "RGB": "Dynamic RGB Earcups",
       "Ear Cups": "Soft Memory Foam",
       "Compatibility": "PC / PS4 / Xbox One / Switch / Mobile"
-    }
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_H260_Wired_Headset_User_Guide.pdf?v=1764224739"
   },
   {
     "id": "h315",
@@ -1697,8 +1698,9 @@
     "specs": "Redragon H315 RGB Gaming Headset - Wired Computer Headset with 40mm Drivers, Noise-Canceling Microphone, USB Connection, Lightweight Design, and Soft PU Leather Ear Cushions for Ultimate Comfort",
     "price": null,
     "images": [
-      "h315.jpg",
-      "h315_2.jpg"
+      "https://redragonshop.com/cdn/shop/files/RedragonH315RGBGamingHeadset_1.png?v=1762468074",
+      "https://redragonshop.com/cdn/shop/files/RedragonH315RGBGamingHeadset_2.png?v=1762468074",
+      "https://redragonshop.com/cdn/shop/files/RedragonH315RGBGamingHeadset_3.png?v=1762468074"
     ],
     "has_image": true,
     "features": [
@@ -1728,8 +1730,9 @@
     "specs": "High quality sound Compatible with multiple device likePS4,XBOXone,Laptop,MacIpad,Table,Mobilephone RGB Back lighting Detachable noise-cancelling MIC High quality reproduction of soundbydynamicstereodriver unit SupplyO.S.Win10,Win8,Win7,WinXP",
     "price": 1840,
     "images": [
-      "H350_RGB.jpg",
-      "H350_RGB_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h350_gaming_headset.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h350_gaming_headset_1.JPG",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h350_rgb_gaming_headset.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1761,8 +1764,9 @@
     "specs": "Redragon H386 Diomedes Wired Gaming Headset - 7.1 Surround Sound - 53MM Drivers - Detachable Microphone - Multi Platforms Headphone - USB/AUX 3.5mm Compatible with PC, PS4/3 & Xbox One/Series X, NS",
     "price": 1950,
     "images": [
-      "H386.jpg",
-      "H386_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/pc_microphone_headset_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/pc_microphone_headset_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/pc_microphone_headset_4.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1793,8 +1797,9 @@
     "specs": "Redragon h510 zeus wired gaming headset - 7.1 surround sound - memory foam ear pads - 53mm drivers - detachable microphone - multi platforms headphone - works with pc, ps4/3 & xbox one/series x, ns",
     "price": null,
     "images": [
-      "H510-fb.jpg",
-      "H510-fb_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_4.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1825,8 +1830,9 @@
     "specs": "Redragon H510 Zeus-X RGB Wired Gaming Headset - 7.1 Surround Sound - 53MM Audio Drivers in Memory Foam Ear Pads w/Reliable Fabric Cover- Multi Platforms Headphone - USB Powered for PC/PS4/NS",
     "price": 2495,
     "images": [
-      "H510RGB.jpg",
-      "H510RGB_2.jpg"
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/H510_ZEUS_BLACK.png",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_5.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/redragon_h510_gaming_headset_6.jpg"
     ],
     "has_image": true,
     "features": [
