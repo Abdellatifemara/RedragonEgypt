@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://redragonegypt.com/sitemap.xml

@@ -4,7 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Redragon Egypt — Master Every Game</title>
-  <meta name="description" content="Official Redragon gaming peripherals distributor in Egypt. Premium gaming peripherals — officially imported and warranted. Elessawy Group." />
+  <meta name="description" content="Official Redragon gaming peripherals distributor in Egypt. Premium mice, mechanical keyboards, headsets, gamepads — officially imported and warranted. Elessawy Group." />
+  <meta property="og:title" content="Redragon Egypt — Master Every Game"/>
+  <meta property="og:description" content="Egypt's official Redragon distributor. 170+ gaming peripherals — mice, keyboards, headsets, gamepads. Elessawy Group."/>
+  <meta property="og:image" content="/images/promo/promo_hero_desk.jpg"/>
+  <meta property="og:url" content="https://redragonegypt.com/"/>
+  <meta property="og:type" content="website"/>
+  <meta name="twitter:card" content="summary_large_image"/>
   <link rel="icon" type="image/png" href="/favicon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -46,6 +52,14 @@
 
     /* Drawer links: block display + bigger touch targets */
     .drawer-link{display:block;padding:18px 0;font-size:1rem}
+
+    /* Frame animation canvas */
+    #frame-canvas{position:absolute;inset:0;width:100%;height:100%;z-index:0}
+    .intro-section::before{z-index:1!important}
+    #hero-canvas{z-index:2!important}
+    .intro-content{z-index:3!important}
+    .intro-scroll-hint{z-index:3!important}
+    .blobs,.blob,.blob-1,.blob-2,.blob-3{z-index:1!important}
 
     /* Smooth mobile scrolling */
     @media(max-width:768px){
@@ -155,6 +169,8 @@
     <div class="blob blob-2"></div>
     <div class="blob blob-3"></div>
 
+    <!-- Frame animation canvas (keyboard disassembly) -->
+    <canvas id="frame-canvas"></canvas>
     <!-- Three.js canvas injected here by main.js -->
     <canvas id="hero-canvas"></canvas>
 
@@ -379,6 +395,89 @@
       </nav>
     </div>
   </footer>
+
+<!-- Frame-by-frame hero animation (keyboard disassembly) -->
+<script>
+(function(){
+  var TOTAL=64;
+  var canvas=document.getElementById('frame-canvas');
+  if(!canvas) return;
+  var ctx=canvas.getContext('2d');
+  var frames=[];
+  var loaded=0;
+  var curFrame=0;
+  var raf=0;
+
+  // Resize canvas to match display size
+  function resize(){
+    canvas.width=canvas.offsetWidth*window.devicePixelRatio;
+    canvas.height=canvas.offsetHeight*window.devicePixelRatio;
+    ctx.scale(window.devicePixelRatio,window.devicePixelRatio);
+    draw(curFrame);
+  }
+
+  // Draw a frame (cover-fit)
+  function draw(idx){
+    var img=frames[idx];
+    if(!img||!img.complete||!img.naturalWidth) return;
+    var cw=canvas.offsetWidth, ch=canvas.offsetHeight;
+    var iw=img.naturalWidth, ih=img.naturalHeight;
+    var scale=Math.max(cw/iw, ch/ih);
+    var w=iw*scale, h=ih*scale;
+    var x=(cw-w)/2, y=(ch-h)/2;
+    ctx.clearRect(0,0,cw,ch);
+    ctx.drawImage(img,x,y,w,h);
+    curFrame=idx;
+  }
+
+  // Preload frames
+  for(var i=1;i<=TOTAL;i++){
+    (function(idx){
+      var img=new Image();
+      img.src='/images/hero-frames/f'+String(idx).padStart(3,'0')+'.jpg';
+      img.onload=function(){
+        loaded++;
+        if(idx===1) draw(0); // draw first frame ASAP
+      };
+      frames.push(img);
+    })(i);
+  }
+
+  var section=document.querySelector('.intro-section');
+  var isMobile=/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)||window.innerWidth<768;
+
+  if(isMobile){
+    // Auto-play: forward then reverse, smooth loop
+    var frame=0, dir=1;
+    setInterval(function(){
+      frame+=dir;
+      if(frame>=TOTAL-1){frame=TOTAL-1;dir=-1;}
+      if(frame<=0){frame=0;dir=1;}
+      draw(frame);
+    },80);
+  } else {
+    // Scroll-driven: map scroll position to frame index
+    function onScroll(){
+      if(!section) return;
+      var rect=section.getBoundingClientRect();
+      var sH=rect.height;
+      // Progress: 0 when section top is at viewport top, 1 when section is fully scrolled out
+      var progress=Math.max(0,Math.min(1, -rect.top/(sH*0.8)));
+      var idx=Math.min(TOTAL-1, Math.floor(progress*(TOTAL-1)));
+      if(idx!==curFrame) draw(idx);
+    }
+    window.addEventListener('scroll',function(){
+      cancelAnimationFrame(raf);
+      raf=requestAnimationFrame(onScroll);
+    },{passive:true});
+    // Initial draw
+    setTimeout(function(){resize();onScroll();},100);
+  }
+
+  window.addEventListener('resize',resize);
+  resize();
+})();
+</script>
 
 </body>
 </html>
