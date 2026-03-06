@@ -3,11 +3,13 @@
 <head>
 <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
 <meta name="robots" content="noindex,nofollow"/>
-<title>Redragon Egypt — Catalog</title>
+<title>Products — Redragon Egypt</title>
 <link rel="icon" href="/images/logo_redragon.png"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Chakra+Petch:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<script type="module" crossorigin src="/assets/main-CXIMjarh-C7SGILRP.js"></script>
+<link rel="stylesheet" crossorigin href="/assets/main-CXIMjarh-CHVC6sxY.css">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -99,8 +101,17 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
 .logo span{font-family:var(--H);font-size:.75rem;letter-spacing:.28em;color:var(--red);text-transform:uppercase}
 .nav-links-wrap{display:flex;align-items:center;gap:4px}.nav-link{font-size:.62rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-decoration:none;padding:6px 12px;transition:color .18s;}.nav-link:hover{color:var(--text)}.nav-link.active{color:#fff}@media(max-width:600px){.nav-links-wrap{display:none}}
 
+
+/* Full-width search bar */
+.topbar-search-wrap{background:var(--s1);border-bottom:1px solid var(--border);padding:14px 24px;}
+.topbar-search-inner{display:flex;align-items:center;gap:10px;max-width:680px;margin:0 auto;background:var(--bg);border:1px solid rgba(255,255,255,.12);padding:10px 18px;transition:border-color .2s;}
+.topbar-search-inner:focus-within{border-color:var(--red);}
+.topbar-search-inner svg{width:16px;height:16px;color:var(--muted);flex-shrink:0;}
+.topbar-search-inner input{font-family:var(--B);font-size:.85rem;background:none;border:none;color:var(--text);width:100%;outline:none;letter-spacing:.02em;}
+.topbar-search-inner input::placeholder{color:var(--muted);}
+.search-count{font-size:.6rem;color:var(--muted);white-space:nowrap;letter-spacing:.06em;}
 /* ── LAYOUT ── */
-.layout{display:flex;align-items:flex-start;min-height:calc(100vh - 56px)}
+.layout{display:flex;align-items:flex-start;min-height:calc(100vh - 72px)}
 
 /* ── SIDEBAR ── */
 .sidebar{
@@ -367,10 +378,30 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
 </head>
 <body>
 
-<nav class="nav">
-  <a class="logo" href="/"><img src="/images/logo_redragon.png" alt="Redragon"/><span>Egypt</span></a>
-  <span class="nav-r">Catalog</span>
-</nav>
+<nav id="main-nav" class="main-nav scrolled">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">
+        <img src="/images/logo_redragon.png" alt="Redragon Egypt" />
+        <span class="nav-logo-text">EGYPT</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="/" class="nav-link">Home</a></li>
+        <li><a href="/lab/" class="nav-link active">Products</a></li>
+        <li><a href="/about" class="nav-link">About</a></li>
+        <li><a href="/contact" class="nav-link">Contact</a></li>
+      </ul>
+      <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+    </div>
+  </nav>
+  <div class="drawer-overlay"></div>
+  <nav class="drawer">
+    <ul>
+      <li><a href="/" class="drawer-link">Home</a></li>
+      <li><a href="/lab/" class="drawer-link">Products</a></li>
+      <li><a href="/about" class="drawer-link">About</a></li>
+      <li><a href="/contact" class="drawer-link">Contact</a></li>
+    </ul>
+  </nav>
 
 <!-- HERO -->
 <section class="hero">
@@ -386,6 +417,14 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
   </div>
 </section>
 
+
+<div class="topbar-search-wrap">
+  <div class="topbar-search-inner">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path stroke-linecap="round" d="m21 21-4.35-4.35"/></svg>
+    <input id="search" type="text" placeholder="Search by name, model, category…" autocomplete="off"/>
+    <span class="search-count" id="search-count"></span>
+  </div>
+</div>
 <div class="layout" id="catalog">
 
   <!-- SIDEBAR -->
@@ -485,9 +524,24 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
   </div>
 </aside>
 
-<footer>
-  <span>Redragon Egypt · Elessawi Group · Authorized Distributor</span>
-  <span>+201025069999 · info@redragonegypt.com</span>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="/images/logo_redragon.png" alt="Redragon Egypt" class="footer-logo" />
+      <p class="footer-tagline">Master Every Game</p>
+    </div>
+    <div class="footer-links">
+      <div class="footer-col">
+        <h4 class="footer-col-title">Navigate</h4>
+        <ul><li><a href="/" class="footer-link">Home</a></li><li><a href="/lab/" class="footer-link">Products</a></li><li><a href="/about" class="footer-link">About</a></li><li><a href="/contact" class="footer-link">Contact</a></li></ul>
+      </div>
+      <div class="footer-col">
+        <h4 class="footer-col-title">Contact</h4>
+        <ul><li class="footer-contact-item"><span>WhatsApp</span><a href="https://wa.me/201025069999" class="footer-link">+201025069999</a></li><li class="footer-contact-item"><span>Email</span><a href="mailto:info@redragonegypt.com" class="footer-link">info@redragonegypt.com</a></li><li class="footer-contact-item"><span>Facebook</span><a href="https://facebook.com/RedragonEgypt/" class="footer-link" target="_blank">RedragonEgypt</a></li></ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom"><p class="footer-copy">&copy; 2025 Redragon Egypt — Elessawi Group. Authorized Redragon Distributor.</p></div>
 </footer>
 
 <script>
@@ -527,6 +581,7 @@ function render(){
   const list=filtered();
   const grid=document.getElementById('grid');
   document.getElementById('top-count').textContent=list.length+' products';
+  const sc=document.getElementById('search-count'); if(sc&&q) sc.textContent=list.length+' result'+(list.length===1?'':'s'); else if(sc) sc.textContent='';
   document.getElementById('sb-count').textContent=list.length+' of '+all.length;
   if(!list.length){
     grid.innerHTML='<div class="empty"><div class="empty-t">NO RESULTS</div><div class="empty-s">Try adjusting your filters.</div></div>';
@@ -682,7 +737,12 @@ overlay.addEventListener('click',closeDrawer);
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
 
 /* ── LOAD ── */
-fetch('/data/products.json').then(r=>r.json()).then(data=>{
+// Show skeleton while loading
+  (function(){
+    const g=document.getElementById('grid');
+    if(g) g.innerHTML=Array(8).fill('<div class="card"><div class="card-img-wrap" style="aspect-ratio:1/1;background:#16161c;display:flex;align-items:center;justify-content:center;"><div style="width:60%;height:60%;background:#1e1e26;border-radius:4px;"></div></div><div class="card-foot"><div style="height:14px;width:60%;background:#1e1e26;border-radius:3px;margin-bottom:8px;"></div><div style="height:10px;width:80%;background:#17171d;border-radius:3px;"></div></div></div>').join('');
+  })();
+  fetch('/data/products.json').then(r=>r.json()).then(data=>{
   all=data;
   // Hero stats
   const stTotal=document.getElementById('stat-total');
