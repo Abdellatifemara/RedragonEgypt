@@ -3661,7 +3661,8 @@
       "Programmable": "Yes",
       "Compatibility": "PC / Android"
     },
-    "name": "G710 CERES — Wired Vibration Gaming Controller"
+    "name": "G710 CERES — Wired Vibration Gaming Controller",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/G710_User_Manual.pdf"
   },
   {
     "id": "G808",
@@ -4150,7 +4151,7 @@
     },
     "redragonUrl": "https://redragonshop.com/products/impact-m908",
     "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M908_User_Manual_452f29b0-2748-4c79-ae43-c562f1493cc6.pdf?v=1617242626",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M908_User_Manual.pdf",
     "has_image": true
   },
   {
