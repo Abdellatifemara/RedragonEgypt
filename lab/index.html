@@ -264,6 +264,12 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
 .card-model{font-family:var(--H);font-size:.88rem;color:#fff;line-height:1.1;margin-bottom:3px}
 .card-name{font-size:.58rem;color:var(--muted);line-height:1.35}
 
+/* Show More */
+.show-more-wrap{padding:28px 20px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:10px;}
+.show-more-count{font-size:.56rem;color:var(--muted);letter-spacing:.08em;}
+.show-more-btn{font-family:var(--B);font-weight:700;font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:#fff;background:var(--red);border:none;padding:12px 36px;cursor:pointer;transition:background .18s;}
+.show-more-btn:hover{background:#a80000;}
+
 /* Empty */
 .empty{
   grid-column:1/-1;background:var(--s1);
@@ -418,10 +424,6 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
       <div class="stat"><span class="stat-n" id="stat-total">—</span><span class="stat-l">Products</span></div>
       <div class="stat-div"></div>
       <div class="stat"><span class="stat-n">6</span><span class="stat-l">Categories</span></div>
-      <div class="stat-div"></div>
-      <div class="stat"><span class="stat-n" id="stat-sw">—</span><span class="stat-l">With Software</span></div>
-      <div class="stat-div"></div>
-      <div class="stat"><span class="stat-n" id="stat-man">—</span><span class="stat-l">With Manual</span></div>
     </div>
   </div>
 </section>
@@ -500,6 +502,10 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
     </div>
 
     <div class="prod-grid" id="grid"></div>
+    <div class="show-more-wrap" id="show-more-wrap" style="display:none">
+      <span class="show-more-count" id="show-more-count"></span>
+      <button class="show-more-btn" id="show-more-btn">Show More</button>
+    </div>
   </div>
 </div>
 
@@ -579,16 +585,22 @@ function filtered(){
 }
 
 /* ── render grid ── */
-function render(){
+const PAGE=24;
+let shown=PAGE;
+
+function render(reset){
+  if(reset!==false) shown=PAGE;
   const list=filtered();
   const grid=document.getElementById('grid');
   document.getElementById('top-count').textContent=list.length+' products';var _sc=document.getElementById('sc');if(_sc)_sc.textContent=q?list.length+' result'+(list.length!==1?'s':''):'';
   document.getElementById('sb-count').textContent=list.length+' of '+all.length;
   if(!list.length){
     grid.innerHTML='<div class="empty"><div class="empty-t">NO RESULTS</div><div class="empty-s">Try adjusting your filters.</div></div>';
+    document.getElementById('show-more-wrap').style.display='none';
     return;
   }
-  grid.innerHTML=list.map(p=>{
+  const visible=list.slice(0,shown);
+  grid.innerHTML=visible.map(p=>{
     const t=p.images&&p.images[0]?img(p.images[0]):PH;
     return `<div class="card" data-id="${p.id}" tabindex="0" role="button" aria-label="${p.name||p.model}">
       <div class="card-img-wrap">
@@ -600,8 +612,8 @@ function render(){
         <img src="${t}" alt="${p.name||p.model||''}" loading="lazy" onerror="this.src='${PH}'"/>
       </div>
       <div class="card-foot">
-        <div class="card-model">${p.model||p.id}</div>
-        <div class="card-name">${p.name||''}</div>
+        <div class="card-model">${p.name||p.model||p.id}</div>
+        <div class="card-name">${p.model||''}</div>
       </div>
     </div>`;
   }).join('');
@@ -609,6 +621,14 @@ function render(){
     c.addEventListener('click',()=>openDrawer(c.dataset.id));
     c.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')openDrawer(c.dataset.id)});
   });
+  // Show More
+  const wrap=document.getElementById('show-more-wrap');
+  if(shown<list.length){
+    wrap.style.display='';
+    document.getElementById('show-more-count').textContent='Showing '+visible.length+' of '+list.length;
+  } else {
+    wrap.style.display='none';
+  }
 }
 
 /* ── build sidebar ── */
@@ -670,6 +690,9 @@ window.toggleGroup=function(id){
 };
 
 /* ── mobile sidebar ── */
+/* ── show more ── */
+document.getElementById('show-more-btn').addEventListener('click',function(){shown+=PAGE;render(false)});
+
 document.getElementById('mob-filter').addEventListener('click',()=>{
   document.getElementById('sidebar').classList.toggle('mob-open');
 });
@@ -742,11 +765,7 @@ fetch('/data/products.json').then(r=>r.json()).then(data=>{
   all=data;
   // Hero stats
   const stTotal=document.getElementById('stat-total');
-  const stSW=document.getElementById('stat-sw');
-  const stMan=document.getElementById('stat-man');
   if(stTotal)stTotal.textContent=all.length;
-  if(stSW)stSW.textContent=all.filter(p=>p.softwareUrl).length;
-  if(stMan)stMan.textContent=all.filter(p=>p.manualUrl).length;
   buildSidebar();render();
 }).catch(()=>{
   document.getElementById('grid').innerHTML='<div class="empty"><div class="empty-t">LOAD ERROR</div></div>';
