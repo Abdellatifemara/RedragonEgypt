@@ -816,9 +816,8 @@
     "specs": "Redragon K502 RGB Silent Gaming Keyboard RGB LED Backlit,104 Key with Wrist Rest",
     "price": 1325,
     "images": [
-      "https://hardwaremarket.net/wp-content/uploads/2021/07/Redragon-K502-RGB-Gaming-Keyboard-1.jpg",
-      "https://hardwaremarket.net/wp-content/uploads/2021/07/Redragon-K502-RGB-Gaming-Keyboard-2.jpg",
-      "https://hardwaremarket.net/wp-content/uploads/2021/07/Redragon-K502-RGB-Gaming-Keyboard-3.jpg"
+      "k502.jpg",
+      "k502_2.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1550,10 +1549,10 @@
     "specs": "Redragon K569 ARYAMAN Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, RGB Backlit, 9 Illumination Modes, Anti-Ghosting",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/keyboard-redragon-aryaman-k569-rgb-mechanical-red-switch-6950376721150-51785148465498.jpg?v=1701076441",
-      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/keyboard-redragon-aryaman-k569-rgb-mechanical-red-switch-6950376721150-51785148891482.jpg?v=1701076445",
-      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/keyboard-redragon-aryaman-k569-rgb-mechanical-red-switch-6950376721150-51785149055322.jpg?v=1701076448",
-      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/keyboard-redragon-aryaman-k569-rgb-mechanical-red-switch-6950376721150-51785149350234.jpg?v=1701076429"
+      "K569_1.jpg",
+      "K569_2.jpg",
+      "K569_3.jpg",
+      "K569_4.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1619,10 +1618,10 @@
     "specs": "Redragon K579 MANYU Full-Size Wired Mechanical Gaming Keyboard, 114 Keys, 5 Macro Keys, RGB Backlit, Dedicated Volume Wheel, Blue Switches",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K579RGB_01.jpg?v=1696947896",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K579RGB_02.jpg?v=1696947897",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K579RGB_03.jpg?v=1696947895",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K579RGB_04.jpg?v=1696947896"
+      "K579_1.jpg",
+      "K579_2.jpg",
+      "K579_3.jpg",
+      "K579_4.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1654,10 +1653,10 @@
     "specs": "Redragon K589 SHRAPNEL Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, RGB Backlit, Low Profile Design, Linear & Quiet Red Switches",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_01.jpg?v=1696933755",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_02.jpg?v=1696933753",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_03.jpg?v=1696933753",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_04.jpg?v=1696933755"
+      "K589_1.jpg",
+      "K589_2.jpg",
+      "K589_3.jpg",
+      "K589_4.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1689,9 +1688,9 @@
     "specs": "Redragon K592 Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, White Backlit, Ultra-Fast V-Optical Blue Switches, Tactile & High Precision",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K592-PRO_01.jpg?v=1696943447",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K592-PRO_02.jpg?v=1696943448",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K592-PRO_03.jpg?v=1696943448"
+      "K592_1.jpg",
+      "K592_2.jpg",
+      "K592_3.jpg"
     ],
     "has_image": true,
     "features": [
@@ -1753,7 +1752,8 @@
       "Interface": "USB-C"
     },
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K587_Software.zip",
-    "name": "K587 MAGIC WAND — TKL Mechanical Keyboard, 9 Macro Keys"
+    "name": "K587 MAGIC WAND — TKL Mechanical Keyboard, 9 Macro Keys",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K587_PRO_User_Manual.pdf?v=1737450564"
   },
   {
     "id": "k552-KB_Blue_Switch",
@@ -2284,7 +2284,8 @@
       "Interface": "USB Wired"
     },
     "name": "K628 POLLUX — 75% Hot-Swap Mechanical Keyboard, Red Switch",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K628_User_Manual.pdf"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K628_User_Manual.pdf",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K628-RGB_Setup_V1.6.7_20220307.exe?v=1646710887"
   },
   {
     "id": "k629-rgb",
@@ -2358,7 +2359,9 @@
       "Backlit": "RGB",
       "Design": "Translucent / Crystal Clear"
     },
-    "name": "K649YP FIZZ PRO — 75% Tri-Mode Wireless Gasket Keyboard, Translucent"
+    "name": "K649YP FIZZ PRO — 75% Tri-Mode Wireless Gasket Keyboard, Translucent",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K649-RGB_Setup_V1.6.6_20230302.exe?v=1682649753",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K649_user_manual.pdf?v=1714447633"
   },
   {
     "id": "K649 PRO",
@@ -2395,7 +2398,9 @@
       "Design": "Crystal Clear Transparent",
       "Sound Dampening": "Dual-Layer Foam"
     },
-    "name": "K649 FIZZ PRO — 75% Tri-Mode Crystal Clear Gasket Keyboard"
+    "name": "K649 FIZZ PRO — 75% Tri-Mode Crystal Clear Gasket Keyboard",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K649-RGB_Setup_V1.6.6_20230302.exe?v=1682649753",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K649_PRO_User_Manual.pdf?v=1714447633"
   },
   {
     "id": "K679",
@@ -4147,7 +4152,8 @@
     },
     "redragonUrl": "https://redragonshop.com/products/impact-m908",
     "softwareUrl": "https://s3.us-east-1.amazonaws.com/s3.downloadcenter/REDRAGON%20Gaming%20Mouse.exe",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M908_User_Manual_452f29b0-2748-4c79-ae43-c562f1493cc6.pdf?v=1617242626"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M908_User_Manual_452f29b0-2748-4c79-ae43-c562f1493cc6.pdf?v=1617242626",
+    "has_image": true
   },
   {
     "id": "M693",
@@ -4182,7 +4188,8 @@
     },
     "redragonUrl": "https://redragonshop.com/products/trident-m693-wireless-bluetooth-mouse",
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_M693-RGB_Setup_v1.0_20221013_2910-B_TX_V3_CX52850_P3104.zip?v=1668496445",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M693.pdf?v=1721874212"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M693.pdf?v=1721874212",
+    "has_image": true
   },
   {
     "id": "M806",
@@ -4218,7 +4225,8 @@
     },
     "redragonUrl": "https://redragonshop.com/products/bullseye-m806",
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_M806_Gaming_Mouse_20220728_V1058.rar?v=1683614875",
-    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M806_User_Manual.pdf?v=1722584455"
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M806_User_Manual.pdf?v=1722584455",
+    "has_image": true
   },
   {
     "id": "M990",
@@ -4270,7 +4278,7 @@
       "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-04.jpg",
       "https://redragon.com/cdn/shop/files/Redragon_M801_Gaming_Mouse-05.jpg"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "16000 DPI adjustable optical sensor with 5 DPI settings",
       "9 programmable buttons with on-board memory for up to 5 profiles",
@@ -4302,7 +4310,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901_K-2.png"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "24000 DPI high-precision laser sensor",
       "19 programmable buttons for full MMO control",
@@ -4334,7 +4342,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/M901P-KS.png?v=1730344158"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "32000 DPI optical sensor with adjustable DPI settings",
       "19 programmable buttons for complete customization",
@@ -4366,7 +4374,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/M901P-KS.png?v=1730344158"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "32000 DPI optical sensor with adjustable DPI settings",
       "19 programmable buttons for complete customization",
@@ -4428,7 +4436,7 @@
       "https://redragon.com/cdn/shop/files/4_d906dba0-14c0-449a-9227-5d1eae224651_1_-Photoroom.png",
       "https://redragon.com/cdn/shop/files/5_b1189316-de65-4092-81e7-43f000f9f455_1_-Photoroom.png"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "32000 DPI optical sensor with adjustable settings",
       "6 programmable buttons for quick in-game actions",
@@ -4732,7 +4740,8 @@
       "Backlit": "RGB",
       "Interface": "USB Wired"
     },
-    "name": "M910 RANGER — 12400 DPI Wired Gaming Mouse"
+    "name": "M910 RANGER — 12400 DPI Wired Gaming Mouse",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_M910.exe?v=1728353242"
   },
   {
     "id": "M910-KS",
@@ -4762,7 +4771,8 @@
       "Backlit": "RGB",
       "Battery": "Rechargeable"
     },
-    "name": "M910 RANGER LITE — 8000 DPI Wireless Mouse"
+    "name": "M910 RANGER LITE — 8000 DPI Wireless Mouse",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_M910.exe?v=1728353242"
   },
   {
     "id": "M914",
@@ -4793,7 +4803,8 @@
       "Backlit": "RGB",
       "Battery": "Rechargeable"
     },
-    "name": "M914 RANGER — 26000 DPI Tri-Mode Wireless Mouse"
+    "name": "M914 RANGER — 26000 DPI Tri-Mode Wireless Mouse",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_M914P-RGB-KS_Gaming_Mouse_v1.0.0.43_2024.12.18_setup.exe?v=1740047493"
   },
   {
     "id": "M987P-K",
@@ -5221,7 +5232,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/REDRAGON-KG010-Mechanical-Gaming-Keyboard-Brown-Switch-White-Led-White-Black-Elyamama-37319311720679.jpg?v=1764074745"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "Compact single-hand gaming keypad for FPS and MOBA gaming",
       "RGB backlit with multiple color effect settings",
@@ -5247,7 +5258,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/REDRAGON-KG010-Mechanical-Gaming-Keyboard-Brown-Switch-White-Led-White-Black-Elyamama-37346561622247.jpg?v=1764074745"
     ],
-    "has_image": false,
+    "has_image": true,
     "features": [
       "Compact single-hand gaming keypad for FPS and MOBA gaming",
       "RGB backlit with multiple color effect settings",
@@ -5324,7 +5335,9 @@
       "Interface": "USB Wired",
       "Anti-Ghosting": "25 Keys"
     },
-    "name": "K512 SHIVA — Full-Size RGB Membrane Keyboard, 6 Macro Keys"
+    "name": "K512 SHIVA — Full-Size RGB Membrane Keyboard, 6 Macro Keys",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K512RGB-1_K512W-RGB-1_Gaming_keyboard_setup_v1.0.0.2.exe?v=1717389763",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K512RGB_User_Manual.pdf?v=1615262084"
   },
   {
     "id": "K530-PRO",
@@ -5354,7 +5367,8 @@
       "Connectivity": "2.4GHz / Bluetooth / Wired",
       "Backlight": "RGB"
     },
-    "name": "K530 DRACONIC PRO — 60% Wireless Mechanical Keyboard, Brown Switch"
+    "name": "K530 DRACONIC PRO — 60% Wireless Mechanical Keyboard, Brown Switch",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K530RGB_User_Manual_bc7d4317-3a8f-4ebf-b9a7-53fbd933f9b3.pdf?v=1615172210"
   },
   {
     "id": "K568-RGB",
@@ -5750,7 +5764,8 @@
       "Knob": "Yes",
       "Color": "Grey/Black"
     },
-    "name": "K688 — 98-Key Wireless RGB Gasket Keyboard, Grey/Black"
+    "name": "K688 — 98-Key Wireless RGB Gasket Keyboard, Grey/Black",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_K688-RGB-PRO_Setup_v2.0_20240715.exe?v=1728368130"
   },
   {
     "id": "K688-WGL",
@@ -5785,7 +5800,8 @@
       "Knob": "Yes",
       "Color": "White/Grey/Light Blue"
     },
-    "name": "K688 — 98-Key Wireless RGB Gasket Keyboard, White/Light Blue"
+    "name": "K688 — 98-Key Wireless RGB Gasket Keyboard, White/Light Blue",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon_K688-RGB-PRO_Setup_v2.0_20240715.exe?v=1728368130"
   },
   {
     "id": "K707WBB",
