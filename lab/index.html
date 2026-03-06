@@ -20,6 +20,66 @@
 html{scroll-behavior:smooth}
 body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100dvh}
 
+/* ── HERO ── */
+.hero{
+  position:relative;
+  height:clamp(380px,50vw,560px);
+  display:flex;align-items:flex-end;
+  overflow:hidden;
+}
+.hero-bg{
+  position:absolute;inset:0;
+  background:url('/images/promo/promo_hero_desk.jpg') center 30%/cover no-repeat;
+}
+/* Dark gradient from bottom so text is readable */
+.hero-bg::after{
+  content:'';position:absolute;inset:0;
+  background:linear-gradient(
+    to right,
+    rgba(10,10,12,.95) 0%,
+    rgba(10,10,12,.75) 50%,
+    rgba(10,10,12,.2) 100%
+  ),linear-gradient(
+    to top,
+    rgba(10,10,12,1) 0%,
+    rgba(10,10,12,.5) 40%,
+    transparent 70%
+  );
+}
+.hero-content{
+  position:relative;z-index:1;
+  padding:0 36px 40px;
+  max-width:680px;
+}
+.hero-eyebrow{
+  display:flex;align-items:center;gap:10px;
+  margin-bottom:16px;
+}
+.hero-eyebrow img{height:22px;filter:brightness(0) invert(1);opacity:.8}
+.hero-eyebrow span{
+  font-size:.58rem;letter-spacing:.22em;text-transform:uppercase;
+  color:rgba(255,255,255,.45);
+  border-left:1px solid rgba(255,255,255,.15);padding-left:10px;
+}
+.hero-title{
+  font-family:var(--H);
+  font-size:clamp(2.4rem,5.5vw,4.2rem);
+  line-height:.95;text-transform:uppercase;
+  letter-spacing:-.02em;color:#fff;
+  margin-bottom:14px;
+}
+.hero-title em{font-style:normal;color:var(--red)}
+.hero-sub{
+  font-size:.76rem;color:rgba(255,255,255,.5);
+  line-height:1.7;margin-bottom:28px;
+  max-width:480px;
+}
+.hero-stats{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.stat{display:flex;flex-direction:column;gap:2px}
+.stat-n{font-family:var(--H);font-size:1.4rem;color:#fff;line-height:1}
+.stat-l{font-size:.52rem;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35)}
+.stat-div{width:1px;height:28px;background:rgba(255,255,255,.1)}
+
 /* ── NAV ── */
 .nav{
   position:sticky;top:0;z-index:300;height:56px;
@@ -304,6 +364,28 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
   <a class="logo" href="/"><img src="/images/logo_redragon.png" alt="Redragon"/><span>Egypt</span></a>
   <span class="nav-r">Catalog</span>
 </nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">
+      <img src="/images/logo_redragon.png" alt="Redragon"/>
+      <span>Official Distributor · Egypt &amp; North Africa</span>
+    </div>
+    <h1 class="hero-title">Master Every<br/><em>Game.</em></h1>
+    <p class="hero-sub">Premium gaming peripherals — pro-grade mice, mechanical keyboards,<br/>headsets and more. Built for champions.</p>
+    <div class="hero-stats" id="hero-stats">
+      <div class="stat"><span class="stat-n" id="stat-total">—</span><span class="stat-l">Products</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-n">6</span><span class="stat-l">Categories</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-n" id="stat-sw">—</span><span class="stat-l">With Software</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-n" id="stat-man">—</span><span class="stat-l">With Manual</span></div>
+    </div>
+  </div>
+</section>
 
 <div class="layout">
 
@@ -609,7 +691,15 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
 
 /* ── LOAD ── */
 fetch('/data/products.json').then(r=>r.json()).then(data=>{
-  all=data;buildSidebar();render();
+  all=data;
+  // Hero stats
+  const stTotal=document.getElementById('stat-total');
+  const stSW=document.getElementById('stat-sw');
+  const stMan=document.getElementById('stat-man');
+  if(stTotal)stTotal.textContent=all.length;
+  if(stSW)stSW.textContent=all.filter(p=>p.softwareUrl).length;
+  if(stMan)stMan.textContent=all.filter(p=>p.manualUrl).length;
+  buildSidebar();render();
 }).catch(()=>{
   document.getElementById('grid').innerHTML='<div class="empty"><div class="empty-t">LOAD ERROR</div></div>';
 });
