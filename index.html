@@ -349,7 +349,7 @@
   for(var i=1;i<=TOTAL;i++){
     (function(idx){
       var img=new Image();
-      img.src='/images/hero-frames/f'+String(idx).padStart(3,'0')+'.jpg';
+      img.src='/images/hero-frames/f'+String(idx).padStart(3,'0')+'.webp';
       if(idx===1) img.onload=function(){resize();draw(0);};
       frames.push(img);
     })(i);
