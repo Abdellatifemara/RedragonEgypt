@@ -1,0 +1,33 @@
+{
+  "https://www.redragon.in/pages/software-download": {
+    "sw": [
+      "https://cdn.shopify.com/s/files/1/2695/9506/files/M901-K-2_M901-W-2_REDRAGON_Gaming_Mouse_Software_20200728.rar?v=1715333915",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/REDRAGON_K551RGB-1_28A_NEW_SOFTWARE_20211215_1.zip?v=1655183740",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551RGB-1.pdf?v=1736413586"
+    ]
+  },
+  "https://www.redragon.in/pages/downloads-software-and-manuals": {
+    "sw": [
+      "https://cdn.shopify.com/s/files/1/2695/9506/files/M901-K-2_M901-W-2_REDRAGON_Gaming_Mouse_Software_20200728.rar?v=1715333915",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901-K-2_User_Manual.pdf?v=1749018575",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/REDRAGON_K551RGB-1_28A_NEW_SOFTWARE_20211215_1.zip?v=1655183740",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551RGB-1.pdf?v=1736413586"
+    ],
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901_K-2.png",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551_RGB.png"
+    ]
+  },
+  "https://www.originshop.co.in/pages/redragon-software-user-manual-download": {
+    "sw": [
+      "https://cdn.shopify.com/s/files/1/2695/9506/files/M901-K-2_M901-W-2_REDRAGON_Gaming_Mouse_Software_20200728.rar?v=1715333915",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901-K-2_User_Manual.pdf?v=1749018575",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/REDRAGON_K551RGB-1_28A_NEW_SOFTWARE_20211215_1.zip?v=1655183740",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551RGB-1.pdf?v=1736413586"
+    ],
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901_K-2.png",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551_RGB.png"
+    ]
+  }
+}

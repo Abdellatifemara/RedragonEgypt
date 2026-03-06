@@ -1,0 +1,14 @@
+const d = require('./data/products.json');
+const noSW = d.filter(p => !p.softwareUrl);
+const noMAN = d.filter(p => !p.manualUrl);
+const noIMG = d.filter(p => !p.images || p.images.length === 0);
+const localIMG = d.filter(p => p.images && p.images.length > 0 && !p.images[0].startsWith('http'));
+const frenchKBs = d.filter(p => p.images && p.images.some(i => /azerty|clavier|filiaire|french/i.test(i)));
+console.log('=== AUDIT ===');
+console.log('Total:', d.length);
+console.log('No SW:', noSW.length, '->', noSW.map(p=>p.model||p.id).join(', '));
+console.log('No MAN:', noMAN.length);
+noMAN.forEach(p => console.log(' -', p.model||p.id));
+console.log('No IMG:', noIMG.length);
+console.log('Local IMG (needs CDN upgrade):', localIMG.length, '->', localIMG.map(p=>p.model||p.id).join(', '));
+console.log('French layout images:', frenchKBs.length, '->', frenchKBs.map(p=>p.model||p.id).join(', '));
