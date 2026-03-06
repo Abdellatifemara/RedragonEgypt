@@ -33,7 +33,8 @@
       "Connectivity": "USB Wired",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/REDRAGON_Gaming_Mouse_20220728_V1058.rar?v=1659077702",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M601_RGB.pdf?v=1736413583"
   },
   {
     "id": "M602-KS",
@@ -280,6 +281,39 @@
     },
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M690-PRO_Setup_v1.0_20221125.zip?v=1674026383",
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M690-PRO_User_Manual.pdf?v=1675231273"
+  },
+  {
+    "id": "M691",
+    "model": "M691",
+    "category": "Mouse",
+    "specs": "Redragon M691 MIST Wireless Gaming Mouse, 4800 DPI Optical Sensor, Ergonomic Design with Thumb Rest, 9 Programmable Buttons, 5 Memory Modes, 2.4G Wireless",
+    "price": 649,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0858/8878/files/redragon-m691-mist-wireless-gaming-mouse-955.jpg",
+      "https://cdn.shopify.com/s/files/1/0858/8878/files/redragon-m691-mist-wireless-gaming-mouse-298.jpg",
+      "https://cdn.shopify.com/s/files/1/0858/8878/files/redragon-m691-mist-wireless-gaming-mouse-770.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "4800 DPI optical sensor with 6 adjustable levels (800/1200/1600/2400/3200/4800)",
+      "9 programmable buttons with 5 onboard memory modes",
+      "2.4GHz wireless connectivity with up to 10m range",
+      "Ergonomic right-handed design with dedicated thumb rest",
+      "Rapid fire button for competitive gaming",
+      "500Hz polling rate for responsive tracking",
+      "30 IPS tracking speed",
+      "Compatible with Windows PC"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI Range": "800 / 1200 / 1600 / 2400 / 3200 / 4800",
+      "Buttons": "9 Programmable",
+      "Polling Rate": "500Hz",
+      "Memory Modes": "5",
+      "Connectivity": "2.4GHz Wireless",
+      "Wireless Range": "Up to 10m",
+      "Tracking Speed": "30 IPS"
+    }
   },
   {
     "id": "M694",
@@ -760,9 +794,9 @@
     "specs": "Redragon K502 RGB Silent Gaming Keyboard RGB LED Backlit,104 Key with Wrist Rest",
     "price": 1325,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_PEGASUS_K502_Clavier_De_Jeu_A_Membrane_Filiaire.jpg?v=1753428160",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_PEGASUS_K502_Clavier_De_Jeu_A_Membrane_Filiaire_1.jpg?v=1753426773",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_PEGASUS_K502_Clavier_De_Jeu_A_Membrane_Filiaire_2.jpg?v=1753426774"
+      "https://hardwaremarket.net/wp-content/uploads/2021/07/Redragon-K502-RGB-Gaming-Keyboard-1.jpg",
+      "https://hardwaremarket.net/wp-content/uploads/2021/07/Redragon-K502-RGB-Gaming-Keyboard-2.jpg",
+      "https://hardwaremarket.net/wp-content/uploads/2021/07/Redragon-K502-RGB-Gaming-Keyboard-3.jpg"
     ],
     "has_image": true,
     "features": [
@@ -797,9 +831,7 @@
     "specs": "Redragon K503 PC Gaming Keyboard, Wired, Multimedia Keys, Silent USB Keyboard with Wrist Rest for Windows PC Games (RGB LED Backlit with Macro Recording)",
     "price": 1000,
     "images": [
-      "https://redragonshop.com/cdn/shop/files/RedragonK503AZERTYWiredGamingKeyboard_1.png?v=1758698838",
-      "https://redragonshop.com/cdn/shop/files/RedragonK503AZERTYWiredGamingKeyboard_2.jpg?v=1758698838",
-      "https://redragonshop.com/cdn/shop/files/RedragonK503AZERTYWiredGamingKeyboard_3.jpg?v=1758698838"
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K503.png?v=1750760697"
     ],
     "has_image": true,
     "features": [
@@ -835,8 +867,7 @@
     "specs": "Redragon K503 PC Gaming Keyboard, Wired, white , Multimedia Keys, Silent USB Keyboard with Wrist Rest for Windows PC Games (RGB LED Backlit with Macro Recording)",
     "price": null,
     "images": [
-      "https://redragonshop.com/cdn/shop/files/RedragonK503AZERTYWiredGamingKeyboard_1.png?v=1758698838",
-      "https://redragonshop.com/cdn/shop/files/RedragonK503AZERTYWiredGamingKeyboard_4.jpg?v=1758698838"
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K503.png?v=1750760697"
     ],
     "has_image": true,
     "features": [
@@ -871,9 +902,8 @@
     "specs": "Redragon Yaksa K505 USB Gaming Keyboard (Black)",
     "price": 1100,
     "images": [
-      "https://redragonshop.com/cdn/shop/files/RedragonK505FrenchAZERTYGamingKeyboard.png?v=1756088436",
-      "https://redragonshop.com/cdn/shop/files/RedragonK505GamingKeyboardFrenchAZERTY_1.jpg?v=1756088436",
-      "https://redragonshop.com/cdn/shop/files/RedragonK505GamingKeyboardFrenchAZERTY_2.jpg?v=1756088436"
+      "https://cdn.shopify.com/s/files/1/0858/8878/products/redragon-yaksa-k505-keyboard-199.jpg",
+      "https://cdn.shopify.com/s/files/1/0858/8878/products/redragon-yaksa-k505-keyboard-266.jpg"
     ],
     "has_image": true,
     "features": [
@@ -973,7 +1003,8 @@
     "price": 1850,
     "images": [
       "k551.jpg",
-      "k551_2.jpg"
+      "k551_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551_RGB.png"
     ],
     "has_image": true,
     "features": [
@@ -997,7 +1028,9 @@
       "Connectivity": "USB Wired",
       "Cable Length": "Approx. 1.8m",
       "Compatibility": "Windows 10 / 8 / 7 / Vista / XP"
-    }
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/REDRAGON_K551RGB-1_28A_NEW_SOFTWARE_20211215_1.zip?v=1655183740",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/K551RGB-1.pdf?v=1736413586"
   },
   {
     "id": "K552_RGB_red_sw",
@@ -1074,6 +1107,598 @@
     },
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf?v=1731059298",
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552-KR_Software.exe"
+  },
+  {
+    "id": "K552 WLR-R",
+    "model": "K552 WLR-R",
+    "category": "Keyboard",
+    "specs": "Redragon K552 WLR-R Kumara TKL Wired Mechanical Gaming Keyboard — White, 87 Keys, Rainbow LED Backlit, Red Switches, Anti-Ghosting",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552WLR-R.png",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/01/Redragon_K552_Kumara_White_Rainbow_Red_Switch-1.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/01/Redragon_K552_Kumara_White_Rainbow_Red_Switch-2.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/01/Redragon_K552_Kumara_White_Rainbow_Red_Switch-3.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "White colorway — bright, clean aesthetic for any setup",
+      "87-key tenkeyless compact layout saves desk space",
+      "Rainbow LED backlighting with multiple lighting effects",
+      "Outemu Red mechanical switches — smooth linear, 50g actuation",
+      "N-key rollover with anti-ghosting for conflict-free input",
+      "Solid aircraft-grade aluminum top plate",
+      "Double-shot injection molded keycaps — legends won't fade",
+      "Adjustable keyboard height with tilt legs"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Color": "White",
+      "Layout": "TKL 87-Key",
+      "Switches": "Outemu Red (Linear)",
+      "Backlit": "Rainbow LED",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aluminum",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K552-WLR-R_setup_1.0.exe"
+  },
+  {
+    "id": "K552 WGL-R",
+    "model": "K552 WGL-R",
+    "category": "Keyboard",
+    "specs": "Redragon K552 WGL-R Kumara TKL Wired Mechanical Gaming Keyboard — White, 87 Keys, RGB Rainbow Backlit, Red Switches, Anti-Ghosting",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552WGL-R.png"
+    ],
+    "has_image": true,
+    "features": [
+      "White housing with vibrant RGB rainbow LED backlighting",
+      "87-key tenkeyless compact layout",
+      "Outemu Red mechanical switches — linear, smooth, fast",
+      "19 backlit modes including game mode, breathing, wave effects",
+      "N-key rollover with anti-ghosting",
+      "Aircraft-grade aluminum top plate",
+      "Double-shot injection molded keycaps",
+      "Compatible with Windows, macOS, Linux"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Color": "White",
+      "Layout": "TKL 87-Key",
+      "Switches": "Outemu Red (Linear)",
+      "Backlit": "RGB Rainbow LED (19 Modes)",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aluminum",
+      "Interface": "USB Wired"
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf"
+  },
+  {
+    "id": "K552 LGY-R",
+    "model": "K552 LGY-R",
+    "category": "Keyboard",
+    "specs": "Redragon K552 LGY-R Kumara TKL Wired Mechanical Gaming Keyboard — Black/Grey, 87 Keys, Rainbow LED Backlit, Red Switches, Anti-Ghosting",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552LGY-R.png",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552LGY-R1276663_2.png",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552LGY-R1276663_3.png",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552LGY-R1276663_4.png",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/K552LGY-R1276663_5.png"
+    ],
+    "has_image": true,
+    "features": [
+      "Black and grey dual-tone colorway — stealthy gaming aesthetic",
+      "87-key tenkeyless compact layout saves desk space",
+      "Rainbow LED backlighting with multiple preset lighting effects",
+      "Outemu Red mechanical switches — smooth linear, 50g actuation",
+      "N-key rollover with anti-ghosting for conflict-free input",
+      "Solid aircraft-grade aluminum top plate",
+      "Double-shot injection molded keycaps — legends won't fade",
+      "Adjustable keyboard height with tilt legs"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Color": "Black / Grey",
+      "Layout": "TKL 87-Key",
+      "Switches": "Outemu Red (Linear)",
+      "Backlit": "Rainbow LED",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aluminum",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K552_User_Manual.pdf"
+  },
+  {
+    "id": "K552E-KK",
+    "model": "K552E-KK",
+    "category": "Keyboard",
+    "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Black Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-1.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-2.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-3.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-4.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-5.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-6.jpg?v=1745165949"
+    ],
+    "has_image": true,
+    "features": [
+      "TKL 87-key layout — tenkeyless design saves desk space, retains function row and navigation keys",
+      "Rainbow RGB backlighting — vivid per-key illumination, multiple lighting effects",
+      "Elite upgrade — improved keycap quality, better build consistency over standard K552",
+      "Anti-ghosting N-key rollover — every keypress registered during intense gaming",
+      "Gold-plated USB connector — stable connection, corrosion-resistant",
+      "Height-adjustable feet — two-level tilt for comfortable typing angle",
+      "Black linear switches — ultra-fast, ultra-quiet actuation, ideal for high-speed gaming"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "TKL 87-Key",
+      "Backlit": "Rainbow RGB",
+      "N-Key Rollover": "Yes",
+      "Interface": "USB Wired",
+      "Switches": "Black (Linear, Fast, Quiet)"
+    }
+  },
+  {
+    "id": "K552E-Red",
+    "model": "K552E",
+    "category": "Keyboard",
+    "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Red Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-1.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-2.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-3.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-4.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-5.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-red-switch-1.jpg?v=1745165949",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-6.jpg?v=1745165949"
+    ],
+    "has_image": true,
+    "features": [
+      "TKL 87-key layout — tenkeyless design saves desk space, retains function row and navigation keys",
+      "Rainbow RGB backlighting — vivid per-key illumination, multiple lighting effects",
+      "Elite upgrade — improved keycap quality, better build consistency over standard K552",
+      "Anti-ghosting N-key rollover — every keypress registered during intense gaming",
+      "Gold-plated USB connector — stable connection, corrosion-resistant",
+      "Height-adjustable feet — two-level tilt for comfortable typing angle",
+      "Red linear switches — smooth, light 45g actuation, the classic gaming switch choice"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "TKL 87-Key",
+      "Backlit": "Rainbow RGB",
+      "N-Key Rollover": "Yes",
+      "Interface": "USB Wired",
+      "Switches": "Red (Linear, Smooth)"
+    }
+  },
+  {
+    "id": "K552E-Brown",
+    "model": "K552E",
+    "category": "Keyboard",
+    "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Brown Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-1.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-2.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-3.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-4.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-5.jpg?v=1745165386",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552-tkl-rainbow-rgb-black-switch-6.jpg?v=1745165949"
+    ],
+    "has_image": true,
+    "features": [
+      "TKL 87-key layout — tenkeyless design saves desk space, retains function row and navigation keys",
+      "Rainbow RGB backlighting — vivid per-key illumination, multiple lighting effects",
+      "Elite upgrade — improved keycap quality, better build consistency over standard K552",
+      "Anti-ghosting N-key rollover — every keypress registered during intense gaming",
+      "Gold-plated USB connector — stable connection, corrosion-resistant",
+      "Height-adjustable feet — two-level tilt for comfortable typing angle",
+      "Brown tactile switches — satisfying tactile bump without loud click, great for typing and gaming"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "TKL 87-Key",
+      "Backlit": "Rainbow RGB",
+      "N-Key Rollover": "Yes",
+      "Interface": "USB Wired",
+      "Switches": "Brown (Tactile)"
+    }
+  },
+  {
+    "id": "K552E-Blue",
+    "model": "K552E",
+    "category": "Keyboard",
+    "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Blue Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552e-tkl-rainbow-rgb-blue-switch-1.webp?v=1745249728",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552e-tkl-rainbow-rgb-blue-switch-2.webp?v=1745249728",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552e-tkl-rainbow-rgb-blue-switch-3.webp?v=1745167477",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-kumara-elite-k552e-tkl-rainbow-rgb-blue-switch-4.webp?v=1745167488"
+    ],
+    "has_image": true,
+    "features": [
+      "TKL 87-key layout — tenkeyless design saves desk space, retains function row and navigation keys",
+      "Rainbow RGB backlighting — vivid per-key illumination, multiple lighting effects",
+      "Elite upgrade — improved keycap quality, better build consistency over standard K552",
+      "Anti-ghosting N-key rollover — every keypress registered during intense gaming",
+      "Gold-plated USB connector — stable connection, corrosion-resistant",
+      "Height-adjustable feet — two-level tilt for comfortable typing angle",
+      "Blue tactile clicky switches — audible click feedback for precise, satisfying keystrokes"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "TKL 87-Key",
+      "Backlit": "Rainbow RGB",
+      "N-Key Rollover": "Yes",
+      "Interface": "USB Wired",
+      "Switches": "Blue (Tactile, Clicky)"
+    }
+  },
+  {
+    "id": "K555",
+    "model": "K555",
+    "category": "Keyboard",
+    "specs": "Redragon K555 INDRAH RGB Backlit Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, 5 Macro Keys, Detachable Wrist Rest, Blue Switches",
+    "price": 0,
+    "images": [
+      "https://buildtechnology.net/wp-content/uploads/2025/06/Redragon-K555-R-INDRAH-Rainbow-LED-Backlit-Mechanical-Gaming-Keyboard-1.jpg",
+      "https://buildtechnology.net/wp-content/uploads/2025/06/Redragon-K555-R-INDRAH-Rainbow-LED-Backlit-Mechanical-Gaming-Keyboard-2.jpg",
+      "https://buildtechnology.net/wp-content/uploads/2025/06/Redragon-K555-R-INDRAH-Rainbow-LED-Backlit-Mechanical-Gaming-Keyboard-3.jpg",
+      "https://buildtechnology.net/wp-content/uploads/2025/06/Redragon-K555-R-INDRAH-Rainbow-LED-Backlit-Mechanical-Gaming-Keyboard-4.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "5 dedicated onboard macro keys (G1–G5) for programmable shortcuts",
+      "Full dynamic RGB LED backlighting with 7 lighting modes",
+      "Solid aircraft-grade aluminum and ABS top plate construction",
+      "Detachable ergonomic wrist rest for long gaming sessions",
+      "N-key rollover with anti-ghosting — no missed keystrokes",
+      "Outemu Blue switches — tactile, clicky, 50g actuation",
+      "6 multimedia hotkey controls for instant media access",
+      "Gold-plated USB connector for reliable signal transfer"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Macro Keys": "5 Dedicated (G1-G5)",
+      "Switches": "Outemu Blue (Tactile/Clicky)",
+      "Backlit": "Full RGB 16.8M Colors",
+      "N-Key Rollover": "Yes",
+      "Wrist Rest": "Detachable",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    }
+  },
+  {
+    "id": "K565R",
+    "model": "K565R",
+    "category": "Keyboard",
+    "specs": "Redragon K565R RUDRA Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Rainbow LED Backlit, Blue Switches, English & Arabic Layout",
+    "price": 0,
+    "images": [
+      "https://www.nextmarteg.com/wp-content/uploads/2022/07/REDRAGON-K565R-RUDRA-Keyboard-1.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2022/07/REDRAGON-K565R-RUDRA-Keyboard-2.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2022/07/REDRAGON-K565R-RUDRA-Keyboard-3.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2022/07/REDRAGON-K565R-RUDRA-Keyboard-5.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2022/07/REDRAGON-K565R-RUDRA-Keyboard-7.jpg",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon104-KeyK565-RGBWiredBacklightMechanicalKeyboard_1_1_-Photoroom.png?v=1725354877",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/Redragon104-KeyK565-RGBWiredBacklightMechanicalKeyboard_2_1_-Photoroom.png?v=1725354877"
+    ],
+    "has_image": true,
+    "features": [
+      "English & Arabic key legends — bilingual layout for Egyptian users",
+      "Full-size 104-key layout with 12 multimedia control keys",
+      "Rainbow LED backlighting with 8 adjustable lighting modes",
+      "Outemu Blue switches — tactile, clicky feedback, 50g actuation",
+      "N-key rollover — anti-ghosting for simultaneous multi-key input",
+      "Solid aluminum top plate for durability and stability",
+      "Gold-plated USB connector for reliable connection",
+      "Adjustable tilt legs — 3 keyboard height settings"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Language": "English & Arabic",
+      "Switches": "Outemu Blue (Tactile/Clicky)",
+      "Backlit": "Rainbow LED (8 Modes)",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aluminum",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K565R_User_Manual.pdf"
+  },
+  {
+    "id": "K565R Elite",
+    "model": "K565R Elite",
+    "category": "Keyboard",
+    "specs": "Redragon K565E RUDRA Elite Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Rainbow LED Backlit, Blue Switches, English & Arabic Layout",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-K565_01.jpg?v=1722766398",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-K565_02_73c72d08-d059-49bf-b6f7-42faeea37eee.jpg?v=1722766785",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-K565_03_e7c70275-5270-4c56-a4d2-c0cbfdd4ede1.jpg?v=1722766785",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-K565_04_daf57ef1-c080-41eb-a2c7-37296ed66c4d.jpg?v=1722766786"
+    ],
+    "has_image": true,
+    "features": [
+      "Elite upgrade — enhanced build quality and improved keycap design",
+      "English & Arabic key legends — bilingual layout for Egyptian users",
+      "Full-size 104-key layout with 12 multimedia control keys",
+      "Rainbow LED backlighting with 8 customizable lighting modes",
+      "Outemu Blue switches — tactile, clicky feedback, 50g actuation",
+      "N-key rollover — anti-ghosting for simultaneous multi-key input",
+      "Premium aluminum top plate for durability and stability",
+      "Adjustable tilt legs — 3 keyboard height settings"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Language": "English & Arabic",
+      "Switches": "Outemu Blue (Tactile/Clicky)",
+      "Backlit": "Rainbow LED (8 Modes)",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aluminum",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    }
+  },
+  {
+    "id": "K567",
+    "model": "K567",
+    "category": "Keyboard",
+    "specs": "Redragon K567 RAHU Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, RGB Backlit, Blue Switches, Aircraft-Grade Aluminum Construction",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K567-RGB_01.jpg?v=1696945609",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K567-RGB_02.jpg?v=1696945609",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K567-RGB_03.jpg?v=1696945609",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K567-RGB_04.jpg?v=1696945608",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k567-rgb-full-size-blue-switch-1.webp?v=1745241521",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k567-rgb-full-size-blue-switch-2.webp?v=1745241521"
+    ],
+    "has_image": true,
+    "features": [
+      "Heavy-duty aircraft-grade aluminum top plate — built for long-term use",
+      "Full-size 104-key layout — no sacrifice in functionality",
+      "Per-key RGB backlighting with dynamic lighting effects",
+      "Outemu Blue switches — tactile, clicky feedback, 50g actuation",
+      "Full N-key rollover — all keypresses registered simultaneously",
+      "Detachable palm rest included for ergonomic comfort",
+      "Gold-plated USB connector for superior signal quality",
+      "Splash-resistant design — protected against accidental spills"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Outemu Blue (Tactile/Clicky)",
+      "Backlit": "RGB Per-Key",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aircraft-Grade Aluminum",
+      "Wrist Rest": "Detachable (included)",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    }
+  },
+  {
+    "id": "K569",
+    "model": "K569",
+    "category": "Keyboard",
+    "specs": "Redragon K569 ARYAMAN Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, RGB Backlit, 9 Illumination Modes, Anti-Ghosting",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K569RGB_01.jpg?v=1696948786",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K569RGB_02.jpg?v=1696948787",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/k569_01.jpg?v=1696948786",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/k569_02.jpg?v=1696948787",
+      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/keyboard-redragon-aryaman-k569-rgb-mechanical-red-switch-6950376721150-51785148465498.jpg?v=1701076441",
+      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/keyboard-redragon-aryaman-k569-rgb-mechanical-red-switch-6950376721150-51785148891482.jpg?v=1701076445"
+    ],
+    "has_image": true,
+    "features": [
+      "Full-size 104-key layout with 12 multimedia keys",
+      "9 RGB backlit illumination modes with 4 brightness levels",
+      "Mechanical switches rated for 50 million keystrokes",
+      "Full anti-ghosting with 104-key rollover for competitive play",
+      "Heavy-duty ABS construction for long-term durability",
+      "Gold-plated USB connector for reliable signal quality",
+      "Splash-resistant design — protected against liquid spills",
+      "Adjustable tilt legs for customizable typing angle"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Backlit": "RGB (9 Modes)",
+      "Anti-Ghosting": "Yes (104-Key Rollover)",
+      "Multimedia Keys": "12",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    }
+  },
+  {
+    "id": "K577",
+    "model": "K577",
+    "category": "Keyboard",
+    "specs": "Redragon K577R KALI Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Rainbow RGB Backlit, Ergonomic Design for Esports",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0332/3396/1099/products/Redragon_K577R_4.png?v=1627646447",
+      "https://cdn.shopify.com/s/files/1/0332/3396/1099/products/Redragon_K577R_1_1024x1024_2x_b2fcdcaa-1bba-467e-a839-75c293dae20b.png?v=1627646464",
+      "https://cdn.shopify.com/s/files/1/0332/3396/1099/products/Redragon_K577R_2.png?v=1627646470",
+      "https://alfrensia.com/wp-content/uploads/2024/10/Redragon-Kali-K577R-Red-Switch-Mechanical-Gaming-Keyboard.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Competitive ergonomic design engineered for esports performance",
+      "Full-size 104-key layout with 12 multimedia keys",
+      "Rainbow RGB backlighting with multiple lighting effects",
+      "Tactile brown switches — silent, responsive, 45g actuation",
+      "N-key rollover with anti-ghosting for conflict-free input",
+      "Detachable palm rest for ergonomic comfort",
+      "Heavy-duty ABS and aluminum construction",
+      "Height-adjustable legs — 2 tilt settings"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Brown (Tactile, Silent)",
+      "Backlit": "Rainbow RGB",
+      "N-Key Rollover": "Yes",
+      "Interface": "USB Wired",
+      "Dimensions": "17.6 x 6 x 1.6 inches",
+      "Weight": "2.23 lbs"
+    }
+  },
+  {
+    "id": "K579",
+    "model": "K579",
+    "category": "Keyboard",
+    "specs": "Redragon K579 MANYU Full-Size Wired Mechanical Gaming Keyboard, 114 Keys, 5 Macro Keys, RGB Backlit, Dedicated Volume Wheel, Blue Switches",
+    "price": 0,
+    "images": [
+      "https://www.nextmarteg.com/wp-content/uploads/2021/03/item_XXL_55219306_d0bff9f0a3854.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/03/item_XXL_55219306_b40d809d55ab1.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/03/item_XXL_55219306_da724b5015ad4.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/03/71VofHh0RxL._SL1500_.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/03/71drcTAtsoL._SL1500_.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "5 onboard macro keys (G1–G5) fully programmable on-the-fly",
+      "Dedicated volume wheel for instant audio control",
+      "114 double-shot injection molded keycaps for lasting legends",
+      "18 RGB lighting modes, 9 colors, 5 brightness levels",
+      "100% anti-ghosting for conflict-free gaming input",
+      "Mechanical Blue switches — tactile, clicky, 50M keystroke rated",
+      "12 multimedia hotkeys for direct media control",
+      "Splash-resistant design with durable ABS top plate"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 114-Key",
+      "Macro Keys": "5 (G1-G5)",
+      "Switches": "Outemu Blue (Tactile/Clicky)",
+      "Backlit": "RGB (18 Modes, 9 Colors)",
+      "Anti-Ghosting": "100%",
+      "Volume Control": "Dedicated Wheel",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K589",
+    "model": "K589",
+    "category": "Keyboard",
+    "specs": "Redragon K589 SHRAPNEL Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, RGB Backlit, Low Profile Design, Linear & Quiet Red Switches",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_01.jpg?v=1696933755",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_02.jpg?v=1696933753",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_03.jpg?v=1696933753",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/K589_04.jpg?v=1696933755"
+    ],
+    "has_image": true,
+    "features": [
+      "Low-profile design — extra-thin keyboard for a sleek, modern setup",
+      "Full-size 104-key layout — complete key coverage with numpad",
+      "RGB backlighting with 9 customizable lighting modes",
+      "Linear & quiet red switches — smooth, fast, low noise actuation",
+      "Low-profile keycaps — shorter travel for rapid keypresses",
+      "Anti-ghosting for conflict-free simultaneous key input",
+      "USB-C cable connection for modern compatibility",
+      "Compatible with Windows 7/8/10/11 and macOS"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Low Profile)",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Red (Linear, Quiet)",
+      "Switch Profile": "Low Profile",
+      "Backlit": "RGB",
+      "Anti-Ghosting": "Yes",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K592",
+    "model": "K592",
+    "category": "Keyboard",
+    "specs": "Redragon K592 Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, White Backlit, Ultra-Fast V-Optical Blue Switches, Tactile & High Precision",
+    "price": 0,
+    "images": [
+      "https://www.nextmarteg.com/wp-content/uploads/2020/08/1-1-1.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2020/08/4-1.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2020/08/61oCd5MZOAL._AC_SL1500_.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2020/08/71BeseLo9L._AC_SL1500_.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2020/08/71sgCBSpYL._AC_SL1500_.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "V-Optical Blue switches — ultra-fast light-based actuation, no debounce delay",
+      "Tactile and highly precise input for competitive gaming",
+      "Full-size 104-key layout with N-key rollover",
+      "White LED backlighting — clean, bright illumination",
+      "Aircraft-grade aluminum top plate for premium build quality",
+      "Gold-plated USB connector for reliable signal transmission",
+      "Anti-ghosting — all keypresses registered simultaneously",
+      "Splash-resistant construction"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Optical)",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "V-Optical Blue (Ultra-Fast)",
+      "Backlit": "White LED",
+      "N-Key Rollover": "Yes",
+      "Top Plate": "Aluminum",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K587",
+    "model": "K587",
+    "category": "Keyboard",
+    "specs": "Redragon K587 MAGIC-WAND 87 Keys TKL Wired RGB Mechanical Gaming Keyboard, Type-C, 9 Onboard Macro Keys, Detachable Wrist Rest",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_1.png?v=1718765558",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_2.png?v=1718765558",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_3.jpg?v=1718765558",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_4.png?v=1718765558",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_5.jpg?v=1718765558",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_6.jpg?v=1718765558",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK587MAGIC-WAND87KeysRGBTKLMechanicalGamingKeyboard_7.jpg?v=1718765558"
+    ],
+    "has_image": true,
+    "features": [
+      "87-key TKL compact layout — no numpad, maximum desk space",
+      "9 dedicated onboard macro keys for on-the-fly customization",
+      "USB-C cable connection for modern reversible connectivity",
+      "Per-key RGB backlighting with dynamic lighting modes",
+      "Detachable wrist rest with magnetic attachment",
+      "Tactile blue mechanical switches — clicky, satisfying feedback",
+      "N-key rollover with anti-ghosting for precise gaming input",
+      "Red ring switch illumination for enhanced RGB effect"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "TKL 87-Key",
+      "Macro Keys": "9 Onboard",
+      "Backlit": "RGB Per-Key",
+      "Connectivity": "USB-C Wired",
+      "N-Key Rollover": "Yes",
+      "Wrist Rest": "Detachable (included)",
+      "Interface": "USB-C"
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K587_Software.zip"
   },
   {
     "id": "k552-KB_Blue_Switch",
@@ -1217,6 +1842,108 @@
     }
   },
   {
+    "id": "K608",
+    "model": "K608",
+    "category": "Keyboard",
+    "specs": "Redragon K608 VAIHEIM Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Rainbow Backlit, 9 Lighting Modes, Black Switches, Anti-Ghosting",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K608_Valheim_Rainbow_Gaming_Keyboard.jpg?v=1621493297",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RainbowGamingKeyboard.png?v=1759439301",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonRainbowGamingKeyboard.png?v=1621320539",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/DesktopComputerwithrainbowbacklit.png?v=1621476196",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/LEDRainbowBacklitGamingKeyboard.png?v=1621476204",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RainbowBacklitErgonomicKeyboard.png?v=1621476234"
+    ],
+    "has_image": true,
+    "features": [
+      "9 rainbow backlight modes + 8 preset gaming lighting patterns",
+      "2 fully customizable backlit modes for personal setup",
+      "Full-size 104-key layout — complete with numpad",
+      "Mechanical black switches — smooth linear, silent operation",
+      "N-key rollover with anti-ghosting for conflict-free gaming",
+      "Durable aluminum base for stability and longevity",
+      "Gold-plated USB connector for reliable signal transfer",
+      "Height-adjustable anti-slip feet"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Black (Linear, Silent)",
+      "Backlit": "Rainbow (9 Modes + 8 Presets)",
+      "N-Key Rollover": "Yes",
+      "Base": "Aluminum",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K608 Blue",
+    "model": "K608 Blue",
+    "category": "Keyboard",
+    "specs": "Redragon K608 VAIHEIM Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Rainbow Backlit, 9 Lighting Modes, Blue Switches, Anti-Ghosting",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K608_Valheim_Rainbow_Gaming_Keyboard.jpg?v=1621493297",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RainbowGamingKeyboard.png?v=1759439301",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonRainbowGamingKeyboard.png?v=1621320539",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/DesktopComputerwithrainbowbacklit.png?v=1621476196",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/LEDRainbowBacklitGamingKeyboard.png?v=1621476204",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RainbowBacklitErgonomicKeyboard.png?v=1621476234"
+    ],
+    "has_image": true,
+    "features": [
+      "9 rainbow backlight modes + 8 preset gaming lighting patterns",
+      "2 fully customizable backlit modes for personal setup",
+      "Full-size 104-key layout — complete with numpad",
+      "Mechanical blue switches — tactile, clicky, 50g actuation",
+      "N-key rollover with anti-ghosting for conflict-free gaming",
+      "Durable aluminum base for stability and longevity",
+      "Gold-plated USB connector for reliable signal transfer",
+      "Height-adjustable anti-slip feet"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Blue (Tactile/Clicky)",
+      "Backlit": "Rainbow (9 Modes + 8 Presets)",
+      "N-Key Rollover": "Yes",
+      "Base": "Aluminum",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K608 Elite",
+    "model": "K608 Elite",
+    "category": "Keyboard",
+    "specs": "Redragon K608E VALHEIM Elite Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Rainbow Backlit, 9 Modes, English & Arabic Layout",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/Redragon-K608-Elite-Valheim-Mechanical-Gaming-Keyboard-Elyamama-37561086968039.webp?v=1764074360",
+      "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/Redragon-K608-Elite-Valheim-Mechanical-Gaming-Keyboard-Elyamama-37561301860583.webp?v=1764074360",
+      "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/Redragon-K608-Elite-Valheim-Mechanical-Gaming-Keyboard-Elyamama-37561301795047.webp?v=1764074360",
+      "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/Redragon-K608-Elite-Valheim-Mechanical-Gaming-Keyboard-Elyamama-37561301827815.webp?v=1764074360"
+    ],
+    "has_image": true,
+    "features": [
+      "English & Arabic key legends — bilingual layout for Egyptian users",
+      "9 rainbow backlight modes + 8 preset gaming lighting patterns",
+      "Elite upgrade — enhanced build quality and premium keycap design",
+      "Full-size 104-key layout with full key rollover",
+      "Mechanical switches — tactile, durable, 50M keystroke rated",
+      "N-key rollover with anti-ghosting for gaming precision",
+      "Gold-plated USB connector for stable connection",
+      "Height-adjustable feet for comfortable typing angle"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Language": "English & Arabic",
+      "Backlit": "Rainbow (9 Modes)",
+      "N-Key Rollover": "Yes",
+      "Interface": "USB Wired"
+    }
+  },
+  {
     "id": "K615P-KBS",
     "model": "K615P-KBS",
     "category": "Keyboard",
@@ -1251,6 +1978,74 @@
       "Weight": "322g",
       "Connectivity": "USB-C Wired / 2.4GHz / Bluetooth 3.0/5.0",
       "Compatibility": "Windows / Mac / Linux"
+    }
+  },
+  {
+    "id": "K616 PRO",
+    "model": "K616 PRO",
+    "category": "Keyboard",
+    "specs": "Redragon K616 PRO FIZZ PRO 60% 3-Mode Wireless Mechanical Gaming Keyboard, 61 Keys Hot-Swappable, Linear Red Switch, RGB Backlit — Black",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/Main_339c5e10-8cc0-4ef0-aff1-e60b56128c58.png?v=1748946413",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/2_9d055204-0ad9-4893-84ad-8de2b9afbf00.jpg?v=1748946413",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/3_1d77e260-ab0f-4590-84d8-dce01f258b03.jpg?v=1748946413",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/4_01acde38-4d30-4756-b6d1-999c7e69ef5c.jpg?v=1748946413",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/5_44d7e24f-a7bd-4038-afe2-d0e8da2eb95e.jpg?v=1748946413"
+    ],
+    "has_image": true,
+    "features": [
+      "FIZZ PRO 60% compact layout — 61 keys, minimal footprint for maximum desk space",
+      "3-Mode wireless: 2.4GHz, Bluetooth 5.0, and USB-C wired",
+      "Hot-swappable switches — change switches without soldering",
+      "Linear red switches — smooth, fast, 45g actuation",
+      "20 preset RGB backlighting modes with adjustable brightness",
+      "Pro software support for macros, keybindings, and custom RGB",
+      "Rated 50 million keystrokes for long-term durability",
+      "Compatible with Windows, macOS, Android via Bluetooth"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable)",
+      "Layout": "60% 61-Key",
+      "Switches": "Red (Linear, Hot-Swappable)",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 5.0 / USB-C Wired",
+      "Backlit": "RGB (20 Modes)",
+      "Software": "Supported",
+      "Color": "Black"
+    }
+  },
+  {
+    "id": "K616 PRO GW",
+    "model": "K616 PRO GW",
+    "category": "Keyboard",
+    "specs": "Redragon K616 PRO FIZZ PRO 60% 3-Mode Wireless Mechanical Gaming Keyboard, 61 Keys Hot-Swappable, Linear Red Switch, RGB Backlit — Grey/White",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/Main_0dfbe566-0750-4ae6-980f-16e2df39acb1.png?v=1748946359",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/2_cc9386a9-a03b-4479-8ab4-d1fb5a4208db.jpg?v=1748946359",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/3_46d54902-bf24-450f-b3c6-22e46e3acb48.jpg?v=1748946359",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/4_4d6e6bdb-b69b-4103-b54b-8b5c4cbcdefa.jpg?v=1748946359",
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/5_010355d6-6306-46cd-adc0-a70a11759320.jpg?v=1748946359"
+    ],
+    "has_image": true,
+    "features": [
+      "FIZZ PRO 60% compact layout — 61 keys, minimal footprint for maximum desk space",
+      "3-Mode wireless: 2.4GHz, Bluetooth 5.0, and USB-C wired",
+      "Hot-swappable switches — change switches without soldering",
+      "Linear red switches — smooth, fast, 45g actuation",
+      "20 preset RGB backlighting modes with adjustable brightness",
+      "Pro software support for macros, keybindings, and custom RGB",
+      "Rated 50 million keystrokes for long-term durability",
+      "Compatible with Windows, macOS, Android via Bluetooth"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable)",
+      "Layout": "60% 61-Key",
+      "Switches": "Red (Linear, Hot-Swappable)",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 5.0 / USB-C Wired",
+      "Backlit": "RGB (20 Modes)",
+      "Software": "Supported",
+      "Color": "Grey / White"
     }
   },
   {
@@ -1292,6 +2087,131 @@
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K617_User_Manual_d492e032-2f4e-4606-94ca-cdb2af5a89a7.pdf?v=1649317562"
   },
   {
+    "id": "K617-RGB_WhitePink",
+    "model": "K617-RGB",
+    "category": "Keyboard",
+    "specs": "Redragon K617-RGB FIZZ 60% Wired RGB Mechanical Gaming Keyboard, 61 Keys, Linear Red Switch — White / Pink",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k617-rgb-fizz-60-wired-mechanical-gaming-keyboard-white-pink-rgb-1.webp?v=1748181917",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k617-rgb-fizz-60-wired-mechanical-gaming-keyboard-white-pink-rgb-2.webp?v=1748181917",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k617-rgb-fizz-60-wired-mechanical-gaming-keyboard-white-pink-rgb-3.webp?v=1748181917"
+    ],
+    "has_image": true,
+    "features": [
+      "Compact 60% layout — 61 keys, ultra-small footprint for maximum desk space",
+      "Linear Red switches — smooth, light 45g actuation for fast gaming input",
+      "RGB backlighting — 16.8 million colors, multiple preset lighting modes",
+      "White & Pink color scheme — elegant, vibrant design for a stylish gaming setup",
+      "Anti-ghosting N-key rollover — every keypress registered accurately",
+      "Durable construction — rated 50 million keystrokes",
+      "USB wired — plug-and-play, no software needed for basic use"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "60% 61-Key",
+      "Switches": "Red (Linear)",
+      "Backlit": "RGB",
+      "Color": "White / Pink",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K617-RGB_WhiteRed",
+    "model": "K617-RGB",
+    "category": "Keyboard",
+    "specs": "Redragon K617 FIZZ 60% Wired RGB Mechanical Gaming Keyboard, 61 Keys, Linear Red Switch — White / Red",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-fizz-k617-60-rgb-white-red-1.jpg?v=1748181866",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-fizz-k617-60-rgb-white-red-2.jpg?v=1748181872",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-fizz-k617-60-rgb-white-red-3.jpg?v=1748181872",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-fizz-k617-60-rgb-white-red-4.jpg?v=1748181866",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-fizz-k617-60-rgb-white-red-5.jpg?v=1748181866"
+    ],
+    "has_image": true,
+    "features": [
+      "Compact 60% layout — 61 keys, ultra-small footprint for maximum desk space",
+      "Linear Red switches — smooth, light 45g actuation for fast gaming input",
+      "RGB backlighting — 16.8 million colors, multiple preset lighting modes",
+      "White & Red color scheme — clean, vibrant accent for a bold gaming setup",
+      "Anti-ghosting N-key rollover — every keypress registered accurately",
+      "Durable construction — rated 50 million keystrokes",
+      "USB wired — plug-and-play, no software needed for basic use"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "60% 61-Key",
+      "Switches": "Red (Linear)",
+      "Backlit": "RGB",
+      "Color": "White / Red",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K626P-KB",
+    "model": "K626P-KB",
+    "category": "Keyboard",
+    "specs": "Redragon K626P-KB ASHE 78-Key Low-Profile RGB Mechanical Gaming Keyboard, Wired, Blue Tactile Clicky Switch, Aluminum Frame",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-1.jpg?v=1745158237",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-2.jpg?v=1745158237",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-3.jpg?v=1745158291",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-4.jpg?v=1745158264",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-5.jpg?v=1745158237"
+    ],
+    "has_image": true,
+    "features": [
+      "Low-profile 78-key layout — compact and portable with all essential keys",
+      "Blue mechanical switches — tactile, clicky feedback for precise keypresses",
+      "RGB backlit — customizable lighting effects to match your setup",
+      "Aluminum frame — durable, premium build for long-term durability",
+      "Wired USB connection — reliable, plug-and-play",
+      "Sleek slim design — minimal desk footprint, comfortable typing angle"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Low-Profile)",
+      "Layout": "78-Key Compact",
+      "Switches": "Blue (Tactile, Clicky, Low-Profile)",
+      "Backlit": "RGB",
+      "Frame": "Aluminum",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K628",
+    "model": "K628",
+    "category": "Keyboard",
+    "specs": "Redragon K628 POLLUX 75% RGB Hot-Swappable Mechanical Gaming Keyboard, 82 Keys, Wired, Linear Red Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-1.webp?v=1745157042",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-2.webp?v=1745157042",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-3.webp?v=1745157042",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-4.webp?v=1745157042",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-5.webp?v=1745157042",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-6.webp?v=1745157042",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-pollux-k628-75-rgb-hot-swappable-red-switch-7.webp?v=1745157042"
+    ],
+    "has_image": true,
+    "features": [
+      "Compact 75% layout — 82 keys, full function row, arrow keys retained",
+      "Hot-swappable sockets — change switches without soldering",
+      "Linear Red switches — smooth, quiet 45g actuation ideal for gaming",
+      "RGB backlighting — multiple customizable lighting effects",
+      "Wired USB connection — plug-and-play, no lag",
+      "Ergonomic compact design — saves desk space while keeping essential layout"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable)",
+      "Layout": "75% 82-Key",
+      "Switches": "Red (Linear, Hot-Swappable)",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
     "id": "k629-rgb",
     "model": "k629-rgb",
     "category": "Keyboard",
@@ -1328,6 +2248,220 @@
       "Compatibility": "Windows / Mac / Linux"
     },
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K629-RGB_Software.zip?v=1768212020"
+  },
+  {
+    "id": "K649YP-RGB",
+    "model": "K649YP-RGB",
+    "category": "Keyboard",
+    "specs": "Redragon K649YP-RGB FIZZ PRO 75% Wireless Gasket Mechanical Gaming Keyboard, Translucent, Custom Switch, Tri-Mode (2.4GHz / BT / USB-C)",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k649yp-rgb-fizz-pro-wireless-1.webp?v=1748085734",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k649yp-rgb-fizz-pro-wireless-7.webp?v=1748085734",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k649yp-rgb-fizz-pro-wireless-5.webp?v=1748085734",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k649yp-rgb-fizz-pro-wireless-6.webp?v=1748085734",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k649yp-rgb-fizz-pro-wireless-4.webp?v=1748085732",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k649yp-rgb-fizz-pro-wireless-3.webp?v=1748085732"
+    ],
+    "has_image": true,
+    "features": [
+      "75% translucent gasket-mounted keyboard — premium wireless with stunning transparent aesthetic",
+      "Tri-Mode wireless: 2.4GHz, Bluetooth 5.0, and USB-C wired connectivity",
+      "Gasket-mounted structure — softer keystrokes, reduced noise, premium typing feel",
+      "Custom mechanical switches — smooth, responsive, satisfying actuation",
+      "RGB backlighting — vivid through the translucent case for maximum visual impact",
+      "Hot-swappable sockets — supports 3-pin and 5-pin switches, no soldering required",
+      "Sound-dampening foam — quieter typing for work and gaming environments",
+      "Compatible with Windows, macOS, Android via Bluetooth"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable, Gasket-Mounted)",
+      "Layout": "75% Compact",
+      "Switches": "Custom (Hot-Swappable)",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 5.0 / USB-C Wired",
+      "Backlit": "RGB",
+      "Design": "Translucent / Crystal Clear"
+    }
+  },
+  {
+    "id": "K649 PRO",
+    "model": "K649 PRO",
+    "category": "Keyboard",
+    "specs": "Redragon K649 PRO FIZZ PRO 75% Wireless RGB Mechanical Gaming Keyboard, Crystal Clear Transparent, Tri-Mode (2.4GHz / BT 5.0 / USB-C), Gasket-Mounted, Hot-Swappable",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-1.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-2.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-3.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-4.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-5.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-6.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-7.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-8.jpg?v=1745156617",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k649-pro-75-wireless-rgb-crystal-clear-9.jpg?v=1745156617"
+    ],
+    "has_image": true,
+    "features": [
+      "Fully transparent crystal clear design — RGB shines brilliantly through every key",
+      "Tri-Mode wireless: 2.4GHz, Bluetooth 3.0/5.0, and USB-C wired connectivity",
+      "Gasket-mounted with dual-layer sound-dampening foam — quieter, softer keystrokes",
+      "Hot-swappable sockets — supports 3-pin and 5-pin switches, swap without soldering",
+      "RGB backlighting — enhanced visual effect through transparent case and keycaps",
+      "75% compact layout — all essential keys, smaller footprint for more desk space",
+      "Compatible with Windows, macOS, Android, iOS via Bluetooth"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable, Gasket-Mounted)",
+      "Layout": "75% Compact",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 3.0 & 5.0 / USB-C Wired",
+      "Backlit": "RGB",
+      "Design": "Crystal Clear Transparent",
+      "Sound Dampening": "Dual-Layer Foam"
+    }
+  },
+  {
+    "id": "K679",
+    "model": "K679",
+    "category": "Keyboard",
+    "specs": "Redragon K679 RGB Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, Hot-Swappable, Blue Tactile Switch, Double-Shot PBT Keycaps",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-1.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-2.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-3.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-4.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-5.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-6.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-7.jpg?v=1745156305",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k679-rgb-wired-blue-switch-8.jpg?v=1745156293"
+    ],
+    "has_image": true,
+    "features": [
+      "Full-size 104-key layout — complete gaming and typing experience with numpad",
+      "Hot-swappable sockets — replace switches without soldering for easy customization",
+      "Blue mechanical switches — tactile, clicky feedback for precise gaming keystrokes",
+      "18 RGB lighting modes — fully customizable backlighting for any setup",
+      "Double-shot PBT keycaps — durable legends that resist fade and wear",
+      "N-key rollover with anti-ghosting — every keypress registered accurately",
+      "USB wired — plug-and-play, no driver needed for basic use"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable)",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Blue (Tactile, Clicky, Hot-Swappable)",
+      "Backlit": "RGB (18 Modes)",
+      "Keycaps": "Double-Shot PBT",
+      "Interface": "USB Wired",
+      "N-Key Rollover": "Yes"
+    }
+  },
+  {
+    "id": "K681 ACG",
+    "model": "K681 ACG",
+    "category": "Keyboard",
+    "specs": "Redragon K681 ACG 75% RGB Dual-Mode Wireless Gasket Mechanical Gaming Keyboard, Hot-Swappable, Pre-Lubed Linear Switches, Multi-Function Knob",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-1.webp?v=1745156113",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-2.webp?v=1745156113",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-3.webp?v=1745156113",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-4.webp?v=1745156113",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-5.webp?v=1745156113",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-6.webp?v=1745156113",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k681-acg-75-rgb-wireless-gasket-hot-swappable-knob-7.webp?v=1745156113"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-Mode wireless: USB-C, Bluetooth 5.0, and 2.4GHz — seamless multi-device switching",
+      "Gasket-mounted structure with sound-dampening materials — quieter, more comfortable typing",
+      "Pre-lubed factory linear switches — smooth, fast actuation right out of the box",
+      "Hot-swappable sockets — supports 3-pin and 5-pin switches, no soldering required",
+      "Multi-function knob — control volume, brightness, or custom macros at a turn",
+      "75% compact layout — all essential keys preserved in a smaller footprint",
+      "RGB backlighting — fully customizable with per-key control via software"
+    ],
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K681_Software.exe",
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable, Gasket-Mounted)",
+      "Layout": "75% Compact",
+      "Switches": "Linear (Pre-Lubed, Hot-Swappable)",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 5.0 / USB-C Wired",
+      "Backlit": "RGB",
+      "Knob": "Multi-Function Rotary",
+      "Sound Dampening": "Yes"
+    }
+  },
+  {
+    "id": "K709",
+    "model": "K709",
+    "category": "Keyboard",
+    "specs": "Redragon NOVA K709 65% Wired RGB Gasket Mechanical Gaming Keyboard, 68 Keys, Hot-Swappable, Dragon Chant Linear Switch, 3-Layer Noise Dampening",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonNOVAK70965_GasketRGBGamingKeyboard_3.png?v=1762464819",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK70965_WiredGasketRGBGamingKeyboard_1.png?v=1746669829",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK70965_WiredGasketRGBGamingKeyboard_2.png?v=1746669829",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonNOVAK70965_GasketRGBGamingKeyboard_1.jpg?v=1729059737",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonNOVAK70965_GasketRGBGamingKeyboard_5.jpg?v=1729059737",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonNOVAK70965_GasketRGBGamingKeyboard_6.jpg?v=1729059737"
+    ],
+    "has_image": true,
+    "features": [
+      "65% ultra-compact layout — 68 keys with dedicated arrow keys, minimal desk footprint",
+      "Free-Mod hot-swappable sockets — swap 99.8%+ of switches without tools or soldering",
+      "Custom Dragon Chant linear switch — thick-lubed, silky creamy travel, cushioned feedback",
+      "3-layer noise dampening — PO foam, IXPE switch foam, and silicone gasket for ultra-quiet typing",
+      "Gasket-mounted structure — bouncy, comfortable keystrokes with reduced vibration",
+      "RGB backlighting — customizable per-key lighting via Redragon software",
+      "USB-C wired — plug-and-play with braided cable, stable connection"
+    ],
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K709-RGB_Setup_V1.6.6_20240722.exe",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K709_Wired_User_Manual.pdf",
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable, Gasket-Mounted)",
+      "Layout": "65% 68-Key",
+      "Switches": "Dragon Chant (Custom Linear, Hot-Swappable)",
+      "Backlit": "RGB",
+      "Interface": "USB-C Wired",
+      "Noise Dampening": "3-Layer (PO Foam + IXPE + Silicone Gasket)"
+    }
+  },
+  {
+    "id": "K709 PRO",
+    "model": "K709 PRO",
+    "category": "Keyboard",
+    "specs": "Redragon NOVA K709 PRO 65% Wireless RGB Gasket Mechanical Gaming Keyboard, 68 Keys, Hot-Swappable, Tri-Mode (2.4GHz / BT 5.0 / USB-C), 5-Layer Noise Dampening",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonNOVAK709PRO65_WirelessGasketRGBGamingKeyboard_1.png?v=1762464821",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK709PRO65_WirelessGasketRGBGamingKeyboard_1.png?v=1746669874",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK709PRO65_WirelessGasketRGBGamingKeyboard_2.png?v=1746669874",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK709PRO65_WirelessGasketRGBGamingKeyboard_1.jpg?v=1746669874",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK709PRO65_WirelessGasketRGBGamingKeyboard_2.jpg?v=1728355035",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK709PRO65_WirelessGasketRGBGamingKeyboard_3.jpg?v=1728355035"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-Mode wireless: 2.4GHz, Bluetooth 3.0/5.0, and USB-C wired — up to 3 devices",
+      "65% compact layout — 68 keys with dedicated arrow keys for gaming and typing",
+      "Free-Mod hot-swappable sockets — 99.8%+ switch compatibility, no soldering required",
+      "Mint Mambo custom linear switch — smooth, quiet, satisfying actuation",
+      "5-layer noise dampening — PO foam, IXPE, PET sound pad, socket foam, silicone — near-silent typing",
+      "Gasket-mounted structure — plush, soft keystrokes with vibration absorption",
+      "RGB backlighting — vivid lighting fully customizable via Redragon software",
+      "Round PBT keycaps — premium feel, fade-resistant legends"
+    ],
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K709-RGB-PRO_Setup_V1.6.6_20240729.exe",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K709_PRO_User_Manual.pdf",
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable, Gasket-Mounted)",
+      "Layout": "65% 68-Key",
+      "Switches": "Mint Mambo (Custom Linear, Hot-Swappable)",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 3.0 & 5.0 / USB-C Wired",
+      "Backlit": "RGB",
+      "Keycaps": "Round PBT",
+      "Noise Dampening": "5-Layer"
+    }
   },
   {
     "id": "k685_PYG",
@@ -1902,6 +3036,354 @@
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/H510_User_Manual.pdf?v=1737531920"
   },
   {
+    "id": "H112",
+    "model": "H112",
+    "category": "Headset",
+    "specs": "Redragon H112 Stereo Gaming Headphones, Wired 3.5mm, Noise-Canceling Microphone",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h112-1.webp?v=1745764079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h112-2.webp?v=1745764079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h112-3.webp?v=1745764079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h112-4.webp?v=1745764079"
+    ],
+    "has_image": true,
+    "features": [
+      "Stereo audio — clear, immersive sound for gaming and music",
+      "Noise-canceling microphone — clear communication without background noise",
+      "3.5mm wired connection — compatible with PC, mobile, consoles",
+      "Over-ear design — comfortable fit for extended gaming sessions",
+      "Lightweight build — reduces fatigue during long play sessions"
+    ],
+    "specifications": {
+      "Type": "Gaming Headphones",
+      "Audio": "Stereo",
+      "Microphone": "Noise-Canceling",
+      "Connection": "3.5mm Wired"
+    }
+  },
+  {
+    "id": "H130",
+    "model": "H130",
+    "category": "Headset",
+    "specs": "Redragon H130 PELIAS Wired Gaming Headset, Stereo, 3.5mm, Self-Adjusting Headband",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/rn-image_picker_lib_temp_e10c81fa-0007-41c7-94cd-aeae51d09034.webp?v=1762854332",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/rn-image_picker_lib_temp_530e0242-b3c5-44dc-9d92-36d3b458ea6d.webp?v=1762854332",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/rn-image_picker_lib_temp_32a79d24-a62f-41cb-91bf-8d41c3e1d50e.webp?v=1762854332"
+    ],
+    "has_image": true,
+    "features": [
+      "PELIAS — lightweight stereo gaming headset for all-day comfort",
+      "Self-adjusting headband — fits any head size automatically",
+      "Sensitive omnidirectional microphone — clear voice pickup for gaming and calls",
+      "3.5mm wired — plug-and-play with PC, laptop, mobile, console",
+      "Soft ear cushions — comfortable over-ear padding for extended sessions"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "Stereo",
+      "Microphone": "Omnidirectional",
+      "Connection": "3.5mm Wired"
+    }
+  },
+  {
+    "id": "H201",
+    "model": "H201",
+    "category": "Headset",
+    "specs": "Redragon H201 Stereo Gaming Headset, Wired 3.5mm, Noise-Canceling Microphone, PC/Mobile Compatible",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-h201-stereo-3-5mm-1.webp?v=1745149574",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-h201-stereo-3-5mm-2.webp?v=1745149574",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-h201-stereo-3-5mm-3.webp?v=1745149574",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-h201-stereo-3-5mm-4.webp?v=1745149574"
+    ],
+    "has_image": true,
+    "features": [
+      "Stereo gaming headset — clear, well-balanced audio for gaming and music",
+      "Noise-canceling microphone — ensures clear communication in-game",
+      "3.5mm audio jack — universal compatibility with PC, laptop, mobile, PS, Xbox",
+      "Over-ear comfortable design — suitable for extended gaming sessions",
+      "Durable build — reliable for everyday gaming use"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "Stereo",
+      "Microphone": "Noise-Canceling",
+      "Connection": "3.5mm Wired"
+    }
+  },
+  {
+    "id": "H220",
+    "model": "H220",
+    "category": "Headset",
+    "specs": "Redragon H220 Stereo Gaming Headphones, Wired, Powerful Bass, Over-Ear Design",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h220-1.webp?v=1745761384",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h220-2.webp?v=1745761384",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h220-3.webp?v=1745761384",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h220-4.webp?v=1745761384",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h220-5.webp?v=1745761384",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h220-6.webp?v=1745761384"
+    ],
+    "has_image": true,
+    "features": [
+      "Rich stereo audio — powerful bass and clear treble for immersive gaming",
+      "Over-ear design — full coverage for effective passive noise isolation",
+      "Comfortable fit — ergonomic design for extended gaming sessions",
+      "Wired connection — reliable, lag-free audio transmission",
+      "Durable build — premium materials for long-term use"
+    ],
+    "specifications": {
+      "Type": "Gaming Headphones",
+      "Audio": "Stereo",
+      "Connection": "Wired",
+      "Design": "Over-Ear"
+    }
+  },
+  {
+    "id": "H230",
+    "model": "H230",
+    "category": "Headset",
+    "specs": "Redragon H230 Stereo Gaming Headphones, Wired, Immersive Audio, Comfort Design",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-1.webp?v=1745761568",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-2.webp?v=1745761568",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-3.webp?v=1745761568",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-4.webp?v=1745761568",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-5.webp?v=1745761568",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-6.webp?v=1745761568",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headphones-gaming-redragon-h230-7.webp?v=1745761543"
+    ],
+    "has_image": true,
+    "features": [
+      "Immersive stereo audio — exceptional clarity for competitive and casual gaming",
+      "Precision audio engineering — accurate directional sound for gaming advantage",
+      "Comfort-first design — ergonomic fit for long gaming sessions",
+      "Wired connection — reliable, consistent audio quality",
+      "Durable headband — built to withstand daily gaming use"
+    ],
+    "specifications": {
+      "Type": "Gaming Headphones",
+      "Audio": "Stereo",
+      "Connection": "Wired",
+      "Design": "Over-Ear"
+    }
+  },
+  {
+    "id": "H312",
+    "model": "H312",
+    "category": "Headset",
+    "specs": "Redragon H312 CYBILL 7.1 Surround Gaming Headset, USB Wired, RGB Backlit, Noise-Canceling Mic",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-cybill-h312-7-1-surround-rgb-usb-1.webp?v=1745148705",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-cybill-h312-7-1-surround-rgb-usb-2.webp?v=1745148705",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-cybill-h312-7-1-surround-rgb-usb-3.jpg?v=1745148705",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-cybill-h312-7-1-surround-rgb-usb-4.webp?v=1745148705",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-cybill-h312-7-1-surround-rgb-usb-5.webp?v=1745148705",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-cybill-h312-7-1-surround-rgb-usb-6.webp?v=1745148705"
+    ],
+    "has_image": true,
+    "features": [
+      "CYBILL — 7.1 virtual surround sound for precise directional audio in games",
+      "RGB lighting — customizable LED effects on ear cups",
+      "Noise-canceling microphone — clear voice communication in competitive play",
+      "USB wired — plug-and-play, no driver installation required",
+      "Over-ear memory foam cushions — comfortable for hours of continuous gaming",
+      "Inline audio control — volume and mute at your fingertips"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "7.1 Virtual Surround",
+      "RGB": "Yes",
+      "Microphone": "Noise-Canceling",
+      "Connection": "USB Wired"
+    }
+  },
+  {
+    "id": "H320",
+    "model": "H320",
+    "category": "Headset",
+    "specs": "Redragon H320 LAMIA 7.1 Surround Gaming Headset, USB Wired, RGB Backlit, Noise-Canceling Mic",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-lamia-h320-7-1-surround-rgb-usb-1.jpg?v=1745148489",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-lamia-h320-7-1-surround-rgb-usb-2.jpg?v=1745148489",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-lamia-h320-7-1-surround-rgb-usb-3.jpg?v=1745148489"
+    ],
+    "has_image": true,
+    "features": [
+      "LAMIA — 7.1 virtual surround sound for immersive positional audio",
+      "RGB backlit ear cups — vibrant lighting to enhance your gaming setup",
+      "Noise-canceling microphone — clear, distortion-free voice in team games",
+      "USB wired — reliable, lossless audio via USB connection",
+      "Soft memory foam ear cushions — designed for comfortable extended wear",
+      "Adjustable headband — fits various head sizes securely"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "7.1 Virtual Surround",
+      "RGB": "Yes",
+      "Microphone": "Noise-Canceling",
+      "Connection": "USB Wired"
+    }
+  },
+  {
+    "id": "H380",
+    "model": "H380",
+    "category": "Headset",
+    "specs": "Redragon H380 CHIRON 7.1 Surround Gaming Headset, USB Wired, RGB, Noise-Canceling Mic",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-chiron-h380-rgb-wired-usb-1.jpg?v=1745148095",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-chiron-h380-rgb-wired-usb-2.jpg?v=1745148102",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-chiron-h380-rgb-wired-usb-3.jpg?v=1745148102",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-chiron-h380-rgb-wired-usb-4.jpg?v=1745148102"
+    ],
+    "has_image": true,
+    "features": [
+      "CHIRON — premium 7.1 surround sound headset for competitive and immersive gaming",
+      "Vibrant RGB lighting — customizable ear cup illumination",
+      "High-sensitivity noise-canceling microphone — crystal-clear team communication",
+      "USB wired — stable, zero-latency audio connection",
+      "Soft ear cushions — comfortable fit for marathon gaming sessions",
+      "Durable metal frame — sturdy construction for daily use"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "7.1 Virtual Surround",
+      "RGB": "Yes",
+      "Microphone": "Noise-Canceling",
+      "Connection": "USB Wired"
+    }
+  },
+  {
+    "id": "H601",
+    "model": "H601",
+    "category": "Headset",
+    "specs": "Redragon H601 TALOS 7.1 Surround Gaming Headset, USB Wired, Vibration Feedback, Noise-Canceling Mic",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-talos-h601-7-1-surround-vibration-usb-1.webp?v=1745147120",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-talos-h601-7-1-surround-vibration-usb-2.webp?v=1745147120",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-talos-h601-7-1-surround-vibration-usb-3.webp?v=1745147120",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-talos-h601-7-1-surround-vibration-usb-4.webp?v=1745147120",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-talos-h601-7-1-surround-vibration-usb-5.webp?v=1745147120",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-talos-h601-7-1-surround-vibration-usb-6.webp?v=1745147043"
+    ],
+    "has_image": true,
+    "features": [
+      "TALOS — 7.1 virtual surround sound with integrated vibration feedback for maximum immersion",
+      "Vibration motors — feel explosions and impacts through haptic feedback in the ear cups",
+      "High-fidelity noise-canceling microphone — clear voice pickup during intense gameplay",
+      "USB wired — plug-and-play, stable connection for consistent audio",
+      "Breathable memory foam ear cushions — reduces heat for long sessions",
+      "Inline control — volume wheel and mic mute button on the cable"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "7.1 Virtual Surround",
+      "Vibration": "Yes",
+      "Microphone": "Noise-Canceling",
+      "Connection": "USB Wired"
+    }
+  },
+  {
+    "id": "H720",
+    "model": "H720",
+    "category": "Headset",
+    "specs": "Redragon H720 THESEUS 7.1 Surround Gaming Headset, USB Wired, Noise-Canceling Detachable Mic",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-7-1-surround-usb-1.webp?v=1745146827",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-2.jpg?v=1746535801",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-3.jpg?v=1745146827",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-4.jpg?v=1745146827",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-5.jpg?v=1746535801"
+    ],
+    "has_image": true,
+    "features": [
+      "THESEUS — premium 7.1 virtual surround sound for competitive gaming precision",
+      "Detachable noise-canceling microphone — remove when not needed, attach for voice chat",
+      "USB wired — lossless audio connection, zero latency",
+      "Over-ear closed-back design — effective passive noise isolation",
+      "Memory foam ear cushions — pressure-relief padding for extended wear",
+      "Adjustable headband — secure, customizable fit for any head size"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "7.1 Virtual Surround",
+      "Microphone": "Detachable, Noise-Canceling",
+      "Connection": "USB Wired"
+    }
+  },
+  {
+    "id": "H720-TC",
+    "model": "H720",
+    "category": "Headset",
+    "specs": "Redragon H720 THESEUS Stereo Gaming Headset, Type-C Wired, Detachable Microphone",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-1.jpg?v=1745146328",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-2.jpg?v=1746535801",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-3.jpg?v=1745146827",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-4.jpg?v=1745146827",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-theseus-h720-stereo-type-c-5.jpg?v=1746535801"
+    ],
+    "has_image": true,
+    "features": [
+      "THESEUS — stereo gaming headset with Type-C connectivity for modern devices",
+      "Type-C wired — compatible with modern smartphones, tablets, and PCs",
+      "Detachable microphone — clean look without mic when not needed",
+      "Stereo audio — balanced, accurate sound reproduction",
+      "Comfortable over-ear design — memory foam cushions for extended wear",
+      "Folding design — compact and travel-friendly"
+    ],
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "Stereo",
+      "Microphone": "Detachable",
+      "Connection": "USB Type-C Wired"
+    }
+  },
+  {
+    "id": "H848",
+    "model": "H848",
+    "category": "Headset",
+    "specs": "Redragon H848 IRE PRO Wireless 7.1 Surround Gaming Headset, Detachable Noise-Canceling Mic, 2.4GHz / BT / 3.5mm",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-1.webp?v=1745146072",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-2.webp?v=1745146072",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-3.webp?v=1745146072",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-4.webp?v=1745146072",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-5.webp?v=1745146072",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-6.webp?v=1745146072",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-gaming-redragon-ire-pro-h848-wireless-7-1-surround-detachable-mic-7.webp?v=1745146072"
+    ],
+    "has_image": true,
+    "features": [
+      "IRE PRO — wireless 7.1 surround sound headset with tri-mode connectivity",
+      "Tri-mode: 2.4GHz wireless, Bluetooth, and 3.5mm wired — connect to any device",
+      "Detachable noise-canceling microphone — versatile gaming and music listening",
+      "7.1 virtual surround sound — precise positional audio for competitive advantage",
+      "Lightweight design — minimal fatigue even during extended sessions",
+      "Long battery life — hours of wireless gaming on a single charge"
+    ],
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/H848_User_Manual.pdf",
+    "specifications": {
+      "Type": "Gaming Headset",
+      "Audio": "7.1 Virtual Surround",
+      "Microphone": "Detachable, Noise-Canceling",
+      "Connectivity": "2.4GHz Wireless / Bluetooth / 3.5mm Wired"
+    }
+  },
+  {
     "id": "G711",
     "model": "G711",
     "category": "Gamepad",
@@ -2030,6 +3512,159 @@
       "Input Modes": "X-Input / Direct-Input",
       "Wireless Range": "Up to 8m",
       "Compatibility": "PC / PS3 / Android / Windows"
+    }
+  },
+  {
+    "id": "G710",
+    "model": "G710",
+    "category": "Gamepad",
+    "specs": "Redragon G710 CERES Wired Gaming Controller, Vibration Feedback, Programmable Buttons, PC/Android",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-g710-wired-vibration-programmable-1.webp?v=1744896501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-g710-wired-vibration-programmable-2.jpg?v=1744896501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-g710-wired-vibration-programmable-3.webp?v=1744896501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-g710-wired-vibration-programmable-4.webp?v=1744896501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-g710-wired-vibration-programmable-5.jpg?v=1744896501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-g710-wired-vibration-programmable-6.jpg?v=1744896501"
+    ],
+    "has_image": true,
+    "features": [
+      "CERES — wired gaming controller with vibration feedback for immersive gameplay",
+      "Dual vibration motors — rumble feedback during explosions and impacts",
+      "Programmable buttons — customize controls for any game",
+      "USB wired — plug-and-play, compatible with PC and Android",
+      "Ergonomic design — comfortable grip for extended gaming sessions",
+      "2-meter cable — ample length for flexible gaming setups"
+    ],
+    "specifications": {
+      "Type": "Wired Gamepad",
+      "Connectivity": "USB Wired",
+      "Vibration": "Dual Motors",
+      "Programmable": "Yes",
+      "Compatibility": "PC / Android"
+    }
+  },
+  {
+    "id": "G808",
+    "model": "G808",
+    "category": "Gamepad",
+    "specs": "Redragon G808 HARROW Wireless Gaming Controller, Multi-Platform, PC/PS3/Android/Xbox 360",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-1.webp?v=1744896039",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-2.webp?v=1744896039",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-3.webp?v=1744896039",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-4.webp?v=1744896039",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-5.webp?v=1744896039",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-6.webp?v=1744896039",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-harrow-g808-wireless-multi-platform-7.webp?v=1744896039"
+    ],
+    "has_image": true,
+    "features": [
+      "HARROW — wireless multi-platform gaming controller for PC, PS3, Android, Xbox 360",
+      "Wireless 2.4GHz connection — stable, lag-free gameplay up to 10 meters",
+      "Multi-platform support — compatible with PC, PlayStation 3, Android, and Xbox 360",
+      "Ergonomic design — comfortable grip with textured surface for secure hold",
+      "Rechargeable battery — hours of wireless gaming on a single charge",
+      "Dual analog sticks — precise movement and camera control"
+    ],
+    "specifications": {
+      "Type": "Wireless Gamepad",
+      "Connectivity": "2.4GHz Wireless",
+      "Platforms": "PC / PS3 / Android / Xbox 360",
+      "Battery": "Rechargeable"
+    }
+  },
+  {
+    "id": "G812",
+    "model": "G812",
+    "category": "Gamepad",
+    "specs": "Redragon G812 CERES 2 Wireless Gaming Controller, Multi-Platform, PC/Android/Smart TV",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-2-g812-wireless-multi-platform-1.webp?v=1744895625",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-2-g812-wireless-multi-platform-2.webp?v=1744895625",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-2-g812-wireless-multi-platform-3.webp?v=1744895625",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-2-g812-wireless-multi-platform-4.webp?v=1744895625",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-2-g812-wireless-multi-platform-5.webp?v=1744895625",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-ceres-2-g812-wireless-multi-platform-6.webp?v=1744895625"
+    ],
+    "has_image": true,
+    "features": [
+      "CERES 2 — upgraded wireless multi-platform controller for PC, Android, and Smart TV",
+      "Wireless multi-platform — seamlessly switch between PC, Android, and Smart TV",
+      "Ergonomic dual-grip design — comfortable for extended gaming sessions",
+      "Rechargeable built-in battery — wireless gaming without interruption",
+      "Dual vibration motors — haptic feedback for immersive gameplay",
+      "Programmable mapping — customize button layout for any game"
+    ],
+    "specifications": {
+      "Type": "Wireless Gamepad",
+      "Connectivity": "Wireless",
+      "Platforms": "PC / Android / Smart TV",
+      "Vibration": "Dual Motors",
+      "Battery": "Rechargeable"
+    }
+  },
+  {
+    "id": "G815-Blue",
+    "model": "G815",
+    "category": "Gamepad",
+    "specs": "Redragon G815 PLUTO Wireless Gaming Controller, Multi-Platform — Blue",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-blue-1.webp?v=1744895422",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-blue-2.webp?v=1744895422",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-blue-3.webp?v=1744895422",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-blue-4.webp?v=1744895422",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-blue-5.webp?v=1744895422"
+    ],
+    "has_image": true,
+    "features": [
+      "PLUTO — premium wireless multi-platform gaming controller in sleek Blue",
+      "Multi-platform wireless — PC, Android, and more with seamless device switching",
+      "Ergonomic premium design — comfortable grip for long gaming sessions",
+      "Blue colorway — stylish design for any gaming setup",
+      "Rechargeable battery — hours of wireless gameplay without interruption",
+      "Dual analog sticks — precise, responsive control for any game genre"
+    ],
+    "specifications": {
+      "Type": "Wireless Gamepad",
+      "Connectivity": "Wireless",
+      "Platforms": "Multi-Platform",
+      "Color": "Blue",
+      "Battery": "Rechargeable"
+    }
+  },
+  {
+    "id": "G815-Pink",
+    "model": "G815",
+    "category": "Gamepad",
+    "specs": "Redragon G815 PLUTO Wireless Gaming Controller, Multi-Platform — Pink",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-pink-1.webp?v=1744895079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-pink-2.webp?v=1744895079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-pink-3.webp?v=1744895079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-pink-4.webp?v=1744895079",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/controller-gaming-redragon-pluto-g815-wireless-multi-platform-pink-5.webp?v=1744895079"
+    ],
+    "has_image": true,
+    "features": [
+      "PLUTO — premium wireless multi-platform gaming controller in vibrant Pink",
+      "Multi-platform wireless — PC, Android, and more with seamless device switching",
+      "Ergonomic premium design — comfortable grip for long gaming sessions",
+      "Pink colorway — bold, stylish design for a unique gaming aesthetic",
+      "Rechargeable battery — hours of wireless gameplay without interruption",
+      "Dual analog sticks — precise, responsive control for any game genre"
+    ],
+    "specifications": {
+      "Type": "Wireless Gamepad",
+      "Connectivity": "Wireless",
+      "Platforms": "Multi-Platform",
+      "Color": "Pink",
+      "Battery": "Rechargeable"
     }
   },
   {
@@ -2534,7 +4169,9 @@
     "category": "Mouse",
     "specs": "Redragon M901 Perdition V2 MMO Gaming Mouse, 24000 DPI, 19 Programmable Buttons, Weight Tuning",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901_K-2.png"
+    ],
     "has_image": false,
     "features": [
       "24000 DPI high-precision laser sensor",
@@ -2554,7 +4191,8 @@
       "Cable Length": "1.8m Braided",
       "Connectivity": "USB Wired"
     },
-    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M901K_Software.exe?v=1767925787"
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M901K_Software.exe?v=1767925787",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0309/3679/3226/files/M901-K-2_User_Manual.pdf?v=1749018575"
   },
   {
     "id": "M901P-KS",
@@ -2562,7 +4200,9 @@
     "category": "Mouse",
     "specs": "Redragon M901P-KS Perdition Pro Gaming Mouse, 32000 DPI, 19 Programmable Buttons, Red Switch",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/M901P-KS.png?v=1730344158"
+    ],
     "has_image": false,
     "features": [
       "32000 DPI optical sensor with adjustable DPI settings",
@@ -2591,7 +4231,9 @@
     "category": "Mouse",
     "specs": "Redragon M901P-WS Perdition Pro Gaming Mouse, 32000 DPI, 19 Programmable Buttons, White Switch",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/M901P-KS.png?v=1730344158"
+    ],
     "has_image": false,
     "features": [
       "32000 DPI optical sensor with adjustable DPI settings",
@@ -2620,7 +4262,9 @@
     "category": "Mouse",
     "specs": "Redragon M903P Gaming Mouse, 32000 DPI, RGB LED, Ergonomic Wired Gaming Mouse",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-M903-Origin-4000-Dpi-Gaming-Mous_02.jpg?v=1695294344"
+    ],
     "has_image": false,
     "features": [
       "32000 DPI high-precision optical sensor",
@@ -2674,16 +4318,399 @@
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M915RGB_Software.exe"
   },
   {
+    "id": "M606",
+    "model": "M606",
+    "category": "Mouse",
+    "specs": "Redragon M606 NOTHOSAUR Wired Gaming Mouse, 3200 DPI, 6 Programmable Buttons, RGB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-nothosaur-m606-1.webp?v=1740581523",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-nothosaur-m606-2.webp?v=1740581523",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-nothosaur-m606-3.webp?v=1740581523",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-nothosaur-m606-4.webp?v=1740581523",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-nothosaur-m606-5.webp?v=1740581523",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-nothosaur-m606-6.webp?v=1740581523"
+    ],
+    "has_image": true,
+    "features": [
+      "NOTHOSAUR — 3200 DPI optical sensor, adjustable in 4 stages",
+      "6 programmable buttons — customize controls for any game",
+      "RGB backlit scroll wheel — vibrant lighting accent",
+      "Ergonomic right-hand design — comfortable for extended gaming",
+      "USB wired — plug-and-play, no driver needed for basic use"
+    ],
+    "specifications": {
+      "DPI": "800 / 1600 / 2400 / 3200",
+      "Buttons": "6 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M610",
+    "model": "M610",
+    "category": "Mouse",
+    "specs": "Redragon M610 GAINER Wired Gaming Mouse, 3200 DPI, 6 Buttons, RGB Backlit",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-gainer-m610-wired-3200-dpi-1.webp?v=1744890511",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-gainer-m610-wired-3200-dpi-2.webp?v=1744890511",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-gainer-m610-wired-3200-dpi-3.webp?v=1744890511",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-gainer-m610-wired-3200-dpi-4.webp?v=1744890511",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-gainer-m610-wired-3200-dpi-6.webp?v=1744890511",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-gainer-m610-wired-3200-dpi-7.webp?v=1744890511"
+    ],
+    "has_image": true,
+    "features": [
+      "GAINER — precise 3200 DPI optical sensor with 4 adjustable sensitivity stages",
+      "6 programmable buttons — fully customizable for any game genre",
+      "RGB backlit — vibrant color cycling and preset lighting modes",
+      "Ergonomic design — natural grip for long gaming sessions",
+      "USB wired — reliable, lag-free input every time"
+    ],
+    "specifications": {
+      "DPI": "800 / 1600 / 2400 / 3200",
+      "Buttons": "6 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M612",
+    "model": "M612",
+    "category": "Mouse",
+    "specs": "Redragon M612 PREDATOR Wired Gaming Mouse, 8000 DPI, 7 Programmable Buttons, RGB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-predator-m612-rgb-8000-dpi-1.webp?v=1744890354",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-predator-m612-rgb-8000-dpi-2.webp?v=1744890354",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-predator-m612-rgb-8000-dpi-3.webp?v=1744890354",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-predator-m612-rgb-8000-dpi-4.webp?v=1744890354"
+    ],
+    "has_image": true,
+    "features": [
+      "PREDATOR — high-precision 8000 DPI optical sensor for competitive play",
+      "7 programmable buttons — flexible macro setup for any game",
+      "RGB backlit — customizable lighting with preset patterns",
+      "Ergonomic contoured grip — reduces wrist fatigue during long sessions",
+      "USB wired — zero-lag connection for competitive advantage"
+    ],
+    "specifications": {
+      "DPI": "Up to 8000",
+      "Buttons": "7 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M616",
+    "model": "M616",
+    "category": "Mouse",
+    "specs": "Redragon M616 RGB Wired Gaming Mouse, 10000 DPI, 6 Programmable Buttons",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m616-rgb-10000-dpi-6-programmable-buttons-1.webp?v=1744890008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m616-rgb-10000-dpi-6-programmable-buttons-2.webp?v=1744890008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m616-rgb-10000-dpi-6-programmable-buttons-3.webp?v=1744890008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m616-rgb-10000-dpi-6-programmable-buttons-4.webp?v=1744890008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m616-rgb-10000-dpi-6-programmable-buttons-5.webp?v=1744890008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m616-rgb-10000-dpi-6-programmable-buttons-6.webp?v=1744890008"
+    ],
+    "has_image": true,
+    "features": [
+      "High-precision 10000 DPI optical sensor — ultra-responsive tracking",
+      "6 programmable buttons — customize macros and shortcuts",
+      "RGB backlit — multiple lighting effects to match your setup",
+      "Ergonomic right-hand design — comfortable grip for extended sessions",
+      "Adjustable DPI stages — switch sensitivity on the fly",
+      "USB wired — reliable, no-latency connection"
+    ],
+    "specifications": {
+      "DPI": "Up to 10000",
+      "Buttons": "6 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M705",
+    "model": "M705",
+    "category": "Mouse",
+    "specs": "Redragon M705 PEGASUS Wired Gaming Mouse, 7200 DPI, 6 Programmable Buttons, RGB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-pegasus-m705-wired-7200-dpi-1.webp?v=1744889610",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-pegasus-m705-wired-7200-dpi-2.webp?v=1744889610",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-pegasus-m705-wired-7200-dpi-3.webp?v=1744889610",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-pegasus-m705-wired-7200-dpi-4.webp?v=1744889610"
+    ],
+    "has_image": true,
+    "features": [
+      "PEGASUS — precision 7200 DPI optical sensor with 5 adjustable levels",
+      "6 programmable buttons — fully remappable for any play style",
+      "RGB backlit scroll wheel and logo — vibrant gaming aesthetic",
+      "Ergonomic right-hand shape — designed for comfort and precision",
+      "Braided cable — durable, tangle-resistant, long-lasting",
+      "USB wired — zero-latency reliable input"
+    ],
+    "specifications": {
+      "DPI": "Up to 7200",
+      "Buttons": "6 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M811",
+    "model": "M811",
+    "category": "Mouse",
+    "specs": "Redragon M811 AATROX Wired MMO Gaming Mouse, 15 Programmable Buttons, RGB, 16000 DPI",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-aatrox-m811-mmo-rgb-wired-1.webp?v=1745322364",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-aatrox-m811-mmo-rgb-wired-2.webp?v=1745322364",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-aatrox-m811-mmo-rgb-wired-3.webp?v=1745322364",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-aatrox-m811-mmo-rgb-wired-4.webp?v=1745322364",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-aatrox-m811-mmo-rgb-wired-5.webp?v=1745322364"
+    ],
+    "has_image": true,
+    "features": [
+      "AATROX — purpose-built MMO gaming mouse with 15 programmable buttons",
+      "16000 DPI optical sensor — precision tracking for fast-paced gameplay",
+      "Side button panel — 12-button thumb grid for MMO abilities",
+      "RGB backlit — customizable per-zone lighting effects",
+      "Ergonomic right-hand form — comfortable for extended MMO sessions",
+      "USB wired — stable, always-on connection with no battery concern"
+    ],
+    "specifications": {
+      "DPI": "Up to 16000",
+      "Buttons": "15 Programmable",
+      "Backlit": "RGB",
+      "Type": "MMO Gaming",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M902",
+    "model": "M902",
+    "category": "Mouse",
+    "specs": "Redragon M902 SAMSARA Wired Gaming Mouse, 12400 DPI, 13 Programmable Buttons, RGB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-samsara-m902-1.webp?v=1745929010",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-samsara-m902-2.webp?v=1745929010",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-samsara-m902-3.webp?v=1745929010",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-samsara-m902-4.webp?v=1745929010",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-samsara-m902-5.webp?v=1745929010",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-usb-gaming-redragon-samsara-m902-6.webp?v=1745929010"
+    ],
+    "has_image": true,
+    "features": [
+      "SAMSARA — high-precision 12400 DPI sensor for competitive and MMO play",
+      "13 programmable buttons — full macro customization for any game",
+      "RGB backlit — vibrant multi-zone lighting with preset effects",
+      "Ergonomic shape — comfortable grip designed for right-handed users",
+      "On-board memory — save profiles directly on the mouse",
+      "USB wired — zero-latency reliable connection"
+    ],
+    "specifications": {
+      "DPI": "Up to 12400",
+      "Buttons": "13 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M906",
+    "model": "M906",
+    "category": "Mouse",
+    "specs": "Redragon M906 Ambidextrous Wired Gaming Mouse, 4000 DPI, RGB, Dual-Hand Design",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m906-ambidextrous-4000-dpi-1.jpg?v=1745320149",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m906-ambidextrous-4000-dpi-2.jpg?v=1745320178",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m906-ambidextrous-4000-dpi-3.jpg?v=1745320159",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m906-ambidextrous-4000-dpi-4.jpg?v=1745320196",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m906-ambidextrous-4000-dpi-5.jpg?v=1745320169",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m906-ambidextrous-4000-dpi-6.jpg?v=1745320187"
+    ],
+    "has_image": true,
+    "features": [
+      "Ambidextrous design — equally comfortable for left- and right-handed gamers",
+      "4000 DPI optical sensor — adjustable precision for all game types",
+      "RGB backlit — customizable lighting for both sides",
+      "6 programmable buttons — symmetrical layout for versatile configuration",
+      "Ergonomic symmetrical form — reduces strain for all grip styles",
+      "USB wired — reliable, always-ready connection"
+    ],
+    "specifications": {
+      "DPI": "Up to 4000",
+      "Design": "Ambidextrous",
+      "Buttons": "6 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M910-K",
+    "model": "M910",
+    "category": "Mouse",
+    "specs": "Redragon M910-K RANGER Wired Gaming Mouse, 12400 DPI, 12 Programmable Buttons, RGB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m910-k-rgb-12400-dpi-1.webp?v=1745319644",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m910-k-rgb-12400-dpi-2.webp?v=1745319644",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m910-k-rgb-12400-dpi-3.webp?v=1745319644",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m910-k-rgb-12400-dpi-5.webp?v=1745319644",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m910-k-rgb-12400-dpi-6.webp?v=1745319644",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m910-k-rgb-12400-dpi-7.webp?v=1745319644"
+    ],
+    "has_image": true,
+    "features": [
+      "RANGER — high-precision 12400 DPI optical sensor for competitive play",
+      "12 programmable buttons — extensive macro customization",
+      "RGB backlit — fully customizable multi-zone lighting",
+      "Ergonomic design — contoured shape for comfortable right-hand grip",
+      "On-board memory — store up to 5 profiles directly on the mouse",
+      "USB wired — zero-latency gaming-grade connection"
+    ],
+    "specifications": {
+      "DPI": "Up to 12400",
+      "Buttons": "12 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M910-KS",
+    "model": "M910",
+    "category": "Mouse",
+    "specs": "Redragon M910-KS RANGER LITE Wireless Gaming Mouse, 8000 DPI, RGB, 2.4GHz / Wired",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-lite-m910-ks-wireless-rgb-8000-dpi-1.webp?v=1745319433",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-lite-m910-ks-wireless-rgb-8000-dpi-2.webp?v=1745319433",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-lite-m910-ks-wireless-rgb-8000-dpi-3.webp?v=1745319433",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-lite-m910-ks-wireless-rgb-8000-dpi-4.webp?v=1745319433",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-lite-m910-ks-wireless-rgb-8000-dpi-5.webp?v=1745319433"
+    ],
+    "has_image": true,
+    "features": [
+      "RANGER LITE — wireless gaming mouse with 8000 DPI precision sensor",
+      "Dual-mode: 2.4GHz wireless and USB wired — switch based on needs",
+      "8000 DPI sensor — adjustable in 5 stages for any game type",
+      "RGB backlit — vibrant lighting, customizable via software",
+      "Long battery life — hours of wireless gaming per charge",
+      "Ergonomic design — comfortable right-hand grip"
+    ],
+    "specifications": {
+      "DPI": "Up to 8000",
+      "Connectivity": "2.4GHz Wireless / USB Wired",
+      "Backlit": "RGB",
+      "Battery": "Rechargeable"
+    }
+  },
+  {
+    "id": "M914",
+    "model": "M914",
+    "category": "Mouse",
+    "specs": "Redragon M914 RANGER RGB Tri-Mode Wireless Gaming Mouse, 26000 DPI, 9 Programmable Buttons",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m914-rgb-tri-mode-wireless-1.webp?v=1745319222",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m914-rgb-tri-mode-wireless-2.webp?v=1745319222",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m914-rgb-tri-mode-wireless-3.webp?v=1745319222",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m914-rgb-tri-mode-wireless-5.webp?v=1745319222",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m914-rgb-tri-mode-wireless-6.webp?v=1745319222",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-ranger-m914-rgb-tri-mode-wireless-7.webp?v=1745319222"
+    ],
+    "has_image": true,
+    "features": [
+      "RANGER — premium tri-mode wireless mouse: 2.4GHz, Bluetooth, and USB-C wired",
+      "High-precision sensor — top-end DPI for competitive gaming",
+      "9 programmable buttons — advanced macro configuration",
+      "RGB backlit — customizable lighting effects across zones",
+      "Long battery life — extended wireless gaming per charge",
+      "Ergonomic right-hand design — comfortable for precise, fast gameplay"
+    ],
+    "specifications": {
+      "Connectivity": "2.4GHz Wireless / Bluetooth / USB-C Wired",
+      "Buttons": "9 Programmable",
+      "Backlit": "RGB",
+      "Battery": "Rechargeable"
+    }
+  },
+  {
+    "id": "M987P-K",
+    "model": "M987P-K",
+    "category": "Mouse",
+    "specs": "Redragon M987P-K STORM ELITE Honeycomb Wired Gaming Mouse, 16000 DPI, RGB, Ultra-Lightweight",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m987p-k-honeycomb-rgb-wired-16000-dpi-1.webp?v=1745319022",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m987p-k-honeycomb-rgb-wired-16000-dpi-2.webp?v=1745319022",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m987p-k-honeycomb-rgb-wired-16000-dpi-3.webp?v=1745319022",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m987p-k-honeycomb-rgb-wired-16000-dpi-4.webp?v=1745319022",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-gaming-redragon-m987p-k-honeycomb-rgb-wired-16000-dpi-5.webp?v=1745319022"
+    ],
+    "has_image": true,
+    "features": [
+      "Honeycomb shell — ultra-lightweight design reduces fatigue in fast-paced gaming",
+      "16000 DPI high-precision optical sensor — pixel-perfect tracking",
+      "RGB through honeycomb — stunning light diffusion through the perforated body",
+      "6 programmable buttons — remappable for any game",
+      "Braided cable — durable, tangle-free connection",
+      "USB wired — zero-latency competitive-grade input"
+    ],
+    "specifications": {
+      "DPI": "Up to 16000",
+      "Design": "Honeycomb Ultra-Lightweight",
+      "Buttons": "6 Programmable",
+      "Backlit": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "M991",
+    "model": "M991",
+    "category": "Mouse",
+    "specs": "Redragon M991 INVADER Wireless Gaming Mouse, 19000 DPI, Rapid Fire Key, RGB, 2.4GHz",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-m991-invader-wireless-gaming-mouse-1.webp?v=1748087857",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-m991-invader-wireless-gaming-mouse-2.webp?v=1748087857",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-m991-invader-wireless-gaming-mouse-3.webp?v=1748087857",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-m991-invader-wireless-gaming-mouse-4.webp?v=1748087857",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-m991-invader-wireless-gaming-mouse-5.webp?v=1748087857",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-m991-invader-wireless-gaming-mouse-6.webp?v=1748087857"
+    ],
+    "has_image": true,
+    "features": [
+      "INVADER — premium wireless gaming mouse with 19000 DPI ultra-precise sensor",
+      "Rapid Fire Key — dedicated button for burst-fire shooting advantage",
+      "2.4GHz wireless — ultra-low latency, stable connection up to 10m",
+      "RGB backlit — vibrant lighting fully customizable",
+      "Long battery life — extended gaming sessions on a single charge",
+      "11 programmable buttons — full macro configuration for any game"
+    ],
+    "specifications": {
+      "DPI": "Up to 19000",
+      "Connectivity": "2.4GHz Wireless",
+      "Buttons": "11 Programmable",
+      "Backlit": "RGB",
+      "Battery": "Rechargeable"
+    }
+  },
+  {
     "id": "K506",
     "model": "K506",
     "category": "Keyboard",
     "specs": "Redragon K506 Centaur Membrane Wired Gaming Keyboard, RGB Backlit, Multimedia Keys",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK506Claviergamingfilaireamembrane_1.png?v=1758853004",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK506Claviergamingfilaireamembrane_2.png?v=1758853066",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK506Claviergamingfilaireamembrane_2.jpg?v=1758853066",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK506Claviergamingfilaireamembrane_3.jpg?v=1758853004"
+      "https://cdn.shopify.com/s/files/1/0706/5170/7667/files/k506_centaur_2-01.jpg",
+      "https://cdn.shopify.com/s/files/1/0706/5170/7667/files/k506_centaur_2-03.jpg",
+      "https://cdn.shopify.com/s/files/1/0706/5170/7667/files/k506_centaur_2-05.jpg"
     ],
     "has_image": true,
     "features": [
@@ -2735,6 +4762,46 @@
     },
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K515-RGB_setup_v1.0.0.1_99f758a0-1d06-449f-a09a-ed293d15f3d8.exe?v=1726133568",
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K515_User_Manual.pdf"
+  },
+  {
+    "id": "K515 PRO",
+    "model": "K515 PRO",
+    "category": "Keyboard",
+    "specs": "Redragon K515 PRO Shiva RGB Wireless Membrane Gaming Keyboard, 98 Keys, 3-Mode (2.4GHz / BT 5.0 / USB-C), 4 Macro Keys, Detachable Magnetic Wrist Rest, Software Supported",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/Untitled-1_77b1d498-97fb-40bd-8e95-159b4e0cc1df.png?v=1763834505",
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/Untitled-2_5506c2eb-5661-429b-9841-de4fa37094a8.png?v=1763834506",
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/71agu5-b4IL._AC_SX522.jpg?v=1763834506",
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/71ExOV7nyCL._AC_SX522.jpg?v=1763834506",
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/71I0yYksSXL._AC_SX522.jpg?v=1763834506",
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/71lVdwZiTfL._AC_SL1500.jpg?v=1763834506",
+      "https://cdn.shopify.com/s/files/1/0697/8922/1062/files/81jTDnsYuRL._AC_SX522.jpg?v=1763834506"
+    ],
+    "has_image": true,
+    "features": [
+      "3-Mode wireless: 2.4GHz dongle, Bluetooth 5.0/3.0, and USB-C wired",
+      "Shared 2.4GHz USB dongle (works with M693 PRO mouse)",
+      "98-key compact layout — keeps numpad while cutting down board size",
+      "4 onboard macro keys (G1–G4) programmable without software",
+      "26 anti-ghosting keys for fast, accurate gaming input",
+      "Full dynamic RGB backlighting — 7 preset + 6 customizable lighting modes",
+      "Detachable magnetic wrist rest for ergonomic comfort",
+      "Smooth membrane switches rated for 10 million keystrokes",
+      "Double-shot injection molded keycaps for lasting legends"
+    ],
+    "specifications": {
+      "Type": "Membrane (Mechanical-Feel)",
+      "Keys": "98 + 4 Macro",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 5.0+3.0 / USB-C Wired",
+      "Backlit": "Full RGB 16.8M Colors",
+      "Lighting Modes": "7 preset + 6 custom",
+      "Anti-Ghosting": "26-Key",
+      "Wrist Rest": "Detachable, Magnetic",
+      "Cable": "USB-C Detachable"
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K515RGB-PRO_setup_1.0.4.3.exe?v=1730873766",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_S142_Combo.pdf?v=1731056433"
   },
   {
     "id": "K516",
@@ -2871,12 +4938,123 @@
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K550_Software.zip?v=1725416755"
   },
   {
+    "id": "K550W",
+    "model": "K550W",
+    "category": "Keyboard",
+    "specs": "Redragon K550W Yama Full-Size Wired RGB Mechanical Gaming Keyboard — White, 12 Macro Keys, Aluminum Top Plate, USB Passthrough, Detachable Wrist Rest",
+    "price": 0,
+    "images": [
+      "https://www.elnekhelytechnology.com/image/cache/catalog/ACCESSORIES/KEYBOARD/Redragon/K550/redragon-k550-rgb-yama-gaming-mechanical-keyboard-%E2%80%93-red-switches-%E2%80%93-multimadia-macro-recording-keys-%E2%80%93-wrist-rest-%E2%80%93-volume-control-white-800x800.jpg",
+      "https://www.elnekhelytechnology.com/image/cache/catalog/ACCESSORIES/KEYBOARD/Redragon/K550/2-800x800.jpg",
+      "https://www.elnekhelytechnology.com/image/cache/catalog/ACCESSORIES/KEYBOARD/Redragon/K550/3-800x800w.jpg",
+      "https://www.elnekhelytechnology.com/image/cache/catalog/ACCESSORIES/KEYBOARD/Redragon/K550/4-800x800.jpg",
+      "https://www.elnekhelytechnology.com/image/catalog/ACCESSORIES/KEYBOARD/Redragon/K550/5.jpg",
+      "https://www.elnekhelytechnology.com/image/catalog/ACCESSORIES/KEYBOARD/Redragon/K550/6.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "White finish — brushed aluminum top plate in premium white colorway",
+      "12 dedicated onboard macro keys (G1-G12) for instant macro execution",
+      "Full RGB backlit with 18 dynamic lighting effects",
+      "Built-in USB pass-through port for extra USB device",
+      "Separate metal volume wheel for quick audio control",
+      "Detachable ergonomic wrist rest",
+      "N-key rollover — 100% anti-ghosting for gaming accuracy",
+      "Full-size 104-key layout with multimedia hotkeys"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Color": "White",
+      "Layout": "Full-Size 104-Key",
+      "Macro Keys": "12 Dedicated (G1-G12)",
+      "Top Plate": "Brushed Aluminum (White)",
+      "Backlit": "Full RGB 16.8M Colors",
+      "N-Key Rollover": "Yes",
+      "USB Passthrough": "Yes",
+      "Interface": "USB Wired",
+      "Cable Length": "1.8m"
+    },
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K550_User_Manual.pdf",
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K550_Software.zip?v=1725416755"
+  },
+  {
+    "id": "K550-Purple",
+    "model": "K550",
+    "category": "Keyboard",
+    "specs": "Redragon K550 YAMA Full-Size Wired RGB Mechanical Gaming Keyboard, 104 Keys, Purple Switch, Macro Recording — Black",
+    "price": 0,
+    "images": [
+      "https://www.nextmarteg.com/wp-content/uploads/2021/02/71hUuMV1wqL._SL1500_.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/02/71ytDGRs8hL._SL1500_.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/02/71GvJcZHppL._SL1000_.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/02/redragon-k550-yama-rgb-customizable-mechanical-gaming-keyboard-00007.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/02/713HNrXSgsL._SL1500_.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Full-size 104-key layout with dedicated numpad for complete control",
+      "Purple mechanical switches — tactile, clicky with satisfying audible feedback",
+      "Customizable per-key macro recording — record macros on the fly without software",
+      "RGB backlighting — 16.8 million colors, 5 adjustable brightness levels",
+      "On-board memory — save your custom lighting and macros directly on the keyboard",
+      "N-key rollover with anti-ghosting — up to 12 keys simultaneously",
+      "5 extra dedicated macro keys for competitive gaming advantages"
+    ],
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K550_Software.zip",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K550_User_Manual.pdf",
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Purple (Tactile, Clicky)",
+      "Backlit": "RGB",
+      "Macro Keys": "5 Dedicated",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K550W-Purple",
+    "model": "K550",
+    "category": "Keyboard",
+    "specs": "Redragon K550 YAMA Full-Size Wired RGB Mechanical Gaming Keyboard, 104 Keys, Purple Switch, Macro Recording — White",
+    "price": 0,
+    "images": [
+      "https://www.nextmarteg.com/wp-content/uploads/2021/09/Redragon-K550-Yama-White-1.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/09/Redragon-K550-Yama-White-2.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/09/Redragon-K550-Yama-White-4.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/09/Redragon-K550-Yama-White-5.jpg",
+      "https://www.nextmarteg.com/wp-content/uploads/2021/09/Redragon-K550-Yama-White-6.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Full-size 104-key layout with dedicated numpad for complete control",
+      "Purple mechanical switches — tactile, clicky with satisfying audible feedback",
+      "Customizable per-key macro recording — record macros on the fly without software",
+      "White case — clean, bright aesthetic for any gaming or workspace setup",
+      "RGB backlighting — 16.8 million colors, 5 adjustable brightness levels",
+      "On-board memory — save custom lighting and macros directly on the keyboard",
+      "N-key rollover with anti-ghosting — up to 12 keys simultaneously"
+    ],
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K550_Software.zip",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K550_User_Manual.pdf",
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size 104-Key",
+      "Switches": "Purple (Tactile, Clicky)",
+      "Backlit": "RGB",
+      "Color": "White",
+      "Macro Keys": "5 Dedicated",
+      "Interface": "USB Wired"
+    }
+  },
+  {
     "id": "KG010-KN",
     "model": "KG010-KN",
     "category": "Keyboard",
     "specs": "Redragon KG010 Keyboard Gaming, Single-Hand Gaming Keypad, RGB Backlit, Black",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/REDRAGON-KG010-Mechanical-Gaming-Keyboard-Brown-Switch-White-Led-White-Black-Elyamama-37319311720679.jpg?v=1764074745"
+    ],
     "has_image": false,
     "features": [
       "Compact single-hand gaming keypad for FPS and MOBA gaming",
@@ -2899,7 +5077,9 @@
     "category": "Keyboard",
     "specs": "Redragon KG010 Keyboard Gaming, Single-Hand Gaming Keypad, RGB Backlit, White",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0718/8001/6103/files/REDRAGON-KG010-Mechanical-Gaming-Keyboard-Brown-Switch-White-Led-White-Black-Elyamama-37346561622247.jpg?v=1764074745"
+    ],
     "has_image": false,
     "features": [
       "Compact single-hand gaming keypad for FPS and MOBA gaming",
@@ -2922,7 +5102,9 @@
     "category": "Keyboard",
     "specs": "Redragon K535 Apas TKL Wired RGB Mechanical Gaming Keyboard, Linear Red Switches",
     "price": 0,
-    "images": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/redragon-k535-apas-pro-rgb-wireless-wired-mechanical-keyboard-6950376705358-1207885494.jpg"
+    ],
     "has_image": false,
     "features": [
       "TKL 87-key compact layout for wider mouse movement",
