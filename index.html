@@ -53,10 +53,16 @@
     /* Drawer links: block display + bigger touch targets */
     .drawer-link{display:block;padding:18px 0;font-size:1rem}
 
-    /* Frame animation canvas inside hero panel */
-    #frame-canvas{position:absolute;inset:0;width:100%;height:100%;z-index:0}
+    /* Frame animation canvas: fixed in journey-wrapper viewport */
+    #frame-canvas{position:absolute;inset:0;width:100%;height:100%;z-index:0;pointer-events:none}
     #hero-canvas{z-index:2!important}
-    .cat-panel--hero::after{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(105deg,rgba(0,0,0,.75) 0%,rgba(0,0,0,.4) 50%,rgba(0,0,0,.15) 100%);pointer-events:none}
+    /* Hero + Keyboard panels: transparent so canvas shows through */
+    .cat-panel--hero,.cat-panel--no-bg{background:transparent!important}
+    .cat-panel--hero::before,.cat-panel--no-bg::before{display:none!important}
+    /* Dark overlay on hero + keyboard so text is readable over canvas */
+    .cat-panel--hero::after,.cat-panel--no-bg::after{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(105deg,rgba(0,0,0,.7) 0%,rgba(0,0,0,.35) 50%,rgba(0,0,0,.1) 100%);pointer-events:none}
+    /* Kill whitespace from removed sections */
+    .intro-section,.products-section,.stats-strip,.site-footer{display:none!important}
 
     /* Smooth mobile scrolling */
     @media(max-width:768px){
@@ -176,12 +182,13 @@
   </div>
   <div class="counter-label-display"></div>
 
-  <div class="journey-wrapper">
+  <div class="journey-wrapper" style="position:relative">
+    <!-- Frame animation canvas: stays fixed in viewport, behind all panels -->
+    <canvas id="frame-canvas"></canvas>
     <div class="journey-track">
 
       <!-- Panel 0 — Hero -->
       <section class="cat-panel cat-panel--hero" style="position:relative">
-        <canvas id="frame-canvas"></canvas>
         <canvas id="hero-canvas"></canvas>
         <div class="cat-panel-glow"></div>
         <div class="cat-panel-info" style="max-width:680px;z-index:4;position:relative">
@@ -196,9 +203,8 @@
         <div class="cat-panel-chapter">Redragon Egypt</div>
       </section>
 
-      <!-- Panel 1 — Keyboard -->
-      <section class="cat-panel cat-panel--keyboard">
-        <div class="cat-panel-bg" style="background-image:url('/images/hero-frames/f052.jpg')"></div>
+      <!-- Panel 1 — Keyboard (transparent — frame canvas shows through) -->
+      <section class="cat-panel cat-panel--keyboard cat-panel--no-bg">
         <div class="cat-panel-glow"></div>
         <div class="cat-panel-info">
           <p class="cat-panel-num">01</p>
@@ -366,8 +372,8 @@
       var m=t.match(/matrix.*\((.+)\)/);
       if(!m) return;
       var tx=Math.abs(parseFloat(m[1].split(',')[4])||0);
-      // First panel = one viewport width of scroll
-      var progress=Math.min(1, tx/window.innerWidth);
+      // Animation spans 2 panels (hero + keyboard) = 2 viewport widths
+      var progress=Math.min(1, tx/(window.innerWidth*2));
       var idx=Math.min(TOTAL-1, Math.round(progress*(TOTAL-1)));
       if(idx!==curFrame) draw(idx);
     })();
