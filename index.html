@@ -53,13 +53,10 @@
     /* Drawer links: block display + bigger touch targets */
     .drawer-link{display:block;padding:18px 0;font-size:1rem}
 
-    /* Frame animation canvas */
+    /* Frame animation canvas inside hero panel */
     #frame-canvas{position:absolute;inset:0;width:100%;height:100%;z-index:0}
-    .intro-section::before{z-index:1!important}
     #hero-canvas{z-index:2!important}
-    .intro-content{z-index:3!important}
-    .intro-scroll-hint{z-index:3!important}
-    .blobs,.blob,.blob-1,.blob-2,.blob-3{z-index:1!important}
+    .cat-panel--hero::after{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(105deg,rgba(0,0,0,.75) 0%,rgba(0,0,0,.4) 50%,rgba(0,0,0,.15) 100%);pointer-events:none}
 
     /* Smooth mobile scrolling */
     @media(max-width:768px){
@@ -162,49 +159,16 @@
     </ul>
   </nav>
 
-  <!-- ── Section 1: Vertical Intro ─────────────────────────── -->
-  <section class="intro-section">
-    <!-- Morphing blobs (liquid glass ambiance) -->
-    <div class="blob blob-1"></div>
-    <div class="blob blob-2"></div>
-    <div class="blob blob-3"></div>
-
-    <!-- Frame animation canvas (keyboard disassembly) -->
-    <canvas id="frame-canvas"></canvas>
-    <!-- Three.js canvas injected here by main.js -->
-    <canvas id="hero-canvas"></canvas>
-
-    <div class="intro-content">
-      <p class="intro-eyebrow" data-reveal>Official Egyptian Distributor · Elessawy Group</p>
-      <h1 class="intro-title" data-reveal>
-        <span class="title-line">MASTER</span>
-        <span class="title-line title-line--red">EVERY</span>
-        <span class="title-line">GAME</span>
-      </h1>
-      <p class="intro-sub" data-reveal>
-        Egypt's Official Redragon Distributor · Elessawy Group
-      </p>
-      <div class="intro-actions" data-reveal>
-        <a href="/lab/" class="btn-primary">Explore Products</a>
-        <a href="/about"    class="btn-ghost">Our Story</a>
-      </div>
-    </div>
-
-    <div class="intro-scroll-hint">
-      <span>Scroll to explore</span>
-      <div class="scroll-arrow"></div>
-    </div>
-  </section>
-
-  <!-- ── Section 2: Horizontal Journey ─────────────────────── -->
+  <!-- ── Horizontal Journey (entire homepage) ─────────────── -->
   <!-- Fixed progress bar -->
   <div class="journey-progress">
     <div class="journey-progress-bar"></div>
   </div>
   <!-- Counter dots -->
   <div class="journey-counter">
-    <span class="counter-dot active" data-label="Mouse"></span>
+    <span class="counter-dot active" data-label="Home"></span>
     <span class="counter-dot" data-label="Keyboard"></span>
+    <span class="counter-dot" data-label="Mouse"></span>
     <span class="counter-dot" data-label="Headset"></span>
     <span class="counter-dot" data-label="Gamepad"></span>
     <span class="counter-dot" data-label="Combo"></span>
@@ -215,9 +179,26 @@
   <div class="journey-wrapper">
     <div class="journey-track">
 
+      <!-- Panel 0 — Hero -->
+      <section class="cat-panel cat-panel--hero" style="position:relative">
+        <canvas id="frame-canvas"></canvas>
+        <canvas id="hero-canvas"></canvas>
+        <div class="cat-panel-glow"></div>
+        <div class="cat-panel-info" style="max-width:680px;z-index:4;position:relative">
+          <p class="cat-panel-num" style="font-size:.72rem;letter-spacing:.25em;margin-bottom:16px">Official Egyptian Distributor · Elessawy Group</p>
+          <h2 class="cat-panel-title" style="font-size:clamp(3.5rem,9vw,7rem);line-height:.88;margin-bottom:20px">MASTER<br>EVERY<br><span style="color:var(--red)">GAME.</span></h2>
+          <p class="cat-panel-sub" style="margin-bottom:32px;max-width:420px">Premium gaming peripherals — pro-grade mice, mechanical keyboards, headsets and more. Built for champions.</p>
+          <div style="display:flex;gap:16px;flex-wrap:wrap">
+            <a href="/lab/" class="btn-primary cat-cta">Explore Products →</a>
+            <a href="/about" class="btn-ghost">Our Story →</a>
+          </div>
+        </div>
+        <div class="cat-panel-chapter">Redragon Egypt</div>
+      </section>
+
       <!-- Panel 1 — Keyboard -->
       <section class="cat-panel cat-panel--keyboard">
-        <div class="cat-panel-bg" style="background-image:url('/cat-heroes/keyboard.jpg')"></div>
+        <div class="cat-panel-bg" style="background-image:url('/images/hero-frames/f052.jpg')"></div>
         <div class="cat-panel-glow"></div>
         <div class="cat-panel-info">
           <p class="cat-panel-num">01</p>
@@ -326,45 +307,9 @@
     </div><!-- /journey-track -->
   </div><!-- /journey-wrapper -->
 
-  <!-- ── Section 3: Featured Products Reveal ─────────────── -->
-  <section class="products-section">
-    <div class="section-header" data-reveal>
-      <p class="section-eyebrow">Products</p>
-      <h2 class="section-title">Top Picks</h2>
-    </div>
-    <div class="products-grid" id="home-products-grid">
-      <!-- 6 featured products injected by JS -->
-    </div>
-    <div class="section-cta" data-reveal>
-      <a href="/lab/" class="btn-primary btn-large">View All Products →</a>
-    </div>
-  </section>
-
-  <!-- ── Stats strip ────────────────────────────────────────── -->
-  <section class="stats-strip" data-reveal>
-    <div class="stat-item">
-      <span class="stat-num">#1</span>
-      <span class="stat-label">EG Distributor</span>
-    </div>
-    <div class="stat-divider"></div>
-    <div class="stat-item">
-      <span class="stat-num">Official</span>
-      <span class="stat-label">Redragon Partner</span>
-    </div>
-    <div class="stat-divider"></div>
-    <div class="stat-item">
-      <span class="stat-num">130+</span>
-      <span class="stat-label">Countries Served</span>
-    </div>
-    <div class="stat-divider"></div>
-    <div class="stat-item">
-      <span class="stat-num">10M+</span>
-      <span class="stat-label">Gamers Worldwide</span>
-    </div>
-  </section>
 
 
-<!-- Frame-by-frame hero animation (keyboard disassembly) -->
+<!-- Frame-by-frame hero animation synced to horizontal scroll -->
 <script>
 (function(){
   var TOTAL=52;
@@ -372,19 +317,16 @@
   if(!canvas) return;
   var ctx=canvas.getContext('2d');
   var frames=[];
-  var loaded=0;
   var curFrame=0;
-  var raf=0;
 
-  // Resize canvas to match display size
   function resize(){
-    canvas.width=canvas.offsetWidth*window.devicePixelRatio;
-    canvas.height=canvas.offsetHeight*window.devicePixelRatio;
-    ctx.scale(window.devicePixelRatio,window.devicePixelRatio);
+    var dpr=window.devicePixelRatio||1;
+    canvas.width=canvas.offsetWidth*dpr;
+    canvas.height=canvas.offsetHeight*dpr;
+    ctx.setTransform(dpr,0,0,dpr,0,0);
     draw(curFrame);
   }
 
-  // Draw a frame (cover-fit)
   function draw(idx){
     var img=frames[idx];
     if(!img||!img.complete||!img.naturalWidth) return;
@@ -392,54 +334,43 @@
     var iw=img.naturalWidth, ih=img.naturalHeight;
     var scale=Math.max(cw/iw, ch/ih);
     var w=iw*scale, h=ih*scale;
-    var x=(cw-w)/2, y=(ch-h)/2;
     ctx.clearRect(0,0,cw,ch);
-    ctx.drawImage(img,x,y,w,h);
+    ctx.drawImage(img,(cw-w)/2,(ch-h)/2,w,h);
     curFrame=idx;
   }
 
-  // Preload frames
+  // Preload all frames
   for(var i=1;i<=TOTAL;i++){
     (function(idx){
       var img=new Image();
       img.src='/images/hero-frames/f'+String(idx).padStart(3,'0')+'.jpg';
-      img.onload=function(){
-        loaded++;
-        if(idx===1) draw(0); // draw first frame ASAP
-      };
+      if(idx===1) img.onload=function(){resize();draw(0);};
       frames.push(img);
     })(i);
   }
 
-  var section=document.querySelector('.intro-section');
+  var track=document.querySelector('.journey-track');
   var isMobile=/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)||window.innerWidth<768;
 
   if(isMobile){
-    // Auto-play: forward then reverse, smooth loop
-    var frame=0, dir=1;
-    setInterval(function(){
-      frame+=dir;
-      if(frame>=TOTAL-1){frame=TOTAL-1;dir=-1;}
-      if(frame<=0){frame=0;dir=1;}
-      draw(frame);
-    },80);
+    // Auto-play loop on mobile
+    var f=0, d=1;
+    setInterval(function(){f+=d;if(f>=TOTAL-1){f=TOTAL-1;d=-1;}if(f<=0){f=0;d=1;}draw(f);},80);
   } else {
-    // Scroll-driven: map scroll position to frame index
-    function onScroll(){
-      if(!section) return;
-      var rect=section.getBoundingClientRect();
-      var sH=rect.height;
-      // Progress: 0 when section top is at viewport top, 1 when section is fully scrolled out
-      var progress=Math.max(0,Math.min(1, -rect.top/(sH*0.8)));
-      var idx=Math.min(TOTAL-1, Math.floor(progress*(TOTAL-1)));
+    // Sync to horizontal scroll: read journey-track translateX
+    (function loop(){
+      requestAnimationFrame(loop);
+      if(!track) return;
+      var t=getComputedStyle(track).transform;
+      if(!t||t==='none') return;
+      var m=t.match(/matrix.*\((.+)\)/);
+      if(!m) return;
+      var tx=Math.abs(parseFloat(m[1].split(',')[4])||0);
+      // First panel = one viewport width of scroll
+      var progress=Math.min(1, tx/window.innerWidth);
+      var idx=Math.min(TOTAL-1, Math.round(progress*(TOTAL-1)));
       if(idx!==curFrame) draw(idx);
-    }
-    window.addEventListener('scroll',function(){
-      cancelAnimationFrame(raf);
-      raf=requestAnimationFrame(onScroll);
-    },{passive:true});
-    // Initial draw
-    setTimeout(function(){resize();onScroll();},100);
+    })();
   }
 
   window.addEventListener('resize',resize);
