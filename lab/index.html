@@ -3,13 +3,11 @@
 <head>
 <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
 <meta name="robots" content="noindex,nofollow"/>
-<title>Products — Redragon Egypt</title>
+<title>Redragon Egypt — Catalog</title>
 <link rel="icon" href="/images/logo_redragon.png"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Chakra+Petch:wght@400;500;600;700&display=swap" rel="stylesheet"/>
-<script type="module" crossorigin src="/assets/main-CXIMjarh-C7SGILRP.js"></script>
-<link rel="stylesheet" crossorigin href="/assets/main-CXIMjarh-CHVC6sxY.css">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -81,13 +79,6 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
 .stat-n{font-family:var(--H);font-size:1.4rem;color:#fff;line-height:1}
 .stat-l{font-size:.52rem;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35)}
 .stat-div{width:1px;height:28px;background:rgba(255,255,255,.1)}
-.hero-cta{
-  display:inline-flex;align-items:center;gap:8px;
-  font-family:var(--B);font-weight:700;font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;
-  background:var(--red);color:#fff;text-decoration:none;
-  padding:11px 22px;transition:background .18s;
-}
-.hero-cta:hover{background:#a80000}
 
 /* ── NAV ── */
 .nav{
@@ -97,21 +88,19 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
   backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
 }
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none}
-.logo img{height:38px}
-.logo span{font-family:var(--H);font-size:.75rem;letter-spacing:.28em;color:var(--red);text-transform:uppercase}
-.nav-links-wrap{display:flex;align-items:center;gap:4px}.nav-link{font-size:.62rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-decoration:none;padding:6px 12px;transition:color .18s;}.nav-link:hover{color:var(--text)}.nav-link.active{color:#fff}@media(max-width:600px){.nav-links-wrap{display:none}}
+.logo img{height:26px}
+.logo span{font-family:var(--H);font-size:.56rem;letter-spacing:.3em;color:var(--red);text-transform:uppercase}
+.nav-r{font-size:.54rem;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
 
-
-/* Full-width search bar */
-.topbar-search-wrap{background:var(--s1);border-bottom:1px solid var(--border);padding:14px 24px;}
-.topbar-search-inner{display:flex;align-items:center;gap:10px;max-width:680px;margin:0 auto;background:var(--bg);border:1px solid rgba(255,255,255,.12);padding:10px 18px;transition:border-color .2s;}
-.topbar-search-inner:focus-within{border-color:var(--red);}
-.topbar-search-inner svg{width:16px;height:16px;color:var(--muted);flex-shrink:0;}
-.topbar-search-inner input{font-family:var(--B);font-size:.85rem;background:none;border:none;color:var(--text);width:100%;outline:none;letter-spacing:.02em;}
-.topbar-search-inner input::placeholder{color:var(--muted);}
-.search-count{font-size:.6rem;color:var(--muted);white-space:nowrap;letter-spacing:.06em;}
+.fullsearch{background:var(--s1);border-bottom:1px solid var(--border);padding:12px 24px;}
+.fullsearch-inner{display:flex;align-items:center;gap:10px;max-width:640px;margin:0 auto;background:var(--bg);border:1px solid rgba(255,255,255,.1);padding:10px 16px;transition:border-color .2s;}
+.fullsearch-inner:focus-within{border-color:var(--red);}
+.fullsearch-inner svg{width:15px;height:15px;color:var(--muted);flex-shrink:0;}
+.fullsearch-inner input{font-family:var(--B);font-size:.82rem;background:none;border:none;color:var(--text);width:100%;outline:none;}
+.fullsearch-inner input::placeholder{color:var(--muted);}
+#sc{font-size:.58rem;color:var(--muted);white-space:nowrap;}
 /* ── LAYOUT ── */
-.layout{display:flex;align-items:flex-start;min-height:calc(100vh - 72px)}
+.layout{display:flex;align-items:flex-start;min-height:calc(100vh - 68px)}
 
 /* ── SIDEBAR ── */
 .sidebar{
@@ -202,7 +191,7 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
   border-bottom:1px solid var(--border2);gap:12px;flex-wrap:wrap;
 }
 .topbar-count{font-size:.6rem;color:var(--muted);letter-spacing:.06em}
-.topbar-search{display:flex;align-items:center;gap:7px;background:var(--s1);border:1px solid var(--border);padding:6px 12px;flex:1;max-width:340px;}.topbar-search svg{width:13px;height:13px;color:var(--muted);flex-shrink:0}.topbar-search input{font-family:var(--B);font-size:.7rem;background:none;border:none;color:var(--text);width:100%;outline:none;}.topbar-search input::placeholder{color:var(--muted)}.topbar-r{display:flex;align-items:center;gap:10px}
+.topbar-r{display:flex;align-items:center;gap:10px}
 .sort-select{
   font-family:var(--B);font-size:.6rem;color:var(--text);
   background:var(--s1);border:1px solid var(--border);padding:5px 10px;
@@ -373,35 +362,42 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
   }
   .mob-filter-btn svg{width:13px;height:13px}
 }
+.lab-foot{background:#070709;border-top:1px solid var(--border);margin-top:60px;}
+.lab-foot-top{max-width:1200px;margin:0 auto;padding:48px 28px 32px;display:flex;gap:40px;flex-wrap:wrap;justify-content:space-between;}
+.lab-foot-brand img{height:40px;margin-bottom:10px;display:block;}
+.lab-foot-brand p{font-size:.62rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;}
+.lab-foot-cols{display:flex;gap:48px;flex-wrap:wrap;}
+.lab-foot-col{display:flex;flex-direction:column;gap:9px;}
+.lab-foot-col h4{font-size:.5rem;letter-spacing:.22em;text-transform:uppercase;color:var(--red);margin-bottom:3px;}
+.lab-foot-col a{font-size:.68rem;color:var(--muted);text-decoration:none;transition:color .18s;}
+.lab-foot-col a:hover{color:var(--text);}
+.lab-foot-bottom{text-align:center;padding:14px 28px;border-top:1px solid var(--border);font-size:.56rem;color:var(--muted);}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
 </style>
 </head>
 <body>
 
-<nav id="main-nav" class="main-nav scrolled">
-    <div class="nav-inner">
-      <a href="/" class="nav-logo">
-        <img src="/images/logo_redragon.png" alt="Redragon Egypt" />
-        <span class="nav-logo-text">EGYPT</span>
-      </a>
-      <ul class="nav-links">
-        <li><a href="/" class="nav-link">Home</a></li>
-        <li><a href="/lab/" class="nav-link active">Products</a></li>
-        <li><a href="/about" class="nav-link">About</a></li>
-        <li><a href="/contact" class="nav-link">Contact</a></li>
-      </ul>
-      <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
-    </div>
-  </nav>
-  <div class="drawer-overlay"></div>
-  <nav class="drawer">
-    <ul>
-      <li><a href="/" class="drawer-link">Home</a></li>
-      <li><a href="/lab/" class="drawer-link">Products</a></li>
-      <li><a href="/about" class="drawer-link">About</a></li>
-      <li><a href="/contact" class="drawer-link">Contact</a></li>
+<nav class="nav">
+  <div class="nav-inner-wrap">
+    <a class="logo" href="/"><img src="/images/logo_redragon.png" alt="Redragon"/><span>EGYPT</span></a>
+    <ul class="nav-list">
+      <li><a href="/" class="nav-a">Home</a></li>
+      <li><a href="/lab/" class="nav-a is-active">Products</a></li>
+      <li><a href="/about" class="nav-a">About</a></li>
+      <li><a href="/contact" class="nav-a">Contact</a></li>
     </ul>
-  </nav>
+    <button class="hbg" id="hbg" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="mob-overlay" id="mob-ov"></div>
+<div class="mob-panel" id="mob-panel">
+  <ul>
+    <li><a href="/" class="mob-a">Home</a></li>
+    <li><a href="/lab/" class="mob-a">Products</a></li>
+    <li><a href="/about" class="mob-a">About</a></li>
+    <li><a href="/contact" class="mob-a">Contact</a></li>
+  </ul>
+</div>
 
 <!-- HERO -->
 <section class="hero">
@@ -412,20 +408,20 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
       <span>Official Distributor · Egypt &amp; North Africa</span>
     </div>
     <h1 class="hero-title">Master Every<br/><em>Game.</em></h1>
-    <p class="hero-sub">Egypt's official Redragon distributor — pro-grade mice, mechanical keyboards,<br/>headsets, gamepads and more. Fully warranted, officially imported.</p>
-    
+    <p class="hero-sub">Premium gaming peripherals — pro-grade mice, mechanical keyboards,<br/>headsets and more. Built for champions.</p>
+    <div class="hero-stats" id="hero-stats">
+      <div class="stat"><span class="stat-n" id="stat-total">—</span><span class="stat-l">Products</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-n">6</span><span class="stat-l">Categories</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-n" id="stat-sw">—</span><span class="stat-l">With Software</span></div>
+      <div class="stat-div"></div>
+      <div class="stat"><span class="stat-n" id="stat-man">—</span><span class="stat-l">With Manual</span></div>
+    </div>
   </div>
 </section>
 
-
-<div class="topbar-search-wrap">
-  <div class="topbar-search-inner">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path stroke-linecap="round" d="m21 21-4.35-4.35"/></svg>
-    <input id="search" type="text" placeholder="Search by name, model, category…" autocomplete="off"/>
-    <span class="search-count" id="search-count"></span>
-  </div>
-</div>
-<div class="layout" id="catalog">
+<div class="layout">
 
   <!-- SIDEBAR -->
   <aside class="sidebar" id="sidebar">
@@ -434,7 +430,9 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
       <div class="sb-count" id="sb-count"></div>
     </div>
 
-        <!-- Category -->
+        </div>
+
+    <!-- Category -->
     <div class="fgroup open" id="fg-cat">
       <div class="fgroup-head" onclick="toggleGroup('fg-cat')">
         <span class="fgroup-title">Category</span>
@@ -524,24 +522,18 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
   </div>
 </aside>
 
-<footer class="site-footer">
-  <div class="footer-inner">
-    <div class="footer-brand">
-      <img src="/images/logo_redragon.png" alt="Redragon Egypt" class="footer-logo" />
-      <p class="footer-tagline">Master Every Game</p>
+<footer class="lab-foot">
+  <div class="lab-foot-top">
+    <div class="lab-foot-brand">
+      <img src="/images/logo_redragon.png" alt="Redragon Egypt"/>
+      <p>Master Every Game</p>
     </div>
-    <div class="footer-links">
-      <div class="footer-col">
-        <h4 class="footer-col-title">Navigate</h4>
-        <ul><li><a href="/" class="footer-link">Home</a></li><li><a href="/lab/" class="footer-link">Products</a></li><li><a href="/about" class="footer-link">About</a></li><li><a href="/contact" class="footer-link">Contact</a></li></ul>
-      </div>
-      <div class="footer-col">
-        <h4 class="footer-col-title">Contact</h4>
-        <ul><li class="footer-contact-item"><span>WhatsApp</span><a href="https://wa.me/201025069999" class="footer-link">+201025069999</a></li><li class="footer-contact-item"><span>Email</span><a href="mailto:info@redragonegypt.com" class="footer-link">info@redragonegypt.com</a></li><li class="footer-contact-item"><span>Facebook</span><a href="https://facebook.com/RedragonEgypt/" class="footer-link" target="_blank">RedragonEgypt</a></li></ul>
-      </div>
+    <div class="lab-foot-cols">
+      <div class="lab-foot-col"><h4>Navigate</h4><a href="/">Home</a><a href="/lab/">Products</a><a href="/about">About</a><a href="/contact">Contact</a></div>
+      <div class="lab-foot-col"><h4>Contact</h4><a href="https://wa.me/201025069999">+201025069999</a><a href="mailto:info@redragonegypt.com">info@redragonegypt.com</a><a href="https://facebook.com/RedragonEgypt/" target="_blank">RedragonEgypt</a></div>
     </div>
   </div>
-  <div class="footer-bottom"><p class="footer-copy">&copy; 2025 Redragon Egypt — Elessawi Group. Authorized Redragon Distributor.</p></div>
+  <div class="lab-foot-bottom">&copy; 2025 Redragon Egypt — Elessawi Group. Authorized Redragon Distributor.</div>
 </footer>
 
 <script>
@@ -580,8 +572,7 @@ function filtered(){
 function render(){
   const list=filtered();
   const grid=document.getElementById('grid');
-  document.getElementById('top-count').textContent=list.length+' products';
-  const sc=document.getElementById('search-count'); if(sc&&q) sc.textContent=list.length+' result'+(list.length===1?'':'s'); else if(sc) sc.textContent='';
+  document.getElementById('top-count').textContent=list.length+' products';var _sc=document.getElementById('sc');if(_sc)_sc.textContent=q?list.length+' result'+(list.length!==1?'s':''):'';
   document.getElementById('sb-count').textContent=list.length+' of '+all.length;
   if(!list.length){
     grid.innerHTML='<div class="empty"><div class="empty-t">NO RESULTS</div><div class="empty-s">Try adjusting your filters.</div></div>';
@@ -737,12 +728,7 @@ overlay.addEventListener('click',closeDrawer);
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
 
 /* ── LOAD ── */
-// Show skeleton while loading
-  (function(){
-    const g=document.getElementById('grid');
-    if(g) g.innerHTML=Array(8).fill('<div class="card"><div class="card-img-wrap" style="aspect-ratio:1/1;background:#16161c;display:flex;align-items:center;justify-content:center;"><div style="width:60%;height:60%;background:#1e1e26;border-radius:4px;"></div></div><div class="card-foot"><div style="height:14px;width:60%;background:#1e1e26;border-radius:3px;margin-bottom:8px;"></div><div style="height:10px;width:80%;background:#17171d;border-radius:3px;"></div></div></div>').join('');
-  })();
-  fetch('/data/products.json').then(r=>r.json()).then(data=>{
+fetch('/data/products.json').then(r=>r.json()).then(data=>{
   all=data;
   // Hero stats
   const stTotal=document.getElementById('stat-total');
@@ -755,6 +741,15 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
 }).catch(()=>{
   document.getElementById('grid').innerHTML='<div class="empty"><div class="empty-t">LOAD ERROR</div></div>';
 });
+})();
+// Hamburger
+(function(){
+  const b=document.getElementById('hbg');
+  const ov=document.getElementById('mob-ov');
+  const panel=document.getElementById('mob-panel');
+  if(!b)return;
+  b.addEventListener('click',function(){panel.classList.add('open');ov.classList.add('open');});
+  ov.addEventListener('click',function(){panel.classList.remove('open');ov.classList.remove('open');});
 })();
 </script>
 </body>
