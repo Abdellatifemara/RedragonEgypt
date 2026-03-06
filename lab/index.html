@@ -79,6 +79,13 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
 .stat-n{font-family:var(--H);font-size:1.4rem;color:#fff;line-height:1}
 .stat-l{font-size:.52rem;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35)}
 .stat-div{width:1px;height:28px;background:rgba(255,255,255,.1)}
+.hero-cta{
+  display:inline-flex;align-items:center;gap:8px;
+  font-family:var(--B);font-weight:700;font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;
+  background:var(--red);color:#fff;text-decoration:none;
+  padding:11px 22px;transition:background .18s;
+}
+.hero-cta:hover{background:#a80000}
 
 /* ── NAV ── */
 .nav{
@@ -88,8 +95,8 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
   backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
 }
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none}
-.logo img{height:26px}
-.logo span{font-family:var(--H);font-size:.56rem;letter-spacing:.3em;color:var(--red);text-transform:uppercase}
+.logo img{height:38px}
+.logo span{font-family:var(--H);font-size:.75rem;letter-spacing:.28em;color:var(--red);text-transform:uppercase}
 .nav-r{font-size:.54rem;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
 
 /* ── LAYOUT ── */
@@ -374,20 +381,12 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
       <span>Official Distributor · Egypt &amp; North Africa</span>
     </div>
     <h1 class="hero-title">Master Every<br/><em>Game.</em></h1>
-    <p class="hero-sub">Premium gaming peripherals — pro-grade mice, mechanical keyboards,<br/>headsets and more. Built for champions.</p>
-    <div class="hero-stats" id="hero-stats">
-      <div class="stat"><span class="stat-n" id="stat-total">—</span><span class="stat-l">Products</span></div>
-      <div class="stat-div"></div>
-      <div class="stat"><span class="stat-n">6</span><span class="stat-l">Categories</span></div>
-      <div class="stat-div"></div>
-      <div class="stat"><span class="stat-n" id="stat-sw">—</span><span class="stat-l">With Software</span></div>
-      <div class="stat-div"></div>
-      <div class="stat"><span class="stat-n" id="stat-man">—</span><span class="stat-l">With Manual</span></div>
-    </div>
+    <p class="hero-sub">Egypt's official Redragon distributor — pro-grade mice, mechanical keyboards,<br/>headsets, gamepads and more. Fully warranted, officially imported.</p>
+    <a href="#catalog" class="hero-cta">Browse All Products</a>
   </div>
 </section>
 
-<div class="layout">
+<div class="layout" id="catalog">
 
   <!-- SIDEBAR -->
   <aside class="sidebar" id="sidebar">
