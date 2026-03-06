@@ -365,6 +365,10 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
     background:var(--bg);height:100vh;
   }
   .sidebar.mob-open{transform:translateX(0)}
+  .filter-overlay{display:none;position:fixed;inset:0;z-index:349;background:rgba(0,0,0,.5)}
+  .filter-overlay.on{display:block}
+  .sb-close{display:flex;position:absolute;top:12px;right:12px;width:32px;height:32px;align-items:center;justify-content:center;background:none;border:1px solid var(--border);color:var(--muted);font-size:.8rem;cursor:pointer;z-index:3}
+  .sb-close:hover{background:var(--red);color:#fff;border-color:var(--red)}
   .mob-filter-btn{
     display:flex;align-items:center;gap:6px;
     font-family:var(--B);font-size:.58rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
@@ -438,7 +442,9 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
 <div class="layout">
 
   <!-- SIDEBAR -->
+  <div class="filter-overlay" id="filter-ov"></div>
   <aside class="sidebar" id="sidebar">
+    <button class="sb-close" id="sb-close">✕</button>
     <div class="sb-head">
       <div class="sb-head-title">Products<br><b id="sb-cat-title">All</b></div>
       <div class="sb-count" id="sb-count"></div>
@@ -693,9 +699,11 @@ window.toggleGroup=function(id){
 /* ── show more ── */
 document.getElementById('show-more-btn').addEventListener('click',function(){shown+=PAGE;render(false)});
 
-document.getElementById('mob-filter').addEventListener('click',()=>{
-  document.getElementById('sidebar').classList.toggle('mob-open');
-});
+var _sb=document.getElementById('sidebar'),_fov=document.getElementById('filter-ov');
+function closeSidebar(){_sb.classList.remove('mob-open');_fov.classList.remove('on');}
+document.getElementById('mob-filter').addEventListener('click',()=>{_sb.classList.add('mob-open');_fov.classList.add('on');});
+document.getElementById('sb-close').addEventListener('click',closeSidebar);
+_fov.addEventListener('click',closeSidebar);
 
 /* ── DRAWER ── */
 const overlay=document.getElementById('overlay');
