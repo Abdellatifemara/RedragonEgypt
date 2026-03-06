@@ -4,383 +4,64 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Products — Redragon Egypt</title>
-  <meta name="description" content="Browse all Redragon gaming peripherals available in Egypt. Mouse, keyboards, headsets, gamepads, combos, accessories." />
+  <meta name="description" content="Browse all 170 Redragon gaming peripherals available in Egypt. Mouse, keyboards, headsets, gamepads, combos, accessories." />
   <link rel="icon" type="image/png" href="/favicon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+
+
+
   <script type="module" crossorigin src="/assets/main-CXIMjarh-C7SGILRP.js"></script>
+  <script type="module" crossorigin src="/assets/products-BhAhFboa-D--Lnh-F.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/main-CXIMjarh-CHVC6sxY.css">
+
+  <!-- Mobile hamburger & drawer fixes -->
   <style>
-  /* Override main CSS for this page layout */
-  body.page-products{background:#0a0a0c!important;color:#edeaf5!important}
-  .products-page{display:none} /* hide old product markup if any */
-  
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{
-  --red:#CC0000;--bg:#0a0a0c;--s1:#111115;--s2:#17171d;
-  --border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.04);
-  --text:#edeaf5;--muted:#6a6880;--sub:#9d9ab5;
-  --H:'Russo One',sans-serif;--B:'Chakra Petch',sans-serif;
-  --r:cubic-bezier(.25,.46,.45,.94);
-}
-html{scroll-behavior:smooth}
-body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100dvh}
-
-/* ── HERO ── */
-.hero{
-  position:relative;
-  height:clamp(380px,50vw,560px);
-  display:flex;align-items:flex-end;
-  overflow:hidden;
-}
-.hero-bg{
-  position:absolute;inset:0;
-  background:url('/images/promo/promo_hero_desk.jpg') center 30%/cover no-repeat;
-}
-/* Dark gradient from bottom so text is readable */
-.hero-bg::after{
-  content:'';position:absolute;inset:0;
-  background:linear-gradient(
-    to right,
-    rgba(10,10,12,.95) 0%,
-    rgba(10,10,12,.75) 50%,
-    rgba(10,10,12,.2) 100%
-  ),linear-gradient(
-    to top,
-    rgba(10,10,12,1) 0%,
-    rgba(10,10,12,.5) 40%,
-    transparent 70%
-  );
-}
-.hero-content{
-  position:relative;z-index:1;
-  padding:0 36px 40px;
-  max-width:680px;
-}
-.hero-eyebrow{
-  display:flex;align-items:center;gap:10px;
-  margin-bottom:16px;
-}
-.hero-eyebrow img{height:22px;filter:brightness(0) invert(1);opacity:.8}
-.hero-eyebrow span{
-  font-size:.58rem;letter-spacing:.22em;text-transform:uppercase;
-  color:rgba(255,255,255,.45);
-  border-left:1px solid rgba(255,255,255,.15);padding-left:10px;
-}
-.hero-title{
-  font-family:var(--H);
-  font-size:clamp(2.4rem,5.5vw,4.2rem);
-  line-height:.95;text-transform:uppercase;
-  letter-spacing:-.02em;color:#fff;
-  margin-bottom:14px;
-}
-.hero-title em{font-style:normal;color:var(--red)}
-.hero-sub{
-  font-size:.76rem;color:rgba(255,255,255,.5);
-  line-height:1.7;margin-bottom:28px;
-  max-width:480px;
-}
-.hero-stats{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
-.stat{display:flex;flex-direction:column;gap:2px}
-.stat-n{font-family:var(--H);font-size:1.4rem;color:#fff;line-height:1}
-.stat-l{font-size:.52rem;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.35)}
-.stat-div{width:1px;height:28px;background:rgba(255,255,255,.1)}
-.hero-cta{
-  display:inline-flex;align-items:center;gap:8px;
-  font-family:var(--B);font-weight:700;font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;
-  background:var(--red);color:#fff;text-decoration:none;
-  padding:11px 22px;transition:background .18s;
-}
-.hero-cta:hover{background:#a80000}
-
-/* ── NAV ── */
-.nav{
-  position:sticky;top:0;z-index:300;height:56px;
-  padding:0 24px;display:flex;align-items:center;justify-content:space-between;
-  background:rgba(10,10,12,.96);border-bottom:1px solid var(--border);
-  backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
-}
-.logo{display:flex;align-items:center;gap:10px;text-decoration:none}
-.logo img{height:38px}
-.logo span{font-family:var(--H);font-size:.75rem;letter-spacing:.28em;color:var(--red);text-transform:uppercase}
-.nav-r{font-size:.54rem;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
-
-/* ── LAYOUT ── */
-.layout{display:flex;align-items:flex-start;min-height:calc(100vh - 56px)}
-
-/* ── SIDEBAR ── */
-.sidebar{
-  width:240px;flex-shrink:0;
-  position:sticky;top:56px;
-  height:calc(100vh - 56px);
-  overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--border) transparent;
-  border-right:1px solid var(--border);
-  padding:0 0 40px;
-}
-.sidebar::-webkit-scrollbar{width:3px}
-.sidebar::-webkit-scrollbar-thumb{background:var(--border)}
-
-.sb-head{
-  padding:20px 18px 14px;
-  border-bottom:1px solid var(--border2);
-  position:sticky;top:0;background:var(--bg);z-index:2;
-}
-.sb-head-title{
-  font-family:var(--H);font-size:1.1rem;color:#fff;text-transform:uppercase;
-  line-height:1;margin-bottom:4px;
-}
-.sb-head-title b{color:var(--red);font-weight:400}
-.sb-count{font-size:.54rem;color:var(--muted);letter-spacing:.08em}
-
-/* Search in sidebar */
-.sb-search{
-  padding:12px 14px;border-bottom:1px solid var(--border2);
-}
-.sb-search-inner{
-  display:flex;align-items:center;gap:7px;
-  background:var(--s1);border:1px solid var(--border);padding:7px 10px;
-}
-.sb-search-inner svg{width:12px;height:12px;color:var(--muted);flex-shrink:0}
-.sb-search-inner input{
-  font-family:var(--B);font-size:.66rem;background:none;
-  border:none;color:var(--text);width:100%;outline:none;
-}
-.sb-search-inner input::placeholder{color:var(--muted)}
-
-/* Filter group */
-.fgroup{border-bottom:1px solid var(--border2)}
-.fgroup-head{
-  padding:11px 16px;display:flex;align-items:center;justify-content:space-between;
-  cursor:pointer;user-select:none;
-}
-.fgroup-title{font-size:.56rem;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);font-weight:600}
-.fgroup-arrow{font-size:.6rem;color:var(--muted);transition:transform .18s}
-.fgroup.open .fgroup-arrow{transform:rotate(90deg)}
-.fgroup-body{display:none;padding:0 16px 12px}
-.fgroup.open .fgroup-body{display:block}
-
-/* Filter options */
-.f-opt{
-  display:flex;align-items:center;gap:8px;
-  padding:5px 0;cursor:pointer;
-}
-.f-opt input{display:none}
-.f-box{
-  width:14px;height:14px;border:1px solid rgba(255,255,255,.2);
-  background:none;flex-shrink:0;position:relative;transition:all .15s;
-}
-.f-opt input:checked~.f-box{background:var(--red);border-color:var(--red)}
-.f-opt input:checked~.f-box::after{
-  content:'';position:absolute;top:2px;left:4px;
-  width:4px;height:7px;border:2px solid #fff;border-top:none;border-left:none;
-  transform:rotate(45deg);
-}
-.f-opt-label{font-size:.62rem;color:var(--sub);transition:color .15s}
-.f-opt:hover .f-opt-label,.f-opt input:checked~.f-opt-label{color:#fff}
-.f-opt-n{margin-left:auto;font-size:.52rem;color:var(--muted)}
-
-/* Clear btn */
-.sb-clear{
-  margin:10px 16px 0;font-size:.56rem;color:var(--red);
-  background:none;border:none;cursor:pointer;letter-spacing:.1em;text-transform:uppercase;
-  padding:0;
-}
-.sb-clear:hover{text-decoration:underline}
-
-/* ── MAIN ── */
-.main{flex:1;min-width:0}
-
-/* Topbar */
-.topbar{
-  padding:12px 20px;
-  display:flex;align-items:center;justify-content:space-between;
-  border-bottom:1px solid var(--border2);gap:12px;flex-wrap:wrap;
-}
-.topbar-count{font-size:.6rem;color:var(--muted);letter-spacing:.06em}
-.topbar-r{display:flex;align-items:center;gap:10px}
-.sort-select{
-  font-family:var(--B);font-size:.6rem;color:var(--text);
-  background:var(--s1);border:1px solid var(--border);padding:5px 10px;
-  outline:none;cursor:pointer;appearance:none;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none' stroke='%236a6880' stroke-width='1.5'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E");
-  background-repeat:no-repeat;background-position:right 8px center;
-  padding-right:24px;
-}
-
-/* Grid */
-.prod-grid{
-  display:grid;
-  grid-template-columns:repeat(3,1fr);
-  gap:1px;background:var(--border2);
-}
-
-/* Card */
-.card{
-  background:var(--s1);cursor:pointer;overflow:hidden;
-  display:flex;flex-direction:column;
-  transition:background .18s;
-  position:relative;
-}
-.card:hover{background:var(--s2)}
-
-.card-img-wrap{
-  aspect-ratio:1/1;
-  background:linear-gradient(155deg,#101014,#18181f);
-  display:flex;align-items:center;justify-content:center;
-  overflow:hidden;position:relative;
-}
-.card-img-wrap img{
-  width:70%;height:70%;object-fit:contain;
-  transition:transform .32s var(--r);
-  filter:drop-shadow(0 4px 20px rgba(0,0,0,.55));
-}
-.card:hover .card-img-wrap img{transform:scale(1.07)}
-.card-img-wrap::after{
-  content:'';position:absolute;bottom:0;left:0;right:0;height:2px;
-  background:var(--red);transform:scaleX(0);transform-origin:left;
-  transition:transform .26s var(--r);
-}
-.card:hover .card-img-wrap::after{transform:scaleX(1)}
-
-.card-cat{
-  position:absolute;top:10px;left:10px;
-  font-size:.44rem;letter-spacing:.2em;text-transform:uppercase;
-  color:rgba(255,255,255,.4);background:rgba(10,10,12,.75);
-  border:1px solid rgba(255,255,255,.07);padding:2px 6px;z-index:1;
-}
-.card-dl{
-  position:absolute;top:10px;right:10px;z-index:1;
-  display:flex;flex-direction:column;gap:3px;align-items:flex-end;
-}
-.dl-dot{
-  width:6px;height:6px;border-radius:50%;
-}
-.dl-dot.sw{background:#3b82f6}
-.dl-dot.man{background:#10b981}
-
-.card-foot{
-  padding:12px 14px 14px;
-  border-top:1px solid var(--border2);
-}
-.card-model{font-family:var(--H);font-size:.88rem;color:#fff;line-height:1.1;margin-bottom:3px}
-.card-name{font-size:.58rem;color:var(--muted);line-height:1.35}
-
-/* Empty */
-.empty{
-  grid-column:1/-1;background:var(--s1);
-  padding:80px 20px;text-align:center;
-}
-.empty-t{font-family:var(--H);font-size:.9rem;color:rgba(204,0,0,.25);letter-spacing:.1em;margin-bottom:7px}
-.empty-s{font-size:.65rem;color:var(--muted)}
-
-/* ── DRAWER ── */
-.overlay{position:fixed;inset:0;z-index:400;background:rgba(0,0,0,.5);opacity:0;pointer-events:none;transition:opacity .25s}
-.overlay.on{opacity:1;pointer-events:all}
-
-.drawer{
-  position:fixed;top:0;right:0;bottom:0;z-index:401;
-  width:min(460px,100vw);background:var(--s1);
-  border-left:1px solid rgba(204,0,0,.15);
-  display:flex;flex-direction:column;
-  transform:translateX(100%);transition:transform .28s var(--r);
-  overflow:hidden;
-}
-.drawer.on{transform:translateX(0)}
-
-.d-bar{
-  flex-shrink:0;height:48px;padding:0 12px 0 16px;
-  display:flex;align-items:center;justify-content:space-between;
-  border-bottom:1px solid var(--border);background:var(--s1);
-}
-.d-bar-lbl{font-size:.5rem;letter-spacing:.22em;color:var(--red);text-transform:uppercase}
-.d-close{
-  width:30px;height:30px;border:1px solid var(--border);
-  background:none;color:var(--muted);cursor:pointer;
-  display:flex;align-items:center;justify-content:center;font-size:.75rem;
-  transition:all .18s;
-}
-.d-close:hover{background:var(--red);color:#fff;border-color:var(--red)}
-
-.d-scroll{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch}
-
-.d-hero{
-  aspect-ratio:16/10;
-  background:linear-gradient(150deg,#101014,#18181f);
-  display:flex;align-items:center;justify-content:center;position:relative;
-}
-.d-hero img{max-width:65%;max-height:65%;object-fit:contain;filter:drop-shadow(0 10px 32px rgba(204,0,0,.18))}
-.d-hero::after{content:'';position:absolute;inset:0;pointer-events:none;
-  background:radial-gradient(ellipse 55% 55% at 50% 50%,rgba(204,0,0,.09),transparent 70%)}
-
-.d-thumbs{display:flex;gap:5px;padding:9px 14px;border-bottom:1px solid var(--border2);overflow-x:auto;scrollbar-width:none}
-.d-thumbs::-webkit-scrollbar{display:none}
-.d-thumb{flex-shrink:0;width:44px;height:44px;border:1px solid var(--border);background:var(--bg);cursor:pointer;overflow:hidden;transition:border-color .18s}
-.d-thumb img{width:100%;height:100%;object-fit:contain;padding:4px}
-.d-thumb.on,.d-thumb:hover{border-color:var(--red)}
-
-.d-body{padding:20px 18px}
-.d-cat{font-size:.5rem;letter-spacing:.26em;color:var(--red);text-transform:uppercase;margin-bottom:5px}
-.d-name{font-family:var(--H);font-size:1.15rem;color:#fff;line-height:1.1;margin-bottom:3px}
-.d-model{font-size:.58rem;color:var(--muted);letter-spacing:.14em;margin-bottom:16px}
-
-.d-acts{display:flex;gap:7px;flex-wrap:wrap;padding-bottom:16px;margin-bottom:18px;border-bottom:1px solid var(--border2)}
-.btn{display:inline-flex;align-items:center;gap:6px;font-family:var(--B);font-weight:700;font-size:.56rem;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;padding:9px 14px;border:none;cursor:pointer;transition:all .18s}
-.btn-r{background:var(--red);color:#fff}.btn-r:hover{background:#a80000}
-.btn-g{background:none;border:1px solid var(--border);color:var(--text)}.btn-g:hover{border-color:var(--red);color:var(--red)}
-.btn svg{width:11px;height:11px;flex-shrink:0}
-
-.d-sec{margin-bottom:18px}
-.d-sec-t{font-size:.48rem;letter-spacing:.24em;text-transform:uppercase;color:var(--red);margin-bottom:8px;padding-bottom:5px;border-bottom:1px solid rgba(204,0,0,.1)}
-.feats{list-style:none;display:flex;flex-direction:column;gap:5px}
-.feats li{font-size:.7rem;color:#9d9ab5;line-height:1.5;padding-left:11px;position:relative}
-.feats li::before{content:'';position:absolute;left:0;top:8px;width:3px;height:3px;border-radius:50%;background:var(--red)}
-
-/* SPECS TABLE — fixed layout + word-break */
-.specs-tbl{width:100%;border-collapse:collapse;table-layout:fixed;font-size:.69rem}
-.specs-tbl tr{border-bottom:1px solid rgba(255,255,255,.03)}
-.specs-tbl tr:last-child{border-bottom:none}
-.specs-tbl td{padding:6px 0;vertical-align:top;word-break:break-word;white-space:normal;overflow-wrap:anywhere;line-height:1.45}
-.specs-tbl td:first-child{width:38%;padding-right:10px;color:var(--muted);font-size:.58rem;letter-spacing:.06em;text-transform:uppercase}
-.specs-tbl td:last-child{color:#c4c1d6}
-
-/* Footer */
-footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;font-size:.6rem;color:var(--muted)}
-
-/* Mobile sidebar toggle */
-.mob-filter-btn{display:none}
-
-/* Responsive */
-@media(max-width:900px){
-  .prod-grid{grid-template-columns:repeat(2,1fr)}
-}
-@media(max-width:700px){
-  .sidebar{
-    position:fixed;top:0;left:0;bottom:0;z-index:350;
-    transform:translateX(-100%);transition:transform .28s var(--r);
-    background:var(--bg);height:100vh;
-  }
-  .sidebar.mob-open{transform:translateX(0)}
-  .mob-filter-btn{
-    display:flex;align-items:center;gap:6px;
-    font-family:var(--B);font-size:.58rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
-    background:none;border:1px solid var(--border);color:var(--text);
-    padding:6px 12px;cursor:pointer;
-  }
-  .mob-filter-btn svg{width:13px;height:13px}
-}
-@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
-
-  /* Nav overrides so main-nav still looks right on dark bg */
-  .main-nav{background:rgba(10,10,12,.96)!important;border-bottom:1px solid rgba(255,255,255,.07)!important}
-  .main-nav.scrolled{background:rgba(10,10,12,.98)!important}
-  .nav-logo-text{color:#CC0000!important;font-size:.72rem!important;letter-spacing:.28em!important}
-  .nav-logo img{height:38px!important}
+    .main-nav .hamburger span{background:#fafaf9}
+    .main-nav .hamburger.open span{background:#fafaf9}
+    .main-nav .hamburger{padding:12px;margin:-4px -8px}
+    .drawer ul{display:flex;flex-direction:column;gap:0;width:100%;margin:0;padding:0}
+    .drawer li{list-style:none;width:100%}
+    .drawer-link{display:block;padding:18px 0;font-size:1rem}
+    @media(max-width:768px){
+      html{scroll-behavior:smooth;-webkit-overflow-scrolling:touch}
+      .nav-inner{padding:0 16px}
+    }
+    @media(max-width:480px){
+      .nav-inner{padding:0 16px}
+    }
+    .drawer{transition:transform .4s cubic-bezier(.4,0,.2,1)}
+    .drawer-overlay{transition:opacity .35s cubic-bezier(.4,0,.2,1)}
+    body.drawer-open{overflow:hidden;position:fixed;width:100%;top:0}
   </style>
+
+  <script>
+    (function(){
+      var scrollY=0;
+      var mo=new MutationObserver(function(){
+        var drawer=document.querySelector('.drawer');
+        if(!drawer)return;
+        if(drawer.classList.contains('open')){
+          scrollY=window.scrollY;
+          document.body.classList.add('drawer-open');
+          document.body.style.top=-scrollY+'px';
+        }else{
+          document.body.classList.remove('drawer-open');
+          document.body.style.top='';
+          window.scrollTo(0,scrollY);
+        }
+      });
+      document.addEventListener('DOMContentLoaded',function(){
+        var drawer=document.querySelector('.drawer');
+        if(drawer)mo.observe(drawer,{attributes:true,attributeFilter:['class']});
+      });
+    })();
+  </script>
 </head>
 <body class="page-products">
 
-  <!-- Main site nav (links to other pages) -->
+  <!-- ── Nav ───────────────────────────────────────────────── -->
   <nav id="main-nav" class="main-nav scrolled">
     <div class="nav-inner">
       <a href="/" class="nav-logo">
@@ -388,358 +69,127 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
         <span class="nav-logo-text">EGYPT</span>
       </a>
       <ul class="nav-links">
-        <li><a href="/"           class="nav-link">Home</a></li>
-        <li><a href="/products"   class="nav-link active">Products</a></li>
-        <li><a href="/about"      class="nav-link">About</a></li>
-        <li><a href="/contact"    class="nav-link">Contact</a></li>
+        <li><a href="/"    class="nav-link">Home</a></li>
+        <li><a href="/lab/" class="nav-link active">Products</a></li>
+        <li><a href="/about"    class="nav-link">About</a></li>
+        <li><a href="/contact"  class="nav-link">Contact</a></li>
       </ul>
+      
       <button class="hamburger" aria-label="Menu">
         <span></span><span></span><span></span>
       </button>
     </div>
   </nav>
+
+  <!-- Mobile drawer -->
   <div class="drawer-overlay"></div>
   <nav class="drawer">
     <ul>
-      <li><a href="/"           class="drawer-link">Home</a></li>
-      <li><a href="/products"   class="drawer-link">Products</a></li>
-      <li><a href="/about"      class="drawer-link">About</a></li>
-      <li><a href="/contact"    class="drawer-link">Contact</a></li>
+      <li><a href="/"    class="drawer-link">Home</a></li>
+      <li><a href="/lab/" class="drawer-link">Products</a></li>
+      <li><a href="/about"    class="drawer-link">About</a></li>
+      <li><a href="/contact"  class="drawer-link">Contact</a></li>
     </ul>
   </nav>
 
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-bg"></div>
-  <div class="hero-content">
-    <div class="hero-eyebrow">
-      <img src="/images/logo_redragon.png" alt="Redragon"/>
-      <span>Official Distributor · Egypt &amp; North Africa</span>
-    </div>
-    <h1 class="hero-title">Master Every<br/><em>Game.</em></h1>
-    <p class="hero-sub">Egypt's official Redragon distributor — pro-grade mice, mechanical keyboards,<br/>headsets, gamepads and more. Fully warranted, officially imported.</p>
-    <a href="#catalog" class="hero-cta">Browse All Products</a>
-  </div>
-</section>
-
-<div class="layout" id="catalog">
-
-  <!-- SIDEBAR -->
-  <aside class="sidebar" id="sidebar">
-    <div class="sb-head">
-      <div class="sb-head-title">Products<br><b id="sb-cat-title">All</b></div>
-      <div class="sb-count" id="sb-count"></div>
-    </div>
-
-    <div class="sb-search">
-      <div class="sb-search-inner">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path stroke-linecap="round" d="m21 21-4.35-4.35"/></svg>
-        <input id="search" type="text" placeholder="Search products…" autocomplete="off"/>
+  <!-- ── Products Page ─────────────────────────────────────── -->
+  <main class="products-page">
+    <!-- Page hero banner -->
+    <div class="products-hero">
+      <div class="blob blob-1"></div>
+      <div class="blob blob-2"></div>
+      <div class="products-hero-content">
+        <p class="intro-eyebrow">All Products</p>
+        <h1 class="products-page-title">REDRAGON<br/><span class="text-red">EGYPT</span></h1>
+        <p class="products-hero-sub">Egypt's only official Redragon distributor — fully warranted, officially imported</p>
       </div>
     </div>
 
-    <!-- Category -->
-    <div class="fgroup open" id="fg-cat">
-      <div class="fgroup-head" onclick="toggleGroup('fg-cat')">
-        <span class="fgroup-title">Category</span>
-        <span class="fgroup-arrow">›</span>
-      </div>
-      <div class="fgroup-body" id="cat-opts"></div>
+    <!-- Filter tabs -->
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">All <span class="filter-count">170</span></button>
+      <button class="filter-btn" data-filter="Mouse">Mouse <span class="filter-count">45</span></button>
+      <button class="filter-btn" data-filter="Keyboard">Keyboards <span class="filter-count">83</span></button>
+      <button class="filter-btn" data-filter="Headset">Headsets <span class="filter-count">20</span></button>
+      <button class="filter-btn" data-filter="Gamepad">Gamepads <span class="filter-count">9</span></button>
+      <button class="filter-btn" data-filter="Combo">Combos <span class="filter-count">4</span></button>
+      <button class="filter-btn" data-filter="Accessories">Accessories <span class="filter-count">9</span></button>
     </div>
 
-    <!-- Connectivity -->
-    <div class="fgroup open" id="fg-conn">
-      <div class="fgroup-head" onclick="toggleGroup('fg-conn')">
-        <span class="fgroup-title">Connectivity</span>
-        <span class="fgroup-arrow">›</span>
-      </div>
-      <div class="fgroup-body">
-        <label class="f-opt"><input type="checkbox" data-conn="Wired"/><span class="f-box"></span><span class="f-opt-label">Wired</span><span class="f-opt-n" id="n-Wired"></span></label>
-        <label class="f-opt"><input type="checkbox" data-conn="Wireless"/><span class="f-box"></span><span class="f-opt-label">Wireless</span><span class="f-opt-n" id="n-Wireless"></span></label>
-        <label class="f-opt"><input type="checkbox" data-conn="Tri-Mode"/><span class="f-box"></span><span class="f-opt-label">Tri-Mode</span><span class="f-opt-n" id="n-Tri-Mode"></span></label>
+    <!-- Product grid -->
+    <div class="products-grid full-grid" id="products-grid">
+      <!-- Injected by products.js -->
+      <div class="grid-loading">
+        <div class="loading-ring"></div>
+        <p>Loading products…</p>
       </div>
     </div>
+  </main>
 
-    <!-- Downloads -->
-    <div class="fgroup open" id="fg-dl">
-      <div class="fgroup-head" onclick="toggleGroup('fg-dl')">
-        <span class="fgroup-title">Downloads</span>
-        <span class="fgroup-arrow">›</span>
+  <!-- ── Product Modal ─────────────────────────────────────── -->
+  <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal-glass">
+      <div class="modal-top-bar">
+        <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
       </div>
-      <div class="fgroup-body">
-        <label class="f-opt"><input type="checkbox" id="f-sw"/><span class="f-box"></span><span class="f-opt-label">Has Software</span></label>
-        <label class="f-opt"><input type="checkbox" id="f-man"/><span class="f-box"></span><span class="f-opt-label">Has Manual</span></label>
-      </div>
-    </div>
-
-    <button class="sb-clear" id="sb-clear">Clear all filters</button>
-  </aside>
-
-  <!-- MAIN -->
-  <div class="main">
-    <div class="topbar">
-      <div style="display:flex;align-items:center;gap:12px">
-        <button class="mob-filter-btn" id="mob-filter">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="16" y2="12"/><line x1="4" y1="18" x2="12" y2="18"/></svg>
-          Filters
-        </button>
-        <span class="topbar-count" id="top-count"></span>
-      </div>
-      <div class="topbar-r">
-        <select class="sort-select" id="sort">
-          <option value="default">Sort: Default</option>
-          <option value="name-az">Name A–Z</option>
-          <option value="name-za">Name Z–A</option>
-          <option value="cat">Category</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="prod-grid" id="grid"></div>
-  </div>
-</div>
-
-<!-- Drawer overlay -->
-<div class="overlay" id="overlay"></div>
-
-<!-- Drawer -->
-<aside class="drawer" id="drawer" aria-hidden="true">
-  <div class="d-bar">
-    <span class="d-bar-lbl" id="d-lbl"></span>
-    <button class="d-close" id="d-close">✕</button>
-  </div>
-  <div class="d-scroll" id="d-scroll">
-    <div class="d-hero"><img id="d-img" src="" alt=""/></div>
-    <div class="d-thumbs" id="d-thumbs" style="display:none"></div>
-    <div class="d-body">
-      <p class="d-cat" id="d-cat"></p>
-      <h2 class="d-name" id="d-name"></h2>
-      <p class="d-model" id="d-model"></p>
-      <div class="d-acts" id="d-acts"></div>
-      <div class="d-sec" id="sec-feat" style="display:none">
-        <h3 class="d-sec-t">Key Features</h3>
-        <ul class="feats" id="d-feats"></ul>
-      </div>
-      <div class="d-sec" id="sec-spec" style="display:none">
-        <h3 class="d-sec-t">Specifications</h3>
-        <table class="specs-tbl" id="d-specs"></table>
-      </div>
-    </div>
-  </div>
-</aside>
-
-<footer>
-  <span>Redragon Egypt · Elessawi Group · Authorized Distributor</span>
-  <span>+201025069999 · info@redragonegypt.com</span>
-</footer>
-
-<script>
-(function(){
-'use strict';
-const PH='/images/logo_redragon.png';
-const img=s=>!s?PH:s.startsWith('http')?s:'/images/products/'+s;
-
-let all=[], activeCats=new Set(), activeConns=new Set(), needSW=false, needMAN=false, q='', sortBy='default';
-
-/* ── helpers ── */
-function connOf(p){
-  const n=(p.name||'').toLowerCase()+(JSON.stringify(p.specifications||{})).toLowerCase();
-  if(/tri.?mode|2\.4g.*bt|bluetooth.*2\.4/i.test(n)) return 'Tri-Mode';
-  if(/wireless|2\.4g|bluetooth/i.test(n)) return 'Wireless';
-  return 'Wired';
-}
-function filtered(){
-  return all.filter(p=>{
-    if(activeCats.size&&!activeCats.has(p.category))return false;
-    if(activeConns.size&&!activeConns.has(connOf(p)))return false;
-    if(needSW&&!p.softwareUrl)return false;
-    if(needMAN&&!p.manualUrl)return false;
-    const s=q.toLowerCase();
-    if(s&&![p.name,p.model,p.category].some(v=>v&&v.toLowerCase().includes(s)))return false;
-    return true;
-  }).sort((a,b)=>{
-    if(sortBy==='name-az')return(a.name||a.model||'').localeCompare(b.name||b.model||'');
-    if(sortBy==='name-za')return(b.name||b.model||'').localeCompare(a.name||a.model||'');
-    if(sortBy==='cat')return(a.category||'').localeCompare(b.category||'');
-    return 0;
-  });
-}
-
-/* ── render grid ── */
-function render(){
-  const list=filtered();
-  const grid=document.getElementById('grid');
-  document.getElementById('top-count').textContent=list.length+' products';
-  document.getElementById('sb-count').textContent=list.length+' of '+all.length;
-  if(!list.length){
-    grid.innerHTML='<div class="empty"><div class="empty-t">NO RESULTS</div><div class="empty-s">Try adjusting your filters.</div></div>';
-    return;
-  }
-  grid.innerHTML=list.map(p=>{
-    const t=p.images&&p.images[0]?img(p.images[0]):PH;
-    return `<div class="card" data-id="${p.id}" tabindex="0" role="button" aria-label="${p.name||p.model}">
-      <div class="card-img-wrap">
-        <span class="card-cat">${p.category}</span>
-        <div class="card-dl">
-          ${p.softwareUrl?'<span class="dl-dot sw" title="Software available"></span>':''}
-          ${p.manualUrl?'<span class="dl-dot man" title="Manual available"></span>':''}
+      <div class="modal-body">
+        <div class="modal-img-wrap">
+          <img id="modal-img" src="" alt="" />
+          <div class="modal-img-glow"></div>
         </div>
-        <img src="${t}" alt="${p.name||p.model||''}" loading="lazy" onerror="this.src='${PH}'"/>
+        <div class="modal-info">
+          <p class="modal-category" id="modal-category"></p>
+          <h2 class="modal-title" id="modal-title"></h2>
+          <p class="modal-model" id="modal-model"></p>
+
+          <div class="modal-actions" id="modal-actions"></div>
+
+          <div class="modal-features" id="modal-features">
+            <h3>Key Features</h3>
+            <ul id="modal-features-list"></ul>
+          </div>
+
+          <div class="modal-specs" id="modal-specs">
+            <h3>Specifications</h3>
+            <table id="modal-specs-table"></table>
+          </div>
+        </div>
       </div>
-      <div class="card-foot">
-        <div class="card-model">${p.model||p.id}</div>
-        <div class="card-name">${p.name||''}</div>
+    </div>
+  </div>
+
+  <!-- ── Footer ─────────────────────────────────────────────── -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <img src="/images/logo_redragon.png" alt="Redragon Egypt" class="footer-logo" />
+        <p class="footer-tagline">Master Every Game</p>
+        <p class="footer-copy">&copy; <span class="year"></span> Elessawy Group. Official Redragon Egypt Distributor.</p>
       </div>
-    </div>`;
-  }).join('');
-  grid.querySelectorAll('.card').forEach(c=>{
-    c.addEventListener('click',()=>openDrawer(c.dataset.id));
-    c.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')openDrawer(c.dataset.id)});
-  });
-}
-
-/* ── build sidebar ── */
-function buildSidebar(){
-  const cats=[...new Set(all.map(p=>p.category))].sort();
-  const catEl=document.getElementById('cat-opts');
-  catEl.innerHTML=cats.map(c=>`
-    <label class="f-opt">
-      <input type="checkbox" data-cat="${c}"/>
-      <span class="f-box"></span>
-      <span class="f-opt-label">${c}</span>
-      <span class="f-opt-n">${all.filter(p=>p.category===c).length}</span>
-    </label>`).join('');
-  catEl.querySelectorAll('input[data-cat]').forEach(inp=>inp.addEventListener('change',()=>{
-    inp.checked?activeCats.add(inp.dataset.cat):activeCats.delete(inp.dataset.cat);
-    updateCatTitle();render();
-  }));
-
-  // Conn counts
-  ['Wired','Wireless','Tri-Mode'].forEach(cn=>{
-    const el=document.getElementById('n-'+cn);
-    if(el)el.textContent=all.filter(p=>connOf(p)===cn).length;
-  });
-}
-
-function updateCatTitle(){
-  const t=document.getElementById('sb-cat-title');
-  t.textContent=activeCats.size?[...activeCats].join(', '):'All';
-}
-
-/* ── sort ── */
-document.getElementById('sort').addEventListener('change',function(){sortBy=this.value;render()});
-
-/* ── search ── */
-document.getElementById('search').addEventListener('input',function(){q=this.value.trim();render()});
-
-/* ── connectivity ── */
-document.querySelectorAll('input[data-conn]').forEach(inp=>inp.addEventListener('change',()=>{
-  inp.checked?activeConns.add(inp.dataset.conn):activeConns.delete(inp.dataset.conn);render();
-}));
-
-/* ── downloads ── */
-document.getElementById('f-sw').addEventListener('change',function(){needSW=this.checked;render()});
-document.getElementById('f-man').addEventListener('change',function(){needMAN=this.checked;render()});
-
-/* ── clear ── */
-document.getElementById('sb-clear').addEventListener('click',()=>{
-  activeCats.clear();activeConns.clear();needSW=false;needMAN=false;q='';sortBy='default';
-  document.querySelectorAll('.f-opt input').forEach(i=>i.checked=false);
-  document.getElementById('search').value='';
-  document.getElementById('sort').value='default';
-  updateCatTitle();render();
-});
-
-/* ── group toggle ── */
-window.toggleGroup=function(id){
-  const el=document.getElementById(id);
-  el.classList.toggle('open');
-};
-
-/* ── mobile sidebar ── */
-document.getElementById('mob-filter').addEventListener('click',()=>{
-  document.getElementById('sidebar').classList.toggle('mob-open');
-});
-
-/* ── DRAWER ── */
-const overlay=document.getElementById('overlay');
-const drawer=document.getElementById('drawer');
-const dScroll=document.getElementById('d-scroll');
-
-function openDrawer(id){
-  const p=all.find(x=>x.id===id);if(!p)return;
-
-  document.getElementById('d-lbl').textContent=(p.model||p.id)+' / '+p.category;
-  document.getElementById('d-cat').textContent=p.category;
-  document.getElementById('d-name').textContent=p.name||p.model||p.id;
-  document.getElementById('d-model').textContent=p.model?'MODEL  '+p.model:'';
-
-  const imgs=(p.images&&p.images.length)?p.images:[];
-  const mi=document.getElementById('d-img');
-  mi.src=imgs[0]?img(imgs[0]):PH;mi.alt=p.name||'';
-  mi.onerror=()=>{mi.src=PH};
-
-  const thumbsWrap=document.getElementById('d-thumbs');
-  if(imgs.length>1){
-    thumbsWrap.style.display='flex';
-    thumbsWrap.innerHTML=imgs.map((s,i)=>`
-      <div class="d-thumb${i===0?' on':''}" data-i="${i}">
-        <img src="${img(s)}" alt="" onerror="this.src='${PH}'"/>
-      </div>`).join('');
-    thumbsWrap.querySelectorAll('.d-thumb').forEach(t=>t.addEventListener('click',()=>{
-      mi.src=img(imgs[+t.dataset.i]);
-      thumbsWrap.querySelectorAll('.d-thumb').forEach(x=>x.classList.remove('on'));
-      t.classList.add('on');
-    }));
-  } else {thumbsWrap.style.display='none'}
-
-  const acts=document.getElementById('d-acts');acts.innerHTML='';
-  if(p.softwareUrl){const a=document.createElement('a');a.href=p.softwareUrl;a.target='_blank';a.rel='noopener';a.className='btn btn-r';
-    a.innerHTML='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Software';acts.appendChild(a);}
-  if(p.manualUrl){const a=document.createElement('a');a.href=p.manualUrl;a.target='_blank';a.rel='noopener';a.className='btn btn-g';
-    a.innerHTML='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>Manual';acts.appendChild(a);}
-
-  const feats=p.features||p.keyFeatures||[];
-  const sf=document.getElementById('sec-feat');
-  if(feats.length){sf.style.display='';document.getElementById('d-feats').innerHTML=feats.map(f=>`<li>${f}</li>`).join('');}
-  else sf.style.display='none';
-
-  // Use p.specifications (object), NOT p.specs (string)
-  const sp=p.specifications&&typeof p.specifications==='object'?p.specifications:{};
-  const ks=Object.keys(sp);
-  const ss=document.getElementById('sec-spec');
-  if(ks.length){
-    ss.style.display='';
-    document.getElementById('d-specs').innerHTML=ks.map(k=>`<tr><td>${k}</td><td>${sp[k]}</td></tr>`).join('');
-  } else ss.style.display='none';
-
-  dScroll.scrollTop=0;
-  overlay.classList.add('on');drawer.classList.add('on');drawer.setAttribute('aria-hidden','false');
-}
-
-function closeDrawer(){
-  overlay.classList.remove('on');drawer.classList.remove('on');drawer.setAttribute('aria-hidden','true');
-}
-document.getElementById('d-close').addEventListener('click',closeDrawer);
-overlay.addEventListener('click',closeDrawer);
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
-
-/* ── LOAD ── */
-fetch('/data/products.json').then(r=>r.json()).then(data=>{
-  all=data;
-  // Hero stats
-  const stTotal=document.getElementById('stat-total');
-  const stSW=document.getElementById('stat-sw');
-  const stMan=document.getElementById('stat-man');
-  if(stTotal)stTotal.textContent=all.length;
-  if(stSW)stSW.textContent=all.filter(p=>p.softwareUrl).length;
-  if(stMan)stMan.textContent=all.filter(p=>p.manualUrl).length;
-  buildSidebar();render();
-}).catch(()=>{
-  document.getElementById('grid').innerHTML='<div class="empty"><div class="empty-t">LOAD ERROR</div></div>';
-});
-})();
-</script>
+      <nav class="footer-nav">
+        <div class="footer-col">
+          <h4>Pages</h4>
+          <a href="/">Home</a>
+          <a href="/lab/">Products</a>
+          <a href="/about">About</a>
+          <a href="/contact">Contact</a>
+        </div>
+        <div class="footer-col">
+          <h4>Categories</h4>
+          <a href="/products?cat=Mouse">Mouse</a>
+          <a href="/products?cat=Keyboard">Keyboards</a>
+          <a href="/products?cat=Headset">Headsets</a>
+          <a href="/products?cat=Gamepad">Gamepads</a>
+        </div>
+        <div class="footer-col">
+          <h4>Connect</h4>
+          <a href="https://wa.me/201025069999" target="_blank" rel="noopener">WhatsApp</a>
+          <a href="https://facebook.com/" target="_blank" rel="noopener">Facebook</a>
+          <a href="mailto:info@redragonegypt.com">Email</a>
+        </div>
+      </nav>
+    </div>
+  </footer>
 
 </body>
 </html>

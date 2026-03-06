@@ -97,7 +97,7 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none}
 .logo img{height:38px}
 .logo span{font-family:var(--H);font-size:.75rem;letter-spacing:.28em;color:var(--red);text-transform:uppercase}
-.nav-r{font-size:.54rem;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
+.nav-links-wrap{display:flex;align-items:center;gap:4px}.nav-link{font-size:.62rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-decoration:none;padding:6px 12px;transition:color .18s;}.nav-link:hover{color:var(--text)}.nav-link.active{color:#fff}@media(max-width:600px){.nav-links-wrap{display:none}}
 
 /* ── LAYOUT ── */
 .layout{display:flex;align-items:flex-start;min-height:calc(100vh - 56px)}
@@ -191,7 +191,7 @@ body{font-family:var(--B);background:var(--bg);color:var(--text);min-height:100d
   border-bottom:1px solid var(--border2);gap:12px;flex-wrap:wrap;
 }
 .topbar-count{font-size:.6rem;color:var(--muted);letter-spacing:.06em}
-.topbar-r{display:flex;align-items:center;gap:10px}
+.topbar-search{display:flex;align-items:center;gap:7px;background:var(--s1);border:1px solid var(--border);padding:6px 12px;flex:1;max-width:340px;}.topbar-search svg{width:13px;height:13px;color:var(--muted);flex-shrink:0}.topbar-search input{font-family:var(--B);font-size:.7rem;background:none;border:none;color:var(--text);width:100%;outline:none;}.topbar-search input::placeholder{color:var(--muted)}.topbar-r{display:flex;align-items:center;gap:10px}
 .sort-select{
   font-family:var(--B);font-size:.6rem;color:var(--text);
   background:var(--s1);border:1px solid var(--border);padding:5px 10px;
@@ -382,7 +382,7 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
     </div>
     <h1 class="hero-title">Master Every<br/><em>Game.</em></h1>
     <p class="hero-sub">Egypt's official Redragon distributor — pro-grade mice, mechanical keyboards,<br/>headsets, gamepads and more. Fully warranted, officially imported.</p>
-    <a href="#catalog" class="hero-cta">Browse All Products</a>
+    
   </div>
 </section>
 
@@ -395,14 +395,7 @@ footer{padding:20px 24px;border-top:1px solid var(--border);display:flex;align-i
       <div class="sb-count" id="sb-count"></div>
     </div>
 
-    <div class="sb-search">
-      <div class="sb-search-inner">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path stroke-linecap="round" d="m21 21-4.35-4.35"/></svg>
-        <input id="search" type="text" placeholder="Search products…" autocomplete="off"/>
-      </div>
-    </div>
-
-    <!-- Category -->
+        <!-- Category -->
     <div class="fgroup open" id="fg-cat">
       <div class="fgroup-head" onclick="toggleGroup('fg-cat')">
         <span class="fgroup-title">Category</span>
