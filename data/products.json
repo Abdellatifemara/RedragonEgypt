@@ -5123,5 +5123,586 @@
       "Interface": "USB-C Wired",
       "Top Plate": "Aluminum"
     }
+  },
+  {
+    "id": "K512",
+    "model": "K512",
+    "category": "Keyboard",
+    "specs": "Redragon K512 SHIVA RGB Membrane Gaming Keyboard, 6 Programmable Macro Keys, Wired USB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-redragon-k512-shiva-rgb-membrane-macro-keys-10.webp?v=1745252106",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-redragon-k512-shiva-rgb-membrane-macro-keys-1.webp?v=1745252152",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-redragon-k512-shiva-rgb-membrane-macro-keys-2.webp?v=1745252152",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-redragon-k512-shiva-rgb-membrane-macro-keys-4.webp?v=1745252152",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-redragon-k512-shiva-rgb-membrane-macro-keys-6.webp?v=1745252152",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-redragon-k512-shiva-rgb-membrane-macro-keys-7.webp?v=1745252152"
+    ],
+    "has_image": true,
+    "features": [
+      "SHIVA — full-size RGB membrane gaming keyboard with 6 programmable macro keys",
+      "RGB backlighting — vibrant lighting modes to match your gaming setup",
+      "6 dedicated macro keys — assign custom commands, shortcuts, or combos",
+      "Membrane keys — smooth, quiet keystrokes for comfortable long sessions",
+      "Anti-ghosting — 25 keys anti-ghosting for accurate inputs during intense gameplay",
+      "Wired USB — plug-and-play, no drivers required for basic use"
+    ],
+    "specifications": {
+      "Type": "Membrane",
+      "Backlight": "RGB",
+      "Layout": "Full-Size 104 Key",
+      "Macro Keys": "6",
+      "Interface": "USB Wired",
+      "Anti-Ghosting": "25 Keys"
+    }
+  },
+  {
+    "id": "K530-PRO",
+    "model": "K530 PRO",
+    "category": "Keyboard",
+    "specs": "Redragon K530 PRO DRACONIC 60% RGB Wireless Mechanical Gaming Keyboard, Brown Switches, Tri-Mode",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-1.webp?v=1745248532",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-2.webp?v=1745248545",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-4.webp?v=1745248554",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-3.webp?v=1745248568"
+    ],
+    "has_image": true,
+    "features": [
+      "DRACONIC PRO — compact 60% wireless mechanical keyboard for portability and performance",
+      "Tri-mode connectivity — 2.4GHz wireless, Bluetooth, and wired USB",
+      "Brown switches — tactile and quiet for both gaming and typing",
+      "RGB backlighting — customizable lighting for any setup",
+      "60% compact form factor — maximizes desk space without sacrificing functionality",
+      "Hot-swappable — swap switches without soldering"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Brown",
+      "Layout": "60% 61-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Backlight": "RGB"
+    }
+  },
+  {
+    "id": "K568-RGB",
+    "model": "K568",
+    "category": "Keyboard",
+    "specs": "Redragon K568 ANALA RGB TKL Mechanical Gaming Keyboard, 87-Key, Wired USB",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-1.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-2.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-3.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-4.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-5.jpg?v=1745241251"
+    ],
+    "has_image": true,
+    "features": [
+      "ANALA — tenkeyless (TKL) mechanical gaming keyboard with vibrant RGB backlighting",
+      "TKL compact design — removes numpad for more mouse movement space",
+      "Mechanical switches — tactile, responsive keypresses for precise gaming input",
+      "Full RGB per-key lighting — multiple lighting effects and modes",
+      "Anti-ghosting & N-Key Rollover — every keypress registers accurately",
+      "Braided USB cable — durable and tangle-resistant for long-term use"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "TKL 87-Key",
+      "Backlight": "RGB",
+      "Interface": "USB Wired",
+      "Anti-Ghosting": "N-Key Rollover"
+    }
+  },
+  {
+    "id": "K568-B",
+    "model": "K568",
+    "category": "Keyboard",
+    "specs": "Redragon K568 DARK AVENGER Rainbow TKL Mechanical Gaming Keyboard, Blue Switch, 87-Key",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-dark-avenger-k568-rainbow-tkl-blue-switch-1.jpg?v=1745241251",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-1.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-2.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-3.jpg?v=1745239093",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-4.jpg?v=1745239093"
+    ],
+    "has_image": true,
+    "features": [
+      "DARK AVENGER — tenkeyless mechanical gaming keyboard with rainbow backlighting, Blue switch",
+      "Blue switches — tactile and audible with satisfying click for gaming and fast typing",
+      "Rainbow backlit — vibrant multi-color backlight modes",
+      "TKL 87-key layout — compact design for extra mouse space",
+      "N-Key Rollover — all keypresses registered simultaneously during intense sessions",
+      "Wired USB — reliable, lag-free connection"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Blue",
+      "Layout": "TKL 87-Key",
+      "Backlight": "Rainbow",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K576R",
+    "model": "K576",
+    "category": "Keyboard",
+    "specs": "Redragon K576R DAKSA USB Gaming Keyboard, Mechanical Switches, RGB, Full-Size",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-1.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-2.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-3.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-4.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-5.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-6.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-7.webp?v=1741100206",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-usb-gaming-redragon-k576r-daksa-8.webp?v=1741100206"
+    ],
+    "has_image": true,
+    "features": [
+      "DAKSA — full-size RGB mechanical gaming keyboard with precision switches",
+      "Mechanical switches — responsive, durable keypresses for gaming and typing",
+      "RGB backlighting — customizable lighting modes for any atmosphere",
+      "Anti-ghosting technology — accurate input registration during fast gameplay",
+      "Dedicated media keys — control volume and media without interrupting gameplay",
+      "USB wired — plug-and-play connection, universal compatibility"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "Full-Size",
+      "Backlight": "RGB",
+      "Interface": "USB Wired",
+      "Anti-Ghosting": "Yes"
+    }
+  },
+  {
+    "id": "K598",
+    "model": "K598",
+    "category": "Keyboard",
+    "specs": "Redragon K598 Wireless TKL RGB Mechanical Gaming Keyboard, Brown Switches, Tri-Mode",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-1.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-7.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-3.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-4.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-5.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-6.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-9.webp?v=1745169462",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-8.webp?v=1745169462"
+    ],
+    "has_image": true,
+    "features": [
+      "Wireless TKL — tenkeyless layout with tri-mode wireless connectivity",
+      "Tri-mode: 2.4GHz, Bluetooth & Wired — seamlessly switch between devices",
+      "Brown switches — tactile, quiet keystrokes ideal for gaming and typing",
+      "RGB backlighting — vibrant per-key lighting with multiple effects",
+      "TKL compact — saves desk space, more room for mouse movement",
+      "Long battery life — extended wireless gaming on a single charge"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Brown",
+      "Layout": "TKL 87-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Backlight": "RGB"
+    }
+  },
+  {
+    "id": "K606",
+    "model": "K606",
+    "category": "Keyboard",
+    "specs": "Redragon K606 LAKSHMI 60% White LED Mechanical Gaming Keyboard, Blue Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-1.jpg?v=1745168998",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-2.jpg?v=1745168998",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-3.jpg?v=1745168998",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-4.jpg?v=1745168998",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-5.jpg?v=1745168998"
+    ],
+    "has_image": true,
+    "features": [
+      "LAKSHMI — 60% compact mechanical keyboard with white LED backlighting",
+      "Blue switches — tactile click for satisfying and accurate typing",
+      "60% compact layout — 61 keys, maximum desk space for your mouse",
+      "White LED backlight — classic, clean lighting style",
+      "Detachable USB cable — easy transport and storage",
+      "N-Key Rollover — every key press registers, even during fast gaming"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Blue",
+      "Layout": "60% 61-Key",
+      "Backlight": "White LED",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K613",
+    "model": "K613",
+    "category": "Keyboard",
+    "specs": "Redragon K613 JAX 61-Key Rainbow Wired Mechanical Gaming Keyboard, Blue Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-1.webp?v=1745163550",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-2.webp?v=1745163550",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-3.webp?v=1745163550",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-4.webp?v=1745163550",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-5.webp?v=1745163550",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-6.webp?v=1745163550",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-7.webp?v=1745163550"
+    ],
+    "has_image": true,
+    "features": [
+      "JAX — 61-key compact mechanical keyboard with vibrant rainbow backlighting",
+      "Blue switches — tactile and clicky for fast, precise keystrokes",
+      "61-key 60% layout — ultra-compact for maximum desk space",
+      "Rainbow backlit — eye-catching multi-color lighting effects",
+      "Detachable braided cable — easy to carry and store",
+      "Durable ABS keycaps — double-shot legends for lasting clarity"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Blue",
+      "Layout": "60% 61-Key",
+      "Backlight": "Rainbow",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K619",
+    "model": "K619",
+    "category": "Keyboard",
+    "specs": "Redragon K619 HORUS RGB Ultra-Thin Low-Profile Mechanical Gaming Keyboard, Red Switch, Full-Size",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-1.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-2.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-3.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-4.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-5.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-6.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-7.webp?v=1745159536",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k619-rgb-ultra-thin-low-profile-red-switch-8.webp?v=1745159536"
+    ],
+    "has_image": true,
+    "features": [
+      "HORUS — ultra-thin full-size keyboard with low-profile red switches",
+      "Low-profile red switches — smooth linear travel, faster actuation",
+      "Ultra-thin profile — sleek modern design, only 18mm thick",
+      "RGB per-key backlighting — beautiful lighting for any gaming setup",
+      "Full-size 104-key layout — all keys including numpad",
+      "N-Key Rollover — every keypress registered with zero delay"
+    ],
+    "specifications": {
+      "Type": "Mechanical Low-Profile",
+      "Switch": "Red",
+      "Layout": "Full-Size 104-Key",
+      "Backlight": "RGB",
+      "Interface": "USB Wired"
+    }
+  },
+  {
+    "id": "K621",
+    "model": "K621",
+    "category": "Keyboard",
+    "specs": "Redragon K621 HORUS TKL Wireless RGB Low-Profile Mechanical Keyboard, Red Switch, Tri-Mode",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-1.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-2.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-4.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-5.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-6.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-7.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-8.jpg?v=1745158860",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-9.jpg?v=1745158860"
+    ],
+    "has_image": true,
+    "features": [
+      "HORUS TKL — wireless low-profile tenkeyless mechanical keyboard",
+      "Tri-mode wireless — 2.4GHz, Bluetooth, and USB wired connectivity",
+      "Low-profile red switches — smooth linear travel, faster actuation for competitive gaming",
+      "TKL layout — removes numpad for compact footprint and better ergonomics",
+      "RGB backlighting — per-key lighting with multiple effects",
+      "Long wireless range — stable connection up to 10 meters"
+    ],
+    "specifications": {
+      "Type": "Mechanical Low-Profile",
+      "Switch": "Red",
+      "Layout": "TKL 87-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Backlight": "RGB"
+    }
+  },
+  {
+    "id": "K624P",
+    "model": "K624P",
+    "category": "Keyboard",
+    "specs": "Redragon K624P YI PRO 63-Key RGB Wireless Low-Profile Mechanical Keyboard, Brown Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-1.webp?v=1745158501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-2.webp?v=1745158501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-3.webp?v=1745158501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-4.webp?v=1745158501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-5.jpg?v=1745158501",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-6.webp?v=1745158501"
+    ],
+    "has_image": true,
+    "features": [
+      "YI PRO — compact 63-key wireless low-profile keyboard for portability and performance",
+      "Tri-mode connectivity — 2.4GHz, Bluetooth, and wired USB",
+      "Low-profile brown switches — tactile feedback with quieter operation",
+      "63-key layout — compact yet functional with dedicated arrow keys",
+      "RGB backlighting — vibrant per-key lighting",
+      "Rechargeable battery — long wireless gaming sessions without interruption"
+    ],
+    "specifications": {
+      "Type": "Mechanical Low-Profile",
+      "Switch": "Brown",
+      "Layout": "65% 63-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Backlight": "RGB"
+    }
+  },
+  {
+    "id": "K662L-K1RS",
+    "model": "K662L",
+    "category": "Keyboard",
+    "specs": "Redragon K662L-K1RS 60% Wireless Portable Mechanical Keyboard, Red Switches, 2.4G/Bluetooth, AAA Battery",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-1.webp?v=1748084681",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-2.webp?v=1748084704",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-3.webp?v=1748084745",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-4.webp?v=1748084725",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-5.webp?v=1748084765",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-6.webp?v=1748084789",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-7.webp?v=1748084810"
+    ],
+    "has_image": true,
+    "features": [
+      "Portable 60% wireless keyboard — ultra-compact for on-the-go gaming",
+      "Hot-swappable red switches — easy to customize without soldering",
+      "Dual wireless — 2.4GHz and Bluetooth for flexible device connection",
+      "AAA battery powered — use standard batteries anywhere, no charging needed",
+      "60% 61-key layout — maximum portability and desk space",
+      "RGB backlighting — eye-catching effects for any gaming environment"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Red (Hot-Swap)",
+      "Layout": "60% 61-Key",
+      "Connectivity": "2.4GHz / Bluetooth",
+      "Power": "AAA Battery",
+      "Backlight": "RGB"
+    }
+  },
+  {
+    "id": "K662L-G1RS",
+    "model": "K662L",
+    "category": "Keyboard",
+    "specs": "Redragon K662L-G1RS 60% Wireless Portable Mechanical Keyboard, Red Switches, 2.4G/Bluetooth, AAA Battery — Green",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-1.webp?v=1748182572",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-2.webp?v=1748182522",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-3.webp?v=1748182532",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-4.webp?v=1748182525",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-5.webp?v=1748182532",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-6.webp?v=1748182532",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-7.webp?v=1748182532"
+    ],
+    "has_image": true,
+    "features": [
+      "Portable 60% wireless keyboard — ultra-compact in bold Green colorway",
+      "Hot-swappable red switches — customize switches without soldering",
+      "Dual wireless — 2.4GHz and Bluetooth 5.0 for flexible connectivity",
+      "AAA battery powered — use standard batteries anywhere, no charging needed",
+      "60% 61-key layout — maximum portability and desk space",
+      "RGB backlighting — vibrant lighting effects through the translucent case"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Red (Hot-Swap)",
+      "Layout": "60% 61-Key",
+      "Connectivity": "2.4GHz / Bluetooth 5.0",
+      "Power": "AAA Battery",
+      "Color": "Green"
+    }
+  },
+  {
+    "id": "K688-GB",
+    "model": "K688",
+    "category": "Keyboard",
+    "specs": "Redragon K688 GB 98-Key Wireless RGB Gasket Mechanical Keyboard, Knob Control, Grey/Black",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-1.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-2.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-3.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-4.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-5.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-6.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-8.webp?v=1745155646",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-9.webp?v=1745155646"
+    ],
+    "has_image": true,
+    "features": [
+      "K688 GB — 98-key wireless gasket keyboard with knob control in Grey/Black",
+      "Gasket-mounted design — dampened, premium typing feel",
+      "Tri-mode wireless — 2.4GHz, Bluetooth, and USB wired",
+      "Volume knob — dedicated media control at your fingertips",
+      "RGB backlighting — per-key lighting with multiple effects",
+      "98% layout — keeps numpad while saving desk space"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "98-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Mounting": "Gasket",
+      "Knob": "Yes",
+      "Color": "Grey/Black"
+    }
+  },
+  {
+    "id": "K688-WGL",
+    "model": "K688",
+    "category": "Keyboard",
+    "specs": "Redragon K688 WGL 98-Key Wireless RGB Gasket Mechanical Keyboard, Knob Control, White/Grey/Light Blue",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-1.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-2.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-3.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-4.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-5.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-6.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-7.jpg?v=1745155213",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-9.jpg?v=1745155213"
+    ],
+    "has_image": true,
+    "features": [
+      "K688 WGL — 98-key wireless gasket keyboard with knob in White/Grey/Light Blue",
+      "Gasket-mounted design — premium, cushioned typing experience",
+      "Tri-mode wireless — 2.4GHz, Bluetooth, and USB wired",
+      "Volume knob — dedicated media control for quick adjustments",
+      "RGB backlighting — vibrant per-key customizable lighting",
+      "98% layout — numpad included in compact footprint"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "98-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Mounting": "Gasket",
+      "Knob": "Yes",
+      "Color": "White/Grey/Light Blue"
+    }
+  },
+  {
+    "id": "K707WBB",
+    "model": "K707WBB",
+    "category": "Keyboard",
+    "specs": "Redragon K707WBB DEIMOS 68-Key Wireless RGB Mechanical Gaming Keyboard, Rainbow Backlit, Tri-Mode",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-1.webp?v=1745151982",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-2.webp?v=1745152005",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-3.webp?v=1745152016",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-4.webp?v=1745151991",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-5.webp?v=1745152040",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-6.webp?v=1745152031",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-7.webp?v=1745152052",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-8.webp?v=1745152069"
+    ],
+    "has_image": true,
+    "features": [
+      "DEIMOS — 68-key wireless mechanical keyboard with rainbow backlighting",
+      "Tri-mode connectivity — 2.4GHz wireless, Bluetooth, and USB wired",
+      "Compact 65% layout — 68 keys with arrow cluster and navigation",
+      "Rainbow RGB backlight — dynamic multi-color lighting effects",
+      "Rechargeable battery — long wireless gaming sessions",
+      "Hot-swappable — change switches without desoldering"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Layout": "65% 68-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Backlight": "Rainbow RGB",
+      "Hot-Swap": "Yes"
+    }
+  },
+  {
+    "id": "K707WBP",
+    "model": "K707WBP",
+    "category": "Keyboard",
+    "specs": "Redragon K707WBP STAR BLADE PRO TKL Wireless Gasket RGB Mechanical Keyboard, Linear Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-1.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-2.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-3.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-4.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-5.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-6.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-7.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-8.webp?v=1745151578",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-9.webp?v=1745151578"
+    ],
+    "has_image": true,
+    "features": [
+      "STAR BLADE PRO — TKL wireless gasket keyboard with premium linear switches",
+      "Gasket-mounted design — enhanced sound dampening and flex for premium feel",
+      "Tri-mode wireless — 2.4GHz, Bluetooth, and wired USB",
+      "Linear switches — smooth, fast keystrokes with no tactile bump",
+      "TKL layout — compact tenkeyless form factor",
+      "RGB per-key lighting — vibrant customizable backlighting"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Linear",
+      "Layout": "TKL 87-Key",
+      "Connectivity": "2.4GHz / Bluetooth / Wired",
+      "Mounting": "Gasket",
+      "Backlight": "RGB"
+    }
+  },
+  {
+    "id": "K718",
+    "model": "K718",
+    "category": "Keyboard",
+    "specs": "Redragon K718 ADARO Wired Rainbow Hot-Swappable Mechanical Keyboard, Knob Control, Red Switch",
+    "price": 0,
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-1.webp?v=1745149887",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-2.webp?v=1745149887",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-3.webp?v=1745149887",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-4.webp?v=1745149887",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-5.webp?v=1745149887",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-6.webp?v=1745149887",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-adaro-k718-wired-rainbow-hot-swappable-knob-red-switch-7.webp?v=1745149887"
+    ],
+    "has_image": true,
+    "features": [
+      "ADARO — wired mechanical keyboard with hot-swappable switches and volume knob",
+      "Hot-swappable switches — change switches in seconds without any tools or soldering",
+      "Volume knob — dedicated media control for quick adjustments",
+      "Red linear switches — smooth, fast keystrokes ideal for gaming",
+      "Rainbow backlit — vibrant multi-color lighting effects",
+      "Full-size layout — all 104 keys including numpad"
+    ],
+    "specifications": {
+      "Type": "Mechanical",
+      "Switch": "Red (Hot-Swap)",
+      "Layout": "Full-Size",
+      "Backlight": "Rainbow",
+      "Knob": "Yes",
+      "Interface": "USB Wired"
+    }
   }
 ]
