@@ -326,7 +326,7 @@
 <!-- Frame-by-frame hero animation synced to horizontal scroll -->
 <script>
 (function(){
-  var TOTAL=52;
+  var TOTAL=15;
   var canvas=document.getElementById('frame-canvas');
   if(!canvas) return;
   var ctx=canvas.getContext('2d');
@@ -374,8 +374,8 @@
     var m=t.match(/matrix.*\((.+)\)/);
     if(!m) return;
     var tx=Math.abs(parseFloat(m[1].split(',')[4])||0);
-    // Animation spans hero + keyboard = ~1.8 viewport widths (end before mouse)
-    var progress=Math.min(1, tx/(window.innerWidth*1.8));
+    // Animation spans hero + most of keyboard, ends before mouse
+    var progress=Math.min(1, tx/(window.innerWidth*1.5));
     var idx=Math.min(TOTAL-1, Math.round(progress*(TOTAL-1)));
     if(idx!==curFrame) draw(idx);
     // Hide canvas once past keyboard panel so it doesn't bleed into mouse
