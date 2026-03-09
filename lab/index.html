@@ -778,7 +778,14 @@ fetch('/data/products.json').then(r=>r.json()).then(data=>{
   // Hero stats
   const stTotal=document.getElementById('stat-total');
   if(stTotal)stTotal.textContent=all.length;
-  buildSidebar();render();
+  buildSidebar();
+  // Auto-select category from URL ?cat=
+  var urlCat=new URLSearchParams(window.location.search).get('cat');
+  if(urlCat){
+    var inp=document.querySelector('input[data-cat="'+urlCat+'"]');
+    if(inp){inp.checked=true;activeCats.add(urlCat);updateCatTitle();}
+  }
+  render();
 }).catch(()=>{
   document.getElementById('grid').innerHTML='<div class="empty"><div class="empty-t">LOAD ERROR</div></div>';
 });
