@@ -5904,5 +5904,43 @@
     },
     "name": "K718 ADARO â€” Hot-Swap Rainbow Keyboard, Knob Control",
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K718_User_Manual.pdf"
+  },
+  {
+    "id": "K631 PRO",
+    "model": "K631 PRO",
+    "category": "Keyboard",
+    "name": "K631 CASTOR PRO — 65% Tri-Mode Wireless Mechanical Keyboard",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_1.png",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_4.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_5.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_6.jpg",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_7.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "CASTOR 65% compact layout — 68 keys, space-saving for maximum desk freedom",
+      "Tri-Mode wireless: 2.4GHz, Bluetooth 3.0/5.0, and USB-C wired",
+      "Hot-swappable sockets — 99.8%+ switch compatibility (3-pin & 5-pin), swap without soldering",
+      "Custom Dragon Chant Linear switches — smooth, soft key travel for fast registration",
+      "1600 mAh battery — up to 30 hours with RGB on, 120 hours with backlight off",
+      "20+ preset RGB backlighting modes with adjustable brightness, speed, and music sync",
+      "Pro software support for macros, custom keybindings, and RGB customization"
+    ],
+    "specifications": {
+      "Type": "Mechanical (Hot-Swappable)",
+      "Layout": "65% 68-Key",
+      "Switches": "Dragon Chant Linear (Hot-Swappable)",
+      "Connectivity": "2.4GHz Wireless / Bluetooth 3.0 & 5.0 / USB-C Wired",
+      "Battery": "1600 mAh (30h RGB on / 120h off)",
+      "Backlit": "RGB (20+ Modes, Music Sync)",
+      "Software": "Supported",
+      "Weight": "~710g",
+      "Color": "Black"
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K631-RGB_Setup.exe",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K631_User_Manual.pdf"
   }
 ]
