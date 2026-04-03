@@ -3944,7 +3944,7 @@
   {
     "id": "GM100",
     "model": "GM100",
-    "category": "Accessories",
+    "category": "Microphone",
     "specs": "Redragon GM100 Gaming Stream Microphone Black",
     "price": 1250,
     "images": [
@@ -3979,7 +3979,7 @@
   {
     "id": "GM200",
     "model": "GM200",
-    "category": "Accessories",
+    "category": "Microphone",
     "specs": "Mic Unit: Omni-9765 condenser Frequency Response: 50Hz-16kHz Sensitivity: -38±3dB Impedance: ≤2.2kΩ Operation Voltage: USB DC 5V Plug: USB Cable Length: 1.5m Colors Available: Black/Custom",
     "price": 1370,
     "images": [
@@ -4050,48 +4050,9 @@
     "name": "GCP500 IVY — RGB Laptop Cooler, Up to 17.3\""
   },
   {
-    "id": "GCP511",
-    "model": "GCP511",
-    "category": "Accessories",
-    "specs": "GCP511 Ingrid Laptop Cooler cools up to 17 -inch Laptops, equipped with 3 Illuminated Fans, adjustable RGB light and an adjustable angle, this device fits all your laptop cooling needs",
-    "price": 1370,
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_2.png?v=1762466981",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_6.png?v=1742287094",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_3.png?v=1742287094",
-      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGCP512LaptopCoolingPad_4.png?v=1742287094"
-    ],
-    "has_image": true,
-    "features": [
-      "3 large 120mm illuminated fans for efficient laptop cooling",
-      "Supports laptops up to 17.3 inches in size",
-      "7 adjustable height positions for personalized ergonomics",
-      "Adjustable RGB lighting for customizable gaming aesthetics",
-      "2 USB pass-through ports for peripheral connectivity",
-      "Fan speed control button for noise and performance balance",
-      "1100 RPM quiet fan operation at 56dB",
-      "USB-powered with easy setup"
-    ],
-    "specifications": {
-      "Fans": "3 x 120mm Illuminated Fans (1100 RPM)",
-      "Laptop Compatibility": "Up to 17.3 inches",
-      "Height Positions": "7 Adjustable Levels",
-      "USB Ports": "2 Pass-Through USB",
-      "RGB": "Adjustable RGB Lighting",
-      "Fan Speed Control": "Yes",
-      "Airflow": "70 CFM",
-      "Noise Level": "56dB",
-      "Voltage": "5VDC",
-      "Current": "0.15A",
-      "Weight": "900g",
-      "Lifespan": "45000 hours"
-    },
-    "name": "GCP511 INGRID — 3-Fan RGB Laptop Cooler, 17\""
-  },
-  {
     "id": "GW900_APEX",
     "model": "GW900 APEX",
-    "category": "Accessories",
+    "category": "Webcam",
     "specs": "1920 x 1080 pixels compared to 720p HD video calling which only has up to 1280 x 720 pixel --6 (5+1 IR) double-sided fully coated antireflective film optical lenses, with clear and bright picture quality Frame rate H264*1080@30fps, Autofocus --1.8 Meters magnetic ring anti-interference cable, smoother and more stable video data transmission --2-channel stereo, noise",
     "price": 2850,
     "images": [
@@ -6482,7 +6443,7 @@
   {
     "id": "GM89",
     "model": "GM89",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM89 PLAX — Clip-On Lavalier USB RGB Microphone",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-redragon-gm89-usb-rgb-desktop-1.jpg?v=1744907459",
@@ -6506,7 +6467,7 @@
   {
     "id": "GM211",
     "model": "GM211",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM211 NEBULA — USB Streaming Microphone",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm211-usb-1.webp?v=1744907309"
@@ -6527,7 +6488,7 @@
   {
     "id": "GM212",
     "model": "GM212",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM212 ADNE — RGB Streaming Microphone with Pop Filter, Type-C",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-adne-gm212-rgb-pop-filter-type-c-1.webp?v=1744907003",
@@ -6552,7 +6513,7 @@
   {
     "id": "GM300",
     "model": "GM300",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM300 BLAZAR — USB Gaming Stream Microphone",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-blazar-gm300-usb-1.webp?v=1744904697",
@@ -6575,7 +6536,7 @@
   {
     "id": "GM301",
     "model": "GM301",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM301 FENRIS — USB Streaming Microphone",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-fenris-gm301-usb-1.webp?v=1744906822",
@@ -6599,7 +6560,7 @@
   {
     "id": "GM305",
     "model": "GM305",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM305 ECHOWAVE — RGB Dynamic Gaming Microphone",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-echowave-gm305-rgb-usb-3.webp?v=1744905350",
@@ -6622,7 +6583,7 @@
   {
     "id": "GM306",
     "model": "GM306",
-    "category": "Accessories",
+    "category": "Microphone",
     "name": "GM306 — USB Streaming Microphone, Dual Pickup",
     "images": [
       "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm306-usb-4.webp?v=1744904924",
@@ -6645,7 +6606,7 @@
   {
     "id": "GW600",
     "model": "GW600",
-    "category": "Accessories",
+    "category": "Webcam",
     "name": "GW600 SKYWALK — 720P HD Webcam, Dual Microphone",
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragon720pwebcam_1.png?v=1762457661",
@@ -6670,7 +6631,7 @@
   {
     "id": "GW800",
     "model": "GW800",
-    "category": "Accessories",
+    "category": "Webcam",
     "name": "GW800 HITMAN — 1080P Full HD Webcam, Dual Mic",
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamforlaptop.png?v=1762457660",
@@ -6696,7 +6657,7 @@
   {
     "id": "GW801",
     "model": "GW801",
-    "category": "Accessories",
+    "category": "Webcam",
     "name": "GW801 HITMAN PLUS — 1080P 60FPS Streaming Webcam",
     "images": [
       "https://ecommerce.datablitz.com.ph/cdn/shop/files/6950376727497_14d149d2-74bf-4401-a416-af0070bf65ff.jpg?v=1744602677",
@@ -6722,7 +6683,7 @@
   {
     "id": "GW910",
     "model": "GW910",
-    "category": "Accessories",
+    "category": "Webcam",
     "name": "GW910 ONESHOT — 1080P Webcam with Adjustable Ring Light",
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/PCWebcam_2.png?v=1759439346",
@@ -7174,6 +7135,536 @@
       "Material": "Aluminum Alloy",
       "Backlit": "RGB",
       "Base": "Weighted, Non-Slip"
+    }
+  },
+  {
+    "id": "BS-7162",
+    "model": "BS-7162 MAX",
+    "category": "Accessories",
+    "name": "BS-7162 MAX — 2.4G Wireless Ergonomic Keyboard & Mouse Bundle",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "2.4GHz wireless keyboard and mouse combo",
+      "Ergonomic design",
+      "Single USB dongle for both devices"
+    ],
+    "specifications": {
+      "Connectivity": "2.4GHz Wireless",
+      "Type": "Keyboard + Mouse Bundle"
+    }
+  },
+  {
+    "id": "BS-7094",
+    "model": "BS-7094",
+    "category": "Accessories",
+    "name": "BS-7094 — Wireless Keyboard & Mouse Combo",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "Full-sized keyboard + compact mouse",
+      "One dongle connects both devices"
+    ],
+    "specifications": {
+      "Connectivity": "2.4GHz Wireless",
+      "Type": "Keyboard + Mouse Combo"
+    }
+  },
+  {
+    "id": "BS-7092",
+    "model": "BS-7092",
+    "category": "Accessories",
+    "name": "BS-7092 — Wired Keyboard & Mouse Combo",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "Wired keyboard and mouse combo",
+      "Plug-and-play USB"
+    ],
+    "specifications": {
+      "Connectivity": "USB Wired",
+      "Type": "Keyboard + Mouse Combo"
+    }
+  },
+  {
+    "id": "BK-7092",
+    "model": "BK-7092",
+    "category": "Accessories",
+    "name": "BK-7092 — Wired Office Keyboard",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "Wired USB office keyboard"
+    ],
+    "specifications": {
+      "Connectivity": "USB Wired",
+      "Type": "Office Keyboard"
+    }
+  },
+  {
+    "id": "BM-2638B",
+    "model": "BM-2638B",
+    "category": "Accessories",
+    "name": "BM-2638B — Ergonomic Office Mouse, 2 Side Buttons",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "2 custom function side buttons",
+      "Comfort grip, skin-friendly surface"
+    ],
+    "specifications": {
+      "Buttons": "2 Side + Standard",
+      "Type": "Office Mouse"
+    }
+  },
+  {
+    "id": "BM-2638L",
+    "model": "BM-2638L",
+    "category": "Accessories",
+    "name": "BM-2638L — Ergonomic Office Mouse, 3 Side Buttons",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "3 custom function side buttons",
+      "Comfort grip, skin-friendly surface"
+    ],
+    "specifications": {
+      "Buttons": "3 Side + Standard",
+      "Type": "Office Mouse"
+    }
+  },
+  {
+    "id": "BM-2638R",
+    "model": "BM-2638R",
+    "category": "Accessories",
+    "name": "BM-2638R — Ergonomic Office Mouse, 4 Side Buttons",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "4 custom function side buttons",
+      "Comfort grip, skin-friendly surface"
+    ],
+    "specifications": {
+      "Buttons": "4 Side + Standard",
+      "Type": "Office Mouse"
+    }
+  },
+  {
+    "id": "BM-4054",
+    "model": "BM-4054",
+    "category": "Accessories",
+    "name": "BM-4054 — 2.4G Wireless Office Mouse",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "2.4GHz wireless with USB dongle",
+      "3 buttons, comfort grip"
+    ],
+    "specifications": {
+      "Connectivity": "2.4GHz Wireless",
+      "Buttons": "3",
+      "Type": "Office Mouse"
+    }
+  },
+  {
+    "id": "BM-4049",
+    "model": "BM-4049",
+    "category": "Accessories",
+    "name": "BM-4049 — Ergonomic Wired Office Mouse",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "Ergonomic design reduces fatigue",
+      "Durable build for long-term use"
+    ],
+    "specifications": {
+      "Connectivity": "USB Wired",
+      "Type": "Office Mouse"
+    }
+  },
+  {
+    "id": "GC-F006",
+    "model": "GC-F006",
+    "category": "Accessories",
+    "name": "GC-F006 — 120mm RGB Case Fan Kit (3-Pack + Remote)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f006-1.webp?v=1744625513",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f006-4.webp?v=1744625513",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f006-2.webp?v=1744625513",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f006-3.webp?v=1744625513"
+    ],
+    "has_image": true,
+    "features": [
+      "3x 120mm RGB fans + controller + IR remote",
+      "1200 RPM, 36 CFM, 23.5 dBA",
+      "7 color modes, sleeve bearing"
+    ],
+    "specifications": {
+      "Size": "120mm",
+      "Speed": "1200 RPM",
+      "Airflow": "36 CFM",
+      "Noise": "23.5 dBA",
+      "Quantity": "3-Pack",
+      "Connector": "4-Pin D-Type"
+    }
+  },
+  {
+    "id": "GC-F007",
+    "model": "GC-F007",
+    "category": "Accessories",
+    "name": "GC-F007 — 120mm RGB Case Fan Kit, 57 Modes (3-Pack + Remote)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f007-2.webp?v=1744625094",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f007-1.webp?v=1744625094",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f007-3.webp?v=1744625094"
+    ],
+    "has_image": true,
+    "features": [
+      "3x 120mm RGB fans, 57 switchable modes",
+      "10-port connector + IR remote",
+      "High airflow with low noise"
+    ],
+    "specifications": {
+      "Size": "120mm",
+      "Modes": "57 RGB",
+      "Quantity": "3-Pack",
+      "Connector": "10-Port"
+    }
+  },
+  {
+    "id": "GC-F008",
+    "model": "GC-F008",
+    "category": "Accessories",
+    "name": "GC-F008 — 120mm RGB Turbo Case Fan Kit, 57 Modes (3-Pack)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f008-rgb-turbo-1.webp?v=174462438",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f008-rgb-turbo-2.webp?v=174462438",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f008-rgb-turbo-3.webp?v=174462438"
+    ],
+    "has_image": true,
+    "features": [
+      "3x 120mm RGB Turbo fans, 57 modes",
+      "High-performance turbo blade design"
+    ],
+    "specifications": {
+      "Size": "120mm",
+      "Type": "Turbo",
+      "Modes": "57 RGB",
+      "Quantity": "3-Pack"
+    }
+  },
+  {
+    "id": "GC-F011",
+    "model": "GC-F011",
+    "category": "Accessories",
+    "name": "GC-F011 — 120mm RGB Case Fan Kit (3-Pack + Controller)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f011-9.webp?v=1744625292",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f011-10.webp?v=1744625292",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/case-fan-kit-gaming-redragon-gc-f011-7.webp?v=1744625309"
+    ],
+    "has_image": true,
+    "features": [
+      "3x 120mm RGB fans + 6-in-1 control box + IR remote",
+      "1200 RPM, low noise"
+    ],
+    "specifications": {
+      "Size": "120mm",
+      "Speed": "1200 RPM",
+      "Quantity": "3-Pack",
+      "Controller": "6-in-1 Box + IR Remote"
+    }
+  },
+  {
+    "id": "GC608PRO",
+    "model": "GC608PRO",
+    "category": "Accessories",
+    "name": "GC608 PRO — ATX Mid-Tower Gaming Case, Tempered Glass",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "ATX standard, tempered glass front + left panel",
+      "SPCC + ABS construction"
+    ],
+    "specifications": {
+      "Form Factor": "ATX / Micro-ATX / ITX",
+      "Material": "SPCC + ABS",
+      "Panels": "Tempered Glass"
+    }
+  },
+  {
+    "id": "GC702",
+    "model": "GC702",
+    "category": "Accessories",
+    "name": "GC702 — ATX Mid-Tower Gaming Case, Tempered Glass",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "ATX standard, tempered glass panels",
+      "SPCC + ABS construction"
+    ],
+    "specifications": {
+      "Form Factor": "ATX / Micro-ATX / ITX",
+      "Material": "SPCC + ABS",
+      "Panels": "Tempered Glass"
+    }
+  },
+  {
+    "id": "GC801",
+    "model": "GC801",
+    "category": "Accessories",
+    "name": "GC801 IRONHIDE — ATX Mid-Tower Gaming Case",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "0.7mm SPCC construction",
+      "USB 3.0 + HD Audio front panel",
+      "ATX / Micro-ATX compatible"
+    ],
+    "specifications": {
+      "Form Factor": "ATX / Micro-ATX",
+      "Material": "SPCC",
+      "Dimensions": "450 x 210 x 530mm",
+      "Front I/O": "USB 3.0 + HD Audio"
+    }
+  },
+  {
+    "id": "G651",
+    "model": "G651",
+    "category": "Accessories",
+    "name": "G651 — ATX Mid-Tower Case + 4 ARGB Fans + 600W PSU",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_02.jpg?v=1714645679",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_01.jpg?v=1714645678",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_03.jpg?v=1714645677",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_04.jpg?v=1714645679"
+    ],
+    "has_image": true,
+    "features": [
+      "ATX Mid-Tower with 4 pre-installed ARGB fans",
+      "Bundled 600W 80+ Bronze PSU",
+      "Tempered glass side panel"
+    ],
+    "specifications": {
+      "Form Factor": "ATX / Micro-ATX / ITX",
+      "Fans": "4x ARGB Pre-installed",
+      "PSU": "600W 80+ Bronze",
+      "Panels": "Tempered Glass"
+    }
+  },
+  {
+    "id": "GS-PS003",
+    "model": "GS-PS003",
+    "category": "Accessories",
+    "name": "GS-PS003 — 600W 80+ Bronze ATX Power Supply",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/power-supply-redragon-gs-ps003-600w-80-bronze-atx-2.webp?v=1744630755",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/power-supply-redragon-gs-ps003-600w-80-bronze-atx-5.webp?v=1744630755",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/power-supply-redragon-gs-ps003-600w-80-bronze-atx-3.webp?v=1744630755"
+    ],
+    "has_image": true,
+    "features": [
+      "600W continuous power",
+      "80+ Bronze certified",
+      "140mm quiet fan",
+      "ATX standard"
+    ],
+    "specifications": {
+      "Power": "600W",
+      "Certification": "80+ Bronze",
+      "Fan": "140mm",
+      "Standard": "ATX"
+    }
+  },
+  {
+    "id": "GS-PS005",
+    "model": "GS-PS005",
+    "category": "Accessories",
+    "name": "GS-PS005 — 700W 80+ Bronze ATX Power Supply",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/power-supply-redragon-gs-ps005-700w-80-bronze-atx-1.jpg?v=1744632008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/power-supply-redragon-gs-ps005-700w-80-bronze-atx-2.jpg?v=1744632008",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/power-supply-redragon-gs-ps005-700w-80-bronze-atx-4.jpg?v=1744632008"
+    ],
+    "has_image": true,
+    "features": [
+      "700W continuous power",
+      "80+ Bronze certified",
+      "140mm quiet fan",
+      "ATX standard"
+    ],
+    "specifications": {
+      "Power": "700W",
+      "Certification": "80+ Bronze",
+      "Fan": "140mm",
+      "Standard": "ATX"
+    }
+  },
+  {
+    "id": "C501-R",
+    "model": "C501",
+    "category": "Gaming Chair",
+    "name": "C501 ASSASSIN — Gaming Chair (Black/Red)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501_02.jpg?v=1708857133",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501___04.jpg?v=1708857696"
+    ],
+    "has_image": true,
+    "features": [
+      "PU leather + plywood frame",
+      "150KG weight capacity",
+      "Reclining 90°-180°",
+      "Class 3 gas lift, 50mm nylon wheels"
+    ],
+    "specifications": {
+      "Material": "PU Leather + Plywood",
+      "Capacity": "150KG",
+      "Recline": "90°–180°",
+      "Dimensions": "69 x 117 x 67cm",
+      "Color": "Black/Red"
+    }
+  },
+  {
+    "id": "C501-B",
+    "model": "C501",
+    "category": "Gaming Chair",
+    "name": "C501 ASSASSIN — Gaming Chair (Black/Blue)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501_02.jpg?v=1708857133",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501___04.jpg?v=1708857696"
+    ],
+    "has_image": true,
+    "features": [
+      "PU leather + plywood frame",
+      "150KG weight capacity",
+      "Reclining 90°-180°",
+      "Class 3 gas lift, 50mm nylon wheels"
+    ],
+    "specifications": {
+      "Material": "PU Leather + Plywood",
+      "Capacity": "150KG",
+      "Recline": "90°–180°",
+      "Dimensions": "69 x 117 x 67cm",
+      "Color": "Black/Blue"
+    }
+  },
+  {
+    "id": "C601",
+    "model": "C601",
+    "category": "Gaming Chair",
+    "name": "C601 — Gaming Chair (Red)",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "150KG weight capacity",
+      "Metal frame construction"
+    ],
+    "specifications": {
+      "Dimensions": "66 x 125 x 72cm",
+      "Capacity": "150KG",
+      "Color": "Red"
+    }
+  },
+  {
+    "id": "C602",
+    "model": "C602",
+    "category": "Gaming Chair",
+    "name": "C602 — Gaming Chair, PVC Leather (Red)",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "PVC leather with metal frame",
+      "50-density moulded foam"
+    ],
+    "specifications": {
+      "Material": "PVC Leather + Metal",
+      "Foam": "50 Density Moulded",
+      "Color": "Red"
+    }
+  },
+  {
+    "id": "C211",
+    "model": "C211",
+    "category": "Gaming Chair",
+    "name": "C211 — Gaming Chair, PVC Leather",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "Durable PVC leather with 1.5mm metal frame",
+      "Ergonomic design"
+    ],
+    "specifications": {
+      "Material": "PVC Leather + 1.5mm Metal",
+      "Type": "Gaming Chair"
+    }
+  },
+  {
+    "id": "GM24X5IPS",
+    "model": "GM24X5IPS",
+    "category": "Monitor",
+    "name": "GM24X5IPS MIRROR-II — 24\" 180Hz IPS FHD Gaming Monitor",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/monitor-gaming-redragon-mirror-ii-gm24x5ips-24-inch-180hz-ips-fhd-3.webp?v=1744643371",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/monitor-gaming-redragon-mirror-ii-gm24x5ips-24-inch-180hz-ips-fhd-1.webp?v=1744643371",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/monitor-gaming-redragon-mirror-ii-gm24x5ips-24-inch-180hz-ips-fhd-7.webp?v=1744643371",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/monitor-gaming-redragon-mirror-ii-gm24x5ips-24-inch-180hz-ips-fhd-10.webp?v=1744643371"
+    ],
+    "has_image": true,
+    "features": [
+      "24-inch IPS panel, Full HD 1920x1080",
+      "180Hz refresh rate, AMD FreeSync",
+      "1ms response time (MPRT)",
+      "Game Mode, HDMI + DP inputs"
+    ],
+    "specifications": {
+      "Size": "24\"",
+      "Panel": "IPS",
+      "Resolution": "1920x1080 FHD",
+      "Refresh Rate": "180Hz",
+      "Response": "1ms MPRT",
+      "FreeSync": "AMD FreeSync",
+      "Inputs": "HDMI + DisplayPort"
+    }
+  },
+  {
+    "id": "GMK915",
+    "model": "GMK915",
+    "category": "Accessories",
+    "name": "GMK915 — Dual Monitor Mount Stand, Gas Spring",
+    "images": [],
+    "has_image": false,
+    "features": [
+      "Gas spring adjustable arms",
+      "VESA 75/100mm compatible",
+      "Dual monitor support"
+    ],
+    "specifications": {
+      "Type": "Dual Monitor Arm",
+      "VESA": "75/100mm",
+      "Adjustment": "Gas Spring"
+    }
+  },
+  {
+    "id": "GCP511",
+    "model": "GCP511",
+    "category": "Accessories",
+    "name": "GCP511 INGRID — RGB Laptop Cooler, Up to 17\"",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/laptop-cooler-redragon-ingrid-gcp511-rgb-up-to-17-3-fan-3.webp?v=1744635951",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/laptop-cooler-redragon-ingrid-gcp511-rgb-up-to-17-3-fan-1.webp?v=1744635954",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/laptop-cooler-redragon-ingrid-gcp511-rgb-up-to-17-3-fan-2.webp?v=1744635954"
+    ],
+    "has_image": true,
+    "features": [
+      "Triple fan cooling with RGB illumination",
+      "Supports laptops up to 17 inches",
+      "Ergonomic adjustable height"
+    ],
+    "specifications": {
+      "Fans": "3x Illuminated",
+      "Laptop Size": "Up to 17\"",
+      "Backlit": "RGB",
+      "Connectivity": "USB"
     }
   }
 ]
