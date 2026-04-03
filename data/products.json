@@ -592,7 +592,7 @@
     "specs": "Redragon M724 white Wired Gaming Mouse, 49G Ultra-Light 12,400 Max DPI Optical Gaming Mouse with 5 Programmable Buttons, Ergonomic Natural Grip Build, Software Supports DIY Keybinds & DPI, Black",
     "price": null,
     "images": [
-      "m724-white.jpeg"
+      "m724-white.png"
     ],
     "has_image": true,
     "features": [
@@ -1240,14 +1240,7 @@
     "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Black Switch",
     "price": 0,
     "images": [
-      "K552E_1.jpg",
-      "K552E_2.jpg",
-      "K552E_3.jpg",
-      "K552E_4.jpg",
-      "K552E_5.jpg",
-      "K552E_6.jpg",
-      "K552E_7.jpg",
-      "K552E_8.jpg"
+      "K552E-KK.png"
     ],
     "has_image": true,
     "features": [
@@ -1278,14 +1271,7 @@
     "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Red Switch",
     "price": 0,
     "images": [
-      "K552E_1.jpg",
-      "K552E_2.jpg",
-      "K552E_3.jpg",
-      "K552E_4.jpg",
-      "K552E_5.jpg",
-      "K552E_6.jpg",
-      "K552E_7.jpg",
-      "K552E_8.jpg"
+      "K552E.png"
     ],
     "has_image": true,
     "features": [
@@ -1316,14 +1302,7 @@
     "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Brown Switch",
     "price": 0,
     "images": [
-      "K552E_1.jpg",
-      "K552E_2.jpg",
-      "K552E_3.jpg",
-      "K552E_4.jpg",
-      "K552E_5.jpg",
-      "K552E_6.jpg",
-      "K552E_7.jpg",
-      "K552E_8.jpg"
+      "K552E.png"
     ],
     "has_image": true,
     "features": [
@@ -1354,14 +1333,7 @@
     "specs": "Redragon K552 KUMARA ELITE TKL 87-Key Rainbow RGB Wired Mechanical Gaming Keyboard — Blue Switch",
     "price": 0,
     "images": [
-      "K552E_1.jpg",
-      "K552E_2.jpg",
-      "K552E_3.jpg",
-      "K552E_4.jpg",
-      "K552E_5.jpg",
-      "K552E_6.jpg",
-      "K552E_7.jpg",
-      "K552E_8.jpg"
+      "K552E.png"
     ],
     "has_image": true,
     "features": [
@@ -1531,10 +1503,7 @@
     "specs": "Redragon K569 ARYAMAN Full-Size Wired Mechanical Gaming Keyboard, 104 Keys, RGB Backlit, 9 Illumination Modes, Anti-Ghosting",
     "price": 0,
     "images": [
-      "K569_1.jpg",
-      "K569_2.jpg",
-      "K569_3.jpg",
-      "K569_4.jpg"
+      "K569.png"
     ],
     "has_image": true,
     "features": [
@@ -2184,11 +2153,7 @@
     "specs": "Redragon K626P-KB ASHE 78-Key Low-Profile RGB Mechanical Gaming Keyboard, Wired, Blue Tactile Clicky Switch, Aluminum Frame",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-1.jpg?v=1745158237",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-2.jpg?v=1745158237",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-3.jpg?v=1745158291",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-4.jpg?v=1745158264",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-ashe-k626p-kb-78-key-low-profile-blue-switch-5.jpg?v=1745158237"
+      "K626P-KB.png"
     ],
     "has_image": true,
     "features": [
@@ -3527,8 +3492,7 @@
     "specs": "Redragon G808 HARROW PRO\nWireless,Wired Gamepad Controller",
     "price": 1890,
     "images": [
-      "g808_pro.jpg",
-      "g808_pro_2.jpg"
+      "g808_pro.png"
     ],
     "has_image": true,
     "features": [
@@ -4723,9 +4687,7 @@
     "specs": "Redragon K506 Centaur Membrane Wired Gaming Keyboard, RGB Backlit, Multimedia Keys",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0706/5170/7667/files/k506_centaur_2-01.jpg",
-      "https://cdn.shopify.com/s/files/1/0706/5170/7667/files/k506_centaur_2-03.jpg",
-      "https://cdn.shopify.com/s/files/1/0706/5170/7667/files/k506_centaur_2-05.jpg"
+      "K506.png"
     ],
     "has_image": true,
     "features": [
@@ -5120,7 +5082,7 @@
     "specs": "Redragon K535 Apas TKL Wired RGB Mechanical Gaming Keyboard, Linear Red Switches",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/redragon-k535-apas-pro-rgb-wireless-wired-mechanical-keyboard-6950376705358-1207885494.jpg"
+      "K535.png"
     ],
     "has_image": true,
     "features": [
@@ -5184,10 +5146,7 @@
     "specs": "Redragon K530 PRO DRACONIC 60% RGB Wireless Mechanical Gaming Keyboard, Brown Switches, Tri-Mode",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-1.webp?v=1745248532",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-2.webp?v=1745248545",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-4.webp?v=1745248554",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-draconic-k530-pro-60-rgb-wireless-brown-switch-3.webp?v=1745248568"
+      "K530_PRO.png"
     ],
     "has_image": true,
     "features": [
@@ -5215,11 +5174,7 @@
     "specs": "Redragon K568 ANALA RGB TKL Mechanical Gaming Keyboard, 87-Key, Wired USB",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-1.jpg?v=1745239093",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-2.jpg?v=1745239093",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-3.jpg?v=1745239093",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-4.jpg?v=1745239093",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-anala-k568-rgb-tkl-5.jpg?v=1745241251"
+      "K568.png"
     ],
     "has_image": true,
     "features": [
@@ -5246,9 +5201,7 @@
     "specs": "Redragon K568 DARK AVENGER Rainbow TKL Mechanical Gaming Keyboard, Blue Switch, 87-Key",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-dark-avenger-k568-rainbow-tkl-blue-switch-1.jpg?v=1745241251",
-      "K568_2.jpg",
-      "K568_3.jpg"
+      "K568_v2.png"
     ],
     "has_image": true,
     "features": [
@@ -5309,14 +5262,7 @@
     "specs": "Redragon K598 Wireless TKL RGB Mechanical Gaming Keyboard, Brown Switches, Tri-Mode",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-1.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-7.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-3.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-4.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-5.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-6.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-9.webp?v=1745169462",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k598-wireless-tkl-rgb-brown-switch-8.webp?v=1745169462"
+      "K598.png"
     ],
     "has_image": true,
     "features": [
@@ -5343,11 +5289,7 @@
     "specs": "Redragon K606 LAKSHMI 60% White LED Mechanical Gaming Keyboard, Blue Switch",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-1.jpg?v=1745168998",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-2.jpg?v=1745168998",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-3.jpg?v=1745168998",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-4.jpg?v=1745168998",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-lakshmi-k606-60-white-led-blue-switch-o-g-b-5.jpg?v=1745168998"
+      "K606.png"
     ],
     "has_image": true,
     "features": [
@@ -5374,13 +5316,7 @@
     "specs": "Redragon K613 JAX 61-Key Rainbow Wired Mechanical Gaming Keyboard, Blue Switch",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-1.webp?v=1745163550",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-2.webp?v=1745163550",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-3.webp?v=1745163550",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-4.webp?v=1745163550",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-5.webp?v=1745163550",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-6.webp?v=1745163550",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-jax-k613-61-key-rainbow-wired-blue-switch-7.webp?v=1745163550"
+      "K613.png"
     ],
     "has_image": true,
     "features": [
@@ -5443,14 +5379,7 @@
     "specs": "Redragon K621 HORUS TKL Wireless RGB Low-Profile Mechanical Keyboard, Red Switch, Tri-Mode",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-1.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-2.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-4.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-5.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-6.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-7.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-8.jpg?v=1745158860",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-horus-k621-tkl-wireless-rgb-low-profile-red-switch-9.jpg?v=1745158860"
+      "K621.png"
     ],
     "has_image": true,
     "features": [
@@ -5477,12 +5406,7 @@
     "specs": "Redragon K624P YI PRO 63-Key RGB Wireless Low-Profile Mechanical Keyboard, Brown Switch",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-1.webp?v=1745158501",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-2.webp?v=1745158501",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-3.webp?v=1745158501",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-4.webp?v=1745158501",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-5.jpg?v=1745158501",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-yi-pro-k624p-63-key-rgb-wireless-low-profile-brown-switch-6.webp?v=1745158501"
+      "K624P.png"
     ],
     "has_image": true,
     "features": [
@@ -5509,13 +5433,7 @@
     "specs": "Redragon K662L-K1RS 60% Wireless Portable Mechanical Keyboard, Red Switches, 2.4G/Bluetooth, AAA Battery",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-1.webp?v=1748084681",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-2.webp?v=1748084704",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-3.webp?v=1748084745",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-4.webp?v=1748084725",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-5.webp?v=1748084765",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-6.webp?v=1748084789",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-k1rs-wireless-7.webp?v=1748084810"
+      "K662L.png"
     ],
     "has_image": true,
     "features": [
@@ -5543,13 +5461,7 @@
     "specs": "Redragon K662L-G1RS 60% Wireless Portable Mechanical Keyboard, Red Switches, 2.4G/Bluetooth, AAA Battery — Green",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-1.webp?v=1748182572",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-2.webp?v=1748182522",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-3.webp?v=1748182532",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-4.webp?v=1748182525",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-5.webp?v=1748182532",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-6.webp?v=1748182532",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/redragon-k662l-g1rs-wireless-portable-60-mechanical-gaming-keyboard-red-switches-2-4g-bluetooth-aaa-battery-7.webp?v=1748182532"
+      "K662L_v2.png"
     ],
     "has_image": true,
     "features": [
@@ -5577,14 +5489,7 @@
     "specs": "Redragon K688 GB 98-Key Wireless RGB Gasket Mechanical Keyboard, Knob Control, Grey/Black",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-1.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-2.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-3.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-4.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-5.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-6.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-8.webp?v=1745155646",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-gb-98-key-wireless-rgb-gasket-knob-grey-black-9.webp?v=1745155646"
+      "K688.png"
     ],
     "has_image": true,
     "features": [
@@ -5613,14 +5518,7 @@
     "specs": "Redragon K688 WGL 98-Key Wireless RGB Gasket Mechanical Keyboard, Knob Control, White/Grey/Light Blue",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-1.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-2.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-3.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-4.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-5.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-6.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-7.jpg?v=1745155213",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-k688-wgl-98-key-wireless-rgb-gasket-knob-white-grey-light-blue-9.jpg?v=1745155213"
+      "K688_v2.png"
     ],
     "has_image": true,
     "features": [
@@ -5649,14 +5547,7 @@
     "specs": "Redragon K707WBB DEIMOS 68-Key Wireless RGB Mechanical Gaming Keyboard, Rainbow Backlit, Tri-Mode",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-1.webp?v=1745151982",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-2.webp?v=1745152005",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-3.webp?v=1745152016",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-4.webp?v=1745151991",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-5.webp?v=1745152040",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-6.webp?v=1745152031",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-7.webp?v=1745152052",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-deimos-k707wbb-rgb-68-key-wireless-rainbow-8.webp?v=1745152069"
+      "K707WBB.png"
     ],
     "has_image": true,
     "features": [
@@ -5683,15 +5574,7 @@
     "specs": "Redragon K707WBP STAR BLADE PRO TKL Wireless Gasket RGB Mechanical Keyboard, Linear Switch",
     "price": 0,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-1.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-2.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-3.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-4.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-5.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-6.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-7.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-8.webp?v=1745151578",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-gaming-mechanical-redragon-star-blade-pro-k707wbp-rgb-tkl-wireless-gasket-rgb-linear-switch-9.webp?v=1745151578"
+      "K707WBP.png"
     ],
     "has_image": true,
     "features": [
@@ -5889,11 +5772,7 @@
     "category": "Keyboard",
     "name": "K518 CRUX — Full-Size RGB Membrane Gaming Keyboard",
     "images": [
-      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_01.jpg",
-      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_02.jpg",
-      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_03.jpg",
-      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_04.jpg",
-      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_05.jpg"
+      "K518.png"
     ],
     "has_image": true,
     "features": [
@@ -6780,10 +6659,7 @@
     "category": "Accessories",
     "name": "A101 — Replacement Keycaps, 104 Keys + Puller",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_01.jpg?v=1696849636",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_02.jpg?v=1696849636",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_03.jpg?v=1696849636",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_04.jpg?v=1696849636"
+      "A101.png"
     ],
     "has_image": true,
     "features": [
@@ -6805,8 +6681,7 @@
     "category": "Accessories",
     "name": "A106 — Steampunk Typewriter Retro Keycaps, 104 Keys",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-A106_01.jpg?v=1696850689",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-A106_02.jpg?v=1696850689"
+      "A106.png"
     ],
     "has_image": true,
     "features": [
@@ -6828,8 +6703,7 @@
     "category": "Accessories",
     "name": "A111 — Black Pudding PBT Keycaps, 104 Keys",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A111_01.jpg",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A111_02.jpg"
+      "A111.png"
     ],
     "has_image": true,
     "features": [
@@ -7249,10 +7123,7 @@
     "category": "Accessories",
     "name": "G651 — ATX Mid-Tower Case + 4 ARGB Fans + 600W PSU",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_02.jpg?v=1714645679",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_01.jpg?v=1714645678",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_03.jpg?v=1714645677",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/G651_04.jpg?v=1714645679"
+      "G651.png"
     ],
     "has_image": true,
     "features": [
@@ -7321,8 +7192,7 @@
     "category": "Gaming Chair",
     "name": "C501 ASSASSIN — Gaming Chair (Black/Red)",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501_02.jpg?v=1708857133",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501___04.jpg?v=1708857696"
+      "C501.png"
     ],
     "has_image": true,
     "features": [
@@ -7345,8 +7215,7 @@
     "category": "Gaming Chair",
     "name": "C501 ASSASSIN — Gaming Chair (Black/Blue)",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501_02.jpg?v=1708857133",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/C501___04.jpg?v=1708857696"
+      "C501.png"
     ],
     "has_image": true,
     "features": [
@@ -7465,9 +7334,7 @@
     "category": "Accessories",
     "name": "GCP511 INGRID — RGB Laptop Cooler, Up to 17\"",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/laptop-cooler-redragon-ingrid-gcp511-rgb-up-to-17-3-fan-3.webp?v=1744635951",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/laptop-cooler-redragon-ingrid-gcp511-rgb-up-to-17-3-fan-1.webp?v=1744635954",
-      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/laptop-cooler-redragon-ingrid-gcp511-rgb-up-to-17-3-fan-2.webp?v=1744635954"
+      "GCP511.png"
     ],
     "has_image": true,
     "features": [
