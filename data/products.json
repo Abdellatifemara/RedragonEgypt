@@ -5920,7 +5920,7 @@
     "id": "K631 PRO",
     "model": "K631 PRO",
     "category": "Keyboard",
-    "name": "K631 CASTOR PRO � 65% Tri-Mode Wireless Mechanical Keyboard",
+    "name": "K631 CASTOR PRO � 65% Tri-Mode Wireless Mechanical Keyboard",
     "images": [
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_1.png",
       "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK631PRO65_3-ModeWirelessRGBGamingKeyboard_2.jpg",
@@ -5932,11 +5932,11 @@
     ],
     "has_image": true,
     "features": [
-      "CASTOR 65% compact layout � 68 keys, space-saving for maximum desk freedom",
+      "CASTOR 65% compact layout � 68 keys, space-saving for maximum desk freedom",
       "Tri-Mode wireless: 2.4GHz, Bluetooth 3.0/5.0, and USB-C wired",
-      "Hot-swappable sockets � 99.8%+ switch compatibility (3-pin & 5-pin), swap without soldering",
-      "Custom Dragon Chant Linear switches � smooth, soft key travel for fast registration",
-      "1600 mAh battery � up to 30 hours with RGB on, 120 hours with backlight off",
+      "Hot-swappable sockets � 99.8%+ switch compatibility (3-pin & 5-pin), swap without soldering",
+      "Custom Dragon Chant Linear switches � smooth, soft key travel for fast registration",
+      "1600 mAh battery � up to 30 hours with RGB on, 120 hours with backlight off",
       "20+ preset RGB backlighting modes with adjustable brightness, speed, and music sync",
       "Pro software support for macros, custom keybindings, and RGB customization"
     ],
@@ -5953,5 +5953,1227 @@
     },
     "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_K631-RGB_Setup.exe",
     "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K631_User_Manual.pdf"
+  },
+  {
+    "id": "M913",
+    "model": "M913",
+    "category": "Mouse",
+    "name": "M913 IMPACT ELITE — Wireless MMO Gaming Mouse, 16 Buttons",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRGBWirelessGamingMouseImpactEliteM913_1.png?v=1762457657",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRGBWirelessGamingMouseImpactEliteM913_3.png?v=1752475043",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRGBWirelessGamingMouseImpactEliteM913_7.jpg?v=1773051733",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRGBWirelessGamingMouseImpactEliteM913_4.jpg?v=1773051733",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRGBWirelessGamingMouseImpactEliteM913_6.jpg?v=1773051733",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonRGBWirelessGamingMouseImpactEliteM913_2.png?v=1773051805"
+    ],
+    "has_image": true,
+    "features": [
+      "Tri-Mode connectivity: Bluetooth, 2.4GHz wireless, and USB-C wired",
+      "16 programmable buttons including 12 side buttons for MMO gaming",
+      "Up to 26,000 DPI via software (5 onboard DPI levels)",
+      "Battery life up to 250 hours (RGB off) or 45 hours (2.4GHz dual-mode)",
+      "Dedicated software support — fully customizable even in wireless mode"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI": "400/800/1600/2400/3200 (up to 26K via software)",
+      "Buttons": "16 Programmable (12 Side)",
+      "Connectivity": "Tri-Mode: BT / 2.4GHz / USB-C",
+      "Battery": "Rechargeable (up to 250h RGB off)",
+      "Backlit": "RGB"
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M913_Gaming_Mouse_Software.exe?v=1693546852",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/M913_User_Manual.pdf?v=1615268713"
+  },
+  {
+    "id": "M916AK-PRO",
+    "model": "M916AK-PRO",
+    "category": "Mouse",
+    "name": "M916 K1NG PRO — 49g Ultra-Light 3-Mode Wireless Mouse, 26K DPI",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM916PRO3-ModeWirelessGamingMouse_2.png?v=1762463074",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM916PRO3-ModeWirelessGamingMouse_4.png?v=1745224435",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM916PRO3-ModeWirelessGamingMouse_1.png?v=1774256820",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM916PRO3-ModeWirelessGamingMouse_3.png?v=1745224435",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM916PRO3-ModeWirelessGamingMouse_18.jpg?v=1705043514",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonM916PRO3-ModeWirelessGamingMouse_14.jpg?v=1705043514"
+    ],
+    "has_image": true,
+    "features": [
+      "49g ultra-lightweight — lightest Redragon mouse",
+      "Tri-Mode: Bluetooth, 2.4GHz nano receiver, USB-C wired",
+      "5 DPI levels (1000/2000/4000/8000/26000), customizable 50–26000",
+      "5 fully programmable buttons with dedicated software",
+      "Natural ergonomic grip for extended sessions"
+    ],
+    "specifications": {
+      "Sensor": "Optical",
+      "DPI": "1000/2000/4000/8000/26000",
+      "Buttons": "5 Programmable",
+      "Connectivity": "Tri-Mode: BT / 2.4GHz / USB-C",
+      "Polling Rate": "1000Hz",
+      "Weight": "49g",
+      "Backlit": "RGB"
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/Redragon_M916-PRO-1K_v1.0.0.4_2023.11.29_setup_2986-B_CX52850P_P3395_1.zip?v=1705305972",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K1ING_M916_PRO_1K_Hz_user_manual.pdf?v=1711503404"
+  },
+  {
+    "id": "K585",
+    "model": "K585",
+    "category": "Keyboard",
+    "name": "K585 DITI — One-Handed RGB Mechanical Gaming Keypad",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonk585ps4.png?v=1762457095",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK585DITIOne-HandedRGBMechanicalGamingKeyboard_1.png?v=1687747068",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonK585DITIOne-HandedRGBMechanicalGamingKeyboard_1.jpg?v=1687747068",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/DITIK585wiredOne-HandedGamingKeypad_blueSwitch.png?v=1687747068",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/K585_redragon_diti.jpg?v=1687747068"
+    ],
+    "has_image": true,
+    "features": [
+      "One-handed compact design with all action keys",
+      "7 programmable macro keys",
+      "OUTEMU mechanical switches (Blue/Brown/Red)",
+      "5 RGB backlit modes, 16.8M colors",
+      "Magnetic detachable ergonomic wrist rest",
+      "Console compatible with GA-200 converter"
+    ],
+    "specifications": {
+      "Type": "Mechanical One-Handed Keypad",
+      "Switches": "OUTEMU Blue / Brown / Red",
+      "Keys": "42",
+      "Macro Keys": "7 Programmable",
+      "Connectivity": "USB Wired",
+      "Backlit": "RGB (5 modes)",
+      "Wrist Rest": "Magnetic Detachable"
+    },
+    "softwareUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/New_version-Redragon_K585RGB_Keyboard.exe?v=1764119920",
+    "manualUrl": "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/K585_user_manual.pdf?v=1615262274"
+  },
+  {
+    "id": "K518",
+    "model": "K518",
+    "category": "Keyboard",
+    "name": "K518 CRUX — Full-Size RGB Membrane Gaming Keyboard",
+    "images": [
+      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_01.jpg",
+      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_02.jpg",
+      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_03.jpg",
+      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_04.jpg",
+      "https://redragon.co.za/wp-content/uploads/2026/04/RD-K518-RGB-GB_wr_05.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Full-size 108-key layout with soft-touch membrane keys",
+      "26 anti-ghost keys with 125Hz report rate",
+      "9 programmable RGB lighting patterns",
+      "Double-shot injection keycaps",
+      "Splash-proof ergonomic design"
+    ],
+    "specifications": {
+      "Type": "Membrane",
+      "Layout": "Full-Size 108-Key",
+      "Anti-Ghosting": "26 Keys",
+      "Connectivity": "USB Wired",
+      "Backlit": "RGB (9 modes)",
+      "Dimensions": "451 x 145 x 36mm",
+      "Weight": "~811g"
+    }
+  },
+  {
+    "id": "H210",
+    "model": "H210",
+    "category": "Headset",
+    "name": "H210 MINOS — Virtual 7.1 USB Gaming Headset, RGB",
+    "images": [
+      "https://redragonadria.com/wp-content/uploads/2021/03/H210-1.jpg",
+      "https://redragonadria.com/wp-content/uploads/2021/03/H210-2.jpg",
+      "https://redragonadria.com/wp-content/uploads/2021/03/H210-5.jpg",
+      "https://redragonadria.com/wp-content/uploads/2021/03/H210-6.jpg",
+      "https://redragonadria.com/wp-content/uploads/2021/03/H210-7.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Virtual 7.1 surround sound for immersive gaming",
+      "50mm drivers with 32Ω impedance, 120dB sensitivity",
+      "Noise-cancelling omnidirectional microphone",
+      "Dynamic RGB lighting on earcups",
+      "USB plug-and-play, self-adjusting headband"
+    ],
+    "specifications": {
+      "Drivers": "50mm",
+      "Impedance": "32Ω",
+      "Surround": "Virtual 7.1",
+      "Microphone": "Noise-Cancelling",
+      "Connectivity": "USB",
+      "Cable": "2m",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "H280",
+    "model": "H280",
+    "category": "Headset",
+    "name": "H280 MEDEA — RGB Stereo Gaming Headset",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_01.jpg?v=1696681576",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_02.jpg?v=1696681577",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_03.jpg?v=1696681578",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_04.jpg?v=1696681577"
+    ],
+    "has_image": true,
+    "features": [
+      "50mm drivers for rich stereo sound",
+      "Dynamic RGB backlighting on earcups",
+      "Integrated noise-cancelling microphone",
+      "Memory-foam cushions, flexible headband",
+      "Dual 3.5mm AUX + USB (RGB), braided cable"
+    ],
+    "specifications": {
+      "Drivers": "50mm",
+      "Audio": "Stereo",
+      "Microphone": "Noise-Cancelling",
+      "Connectivity": "3.5mm AUX + USB (RGB)",
+      "Backlit": "RGB",
+      "Compatibility": "PC, PS5, Xbox, Switch, Phone"
+    }
+  },
+  {
+    "id": "H991",
+    "model": "H991",
+    "category": "Headset",
+    "name": "H991 TRITON — 7.1 Active Noise Cancelling Headset",
+    "images": [
+      "https://www.erksosy.com/wp-content/uploads/2022/05/h991.png"
+    ],
+    "has_image": true,
+    "features": [
+      "Active Noise Cancelling — eliminates 99% background noise",
+      "7.1 channel surround with intelligent extreme bass",
+      "Premium leather ear cushions for all-day comfort",
+      "360° bendable microphone with vibration control",
+      "USB plug-and-play connection"
+    ],
+    "specifications": {
+      "Drivers": "53mm",
+      "Surround": "7.1 Channel",
+      "ANC": "Active Noise Cancelling",
+      "Microphone": "360° Bendable",
+      "Connectivity": "USB",
+      "Compatibility": "PC, PS4"
+    }
+  },
+  {
+    "id": "G817",
+    "model": "G817",
+    "category": "Gamepad",
+    "name": "G817 HOARAH — Mobile Game Controller, Hall Effect",
+    "images": [
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/6950376728463.jpg?v=1740120100",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/bbfddfbbfddf.jpg?v=1740120100",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/saccsasac.jpg?v=1740120100",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/bgdfdfnndfdfn.jpg?v=1740120100",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/bcvbcvbvccbv.jpg?v=1740120100"
+    ],
+    "has_image": true,
+    "features": [
+      "Hall Effect linear triggers for ultra-precise control",
+      "Multiple vibration motors for immersive haptics",
+      "USB-C wired and Bluetooth wireless connection",
+      "Ultra-compact 188mm, only ~5g added weight",
+      "Android and iPhone 15+ compatible"
+    ],
+    "specifications": {
+      "Triggers": "Hall Effect Linear",
+      "Connectivity": "USB-C / Bluetooth",
+      "Vibration": "Multiple Motors",
+      "Compatibility": "Android / iOS (iPhone 15+)",
+      "Form Factor": "Clip-On Mobile"
+    }
+  },
+  {
+    "id": "S113-KN",
+    "model": "S113-KN",
+    "category": "Combo",
+    "name": "S113 — Mechanical Gaming Keyboard & Mouse Combo, RGB",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/RedragonS113-KN-DEGamingCombo_8.png?v=1749027495",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/RedragonS113-KN-DEGamingCombo_7.png?v=1749028823",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/RedragonS113-KN-DEGamingCombo_6.png?v=1749028823",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/RedragonS113-KN-DEGamingCombo_5.png?v=1749028823",
+      "https://cdn.shopify.com/s/files/1/0655/1289/8735/files/RedragonS113-KN-DEGamingCombo.png?v=1749027495"
+    ],
+    "has_image": true,
+    "features": [
+      "TKL 87-key mechanical keyboard with brown switches",
+      "RGB rainbow backlit with 19 lighting modes",
+      "Ergonomic RGB mouse with 4200 DPI (4 levels)",
+      "N-Key rollover, 12 multimedia keys"
+    ],
+    "specifications": {
+      "Keyboard": "TKL 87-Key, Brown Switch",
+      "Keyboard Backlit": "RGB Rainbow (19 modes)",
+      "Mouse DPI": "1200/2400/3200/4200",
+      "Mouse Buttons": "7 (6 Programmable)",
+      "Connectivity": "USB Wired"
+    }
+  },
+  {
+    "id": "GS513",
+    "model": "GS513",
+    "category": "Speaker",
+    "name": "GS513 RANCH — 2.0 Wired Desktop PC Gaming Speaker",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS513WiredDesktopPCGamingSpeaker_3.png?v=1762462965",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS513WiredDesktopPCGamingSpeaker_1.png?v=1703494898",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS513WiredDesktopPCGamingSpeaker_2.png?v=1703494898",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS513WiredDesktopPCGamingSpeaker_4.png?v=1703494898"
+    ],
+    "has_image": true,
+    "features": [
+      "2.0 channel stereo with full-range driver",
+      "Red LED backlit, Redragon themed",
+      "USB powered + 3.5mm audio",
+      "Compact design, brushed material finish"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Power": "USB Powered",
+      "Audio Input": "3.5mm AUX",
+      "Backlit": "Red LED",
+      "Cable": "~85cm between speakers"
+    }
+  },
+  {
+    "id": "GS520-PRO",
+    "model": "GS520-PRO",
+    "category": "Speaker",
+    "name": "GS520 ANVIL PRO — 2.1 Channel RGB Gaming Speaker + Subwoofer",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS520-PRO2.1ChannelGamingSpeaker_1.png?v=1762463758",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS520-PRO2.1ChannelGamingSpeaker_2.png?v=1713257467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS520-PRORGB2.1ChannelGamingSpeaker_3.jpg?v=1713257467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS520-PRORGB2.1ChannelGamingSpeaker_4.jpg?v=1713257467",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS520-PRORGB2.1ChannelGamingSpeaker_1.jpg?v=1713257467"
+    ],
+    "has_image": true,
+    "features": [
+      "2.1 channel: 4-inch 25W subwoofer + 2x 50mm 10W speakers",
+      "Bluetooth 5.0, USB-A, SD card, 3.5mm AUX, FM radio",
+      "Separate treble and bass control knobs + remote",
+      "2 EQ modes (Game / Music)",
+      "RGB lighting with multiple modes"
+    ],
+    "specifications": {
+      "Channels": "2.1 (Subwoofer + 2 Satellites)",
+      "Total Power": "45W (25W sub + 2x10W)",
+      "Connectivity": "BT 5.0 / USB / SD / AUX / FM",
+      "Backlit": "RGB",
+      "EQ Modes": "Game / Music"
+    }
+  },
+  {
+    "id": "GS522",
+    "model": "GS522",
+    "category": "Speaker",
+    "name": "GS522 RHAPSODY — 2.0 RGB Touch Desktop Speakers",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-rhapsody-gs522-1.jpg?v=1744629490",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-rhapsody-gs522-2.jpg?v=1744629490",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-rhapsody-gs522-3.jpg?v=1744629490",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-rhapsody-gs522-4.jpg?v=1744629490"
+    ],
+    "has_image": true,
+    "features": [
+      "Dual 2-inch full-range drivers, clear stereo sound",
+      "6 customizable RGB lighting modes with touch control",
+      "USB powered + 3.5mm AUX input"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Drivers": "2-inch Full Range",
+      "Power": "USB",
+      "Audio Input": "3.5mm AUX",
+      "Backlit": "RGB (6 modes, touch)"
+    }
+  },
+  {
+    "id": "GS580",
+    "model": "GS580",
+    "category": "Speaker",
+    "name": "GS580 CALLIOPE — 2.0 RGB Desktop Gaming Speakers",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-calliope-gs580-1.jpg?v=1744628478",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-calliope-gs580-5.jpg?v=1744628478",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-calliope-gs580-4.jpg?v=1744628475",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-gaming-redragon-calliope-gs580-3.jpg?v=1744628475"
+    ],
+    "has_image": true,
+    "features": [
+      "Dual 3W drivers for clear stereo",
+      "Dynamic RGB backlighting",
+      "5W x 2.0 channel, 3.5mm AUX"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Power": "5W x 2",
+      "Audio Input": "3.5mm AUX",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GS590",
+    "model": "GS590",
+    "category": "Speaker",
+    "name": "GS590 KAIDAS — Wireless RGB Desktop Speakers, BT 5.0",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonGS590WirelessRGBDesktopSpeakers_2.png?v=1762460306",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonGS590WirelessRGBDesktopSpeakers_1.png?v=1677036505",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/wirelesscomputerspeakers_2.png?v=1677036505",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/wirelesscomputerspeakers_3.png?v=1677036505"
+    ],
+    "has_image": true,
+    "features": [
+      "Bluetooth 5.0 wireless for lossless audio",
+      "2.25-inch driver, 2.0 enhanced stereo",
+      "Ambient RGB light with 3 touch-selectable modes",
+      "In-line control box with headphone jack"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Drivers": "2.25-inch",
+      "Connectivity": "BT 5.0 / AUX / USB",
+      "Backlit": "RGB (3 modes)",
+      "Cable": "~37 inches between speakers"
+    }
+  },
+  {
+    "id": "GS811",
+    "model": "GS811",
+    "category": "Speaker",
+    "name": "GS811 ORCHESTRA — 2.0 Bluetooth RGB Wooden Speakers",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-redragon-orchestra-gs811-2-0-1.webp?v=1744628089",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-redragon-orchestra-gs811-2-0-2.webp?v=1744628089",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/speakers-redragon-orchestra-gs811-2-0-3.webp?v=1744628089"
+    ],
+    "has_image": true,
+    "features": [
+      "Dual 7W speakers with wooden finish",
+      "Bluetooth 5.0 wireless",
+      "Dynamic RGB lighting with multiple modes",
+      "Bass and volume control knobs"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Power": "7W x 2",
+      "Material": "Wood",
+      "Connectivity": "BT 5.0 / AUX / USB",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GS812",
+    "model": "GS812",
+    "category": "Speaker",
+    "name": "GS812 ANDANTE — Wireless RGB Wooden Desktop Speakers",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/WirelessRGBWoodenDesktopSpeakers.png?v=1762459196",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/desktopspeaker_1.png?v=1653881835",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/desktopspeaker_2.png?v=1653881532",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/GS812Speakers.jpg?v=1673335246"
+    ],
+    "has_image": true,
+    "features": [
+      "3-inch bass driver + treble driver x2, full 2.0 stereo",
+      "Bluetooth 5.0 wireless lossless audio",
+      "Individual bass control knob",
+      "Premium wooden cabinet construction"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Drivers": "3-inch Bass + Treble x2",
+      "Power": "5W x 2",
+      "Material": "Wood",
+      "Connectivity": "BT 5.0 / AUX / USB",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GS813",
+    "model": "GS813",
+    "category": "Speaker",
+    "name": "GS813 MOUTHPIECE — Wireless Bluetooth Desktop Speakers",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonGS813WirelessDesktopSpeakers_1.png?v=1762460097",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonGS813WirelessDesktopSpeakers_1.jpg?v=1669362816",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonGS813WirelessDesktopSpeakers_2.jpg?v=1669362815",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonGS813WirelessDesktopSpeakers_3.jpg?v=1669362814"
+    ],
+    "has_image": true,
+    "features": [
+      "3-inch bass driver, 2.0 enhanced stereo",
+      "Bluetooth 5.0 + SD card + USB playback",
+      "Adjustable bass and treble knobs",
+      "Wooden cabinet for warm, natural sound"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Drivers": "3-inch",
+      "Power": "20W Total",
+      "Material": "Wood",
+      "Connectivity": "BT 5.0 / AUX / USB / SD Card"
+    }
+  },
+  {
+    "id": "GS814",
+    "model": "GS814",
+    "category": "Speaker",
+    "name": "GS814 CONNIE — Stereo Desktop Speaker, BT 5.0 + Touch RGB",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS814StereoDesktopSpeaker_1.png?v=1762463090",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS814StereoDesktopSpeaker_2.png?v=1702967433",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS814StereoDesktopSpeaker_5.jpg?v=1702967433",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/files/RedragonGS814StereoDesktopSpeaker_1.jpg?v=1702967433"
+    ],
+    "has_image": true,
+    "features": [
+      "2.5-inch drivers with 4 sound units (bass/treble x2)",
+      "Bluetooth 5.0 + AUX connectivity",
+      "4 touch-control buttons for easy operation",
+      "Dynamic RGB lighting bar with music sync mode"
+    ],
+    "specifications": {
+      "Channels": "2.0 Stereo",
+      "Drivers": "2.5-inch, 4 Units",
+      "Connectivity": "BT 5.0 / AUX",
+      "Backlit": "RGB (4 modes, music sync)",
+      "Controls": "Touch"
+    }
+  },
+  {
+    "id": "GS815",
+    "model": "GS815",
+    "category": "Speaker",
+    "name": "GS815 JANNA — Multi Soundbar for Gaming / TV",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/soundbar-gaming-redragon-janna-gs815-1.jpg?v=1744626026",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/soundbar-gaming-redragon-janna-gs815-2.jpg?v=1744626026",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/soundbar-gaming-redragon-janna-gs815-3.jpg?v=1744626026",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/soundbar-gaming-redragon-janna-gs815-4.jpg?v=1744626026"
+    ],
+    "has_image": true,
+    "features": [
+      "60W total power with 85dB SNR",
+      "Bluetooth 5.0, HDMI, Optical, AUX, COAXIAL",
+      "2 built-in subwoofers for deep bass",
+      "Sleek soundbar design for gaming desk or TV"
+    ],
+    "specifications": {
+      "Type": "Soundbar",
+      "Power": "60W Total",
+      "SNR": "85dB",
+      "Subwoofers": "2 Built-In",
+      "Connectivity": "BT 5.0 / HDMI / Optical / AUX / COAXIAL"
+    }
+  },
+  {
+    "id": "GM89",
+    "model": "GM89",
+    "category": "Accessories",
+    "name": "GM89 PLAX — Clip-On Lavalier USB RGB Microphone",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-redragon-gm89-usb-rgb-desktop-1.jpg?v=1744907459",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-redragon-gm89-usb-rgb-desktop-2.jpg?v=1744907459",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-redragon-gm89-usb-rgb-desktop-3.jpg?v=1744907459",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-redragon-gm89-usb-rgb-desktop-4.jpg?v=1744907459"
+    ],
+    "has_image": true,
+    "features": [
+      "Omnidirectional condenser capsule",
+      "USB connection with RGB lighting",
+      "Clip-on lavalier design"
+    ],
+    "specifications": {
+      "Type": "Condenser Lavalier",
+      "Pattern": "Omnidirectional",
+      "Connectivity": "USB",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GM211",
+    "model": "GM211",
+    "category": "Accessories",
+    "name": "GM211 NEBULA — USB Streaming Microphone",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm211-usb-1.webp?v=1744907309"
+    ],
+    "has_image": true,
+    "features": [
+      "Cardioid pickup pattern",
+      "RGB customizable lighting",
+      "USB plug-and-play"
+    ],
+    "specifications": {
+      "Type": "Condenser",
+      "Pattern": "Cardioid",
+      "Connectivity": "USB",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GM212",
+    "model": "GM212",
+    "category": "Accessories",
+    "name": "GM212 ADNE — RGB Streaming Microphone with Pop Filter, Type-C",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-adne-gm212-rgb-pop-filter-type-c-1.webp?v=1744907003",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-adne-gm212-rgb-pop-filter-type-c-2.webp?v=1744907011",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-adne-gm212-rgb-pop-filter-type-c-3.webp?v=1744907021",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-adne-gm212-rgb-pop-filter-type-c-4.webp?v=1744907030"
+    ],
+    "has_image": true,
+    "features": [
+      "Cardioid pickup with built-in pop filter",
+      "Type-C connection",
+      "RGB customizable lighting"
+    ],
+    "specifications": {
+      "Type": "Condenser",
+      "Pattern": "Cardioid",
+      "Connectivity": "Type-C",
+      "Pop Filter": "Built-In",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GM300",
+    "model": "GM300",
+    "category": "Accessories",
+    "name": "GM300 BLAZAR — USB Gaming Stream Microphone",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-blazar-gm300-usb-1.webp?v=1744904697",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-blazar-gm300-usb-2.webp?v=1744904697",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-blazar-gm300-usb-3.webp?v=1744904697",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-blazar-gm300-usb-4.webp?v=1744904697"
+    ],
+    "has_image": true,
+    "features": [
+      "Cardioid pickup for focused audio",
+      "USB plug-and-play",
+      "Sturdy desktop stand included"
+    ],
+    "specifications": {
+      "Type": "Condenser",
+      "Pattern": "Cardioid",
+      "Connectivity": "USB"
+    }
+  },
+  {
+    "id": "GM301",
+    "model": "GM301",
+    "category": "Accessories",
+    "name": "GM301 FENRIS — USB Streaming Microphone",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-fenris-gm301-usb-1.webp?v=1744906822",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-fenris-gm301-usb-2.webp?v=1744906830",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-fenris-gm301-usb-3.webp?v=1744906840",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-fenris-gm301-usb-4.webp?v=1744906849"
+    ],
+    "has_image": true,
+    "features": [
+      "Touch-sensitive mute button",
+      "RGB customizable lighting",
+      "USB connection"
+    ],
+    "specifications": {
+      "Type": "Condenser",
+      "Pattern": "Cardioid",
+      "Connectivity": "USB",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GM305",
+    "model": "GM305",
+    "category": "Accessories",
+    "name": "GM305 ECHOWAVE — RGB Dynamic Gaming Microphone",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-echowave-gm305-rgb-usb-3.webp?v=1744905350",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-echowave-gm305-rgb-usb-2.webp?v=1744905350",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-gaming-redragon-echowave-gm305-rgb-usb-1.webp?v=1744905350"
+    ],
+    "has_image": true,
+    "features": [
+      "Cardioid + Omnidirectional dual pickup",
+      "Dynamic RGB light effects",
+      "USB connection"
+    ],
+    "specifications": {
+      "Type": "Condenser",
+      "Pattern": "Cardioid / Omni",
+      "Connectivity": "USB",
+      "Backlit": "RGB"
+    }
+  },
+  {
+    "id": "GM306",
+    "model": "GM306",
+    "category": "Accessories",
+    "name": "GM306 — USB Streaming Microphone, Dual Pickup",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm306-usb-4.webp?v=1744904924",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm306-usb-3.webp?v=1744904933",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm306-usb-2.webp?v=1744904942",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/microphone-streaming-redragon-gm306-usb-1.webp?v=1744904955"
+    ],
+    "has_image": true,
+    "features": [
+      "Omnidirectional + Cardioid dual modes",
+      "USB plug-and-play",
+      "Professional-grade audio quality"
+    ],
+    "specifications": {
+      "Type": "Condenser",
+      "Pattern": "Omni / Cardioid",
+      "Connectivity": "USB"
+    }
+  },
+  {
+    "id": "GW600",
+    "model": "GW600",
+    "category": "Accessories",
+    "name": "GW600 SKYWALK — 720P HD Webcam, Dual Microphone",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragon720pwebcam_1.png?v=1762457661",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragon720pwebcam_2.png?v=1595408974",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamredragon.png?v=1595409019"
+    ],
+    "has_image": true,
+    "features": [
+      "720P HD with fix-focus and light correction",
+      "Dual MEMS stereo microphones",
+      "360° horizontal rotation",
+      "USB plug-and-play"
+    ],
+    "specifications": {
+      "Resolution": "720P HD",
+      "FPS": "30",
+      "Microphone": "Dual MEMS Stereo",
+      "Rotation": "360° Horizontal",
+      "Connectivity": "USB 2.0"
+    }
+  },
+  {
+    "id": "GW800",
+    "model": "GW800",
+    "category": "Accessories",
+    "name": "GW800 HITMAN — 1080P Full HD Webcam, Dual Mic",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamforlaptop.png?v=1762457660",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/1080pwebcam.png?v=1657522700",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamcamera.png?v=1657522700",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/webcamforpc.png?v=1621504319"
+    ],
+    "has_image": true,
+    "features": [
+      "1080P Full HD with light correction",
+      "Dual stereo microphones",
+      "360° horizontal + 90° vertical rotation",
+      "USB plug-and-play"
+    ],
+    "specifications": {
+      "Resolution": "1080P Full HD",
+      "FPS": "30",
+      "Microphone": "Dual Stereo",
+      "Rotation": "360° H + 90° V",
+      "Connectivity": "USB 2.0"
+    }
+  },
+  {
+    "id": "GW801",
+    "model": "GW801",
+    "category": "Accessories",
+    "name": "GW801 HITMAN PLUS — 1080P 60FPS Streaming Webcam",
+    "images": [
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/6950376727497_14d149d2-74bf-4401-a416-af0070bf65ff.jpg?v=1744602677",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/2_3_34facf80-c4e9-4b86-9e75-6fb77ed39c84.jpg?v=1744602677",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/3_2_ae956e1c-b7c1-4e0b-8f96-6c5dcf546ee8.jpg?v=1744602677",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/4_2_319726af-eaf5-4586-9739-57a0b58c337c.jpg?v=1744602677"
+    ],
+    "has_image": true,
+    "features": [
+      "1080P Full HD at 60 FPS",
+      "Fixed focus, clip-on stand",
+      "Built-in microphone",
+      "Auto saturation/contrast/white balance"
+    ],
+    "specifications": {
+      "Resolution": "1080P Full HD",
+      "FPS": "60",
+      "Focus": "Fixed",
+      "Microphone": "Built-In",
+      "Connectivity": "USB"
+    }
+  },
+  {
+    "id": "GW910",
+    "model": "GW910",
+    "category": "Accessories",
+    "name": "GW910 ONESHOT — 1080P Webcam with Adjustable Ring Light",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/PCWebcam_2.png?v=1759439346",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/PCWebcam_1.png?v=1656403377"
+    ],
+    "has_image": true,
+    "features": [
+      "1080P HD with fix-focus",
+      "3-level adjustable ring light (touch control)",
+      "Dual stereo microphones",
+      "Auto-focus for professional streaming"
+    ],
+    "specifications": {
+      "Resolution": "1080P Full HD",
+      "FPS": "30",
+      "Ring Light": "3-Level Adjustable",
+      "Microphone": "Dual Stereo",
+      "Connectivity": "USB"
+    }
+  },
+  {
+    "id": "GA-200",
+    "model": "GA-200",
+    "category": "Accessories",
+    "name": "GA-200 ERIS — Keyboard & Mouse Console Converter",
+    "images": [
+      "https://igeekjo.com/cdn/shop/files/GA-200-4_450x450_7059e7f4-660c-49c5-9729-f7fe69424f58.png?v=1726148152",
+      "https://igeekjo.com/cdn/shop/files/GA-200-3_450x450_f5eba0c0-043f-4265-844f-bb56bfeccba8.png?v=1726148153",
+      "https://igeekjo.com/cdn/shop/files/GA-200-2_450x450_18a4c0bc-d1ee-40b7-82e6-0e7794ec58c4.png?v=1726148152",
+      "https://igeekjo.com/cdn/shop/files/GA200-1_450x450_9f36419a-27f9-4084-b7e9-8c261f5c6232.png?v=1726148153"
+    ],
+    "has_image": true,
+    "features": [
+      "Keyboard/mouse emulation for consoles via Katana chip",
+      "Compatible with PS3/PS4, Xbox One, Nintendo Switch",
+      "Supports all Redragon peripherals + 100% third-party",
+      "Plug-and-play, no drivers needed"
+    ],
+    "specifications": {
+      "Compatibility": "PS3 / PS4 / Xbox One / Switch",
+      "Connection": "USB",
+      "Chip": "Katana",
+      "Plug & Play": "Yes"
+    }
+  },
+  {
+    "id": "GA250",
+    "model": "GA250",
+    "category": "Accessories",
+    "name": "GA250 VULCAN — Keyboard & Mouse Console Adapter",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonkeyboardandmouseconverter_1.png?v=1759439237",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonkeyboardandmouseconverter_2.png?v=1597737912",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonkeyboardandmouseconverter_3.png?v=1597737912",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonkeyboardandmouseconverter_4.png?v=1597737912"
+    ],
+    "has_image": true,
+    "features": [
+      "Multi-platform: PS3/4, Xbox One, Nintendo Switch",
+      "Plug-and-play, no driver needed",
+      "Engineered for FPS gamers"
+    ],
+    "specifications": {
+      "Compatibility": "PS3 / PS4 / Xbox One / Switch",
+      "Connection": "USB",
+      "Plug & Play": "Yes"
+    }
+  },
+  {
+    "id": "UCA-4",
+    "model": "UCA-4",
+    "category": "Accessories",
+    "name": "UCA-4 — 4-Port USB-C Hub with 4K HDMI",
+    "images": [
+      "https://www.blink.com.kw/cdn/shop/files/Redragon_UCA_4-Port_USB-C_Hub_-_Black.png?v=1746595584",
+      "https://www.blink.com.kw/cdn/shop/files/6_f79f6faa-ec2f-4648-ad28-c195c22834b6.png?v=1746604280",
+      "https://www.blink.com.kw/cdn/shop/files/2_9f8fa5ac-5f19-40d3-b498-8abc15cdcd60.png?v=1746604280",
+      "https://www.blink.com.kw/cdn/shop/files/3_c8d8b9c1-14fe-4139-b5df-fa35cfaa24fe.png?v=1746604280"
+    ],
+    "has_image": true,
+    "features": [
+      "4K HDMI output at 60Hz",
+      "Two USB-A 3.0 ports (5 Gbps)",
+      "USB-C PD pass-through",
+      "Compact portable design"
+    ],
+    "specifications": {
+      "HDMI": "4K @ 60Hz",
+      "USB-A": "2x USB 3.0 (5 Gbps)",
+      "USB-C": "PD Pass-Through",
+      "Input": "USB-C"
+    }
+  },
+  {
+    "id": "P003",
+    "model": "P003",
+    "category": "Accessories",
+    "name": "P003 — Gaming Mouse Pad, Stitched Edges",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/55-100-400_01.png?v=1759439076",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/55-100-400_05.png?v=1546077057",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/55-100-400_02.png?v=1546077071"
+    ],
+    "has_image": true,
+    "features": [
+      "Waterproof surface",
+      "Non-slip silicone base",
+      "Stitched edges for durability"
+    ],
+    "specifications": {
+      "Material": "Cloth + Rubber Base",
+      "Edges": "Stitched",
+      "Waterproof": "Yes"
+    }
+  },
+  {
+    "id": "P012",
+    "model": "P012",
+    "category": "Accessories",
+    "name": "P012 CAPRICORN — Gaming Mouse Pad",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragonp012.png?v=1762457084",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/redragoncapricornp012mousepad.png?v=1615890561"
+    ],
+    "has_image": true,
+    "features": [
+      "Premium-textured surface",
+      "Non-slip rubber base",
+      "Stitched edges"
+    ],
+    "specifications": {
+      "Material": "Cloth + Rubber Base",
+      "Edges": "Stitched"
+    }
+  },
+  {
+    "id": "P016",
+    "model": "P016",
+    "category": "Accessories",
+    "name": "P016 PISCES — Gaming Mouse Pad (Medium)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-pisces-p016-m-1.webp?v=1744901592",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-pisces-p016-m-2.webp?v=1744901592",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-pisces-p016-m-3.webp?v=1744901592"
+    ],
+    "has_image": true,
+    "features": [
+      "Smooth lycra surface",
+      "Anti-slip rubber base",
+      "Medium size"
+    ],
+    "specifications": {
+      "Size": "Medium",
+      "Material": "Lycra + Rubber"
+    }
+  },
+  {
+    "id": "P018",
+    "model": "P018",
+    "category": "Accessories",
+    "name": "P018 TAURUS — XXXL Extended Thick Waterproof Mouse Pad",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-pluto-p018-extended-thick-waterproof-xl-1.jpg?v=1744901424",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-pluto-p018-extended-thick-waterproof-xl-2.webp?v=1744901424",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-pluto-p018-extended-thick-waterproof-xl-3.webp?v=1744901424"
+    ],
+    "has_image": true,
+    "features": [
+      "XXXL extended size",
+      "Thick waterproof surface",
+      "Anti-slip base"
+    ],
+    "specifications": {
+      "Size": "XXXL Extended",
+      "Material": "Cloth + Rubber",
+      "Waterproof": "Yes"
+    }
+  },
+  {
+    "id": "P022",
+    "model": "P022",
+    "category": "Accessories",
+    "name": "P022 — Keyboard Memory Foam Wrist Rest",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-wrist-rest-redragon-p022-memory-foam-1.webp?v=1744901047",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-wrist-rest-redragon-p022-memory-foam-7.webp?v=1744901047",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-wrist-rest-redragon-p022-memory-foam-2.webp?v=1744901047"
+    ],
+    "has_image": true,
+    "features": [
+      "Memory foam cushion for ergonomic support",
+      "Anti-slip rubber base",
+      "Full-size keyboard compatible"
+    ],
+    "specifications": {
+      "Material": "Memory Foam",
+      "Size": "Full-Size",
+      "Base": "Anti-Slip Rubber"
+    }
+  },
+  {
+    "id": "P032",
+    "model": "P032",
+    "category": "Accessories",
+    "name": "P032 FLICK XL — Extended Gaming Mouse Pad (900x400mm)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-flick-p032-extended-xl-1.jpg?v=1744897177",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-flick-p032-extended-xl-5.jpg?v=1744897177",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-flick-p032-extended-xl-2.jpg?v=1744897177"
+    ],
+    "has_image": true,
+    "features": [
+      "Extra-large 900 x 400 x 4mm",
+      "Smooth surface for precision tracking",
+      "Non-slip rubber base"
+    ],
+    "specifications": {
+      "Size": "900 x 400 x 4mm",
+      "Material": "Cloth + Rubber"
+    }
+  },
+  {
+    "id": "P033",
+    "model": "P033",
+    "category": "Accessories",
+    "name": "P033 NEPTUNE — RGB LED Extended Gaming Mouse Pad (XL)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-neptune-p033-rgb-extended-xl-1.png?v=1744896992",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-neptune-p033-rgb-extended-xl-3.jpg?v=1744896992",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-pad-gaming-redragon-neptune-p033-rgb-extended-xl-2.png?v=1744896992"
+    ],
+    "has_image": true,
+    "features": [
+      "RGB LED edge lighting",
+      "XL extended size",
+      "Non-slip rubber base",
+      "Stitched edges"
+    ],
+    "specifications": {
+      "Size": "XL Extended",
+      "Material": "Cloth + Rubber",
+      "Backlit": "RGB LED Edge"
+    }
+  },
+  {
+    "id": "P036",
+    "model": "P036",
+    "category": "Accessories",
+    "name": "P036 METEOR S — 60% Keyboard Memory Foam Wrist Rest",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-wrist-rest-redragon-meteor-s-p036-60-memory-foam-1.webp?v=1744900313",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-wrist-rest-redragon-meteor-s-p036-60-memory-foam-2.webp?v=1744900328",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-wrist-rest-redragon-meteor-s-p036-60-memory-foam-3.webp?v=1744900373"
+    ],
+    "has_image": true,
+    "features": [
+      "Memory foam for 60% compact keyboards",
+      "Ergonomic soft cushion",
+      "Anti-slip base"
+    ],
+    "specifications": {
+      "Material": "Memory Foam",
+      "Size": "60% Keyboard",
+      "Base": "Anti-Slip Rubber"
+    }
+  },
+  {
+    "id": "A101",
+    "model": "A101",
+    "category": "Accessories",
+    "name": "A101 — Replacement Keycaps, 104 Keys + Puller",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_01.jpg?v=1696849636",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_02.jpg?v=1696849636",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_03.jpg?v=1696849636",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A101_04.jpg?v=1696849636"
+    ],
+    "has_image": true,
+    "features": [
+      "104-key full ANSI layout set",
+      "Double-shot ABS, backlighting compatible",
+      "Cherry MX compatible stems",
+      "Includes keycap puller"
+    ],
+    "specifications": {
+      "Keys": "104",
+      "Material": "Double-Shot ABS",
+      "Compatibility": "Cherry MX / Kailh / Gateron / Outemu",
+      "Layout": "ANSI US"
+    }
+  },
+  {
+    "id": "A106",
+    "model": "A106",
+    "category": "Accessories",
+    "name": "A106 — Steampunk Typewriter Retro Keycaps, 104 Keys",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-A106_01.jpg?v=1696850689",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Redragon-A106_02.jpg?v=1696850689"
+    ],
+    "has_image": true,
+    "features": [
+      "Vintage round steampunk typewriter style",
+      "Double-shot ABS, backlight compatible",
+      "Floating-key design",
+      "104-key ANSI layout"
+    ],
+    "specifications": {
+      "Keys": "104",
+      "Material": "Double-Shot ABS",
+      "Style": "Steampunk Round",
+      "Layout": "ANSI US"
+    }
+  },
+  {
+    "id": "A111",
+    "model": "A111",
+    "category": "Accessories",
+    "name": "A111 — Black Pudding PBT Keycaps, 104 Keys",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A111_01.jpg",
+      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/REDRAGON-A111_02.jpg"
+    ],
+    "has_image": true,
+    "features": [
+      "Doubleshot PBT for durability",
+      "Translucent pudding layer for RGB glow",
+      "Standard OEM profile",
+      "104-key ANSI layout"
+    ],
+    "specifications": {
+      "Keys": "104",
+      "Material": "Doubleshot PBT",
+      "Style": "Pudding (Translucent)",
+      "Layout": "ANSI US"
+    }
+  },
+  {
+    "id": "A113R",
+    "model": "A113R",
+    "category": "Accessories",
+    "name": "A113 BULLET-R — Linear Mechanical Switches (24 pcs)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonA113Bullet-QTSoftTactileMechanicalSwitch_1.jpg?v=1762459037",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonA113Bullet-QTSoftTactileMechanicalSwitch_3.jpg?v=1652085544",
+      "https://cdn.shopify.com/s/files/1/0012/4957/4961/products/RedragonA113Bullet-QTSoftTactileMechanicalSwitch_2.jpg?v=1652085544"
+    ],
+    "has_image": true,
+    "features": [
+      "24-piece switch set for DIY enthusiasts",
+      "3-pin Cherry MX compatible",
+      "Hot-swappable, no soldering needed"
+    ],
+    "specifications": {
+      "Type": "Linear (Red equivalent)",
+      "Pins": "3-Pin",
+      "Quantity": "24 pcs",
+      "Compatibility": "Cherry MX Hot-Swap"
+    }
+  },
+  {
+    "id": "A115B",
+    "model": "A115B",
+    "category": "Accessories",
+    "name": "A115B — Type-C Coiled Aviator Keyboard Cable (Black)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115b-type-c-coiled-aviator-black-1.jpg?v=1745145149",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115b-type-c-coiled-aviator-black-6.jpg?v=1745145149",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115b-type-c-coiled-aviator-black-2.jpg?v=1745145149",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115b-type-c-coiled-aviator-black-3.jpg?v=1745145149"
+    ],
+    "has_image": true,
+    "features": [
+      "Coiled spring design with aviator connector",
+      "Type-C to USB-A",
+      "Premium braided cable"
+    ],
+    "specifications": {
+      "Connector": "USB-C to USB-A",
+      "Style": "Coiled Aviator",
+      "Color": "Black"
+    }
+  },
+  {
+    "id": "A115W",
+    "model": "A115W",
+    "category": "Accessories",
+    "name": "A115W — Type-C Coiled Aviator Keyboard Cable (White)",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115w-type-c-coiled-aviator-white-1.jpg?v=1745144786",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115w-type-c-coiled-aviator-white-3.jpg?v=1745144786",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115w-type-c-coiled-aviator-white-6.jpg?v=1745144786",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/keyboard-cable-redragon-a115w-type-c-coiled-aviator-white-4.jpg?v=1745144786"
+    ],
+    "has_image": true,
+    "features": [
+      "Coiled spring design with aviator connector",
+      "Type-C to USB-A",
+      "Premium braided cable"
+    ],
+    "specifications": {
+      "Connector": "USB-C to USB-A",
+      "Style": "Coiled Aviator",
+      "Color": "White"
+    }
+  },
+  {
+    "id": "MA301",
+    "model": "MA301",
+    "category": "Accessories",
+    "name": "MA301 HODER — Gaming Mouse Cable Bungee",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-bungee-gaming-redragon-hoder-ma301-2.webp?v=1745145526",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-bungee-gaming-redragon-hoder-ma301-1.webp?v=1745145526",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-bungee-gaming-redragon-hoder-ma301-4.webp?v=1745145526",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/mouse-bungee-gaming-redragon-hoder-ma301-3.webp?v=1745145526"
+    ],
+    "has_image": true,
+    "features": [
+      "Flexible spring arm holds cable overhead",
+      "Weighted non-slip base",
+      "Eliminates cable drag for precision gaming"
+    ],
+    "specifications": {
+      "Type": "Mouse Cable Bungee",
+      "Base": "Weighted Non-Slip",
+      "Color": "Black"
+    }
+  },
+  {
+    "id": "HA300",
+    "model": "HA300",
+    "category": "Accessories",
+    "name": "HA300 SCEPTER PRO — RGB Headset Stand, Aluminum",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-stand-gaming-redragon-scepter-pro-ha300-rgb-1.webp?v=1745145746",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-stand-gaming-redragon-scepter-pro-ha300-rgb-2.webp?v=1745145746",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-stand-gaming-redragon-scepter-pro-ha300-rgb-4.webp?v=1745145746",
+      "https://cdn.shopify.com/s/files/1/0909/9231/2630/files/headset-stand-gaming-redragon-scepter-pro-ha300-rgb-3.webp?v=1745145746"
+    ],
+    "has_image": true,
+    "features": [
+      "Aluminum alloy premium construction",
+      "RGB backlit base",
+      "Non-slip silicone padding",
+      "Weighted base for stability"
+    ],
+    "specifications": {
+      "Material": "Aluminum Alloy",
+      "Backlit": "RGB",
+      "Base": "Weighted, Non-Slip"
+    }
   }
 ]
