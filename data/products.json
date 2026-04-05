@@ -5798,11 +5798,7 @@
     "category": "Headset",
     "name": "H210 MINOS — Virtual 7.1 USB Gaming Headset, RGB",
     "images": [
-      "https://redragonadria.com/wp-content/uploads/2021/03/H210-1.jpg",
-      "https://redragonadria.com/wp-content/uploads/2021/03/H210-2.jpg",
-      "https://redragonadria.com/wp-content/uploads/2021/03/H210-5.jpg",
-      "https://redragonadria.com/wp-content/uploads/2021/03/H210-6.jpg",
-      "https://redragonadria.com/wp-content/uploads/2021/03/H210-7.jpg"
+      "H210_clean.png"
     ],
     "has_image": true,
     "features": [
@@ -5828,10 +5824,7 @@
     "category": "Headset",
     "name": "H280 MEDEA — RGB Stereo Gaming Headset",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_01.jpg?v=1696681576",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_02.jpg?v=1696681577",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_03.jpg?v=1696681578",
-      "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/H280_04.jpg?v=1696681577"
+      "H280_clean.png"
     ],
     "has_image": true,
     "features": [
